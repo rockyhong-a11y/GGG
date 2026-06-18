@@ -22,14 +22,14 @@
       },
       {
         "name": "GameDetails",
-        "added": 1
+        "added": 0
       }
     ],
     "counts": {
       "total": 609,
       "curated": 32,
       "collected": 620,
-      "news": 99
+      "news": 98
     }
   },
   "games": [
@@ -26870,9 +26870,594 @@
   ],
   "news": [
     {
+      "id": "ruliweb-2356302",
+      "title": "DJMAX 리스펙트 V - V LIBERTY 5 DLC 트레일러, 작곡가...",
+      "url": "https://bbs.ruliweb.com/news/board/1001/read/2356302?",
+      "source": "루리웹",
+      "date": "2026.06.18",
+      "image": "https://img.youtube.com/vi/ypbwQwJh4Qg/hqdefault.jpg",
+      "summary": "DJMAX RESPECT V V LIBERTY 5 DLC PACK Trailer End of Verse DLC 발매 정보 KR 발매일 2026년 6월 26일 금 오후 12시 이후 스토어 사정에 의해 노출 시간이 일부 상이할 수 있습니다 가격 29 800원 구매 특전 V LIBERTY 5",
+      "time": "21:04",
+      "author": "이토 시즈카",
+      "content": [
+        {
+          "t": "yt",
+          "v": "ypbwQwJh4Qg"
+        },
+        {
+          "t": "p",
+          "v": "DJMAX RESPECT V | V LIBERTY 5 DLC PACK Trailer"
+        },
+        {
+          "t": "p",
+          "v": "\"End of Verse\""
+        },
+        {
+          "t": "p",
+          "v": "[DLC 발매 정보 - KR]"
+        },
+        {
+          "t": "p",
+          "v": "▶ 발매일: 2026년 6월 26일(금) 오후 12시 이후"
+        },
+        {
+          "t": "p",
+          "v": "※ 스토어 사정에 의해 노출 시간이 일부 상이할 수 있습니다."
+        },
+        {
+          "t": "p",
+          "v": "▶ 가격: 29,800원"
+        },
+        {
+          "t": "p",
+          "v": "▶ 구매 특전: V LIBERTY 5 기어/노트 스킨, V LIBERTY 5 UI 스킨"
+        },
+        {
+          "t": "p",
+          "v": "▶ TRACK LIST"
+        },
+        {
+          "t": "p",
+          "v": "Aria (feat. DIEIN) by Miiro"
+        },
+        {
+          "t": "p",
+          "v": "RE;DIEIN by HAYAKO"
+        },
+        {
+          "t": "p",
+          "v": "EverDreams (feat. saewool) by NieN x seibin"
+        },
+        {
+          "t": "p",
+          "v": "BORDERLINE by Pure 100% x Aden K."
+        },
+        {
+          "t": "p",
+          "v": "Summer Ride (feat. chomin, Funtwo) by ned"
+        },
+        {
+          "t": "p",
+          "v": "Second Light (feat. Ahn Yeonjae) by INFX"
+        },
+        {
+          "t": "p",
+          "v": "A Rainbow In The Sky (feat. eili) by Takahiro Eguchi"
+        },
+        {
+          "t": "p",
+          "v": "미래소녀 (feat. 혜지) by Sofu"
+        },
+        {
+          "t": "p",
+          "v": "흑사자 by PahNic x 판구리"
+        },
+        {
+          "t": "p",
+          "v": "That Girl (feat. Bira) by SOPHI"
+        },
+        {
+          "t": "p",
+          "v": "Break The Chains (feat. Re.may) by Mr.Funky"
+        },
+        {
+          "t": "p",
+          "v": "Cosmo (feat. Letsu) by VOLTA"
+        },
+        {
+          "t": "p",
+          "v": "Dreamscape by GhostFinal"
+        },
+        {
+          "t": "p",
+          "v": "Stardust Lullaby (feat. Kinoko) by Haloweak"
+        },
+        {
+          "t": "p",
+          "v": "Final Lap by MAR VISTA x HE KIM"
+        },
+        {
+          "t": "p",
+          "v": "Rebound Alpha by Rephyz x VoidRover"
+        },
+        {
+          "t": "p",
+          "v": "Proliferation by Chopil"
+        },
+        {
+          "t": "p",
+          "v": "Touch The Sky by Casepeat"
+        },
+        {
+          "t": "p",
+          "v": "Sleipnir by XeoN + 7SEQ"
+        },
+        {
+          "t": "p",
+          "v": "PPPP (feat. Hatsune Miku, Kasane Teto) by TAK"
+        },
+        {
+          "t": "p",
+          "v": "V LINK 4 - ??? by ???"
+        },
+        {
+          "t": "yt",
+          "v": "mhgsSSVNMgQ"
+        },
+        {
+          "t": "p",
+          "v": "V LIBERTY 5 Composer Line-up"
+        },
+        {
+          "t": "p",
+          "v": "\"End of Verse\""
+        },
+        {
+          "t": "p",
+          "v": "V LIBERTY 5 에 참여한 작곡가를 확인하고 음원 하이라이트를 들어보세요!"
+        },
+        {
+          "t": "p",
+          "v": "Check out the artists and track highlights of V LIBERTY 5 DLC in this video."
+        }
+      ],
+      "comments": 0
+    },
+    {
+      "id": "ruliweb-2356301",
+      "title": "파이널 판타지 X, 25주년 신규 일러스트",
+      "url": "https://bbs.ruliweb.com/news/board/1001/read/2356301?",
+      "source": "루리웹",
+      "date": "2026.06.18",
+      "image": "https://i1.ruliweb.com/ori/26/06/18/19eda9b62b3137dbd.webp",
+      "summary": "일러스트를 사용한 굿즈도 개발 중",
+      "time": "21:01",
+      "author": "이토 시즈카",
+      "content": [
+        {
+          "t": "img",
+          "v": "https://i1.ruliweb.com/img/26/06/18/19eda9b62b3137dbd.webp"
+        },
+        {
+          "t": "p",
+          "v": "일러스트를 사용한 굿즈도 개발 중"
+        }
+      ],
+      "comments": 7,
+      "topComments": [
+        {
+          "nick": "무과금입니다",
+          "text": "추억팔이 할거면 빨빨리 하든가 조만간 환갑이다 이 ㅅㄱ들아",
+          "like": 8
+        },
+        {
+          "nick": "세기말의쎄자",
+          "text": "무과금입니다",
+          "like": 2
+        },
+        {
+          "nick": "hogorang",
+          "text": "40되기전에 리메이크 한반만...",
+          "like": 2
+        },
+        {
+          "nick": "사기꾼꺼져",
+          "text": "그냥 이것저것 내용 덧붙이지말고 적당하게 리메이크 하자 ps5용 파판10 리마스터 한번더 내고 자금 마련해라 사준다",
+          "like": 0
+        },
+        {
+          "nick": "rusioj",
+          "text": "레벨제 도입해서 리메이크 한번 가자",
+          "like": 0
+        },
+        {
+          "nick": "말리스미제르",
+          "text": "파판 10은 누가 뽑더라도 역대 파판 명작 순위에는 무조건 들어갈 듯.",
+          "like": 1
+        },
+        {
+          "nick": "Quadratum",
+          "text": "한 30주년은 되어야 리메이크 나올까...",
+          "like": 0
+        },
+        {
+          "nick": "푸댕댕",
+          "text": "파판10이 인생작중 하나인데 21살때 플스2사고 싱글벙글 기쁜마음으로 일어로 된 공략집 봐가면서 했던게 어느덧 25주년이라니 ㅠ 아이고 삭신이야",
+          "like": 1
+        }
+      ]
+    },
+    {
+      "id": "ruliweb-2356300",
+      "title": "원신｜「여덟 번째 달」 버전 특별 방송 21시 시작, 리딤 코드",
+      "url": "https://bbs.ruliweb.com/news/board/1001/read/2356300?",
+      "source": "루리웹",
+      "date": "2026.06.18",
+      "image": "https://i1.ruliweb.com/ori/26/06/18/19edab07e28137dbd.webp",
+      "summary": "여행자 안녕 이번 특별 방송에선 신규 버전의 게임 콘텐츠와 최신 소식을 소개할 거야 방송 중에 리딤코드 등 혜택도 있다구 항상 응원해 줘서 고마워 앞으로도 더 많은 최신 버전 소식을 가져올게 그럼 여행자 방송 때 보자 Marionettehttps genshin hoyoverse com ",
+      "time": "20:54",
+      "author": "이토 시즈카",
+      "content": [
+        {
+          "t": "yt",
+          "v": "wXK59hPZ-aM"
+        },
+        {
+          "t": "p",
+          "v": "여행자 안녕!"
+        },
+        {
+          "t": "p",
+          "v": "이번 특별 방송에선 신규 버전의 게임 콘텐츠와 최신 소식을 소개할 거야. 방송 중에 리딤코드 등 혜택도 있다구~!"
+        },
+        {
+          "t": "p",
+          "v": "항상 응원해 줘서 고마워! 앞으로도 더 많은 최신 버전 소식을 가져올게~"
+        },
+        {
+          "t": "p",
+          "v": "그럼 여행자, 방송 때 보자!"
+        },
+        {
+          "t": "img",
+          "v": "https://i3.ruliweb.com/img/26/06/18/19edaaea915137dbd.webp"
+        },
+        {
+          "t": "p",
+          "v": "Marionette"
+        },
+        {
+          "t": "p",
+          "seg": [
+            {
+              "t": "a",
+              "v": "https://genshin.hoyoverse.com/ko/gift?code=Marionette",
+              "l": "https://genshin.hoyoverse.com/ko/gift?code=Marionette"
+            }
+          ]
+        },
+        {
+          "t": "img",
+          "v": "https://i2.ruliweb.com/img/26/06/18/19eda9bfacc137dbd.webp"
+        },
+        {
+          "t": "img",
+          "v": "https://i3.ruliweb.com/img/26/06/18/19eda9da613137dbd.webp"
+        },
+        {
+          "t": "img",
+          "v": "https://i3.ruliweb.com/img/26/06/18/19eda9db23a137dbd.webp"
+        },
+        {
+          "t": "img",
+          "v": "https://i3.ruliweb.com/img/26/06/18/19eda9f6ef8137dbd.webp"
+        },
+        {
+          "t": "img",
+          "v": "https://i1.ruliweb.com/img/26/06/18/19edaa3f8bb137dbd.webp"
+        },
+        {
+          "t": "img",
+          "v": "https://i2.ruliweb.com/img/26/06/18/19edaa63dfe137dbd.webp"
+        },
+        {
+          "t": "img",
+          "v": "https://i2.ruliweb.com/img/26/06/18/19edaa99544137dbd.webp"
+        },
+        {
+          "t": "img",
+          "v": "https://i3.ruliweb.com/img/26/06/18/19edaac5237137dbd.webp"
+        },
+        {
+          "t": "img",
+          "v": "https://i3.ruliweb.com/img/26/06/18/19edaae89bf137dbd.webp"
+        },
+        {
+          "t": "img",
+          "v": "https://i3.ruliweb.com/img/26/06/18/19edaae9606137dbd.webp"
+        },
+        {
+          "t": "img",
+          "v": "https://i3.ruliweb.com/img/26/06/18/19edaae2e96137dbd.webp"
+        },
+        {
+          "t": "img",
+          "v": "https://i2.ruliweb.com/img/26/06/18/19edaae361e137dbd.webp"
+        },
+        {
+          "t": "img",
+          "v": "https://i1.ruliweb.com/img/26/06/18/19edaae3c8a137dbd.webp"
+        },
+        {
+          "t": "img",
+          "v": "https://i2.ruliweb.com/img/26/06/18/19edaae547d137dbd.webp"
+        },
+        {
+          "t": "img",
+          "v": "https://i1.ruliweb.com/img/26/06/18/19edaae5b57137dbd.webp"
+        },
+        {
+          "t": "img",
+          "v": "https://i3.ruliweb.com/img/26/06/18/19edab0131e137dbd.webp"
+        },
+        {
+          "t": "img",
+          "v": "https://i3.ruliweb.com/img/26/06/18/19edab01c22137dbd.webp"
+        },
+        {
+          "t": "img",
+          "v": "https://i1.ruliweb.com/img/26/06/18/19edab07e28137dbd.webp"
+        }
+      ],
+      "comments": 0
+    },
+    {
+      "id": "ruliweb-2356299",
+      "title": "향후 컨트롤 시리즈는 레조넌트의 '성공 여부'에 달려있다",
+      "url": "https://bbs.ruliweb.com/news/board/1001/read/2356299?",
+      "source": "루리웹",
+      "date": "2026.06.18",
+      "image": "https://i1.ruliweb.com/img/26/05/02/19de5c7e09636b93.webp",
+      "summary": "최근 Control Resonant의 아트 디렉터인 엘메리 라이타넨과 만나 Control 시리즈의 미래에 대해 이야기를 나누는 즐거운 시간을 가졌습니다 앞으로 Control 시리즈가 어떤 모습일지 기대되는 이야기들이 많았습니다 대화는 레메디가 Control Resonant를 처음부터 염",
+      "time": "20:43",
+      "author": "스텔라이비",
+      "content": [
+        {
+          "t": "img",
+          "v": "https://i1.ruliweb.com/img/26/05/02/19de5c7e09636b93.webp"
+        },
+        {
+          "t": "p",
+          "v": "최근 Control Resonant의 아트 디렉터인 엘메리 라이타넨과 만나 Control 시리즈의 미래에 대해 이야기를 나누는 즐거운 시간을 가졌습니다. 앞으로 Control 시리즈가 어떤 모습일지 기대되는 이야기들이 많았습니다."
+        },
+        {
+          "t": "p",
+          "v": "대화는 레메디가 Control Resonant를 처음부터 염두에 두고 개발해 왔다는 이야기로 시작되었는데, 제시에서 딜런으로 주인공을 바꾸는 것이 '처음부터 계획되어 있었다'는 것이었습니다."
+        },
+        {
+          "t": "p",
+          "v": "라이테넨은 기대감을 분명히 밝혔습니다."
+        },
+        {
+          "t": "p",
+          "v": "\"그게 항상 계획이었고, 우리가 잘 해내서 컨트롤 세계관에서 더 많은 이야기를 만들 수 있기를 바랍니다 .\""
+        }
+      ],
+      "comments": 3,
+      "topComments": [
+        {
+          "nick": "루리웹-0146012932",
+          "text": "용꼬리™",
+          "like": 2
+        },
+        {
+          "nick": "김현지를 아시나요",
+          "text": "최초공개됐었던 플레이 영상은 확실히 주목할만큼 훌륭해보이긴했다만 얘들은 퀀브 사례가 있어서 마지막까지 방심할 수가 없네 엑원 산 첫번째 이유는 당연히 기오워4였지만 두번째는 퀀브였기에 그 실망감은..",
+          "like": 1
+        },
+        {
+          "nick": "kdawn",
+          "text": "그냥 망하는게 답이다.. 뭔놈의 게임들이 출시할때마다 스토리 꼬아놔서 더 이해하기 어렵게 해놨냐... 딱 엑박시절때가 좋았다.",
+          "like": 2
+        },
+        {
+          "nick": "범블풋",
+          "text": "맨날 똑같은 aaa 게임만 하다 오랫만에 신선해서 좋았음 이런애들이 하나라도 있어야지",
+          "like": 1
+        },
+        {
+          "nick": "세컨양초",
+          "text": "맵을 보고 가면 길을 더 해매게 되는 희안한 게임.",
+          "like": 1
+        }
+      ]
+    },
+    {
+      "id": "ruliweb-2356298",
+      "title": "하늘의 궤적 the 2nd, 교토 재너두 정보 정리 방송",
+      "url": "https://bbs.ruliweb.com/news/board/1001/read/2356298?",
+      "source": "루리웹",
+      "date": "2026.06.18",
+      "image": "https://i3.ruliweb.com/ori/26/06/18/19eda7de678137dbd.webp",
+      "summary": "니혼 팔콤에서 2026년 9월 17일 발매 예정인 하늘의 궤적 the 2nd 와2026년 7월 16일 발매 예정인 교토 재너두 앵화환무 의 최신 정보를 한데 모아 전해 드리는 프로그램입니다 니혼 팔콤 타이틀에 정통한 두 명의 덴게키 스태프와 함께 최신 정보와 이를 통해 알 수 있는 분석",
+      "time": "19:57",
+      "author": "이토 시즈카",
+      "content": [
+        {
+          "t": "yt",
+          "v": "-dkximNR21k"
+        },
+        {
+          "t": "p",
+          "v": "니혼 팔콤에서 2026년 9월 17일 발매 예정인 『하늘의 궤적 the 2nd』와"
+        },
+        {
+          "t": "p",
+          "v": "2026년 7월 16일 발매 예정인 『교토 재너두 -앵화환무-』의 최신 정보를 한데 모아 전해 드리는 프로그램입니다."
+        },
+        {
+          "t": "p",
+          "v": "니혼 팔콤 타이틀에 정통한 두 명의 덴게키 스태프와 함께, 최신 정보와 이를 통해 알 수 있는 분석 포인트 등을 전해 드립니다."
+        },
+        {
+          "t": "p",
+          "v": "※프로그램 내용은 급작스럽게 변경될 수 있습니다."
+        },
+        {
+          "t": "img",
+          "v": "https://i3.ruliweb.com/img/26/06/18/19eda76da5c137dbd.webp"
+        },
+        {
+          "t": "img",
+          "v": "https://i2.ruliweb.com/img/26/06/18/19eda76ecd6137dbd.webp"
+        },
+        {
+          "t": "img",
+          "v": "https://i3.ruliweb.com/img/26/06/18/19eda7de678137dbd.webp"
+        },
+        {
+          "t": "img",
+          "v": "https://i3.ruliweb.com/img/26/06/18/19eda785554137dbd.webp"
+        },
+        {
+          "t": "p",
+          "v": "교토 재너두 실기 영상 공개"
+        },
+        {
+          "t": "p",
+          "v": "전격 스페셜팩의 수영복 DLC 적용 상태"
+        }
+      ],
+      "comments": 0
+    },
+    {
+      "id": "ruliweb-2356297",
+      "title": "프래그마타 다이애나 낙서 슈트 내일 배포 결정",
+      "url": "https://bbs.ruliweb.com/news/board/1001/read/2356297",
+      "source": "루리웹",
+      "date": "2026.06.18",
+      "image": "https://i3.ruliweb.com/ori/26/06/18/19eda609cd0242da.webp",
+      "summary": "체험판 한정이었던 다이애나 낙서 슈트를본편에서도 내일 오전 10시에 배포",
+      "time": "19:54",
+      "author": "nokcha",
+      "content": [
+        {
+          "t": "img",
+          "v": "https://i3.ruliweb.com/img/26/06/18/19eda5ced78242da.webp"
+        },
+        {
+          "t": "img",
+          "v": "https://i3.ruliweb.com/img/26/06/18/19eda609cd0242da.webp"
+        },
+        {
+          "t": "p",
+          "v": "체험판 한정이었던 다이애나 낙서 슈트를"
+        },
+        {
+          "t": "p",
+          "v": "본편에서도 내일 오전 10시에 배포"
+        }
+      ],
+      "comments": 1,
+      "topComments": [
+        {
+          "nick": "샬모시 티라메",
+          "text": "",
+          "like": 3,
+          "best": true,
+          "imgs": [
+            "https://i2.ruliweb.com/cmt/26/06/18/19eda78c0ac14288d.png"
+          ]
+        },
+        {
+          "nick": "0M0)",
+          "text": "맞다 마지막 챕터 아직 안했는데 다시 켜야겠네",
+          "like": 0
+        },
+        {
+          "nick": "ピカチュウ帝国",
+          "text": "어서 다이애나 복장! DLC ~~~",
+          "like": 0
+        },
+        {
+          "nick": "샬모시 티라메",
+          "text": "",
+          "like": 3,
+          "imgs": [
+            "https://i2.ruliweb.com/cmt/26/06/18/19eda78c0ac14288d.png"
+          ]
+        },
+        {
+          "nick": "20121027",
+          "text": "샬모시 티라메",
+          "like": 1
+        },
+        {
+          "nick": "컴퓨터중급",
+          "text": "스위치2로만 해봐서 모르겠는데. 다이애나 불쾌한 골짜기가 좀 있드라 ㅋㅋㅋ 스위치만 그런걸까",
+          "like": 0
+        },
+        {
+          "nick": "SSoWhat",
+          "text": "컴퓨터중급",
+          "like": 2
+        }
+      ]
+    },
+    {
+      "id": "ruliweb-2356295",
+      "title": "메이크스틱 메탈2 출시 예정",
+      "url": "https://bbs.ruliweb.com/news/board/1001/read/2356295?",
+      "source": "루리웹",
+      "date": "2026.06.18",
+      "image": "https://i1.ruliweb.com/ori/26/06/18/19eda5690e34d4df1.webp",
+      "summary": "메이크스틱 메탈2 출시 임박올해 여름에 만나보실 수 있습니다",
+      "time": "19:47",
+      "author": "로메오카이",
+      "content": [
+        {
+          "t": "p",
+          "v": "메이크스틱 메탈2 출시 임박"
+        },
+        {
+          "t": "p",
+          "v": "올해 여름에 만나보실 수 있습니다."
+        },
+        {
+          "t": "img",
+          "v": "https://i3.ruliweb.com/img/26/06/18/19eda568a564d4df1.webp"
+        },
+        {
+          "t": "img",
+          "v": "https://i3.ruliweb.com/img/26/06/18/19eda568f554d4df1.webp"
+        },
+        {
+          "t": "img",
+          "v": "https://i3.ruliweb.com/img/26/06/18/19eda5690564d4df1.webp"
+        },
+        {
+          "t": "img",
+          "v": "https://i1.ruliweb.com/img/26/06/18/19eda5690e34d4df1.webp"
+        }
+      ],
+      "comments": 1,
+      "topComments": [
+        {
+          "nick": "20센치소년",
+          "text": "오 예전 알록달록한 메이크스틱 생각하다 이것보니깐 엄청 고급지네요. 브러쉬드 메탈이 멋지네",
+          "like": 1
+        },
+        {
+          "nick": "루리웹-8398854041",
+          "text": "스파 유저들한테는 팔생각 없나보네",
+          "like": 1
+        }
+      ]
+    },
+    {
       "id": "ruliweb-2356294",
       "title": "NS2 제노블레이드 1 DE 메타크리틱 등재",
-      "url": "https://bbs.ruliweb.com/news/board/1001/read/2356294?",
+      "url": "https://bbs.ruliweb.com/news/board/1001/read/2356294",
       "source": "루리웹",
       "date": "2026.06.18",
       "image": "https://i2.ruliweb.com/ori/26/06/18/19eda4bacb42af81.webp",
@@ -26917,12 +27502,69 @@
           "v": "Nintendo Insider Jun 15, 2026 (80점)"
         }
       ],
-      "comments": 0
+      "comments": 2,
+      "topComments": [
+        {
+          "nick": "개인과개인이개입된게임",
+          "text": "이건 wii가 원작인데...몇번 리마스터 한게 신작보다 점수가 높네~",
+          "like": 6
+        },
+        {
+          "nick": "メ한조ξ",
+          "text": "개인과개인이개입된게임",
+          "like": 0
+        },
+        {
+          "nick": "ピカチュウ帝国",
+          "text": "점수 좋네 ~~~",
+          "like": 6
+        },
+        {
+          "nick": "Appcaster",
+          "text": "탈거 진짜 좋음",
+          "like": 1
+        },
+        {
+          "nick": "죄수번호조아",
+          "text": "탈것 없었을때 그 토나오는 마을 평판 작업이랑 서브퀘스트 어떻게 했을까... ㄷㄷㄷ",
+          "like": 2
+        },
+        {
+          "nick": "김현지를 아시나요",
+          "text": "7월말까지 기다리기 힘들다..",
+          "like": 2
+        },
+        {
+          "nick": "루리웹-8836235704",
+          "text": "스토리 정말 좋아요",
+          "like": 2
+        },
+        {
+          "nick": "죄수번호하나둘셋야!",
+          "text": "위 3D NS NS2 진짜 다양하게 나왔네",
+          "like": 2
+        },
+        {
+          "nick": "メ한조ξ",
+          "text": "죄수번호하나둘셋야!",
+          "like": 0
+        },
+        {
+          "nick": "rusioj",
+          "text": "2는 시스템좀 고쳐서 de같이 나와주면 좋을텐데 아쉽네요",
+          "like": 1
+        },
+        {
+          "nick": "[잇힝]",
+          "text": "용량 아끼기 위해 스위치2에디션 패키지판 나오면 산다..",
+          "like": 0
+        }
+      ]
     },
     {
       "id": "ruliweb-2356293",
       "title": "루나 어비스(Luna Abyss) 출시 한달만에 개발팀 전원 해고",
-      "url": "https://bbs.ruliweb.com/news/board/1001/read/2356293?",
+      "url": "https://bbs.ruliweb.com/news/board/1001/read/2356293",
       "source": "루리웹",
       "date": "2026.06.18",
       "image": "https://i3.ruliweb.com/ori/26/06/18/19eda287a791ee0c3.webp",
@@ -27047,17 +27689,17 @@
           "v": "Kwalee Labs는 더 큰 규모의 Kwalee 퍼블리싱 산하에서 운영되고 있으며, 상업적 부진이 그쪽에서 신속한 대응을 촉발한 것으로 보입니다."
         }
       ],
-      "comments": 2,
+      "comments": 5,
       "topComments": [
         {
           "nick": "미희♡",
           "text": "스팀유저 317명은 좀...",
-          "like": 5
+          "like": 11
         },
         {
           "nick": "폭군80",
           "text": "게임은 좋았으나, 스토리가 너무 난해... 그래두 게임패스 데이원이라 엔딩보긴 했네요",
-          "like": 2
+          "like": 4
         },
         {
           "nick": "겜안분X같네",
@@ -27065,33 +27707,93 @@
           "like": 3
         },
         {
+          "nick": "BoBonga",
+          "text": "겜안분X같네",
+          "like": 2
+        },
+        {
           "nick": "이메누",
           "text": "회사가 이익이 최우선이건만....무슨 예술사업하는 만남의 장소 그런건줄 아나봐. 저런걸 내도 어차피 겜패스에 들어가니까 걍 만들었나본데......걍 이쁘고 총 멋지게 쏘고 재미만 있으면 되는걸 그리 못만드나. 둠 만들어!, 둠! 둠1, 둠2 클래식용을 리메이크 해주면 100만장은 하루만에 다 팔리겠구만.",
-          "like": 5
+          "like": 8
+        },
+        {
+          "nick": "루리웹-4351693756",
+          "text": "요시에탄마리오",
+          "like": 3
+        },
+        {
+          "nick": "미쿠루짱",
+          "text": "시원하게 말아 먹었으니 시원하게 날라가지.",
+          "like": 11
         },
         {
           "nick": "발암난가족",
           "text": "게임이 조금 전체적으로 애매했음.. 이상하게 하는 내내 언럭키 리터널 느낌이 강하게 들었던..",
-          "like": 1
+          "like": 4
         },
         {
           "nick": "루리웹-1092802801",
           "text": "마소관련된 겜들 보면 느끼는게 표지만 봐도 하기싫게 생겼음 그냥 일반인이 딱 보고 와!하고싶다 누르고싶게 만들어야하는데 ㄹㅇ로 공짜라도 누르기 싫은 표지가 너무 많음 그래서 게임패스 가입해도 뭐 하기가 싫어 끌리는것도 없고",
-          "like": 0
+          "like": 3
+        },
+        {
+          "nick": "나는야 멀티유저",
+          "text": "샬모시 티라메",
+          "like": 7
+        },
+        {
+          "nick": "루리웹-9399335340",
+          "text": "나는야 멀티유저",
+          "like": 2
         },
         {
           "nick": "루리웹-7836749727",
           "text": "그래픽도 별론데 최적화도 별로고 그렇다고 게임이 커버 쳐 줄만한 재미도 아니고..",
-          "like": 0
+          "like": 2
         },
         {
           "nick": "i-코난",
           "text": "트레일러만 보면 리터널 느낌인데..",
-          "like": 0
+          "like": 2
+        },
+        {
+          "nick": "마이피드링크",
+          "text": "i-코난",
+          "like": 3
         },
         {
           "nick": "가나다라바",
           "text": "이거 재미는 있는데 7년이나 만들어서 나올 정도의 완성도는 아님",
+          "like": 5
+        },
+        {
+          "nick": "0M0)",
+          "text": "가나다라바",
+          "like": 2
+        },
+        {
+          "nick": "일산의왕",
+          "text": "마소겜=똥겜",
+          "like": 2
+        },
+        {
+          "nick": "김현지를 아시나요",
+          "text": "게임패스 그것도 데이원까지 입점비 받아챙겼을텐데도 말아먹었다는건",
+          "like": 3
+        },
+        {
+          "nick": "MK2077",
+          "text": "아니 RPG도 아니고 슈터 게임을 7년 동안 만들었다고? 요새 개발자들 모럴 해저드 심각하네",
+          "like": 3
+        },
+        {
+          "nick": "йаррч dач「♥」",
+          "text": "요즘 aaa급 게임 아니면 인디 게임만 살아남고 중간 급인 aa급 게임들이 외면 받는 양극화 현상이 심해지고 있다는데 이게 그 결과 같네요.",
+          "like": 0
+        },
+        {
+          "nick": "DORO.",
+          "text": "심지여 게임이 로그라이트도 아닌 일직선 게임인걸로 아는데.. 이걸 7년동안 처만들었다고..?",
           "like": 0
         }
       ]
@@ -27099,7 +27801,7 @@
     {
       "id": "ruliweb-2356292",
       "title": "하늘의 궤적 the 2nd 도력 마법(오벌 아츠)의 일부 상위 아츠 소개",
-      "url": "https://bbs.ruliweb.com/news/board/1001/read/2356292?",
+      "url": "https://bbs.ruliweb.com/news/board/1001/read/2356292",
       "source": "루리웹",
       "date": "2026.06.18",
       "image": "https://i2.ruliweb.com/ori/26/06/18/19eda0c5c2913b068.webp",
@@ -27282,6 +27984,11 @@
           "nick": "레렐",
           "text": "이거 원작 sc엔 없던 건가요?",
           "like": 1
+        },
+        {
+          "nick": "구스다운",
+          "text": "레렐",
+          "like": 2
         }
       ]
     },
@@ -27292,8 +27999,8 @@
       "source": "루리웹",
       "date": "2026.06.18",
       "time": "18:20:59",
-      "views": 174,
-      "comments": 0,
+      "views": 327,
+      "comments": 1,
       "summary": "넥써쓰가 국내 토종 앱마켓 원스토어 지분 89.03%를 약 626억 원에 인수하며, 이를 기반으로 원스토어를 단순 앱 마켓을 넘어 풀스택 게임허브로 진화시키고 글...",
       "image": "https://img.ruliweb.com/data/news/tn/26/06/18/19eda089af0_qyilge.webp",
       "author": "김영훈 기자",
@@ -27304,7 +28011,7 @@
         },
         {
           "t": "p",
-          "v": "조회수 174 | 루리웹 | 입력 2026.06.18 (18:20:59)"
+          "v": "조회수 327 | 루리웹 | 입력 2026.06.18 (18:20:59)"
         },
         {
           "t": "p",
@@ -27456,6 +28163,13 @@
             }
           ]
         }
+      ],
+      "topComments": [
+        {
+          "nick": "루리웹-82736389291",
+          "text": "장현국 위메이드때 악질적인 행동들 한 전적이 너무 많아서 지금 원스토어 이벤트 지원도 거의 다 사라질것 같네",
+          "like": 1
+        }
       ]
     },
     {
@@ -27506,24 +28220,29 @@
           "like": 5
         },
         {
+          "nick": "레이첼1",
+          "text": "놀면뭐하긴!",
+          "like": 0
+        },
+        {
           "nick": "XBOX TAX",
           "text": "씨비스킷",
-          "like": 4
+          "like": 8
         },
         {
           "nick": "나이뚜",
           "text": "플레이 영상을 보여다오...",
-          "like": 3
+          "like": 4
         },
         {
           "nick": "ㅂㅣ추",
           "text": "포켓페어는 과연 이번에는 gta 휴가를 줄 것인가 궁금하네",
-          "like": 1
+          "like": 2
         },
         {
           "nick": "TheGame_",
           "text": "GTA5의 기네스북을 GTA6가 갈아치울듯",
-          "like": 2
+          "like": 4
         },
         {
           "nick": "루리웹-8655666907",
@@ -27531,9 +28250,14 @@
           "like": 0
         },
         {
+          "nick": "에이다웡",
+          "text": "설정안내입니다",
+          "like": 0
+        },
+        {
           "nick": "{■■■■■■■}",
           "text": "난 ai스크립트 방식이 아니라던데 그게 진짜 기대됨.. 얼마나 사람같을지... 그타는 시민들 상요작용같은건 좋은것 같지만 그래도 한계가 있어서 결국 인간같지 않은 느낌을 받는데 과연 ...",
-          "like": 1
+          "like": 2
         },
         {
           "nick": "그린키스",
@@ -27543,27 +28267,32 @@
         {
           "nick": "칙쇼 밴드",
           "text": "이제 슬슬 여름인데 정보 좀 풀자 락스타야",
-          "like": 2
+          "like": 3
         },
         {
           "nick": "레페v",
           "text": "그냥 퇴사를 해야겠다",
-          "like": 1
+          "like": 2
         },
         {
           "nick": "라오어로 골프배움",
           "text": "ㅈㄹ도풍년",
+          "like": 6
+        },
+        {
+          "nick": "설정안내입니다",
+          "text": "라오어로 골프배움",
           "like": 4
         },
         {
           "nick": "유스테니아",
           "text": "나는 발매일에 아플 예정임. 아무튼 아플거임",
-          "like": 1
+          "like": 2
         },
         {
           "nick": "암살ZOT문가",
           "text": "이러니 저러니 해도 저 동네의 저 쿨한 문화는 부럽다.",
-          "like": 2
+          "like": 3
         },
         {
           "nick": "Hansol2 아빠",
@@ -27573,17 +28302,17 @@
         {
           "nick": "역습의 신지",
           "text": "일본에서 드퀘나올때 애들이 학교안갔다 이거보다 더할테니 미리 대응하는구나 ㅎㅎ 자연재해라더니 국가재난급이네",
-          "like": 1
+          "like": 2
         },
         {
           "nick": "레데리3",
           "text": "우리회사도 좀 ㅋㅋㅋ",
-          "like": 1
+          "like": 2
         },
         {
           "nick": "사악한곰",
           "text": "연차나 써아지 뭐 목 금",
-          "like": 1
+          "like": 2
         },
         {
           "nick": "달걀볶음밥",
@@ -27593,12 +28322,12 @@
         {
           "nick": "아서애들러",
           "text": "세월빠르긴하다 엑박360으로 했던 조카 꼬맹이가 고딩됨ㄷㄷ",
-          "like": 1
+          "like": 2
         },
         {
           "nick": "사이비들때려잡자",
           "text": "설치시간 감안하면 출시 다음날 연차가 꿀~",
-          "like": 1
+          "like": 2
         },
         {
           "nick": "pirokyu",
@@ -27613,6 +28342,41 @@
         {
           "nick": "수면상태",
           "text": "겜 발매일에 연차를 몇번 써봤는데 맨날 택배 늦게옴 ㅠ",
+          "like": 0
+        },
+        {
+          "nick": "춘식이네아빠",
+          "text": "아 플스 프로 사야하는구나",
+          "like": 0
+        },
+        {
+          "nick": "20센치소년",
+          "text": "부럽네",
+          "like": 0
+        },
+        {
+          "nick": "NCR_레인저",
+          "text": "플스독점작",
+          "like": 0
+        },
+        {
+          "nick": "HellAndHell",
+          "text": "GTA 휴가...!",
+          "like": 0
+        },
+        {
+          "nick": "새루리당총수",
+          "text": "설레발도 참",
+          "like": 0
+        },
+        {
+          "nick": "3woo",
+          "text": "근데 내가 기다리는 게임 출시일이나 다음날 연차 쓰는건 어찌보면 당연..",
+          "like": 0
+        },
+        {
+          "nick": "리얼철권의 달인",
+          "text": "ㅋㅋㅋ 아주 옛날 이야기이긴한데... 일본에서 비슷한일이 있었음... 드래곤퀘스트 발매일에 온갓결근사유를 대면서 직장인 학생들이 결석 결근을 하고 게임을 사러갔다는 사건... 이후 요청이 있었는지 어떤지는 모르지만 발매일을 주말로 결정하도록 하는 전통? 같은게 생겨났음... 그리고 여전히 드래곤 퀘스트는 주말에 발매를 함...",
           "like": 0
         }
       ]
@@ -27648,6 +28412,11 @@
           "nick": "사씨남바위",
           "text": "해외 발매 일주일 남았는데 빨리 메타크리틱 점수 뜨면 좋겠네요. 못해도 84는 나왔으면 좋겠음. 게임플레이와 레벨디자인이 29년 전과 완전히 똑같아서 너무 불리하긴 한데",
           "like": 0
+        },
+        {
+          "nick": "마료마리옹",
+          "text": "실제로 스타폭스64는 회차 플탐이 1시간~1시간30분이니까 영화 컨셉으로도 딱인듯",
+          "like": 0
         }
       ]
     },
@@ -27667,12 +28436,16 @@
           "v": "XdAVdUneTGg"
         }
       ],
-      "comments": 7,
+      "comments": 2,
       "topComments": [
         {
-          "nick": "앵무새언니",
-          "text": "지금도 플레이하면 바로 랭커인가",
-          "like": 2
+          "nick": "춘리",
+          "text": "",
+          "like": 3,
+          "best": true,
+          "imgs": [
+            "https://i2.ruliweb.com/cmt/26/06/18/19ed9d1f39c19c9b.jpeg"
+          ]
         },
         {
           "nick": "레드핫",
@@ -27687,7 +28460,7 @@
         {
           "nick": "춘리",
           "text": "",
-          "like": 1,
+          "like": 3,
           "imgs": [
             "https://i2.ruliweb.com/cmt/26/06/18/19ed9d1f39c19c9b.jpeg"
           ]
@@ -27705,11 +28478,26 @@
         {
           "nick": "White Koala",
           "text": "시즌패스 낼 정도냐 이게?",
-          "like": 2
+          "like": 3
         },
         {
           "nick": "범검",
           "text": "첫 스테이지에 도적떼랍시고 메르엠이랑 레이저랑 네테로 나오는거 생각난다",
+          "like": 0
+        },
+        {
+          "nick": "풍운",
+          "text": "지나치게 시대착오적인 게임이라고 해야할듯 대체 뭘 믿고 만든건지 조차 의심스러움",
+          "like": 0
+        },
+        {
+          "nick": "쵸탕",
+          "text": "움직임이 옛날 동인게임같네 ㅋㅋㅋㅋㅋ",
+          "like": 0
+        },
+        {
+          "nick": "고양이우는날",
+          "text": "이야....PSP시절로 돌아온 느낌",
           "like": 0
         }
       ]
@@ -27735,12 +28523,12 @@
         {
           "nick": "하야야하",
           "text": "전 세대 초반만해도 플스 엑박 양강체제 였는데 어쩌다가...",
-          "like": 9
+          "like": 10
         },
         {
           "nick": "제로레퀴엠2",
           "text": "하야야하",
-          "like": 15
+          "like": 17
         },
         {
           "nick": "하야야하",
@@ -27755,27 +28543,27 @@
         {
           "nick": "8801153620",
           "text": "이미 양강체제인데 무슨... 엑박? 거기 패드팔이 회사 아니었음?",
-          "like": 24
+          "like": 28
         },
         {
           "nick": "ACIII",
           "text": "8801153620",
-          "like": 4
+          "like": 8
         },
         {
           "nick": "루리웹-2584749669",
           "text": "뭐 언제는 양강체제 아니었다고...",
-          "like": 15
+          "like": 17
         },
         {
           "nick": "Riren",
           "text": "게임패스로 공유하는 이상 이렇게 되는건 시간 문제긴했는데. 닌텐도랑 소니는 각각 노는 영역이 달라서 사실상 소니 독점에 가까워졌지",
-          "like": 14
+          "like": 15
         },
         {
           "nick": "쥬짱의신명나는쇼핑.",
           "text": "Riren",
-          "like": 12
+          "like": 15
         },
         {
           "nick": "사씨남바위",
@@ -27785,17 +28573,17 @@
         {
           "nick": "오레노피코",
           "text": "사씨남바위",
-          "like": 2
+          "like": 3
         },
         {
           "nick": "serqvb",
           "text": "거치콘솔은 소니 독점이네 ㅎㅎ",
-          "like": 8
+          "like": 12
         },
         {
           "nick": "ChoppanGNStyle",
           "text": "자체 홍보기사 쏟아지는거 보니까 팔기전에 가격 열심히 올리는 중인거 같네여",
-          "like": 8
+          "like": 10
         },
         {
           "nick": "머리크기지구",
@@ -27810,7 +28598,7 @@
         {
           "nick": "루리웹-23436197",
           "text": "",
-          "like": 18,
+          "like": 26,
           "imgs": [
             "https://i2.ruliweb.com/cmt/26/06/18/19ed9d25b911e0adc.png"
           ]
@@ -27823,7 +28611,7 @@
         {
           "nick": "해쨍이",
           "text": "지네가 개판쳐놓고 실적 타령은..",
-          "like": 11
+          "like": 12
         },
         {
           "nick": "동방제과",
@@ -27833,7 +28621,7 @@
         {
           "nick": "*NiTrO*",
           "text": "게임패스나 팔아라 양질의 게임을 거의 공짜로 즐기게 해주는게 니들 존재 이유잖아 여기 애새끼들도 원하는게 그거 아니냐? 손해보던 수익률 박살나든 AAA급 데이원으로 꾸역꾸역 넣어라 엑박팬들이 원하는게 그거다",
-          "like": 9
+          "like": 10
         },
         {
           "nick": "동방제과",
@@ -27843,12 +28631,12 @@
         {
           "nick": "댓글러292513",
           "text": "뭐하러 비싼돈 주고 게임사 샀냐 ㅋㅋㅋ 뭐 부잣집 도련님 흥미 사라져서 버리는거야?",
-          "like": 7
+          "like": 8
         },
         {
           "nick": "작은만두",
           "text": "흘러가는 모양새가 곧 부고문 볼듯하네요... 잘가라 엑박아... 다 니 잘못이야",
-          "like": 10
+          "like": 11
         },
         {
           "nick": "죄수번호109",
@@ -27858,7 +28646,7 @@
         {
           "nick": "루리웹-1092802801",
           "text": "죄수번호109",
-          "like": 10
+          "like": 11
         },
         {
           "nick": "게임업계는루리인들을채용하라",
@@ -27868,12 +28656,12 @@
         {
           "nick": "쥬짱의신명나는쇼핑.",
           "text": "게임업계는루리인들을채용하라",
-          "like": 4
+          "like": 5
         },
         {
           "nick": "루리웹-5042478242",
           "text": "제임스 슈라이어 내용 보니까 그냥 얘들은 운영자체가 너무 개판이던데 게임패스부터 시작해서 시류를 제대로 따라가지도 못하고 엑박에 맞지 않으면 거기에 맞게 정책을 시정해야되는데 그것도 못하고 내부에서 목표 자체도 명확하지 못해서 이새끼들이 뭘 원하는지도 모르겠다고 하고 지들도 어떤 포지션으로 가는지 최근까지도 갈팡질팡하고",
-          "like": 9
+          "like": 10
         },
         {
           "nick": "슈퍼초울트라",
@@ -27883,12 +28671,12 @@
         {
           "nick": "쥬짱의신명나는쇼핑.",
           "text": "슈퍼초울트라",
-          "like": 7
+          "like": 10
         },
         {
           "nick": "니모센드",
           "text": "",
-          "like": 19,
+          "like": 22,
           "imgs": [
             "https://i3.ruliweb.com/cmt/26/06/18/19ed9cd212e5702ca.jpg"
           ]
@@ -27896,15 +28684,20 @@
         {
           "nick": "캐미화이트",
           "text": "니모센드",
-          "like": 8,
+          "like": 14,
           "imgs": [
             "https://i2.ruliweb.com/cmt/26/06/18/19eda055fd91369c.jpg"
           ]
         },
         {
+          "nick": "SSoWhat",
+          "text": "캐미화이트",
+          "like": 1
+        },
+        {
           "nick": "멍청이다",
           "text": "걍 정석으로 360때처럼 했어도 철수까진 안함.. 소니나 닌텐도도 당연히 휘청일 때가 있고, 사실 그시기에 일어선게 소니고 닌텐도라.. 그렇게 안하려고 나름 규칙을 만들고 브랜드화를 40년이 넘도록 이어왔는데.. 매번 딸깍이 문제임.. 단지 이번엔 총알이 부족해서다라고 변명하려다 한방에 간거고.. 20년이면 한방도 아니지만..",
-          "like": 8
+          "like": 10
         },
         {
           "nick": "이요셉",
@@ -27914,12 +28707,12 @@
         {
           "nick": "아마존슨",
           "text": "이요셉",
-          "like": 18
+          "like": 22
         },
         {
           "nick": "바키라",
           "text": "우자레타마",
-          "like": 1
+          "like": 5
         },
         {
           "nick": "sfmania0",
@@ -27929,101 +28722,116 @@
         {
           "nick": "romancia",
           "text": "sfmania0",
-          "like": 0
+          "like": 2
         },
         {
           "nick": "게임멀티유저",
           "text": "우리 돈없는 엑뽀이들 이제 힘들뜻 게임하기",
-          "like": 10
+          "like": 14
         },
         {
           "nick": "LASTFANTASY",
           "text": "게임패스가 결국 적자였다는 뜻. 유저들은 좋았지 근데 이게 유지가 될수 없었음.",
-          "like": 7
+          "like": 11
         },
         {
           "nick": "동방제과",
           "text": "LASTFANTASY",
-          "like": 6
+          "like": 8
         },
         {
           "nick": "시마.",
           "text": "본래 니델라가 콘솔 돈안되니 접자했고 지금까지 봐준거고요 엑박보단 패스가 정말훌륭했습니다 특히 클라우드는 와..빌게이츠가 탄생시킨거라 사업진행은 유지하겠죠",
-          "like": 2
+          "like": 3
         },
         {
           "nick": "뿌움",
           "text": "일본을 포함한 아시아를 포기하면 망하는거지",
-          "like": 3
+          "like": 4
         },
         {
           "nick": "동방제과",
           "text": "넷플릭스가 다른 구독제에 비해 저렴해서 1황이 아니듯 저렴한 건 경쟁력 중 일부분이죠. 게임패스를 포함한 엑박이 비참하게 몰락한 이유는 진짜 너무 여러가지죠 뭐. 그리고 결정적인건 혜자가 절대 아니라는거. 그랬음 안망했지요.",
-          "like": 5
+          "like": 7
         },
         {
           "nick": "헌터스",
           "text": "동방제과",
-          "like": 3
+          "like": 7
         },
         {
           "nick": "동방제과",
           "text": "헌터스",
-          "like": 2
+          "like": 5
         },
         {
           "nick": "picaso™",
           "text": "Xbox Game pass 실패작",
-          "like": 8
+          "like": 11
         },
         {
           "nick": "루리웹-9032961218",
           "text": "마소가 돈 많아서 엑박은 망할리 없다는 엑전사들 어디?",
-          "like": 14
+          "like": 18
         },
         {
           "nick": "Hansol2 아빠",
           "text": "안사요",
-          "like": 0
+          "like": 3
         },
         {
           "nick": "SwimRider[SR]",
           "text": "루리웹부터 엑박 게시판 닫아라 만날 뭐하는 거냐",
-          "like": 3
+          "like": 6
         },
         {
           "nick": "푸른마",
           "text": "빌게이츠의 초심이 tv 옆의 멀키미디어 였는데 넷플과 유튜브만 지원하고 애플tv 아마존, 디즈니 hbo 등등 지원 안함 수동 저장도 그럼 서버에 저장도",
-          "like": 3
+          "like": 5
         },
         {
           "nick": "미드로게임만들기",
           "text": "페이블은??? 다 만든듯 한데.",
-          "like": 3
+          "like": 4
         },
         {
           "nick": "오레노피코",
           "text": "미드로게임만들기",
-          "like": 0
+          "like": 2
         },
         {
           "nick": "이메누",
           "text": "이 공룡을 누가 살려고 할까.........",
-          "like": 2
+          "like": 4
         },
         {
           "nick": "Coiie",
           "text": "내가 미리 팔기 잘한 콘솔이 엑스박스 시리즈 X임",
-          "like": 1
+          "like": 4
         },
         {
           "nick": "루리웹-2378418937",
           "text": "안돼 소니랑 닌텐도는 서로 다른 길을 가면서 직접적인 경쟁이 없잖아 누군가 와서 제대로 경쟁 좀 해줘 자꾸 독점 되면 트롤짓이 올라오고 가격 올려치기 심하잖아",
-          "like": 3
+          "like": 5
         },
         {
           "nick": "♡두루&마리♡",
           "text": "제발 팔거면 스팀에 팔아..",
+          "like": 4
+        },
+        {
+          "nick": "MK2077",
+          "text": "그냥 세가를 사고 마소는 본업이나 했으면 IP부자라도 됐지 100조 지를 깜이 있는데 세가는 왜 안 사",
+          "like": 1
+        },
+        {
+          "nick": "SSoWhat",
+          "text": "게임패스가 시간 남아도는 개백수나 개밥도 잘처먹는 사람한테나 딱 핏이 맞았지 콘솔 주 연령층은 3040 직장인한테는 진짜 계륵같은 서비스임",
+          "like": 1
+        },
+        {
+          "nick": "울동네지킴이",
+          "text": "엑박 더 버텨서 게임패스 더 유지해주길..",
           "like": 1
         }
       ]
@@ -28078,7 +28886,7 @@
         {
           "nick": "LegenDUST",
           "text": "비켜봐라",
-          "like": 0
+          "like": 1
         },
         {
           "nick": "A·A·A",
@@ -28088,7 +28896,7 @@
         {
           "nick": "퍼플 시스터",
           "text": "진짜 재밌게 했습니다 다음 작품도 한글화 해서 발매 해줬음 좋겠는데 ㅠ",
-          "like": 1
+          "like": 2
         },
         {
           "nick": "LegenDUST",
@@ -28109,6 +28917,11 @@
           "nick": "행복발전소",
           "text": "LegenDUST",
           "like": 0
+        },
+        {
+          "nick": "castitatis",
+          "text": "스팀판보다 해상도가 낮아보이는건 기분탓인가? 묘하게 더 거칠어보이는데",
+          "like": 0
         }
       ]
     },
@@ -28119,8 +28932,8 @@
       "source": "루리웹",
       "date": "2026.06.18",
       "time": "16:08:48",
-      "views": 497,
-      "comments": 0,
+      "views": 669,
+      "comments": 1,
       "summary": "넷마블은 신작 mmorpg 'sol: enchant(솔: 인챈트)'를 정식 출시한 지 단 8시간 만에 첫 신규 월드 '레지나'를 총 5개 서버로 추가 오픈한다고 ...",
       "image": "https://img.ruliweb.com/data/news/tn/26/06/18/19ed98f73a1_pwvisj.webp",
       "author": "김영훈 기자",
@@ -28131,7 +28944,7 @@
         },
         {
           "t": "p",
-          "v": "조회수 497 | 루리웹 | 입력 2026.06.18 (16:08:48)"
+          "v": "조회수 669 | 루리웹 | 입력 2026.06.18 (16:08:48)"
         },
         {
           "t": "p",
@@ -28265,6 +29078,16 @@
             }
           ]
         }
+      ],
+      "topComments": [
+        {
+          "nick": "angelvsdevil",
+          "text": "",
+          "like": 0,
+          "imgs": [
+            "https://i3.ruliweb.com/cmt/26/06/18/19eda9cc714205b99.jpg"
+          ]
+        }
       ]
     },
     {
@@ -28313,7 +29136,7 @@
           ]
         }
       ],
-      "comments": 4,
+      "comments": 5,
       "topComments": [
         {
           "nick": "ハム家族",
@@ -28328,6 +29151,11 @@
         {
           "nick": "right step",
           "text": "뭔가 도께비도 생각나네",
+          "like": 0
+        },
+        {
+          "nick": "AMiLUMi",
+          "text": "뭔 겜이 정체성을 모르겠네...",
           "like": 0
         }
       ]
@@ -28361,12 +29189,12 @@
         {
           "nick": "로메오카이",
           "text": "빨리하고 싶다",
-          "like": 0
+          "like": 2
         },
         {
           "nick": "hannel",
           "text": "다시 시작할때가 됐구나~ 멀티크플도 되니까 유저수좀 늘어나겠지 ㅠㅠ?플스는 동접자 0명이라서 매칭자체가안되던데",
-          "like": 0
+          "like": 1
         },
         {
           "nick": "요곰입니당",
@@ -28376,7 +29204,7 @@
         {
           "nick": "콤바트라Ⅴ",
           "text": "요곰입니당",
-          "like": 0
+          "like": 1
         },
         {
           "nick": "루리웹-2692427945",
@@ -28386,7 +29214,17 @@
         {
           "nick": "인디아나존스",
           "text": "나오면 꼭 사야지",
+          "like": 1
+        },
+        {
+          "nick": "이름을 지운자",
+          "text": "이거 확장팩 개념인가요? 본편 필요?",
           "like": 0
+        },
+        {
+          "nick": "렌소베리",
+          "text": "이름을 지운자",
+          "like": 1
         }
       ]
     },
@@ -28397,8 +29235,8 @@
       "source": "루리웹",
       "date": "2026.06.18",
       "time": "16:00:00",
-      "views": 1093,
-      "comments": 1,
+      "views": 1455,
+      "comments": 2,
       "summary": "민트로켓의 '데이브 더 다이버'가 본편 이후 스토리를 이어가는 확장 dlc '인 더 정글'을 출시하며 콘텐츠를 대폭 확장했다. 이 dlc에서는 주인공 일행이 이상...",
       "image": "https://img.ruliweb.com/data/news/tn/26/06/18/19ed97ddae4_hjgipd.webp",
       "author": "이명규 기자",
@@ -28409,7 +29247,7 @@
         },
         {
           "t": "p",
-          "v": "조회수 1094 | 루리웹 | 입력 2026.06.18 (16:00:00)"
+          "v": "조회수 1455 | 루리웹 | 입력 2026.06.18 (16:00:00)"
         },
         {
           "t": "p",
@@ -28695,6 +29533,11 @@
           "nick": "게임키드.",
           "text": "패키지 출시는 언제 하는거지..",
           "like": 1
+        },
+        {
+          "nick": "毛부리",
+          "text": "It's A Goodday to dive~",
+          "like": 0
         }
       ]
     },
@@ -28705,8 +29548,8 @@
       "source": "루리웹",
       "date": "2026.06.18",
       "time": "16:00:00",
-      "views": 1012,
-      "comments": 4,
+      "views": 1387,
+      "comments": 5,
       "summary": "‘그랑블루 판타지 리링크’(이하 리링크)가 대형 확장팩 ‘엔드리스 라그나로크’를 통해 또 한 번의 도약에 나선다. 출시에 앞서 콘텐츠 소개와 신규 시스템에 대한 ...",
       "image": "https://img.ruliweb.com/data/news/tn/26/06/18/19ed880b25c_xwtguj.webp",
       "author": "안민균 기자",
@@ -28717,7 +29560,7 @@
         },
         {
           "t": "p",
-          "v": "조회수 1012 | 루리웹 | 입력 2026.06.18 (16:00:00)"
+          "v": "조회수 1387 | 루리웹 | 입력 2026.06.18 (16:00:00)"
         },
         {
           "t": "p",
@@ -29136,6 +29979,16 @@
           "seg": [
             {
               "t": "a",
+              "v": "https://bbs.ruliweb.com/news/read/224872",
+              "l": "세계 최초 오프라인 시연, '2026 PlayX4' 사이게임즈 '그랑블루 판타지' 현장"
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "seg": [
+            {
+              "t": "a",
               "v": "https://bbs.ruliweb.com/news/read/212559",
               "l": "‘그랑블루 판타지 리링크’ 전 세계 누적 판매량 ‘200만 장 돌파’ 기념 60% 할인 이벤트 진행 중"
             }
@@ -29176,8 +30029,8 @@
           "seg": [
             {
               "t": "a",
-              "v": "https://bbs.ruliweb.com/news/read/196162",
-              "l": "그랑블루 판타지 리링크, Ver.1.2.0 & Ver.1.3.0 신규 요소"
+              "v": "https://bbs.ruliweb.com/game/86535",
+              "l": "그랑블루 판타지: 리링크 최신글"
             }
           ]
         },
@@ -29186,8 +30039,8 @@
           "seg": [
             {
               "t": "a",
-              "v": "https://bbs.ruliweb.com/game/86535",
-              "l": "그랑블루 판타지: 리링크 최신글"
+              "v": "https://bbs.ruliweb.com/game/86535/read/4175",
+              "l": "ER 데모 찍먹"
             }
           ]
         },
@@ -29233,16 +30086,6 @@
         },
         {
           "t": "p",
-          "seg": [
-            {
-              "t": "a",
-              "v": "https://bbs.ruliweb.com/game/86535/read/4170",
-              "l": "재활~"
-            }
-          ]
-        },
-        {
-          "t": "p",
           "v": "댓글"
         },
         {
@@ -29275,6 +30118,11 @@
         {
           "nick": "로메오카이",
           "text": "빨리하고 싶다",
+          "like": 0
+        },
+        {
+          "nick": "그린키스",
+          "text": "땡큐",
           "like": 0
         }
       ]
@@ -29320,7 +30168,7 @@
         {
           "nick": "루리웹-1224532001",
           "text": "",
-          "like": 13,
+          "like": 17,
           "best": true,
           "imgs": [
             "https://i3.ruliweb.com/cmt/26/06/18/19ed99354f656da95.png"
@@ -29334,7 +30182,7 @@
         {
           "nick": "루리웹-1224532001",
           "text": "",
-          "like": 13,
+          "like": 17,
           "imgs": [
             "https://i3.ruliweb.com/cmt/26/06/18/19ed99354f656da95.png"
           ]
@@ -29382,10 +30230,20 @@
         {
           "nick": "PXPN",
           "text": "",
-          "like": 0,
+          "like": 1,
           "imgs": [
             "https://i1.ruliweb.com/cmt/26/06/18/19eda4ba1da5a3c38.png"
           ]
+        },
+        {
+          "nick": "엑스트라크리스피",
+          "text": "ai로 만들었나 싶을정도로 장난 아닌데요 ㅎ",
+          "like": 0
+        },
+        {
+          "nick": "Ecominr",
+          "text": "아니 이걸 어사일럼에다가 ㅋㅋㅋ",
+          "like": 0
         }
       ]
     },
@@ -29396,7 +30254,7 @@
       "source": "루리웹",
       "date": "2026.06.18",
       "time": "15:47:22",
-      "views": 174,
+      "views": 199,
       "comments": 0,
       "summary": "넥슨이 온라인 액션 rpg '마비노기 영웅전'에 시즌4 에피소드15 '필멸의 가시' 업데이트를 실시하며, 신규 보스 몬스터 '에스라스'와 함께 '에리우 무기' 레...",
       "image": "https://img.ruliweb.com/data/news/tn/26/06/18/19ed97bb503_sxoadz.webp",
@@ -29408,7 +30266,7 @@
         },
         {
           "t": "p",
-          "v": "조회수 175 | 루리웹 | 입력 2026.06.18 (15:47:22)"
+          "v": "조회수 199 | 루리웹 | 입력 2026.06.18 (15:47:22)"
         },
         {
           "t": "p",
@@ -29677,7 +30535,7 @@
       "source": "루리웹",
       "date": "2026.06.18",
       "time": "15:38:34",
-      "views": 677,
+      "views": 890,
       "comments": 2,
       "summary": "주식회사 클라우디드 레오파드 엔터테인먼트는 스토리 rpg 『하늘의 궤적 the 2nd』의 한국어 버전을 2026년 9월 17일 발매한다고 발표하며, 최신 시스템과...",
       "image": "https://img.ruliweb.com/data/news/tn/26/06/18/19ed973e935_djgryv.webp",
@@ -29689,7 +30547,7 @@
         },
         {
           "t": "p",
-          "v": "조회수 677 | 루리웹 | 입력 2026.06.18 (15:38:34)"
+          "v": "조회수 890 | 루리웹 | 입력 2026.06.18 (15:38:34)"
         },
         {
           "t": "p",
@@ -30352,7 +31210,7 @@
       "source": "루리웹",
       "date": "2026.06.18",
       "time": "15:20:00",
-      "views": 860,
+      "views": 1018,
       "comments": 0,
       "summary": "넥슨과 크래프톤은 급변하는 ai 시대에 대응하기 위해 단순 기술 도입을 넘어 업무 프로세스 전반을 재설계하는 ax(ai transformation)를 추진하고 있...",
       "image": "https://img.ruliweb.com/data/news/tn/26/06/18/19ed9378ec1_wcvhtj.webp",
@@ -30364,7 +31222,7 @@
         },
         {
           "t": "p",
-          "v": "조회수 860 | 루리웹 | 입력 2026.06.18 (15:20:00)"
+          "v": "조회수 1018 | 루리웹 | 입력 2026.06.18 (15:20:00)"
         },
         {
           "t": "p",
@@ -30805,7 +31663,7 @@
       "source": "루리웹",
       "date": "2026.06.18",
       "time": "15:15:45",
-      "views": 431,
+      "views": 491,
       "comments": 0,
       "summary": "넥슨의 샌드박스 플랫폼 '메이플스토리 월드'를 통해 개발 경험과 자본 없이도 누구나 게임 제작 및 수익 창출이 가능해지며, '아르테일'은 전 세계 누적 플레이어 ...",
       "image": "https://img.ruliweb.com/data/news/tn/26/06/18/19ed95f00dc_azypgb.webp",
@@ -30817,7 +31675,7 @@
         },
         {
           "t": "p",
-          "v": "조회수 431 | 루리웹 | 입력 2026.06.18 (15:15:45)"
+          "v": "조회수 491 | 루리웹 | 입력 2026.06.18 (15:15:45)"
         },
         {
           "t": "p",
@@ -31482,6 +32340,11 @@
           "like": 1
         },
         {
+          "nick": "험토",
+          "text": "로화",
+          "like": 1
+        },
+        {
           "nick": "루리웹-9898084441",
           "text": "올리비에 브레스 뿜는 거 진짜 ㅋㅋㅋㅋ 요리가 이렇게까지 진화할 줄은 몰랐네",
           "like": 1
@@ -31578,7 +32441,7 @@
           "v": "109.99 달러"
         }
       ],
-      "comments": 4,
+      "comments": 5,
       "topComments": [
         {
           "nick": "::갈리미무스::",
@@ -31599,6 +32462,11 @@
           "nick": "NKH88",
           "text": "의료기기인줄 알았는데 컨트롤러였네ㅎㅎ",
           "like": 0
+        },
+        {
+          "nick": "메사이야",
+          "text": "가격 조금 보급화되고 색상 ps5맞춘거 말고 기능은 동일..?",
+          "like": 0
         }
       ]
     },
@@ -31609,7 +32477,7 @@
       "source": "루리웹",
       "date": "2026.06.18",
       "time": "14:28:35",
-      "views": 111,
+      "views": 116,
       "comments": 0,
       "summary": "글로벌 디스플레이 전문 브랜드 벤큐가 tts, 다국어 번역, ocr 등 ai 기능을 탑재한 교육용 전자칠판 re04 시리즈(65형, 75형, 86형)에 대해 6월...",
       "image": "https://img.ruliweb.com/data/news/tn/26/06/18/19ed933d35e_jzirvn.webp",
@@ -31621,7 +32489,7 @@
         },
         {
           "t": "p",
-          "v": "조회수 111 | 루리웹 | 입력 2026.06.18 (14:28:35)"
+          "v": "조회수 116 | 루리웹 | 입력 2026.06.18 (14:28:35)"
         },
         {
           "t": "p",
@@ -31788,7 +32656,7 @@
       "source": "루리웹",
       "date": "2026.06.18",
       "time": "14:24:23",
-      "views": 162,
+      "views": 188,
       "comments": 0,
       "summary": "엔트런스가 모바일 mmorpg 'dk모바일 리본'의 글로벌 서버를 18일 정식 오픈하며, 한국 외 싱가포르 등 동남아 6개국을 포함해 다수 국가 이용자가 함께 플...",
       "image": "https://img.ruliweb.com/data/news/tn/26/06/18/19ed92feeef_wytspc.webp",
@@ -31800,7 +32668,7 @@
         },
         {
           "t": "p",
-          "v": "조회수 162 | 루리웹 | 입력 2026.06.18 (14:24:23)"
+          "v": "조회수 188 | 루리웹 | 입력 2026.06.18 (14:24:23)"
         },
         {
           "t": "p",
@@ -32072,12 +32940,12 @@
         {
           "nick": "하이 호",
           "text": "에바보단 에바 동인지 같은 외형...",
-          "like": 5
+          "like": 6
         },
         {
           "nick": "카더라통신",
           "text": "요즘 에바 컬라보는 그냥 같은 서브컬처 비스무리하다 싶으면 한번쯤 지나처가는 회전문 급이라 예전 같이 서브컬처의 시조 조상급같은 위상은 이제 없음 본진인 애니를 개떡같이 만들면서 IP자체가 몰락해버린",
-          "like": 3
+          "like": 4
         },
         {
           "nick": "루리웹-6094251984",
@@ -32087,12 +32955,12 @@
         {
           "nick": "{■■■■■■■}",
           "text": "왜이렇게 ai로 만든거 같지..",
-          "like": 2
+          "like": 3
         },
         {
           "nick": "산당이",
           "text": "내가 본 에바 콜라보 중에 제일 못생겼네",
-          "like": 0
+          "like": 1
         },
         {
           "nick": "skdiskdisk",
@@ -32127,17 +32995,17 @@
         {
           "nick": "게임업계는루리인들을채용하라",
           "text": "국내 최대 게임기업, 고액연봉 모델러들 맞음? 진짜 월급 다 뱉어 내라, 실력 욕나올정도로 없네",
-          "like": 4
+          "like": 5
         },
         {
           "nick": "라이트트윈스",
           "text": "모델링이 이렇게 구렸던가..",
-          "like": 4
+          "like": 5
         },
         {
           "nick": "민트진순부먹파인애플피자건포도",
           "text": "렌파이 야겜에서나 볼법한 모델링을 ㅋㅋㅋㅋ",
-          "like": 5
+          "like": 6
         },
         {
           "nick": "푸르딩뎅",
@@ -32147,7 +33015,7 @@
         {
           "nick": "Soulborne",
           "text": "키 좀 줄여...",
-          "like": 1
+          "like": 2
         },
         {
           "nick": "제이제이제이J",
@@ -32155,9 +33023,14 @@
           "like": 3
         },
         {
+          "nick": "능욕",
+          "text": "언제나평상심",
+          "like": 0
+        },
+        {
           "nick": "언제나평상심",
           "text": "상상 이상으로 보기 않좋네.",
-          "like": 0
+          "like": 1
         },
         {
           "nick": "적법사",
@@ -32286,7 +33159,7 @@
       "source": "루리웹",
       "date": "2026.06.18",
       "time": "14:17:59",
-      "views": 566,
+      "views": 654,
       "comments": 0,
       "summary": "구글플레이가 부산인디커넥트페스티벌 2026의 공식 executive sponsor로 참여하며 인디게임 생태계 활성화에 기여한다. 구글플레이는 bic 2026 전체...",
       "image": "https://img.ruliweb.com/data/news/tn/26/06/18/19ed92a1cfe_xhadtq.webp",
@@ -32298,7 +33171,7 @@
         },
         {
           "t": "p",
-          "v": "조회수 566 | 루리웹 | 입력 2026.06.18 (14:17:59)"
+          "v": "조회수 654 | 루리웹 | 입력 2026.06.18 (14:17:59)"
         },
         {
           "t": "p",
@@ -32652,6 +33525,11 @@
           "nick": "베르크",
           "text": "신생도 저러더니 삼국지도 컴플리트 장사하네",
           "like": 0
+        },
+        {
+          "nick": "꿀 빵",
+          "text": "15는? 이제 안나옴?",
+          "like": 0
         }
       ]
     },
@@ -32662,7 +33540,7 @@
       "source": "루리웹",
       "date": "2026.06.18",
       "time": "14:05:54",
-      "views": 272,
+      "views": 323,
       "comments": 0,
       "summary": "글로벌 게임 기업 그라비티가 3d mmorpg '라그나로크: back to glory'에서 7월 2일까지 축구 콘셉트의 참여형 이벤트 '몽환의 포링컵'을 진행한다...",
       "image": "https://img.ruliweb.com/data/news/tn/26/06/18/19ed91f1027_qafxbk.webp",
@@ -32674,7 +33552,7 @@
         },
         {
           "t": "p",
-          "v": "조회수 273 | 루리웹 | 입력 2026.06.18 (14:05:54)"
+          "v": "조회수 323 | 루리웹 | 입력 2026.06.18 (14:05:54)"
         },
         {
           "t": "p",
@@ -32805,7 +33683,7 @@
       "source": "루리웹",
       "date": "2026.06.18",
       "time": "14:03:01",
-      "views": 225,
+      "views": 240,
       "comments": 0,
       "summary": "나딕게임즈는 온라인 액션 rpg '클로저스'의 23번째 신규 캐릭터 '모아' 사전 생성을 시작하며, 오는 7월 2일 정식 출시를 앞두고 기대감을 높이고 있다. 차...",
       "image": "https://img.ruliweb.com/data/news/tn/26/06/18/19ed91c348d_fwupnx.webp",
@@ -32817,7 +33695,7 @@
         },
         {
           "t": "p",
-          "v": "조회수 225 | 루리웹 | 입력 2026.06.18 (14:03:01)"
+          "v": "조회수 240 | 루리웹 | 입력 2026.06.18 (14:03:01)"
         },
         {
           "t": "p",
@@ -33074,8 +33952,8 @@
       "source": "루리웹",
       "date": "2026.06.18",
       "time": "13:45:19",
-      "views": 1102,
-      "comments": 1,
+      "views": 1345,
+      "comments": 4,
       "summary": "역사 시뮬레이션 게임 『삼국지14』 시리즈가 누적 출하 100만 장을 돌파하며, 결정판인 『삼국지14 with 파워업키트 complete edition』이 9월 ...",
       "image": "https://img.ruliweb.com/data/news/tn/26/06/18/19ed9096aed_zamlgv.webp",
       "author": "이장원 기자",
@@ -33086,7 +33964,7 @@
         },
         {
           "t": "p",
-          "v": "조회수 1103 | 루리웹 | 입력 2026.06.18 (13:45:19)"
+          "v": "조회수 1346 | 루리웹 | 입력 2026.06.18 (13:45:19)"
         },
         {
           "t": "p",
@@ -33422,12 +34300,29 @@
             }
           ]
         }
+      ],
+      "topComments": [
+        {
+          "nick": "人生の獨固多異 240322",
+          "text": "한국에도 닌텐도 스위치 PS5 패키지 발매하려나... 아니면 홍콩 대만 판을 사야하는데",
+          "like": 0
+        },
+        {
+          "nick": "깐프를 따람라",
+          "text": "소식 뜬 김에 간만에 다시 14 해봤는데 30프레임 이더군요;; 컴플리트 에디션은 프레임 무제한 옵션이 있길 바랍니다.",
+          "like": 0
+        },
+        {
+          "nick": "셔링링",
+          "text": "그냥 삼국지15 내줬으면 좋겠음..",
+          "like": 0
+        }
       ]
     },
     {
       "id": "ruliweb-2356272",
       "title": "비밀의 아이프리 모여라! 시크릿 메모리즈 DL판 6월 30일부로 판매 종...",
-      "url": "https://bbs.ruliweb.com/news/board/1001/read/2356272?",
+      "url": "https://bbs.ruliweb.com/news/board/1001/read/2356272?page=2",
       "source": "루리웹",
       "date": "2026.06.18",
       "image": "https://i2.ruliweb.com/ori/26/06/18/19ed8edb29b242da.webp",
@@ -33526,7 +34421,7 @@
       "source": "루리웹",
       "date": "2026.06.18",
       "time": "13:30:50",
-      "views": 193,
+      "views": 204,
       "comments": 0,
       "summary": "영화 '스파이더맨: 브랜드 뉴 데이'가 전 세계에 메인 예고편과 스페셜 리플렉션 포스터를 공개하며 큰 화제다. 이 예고편은 10억 뷰를 돌파한 티저의 비밀을 풀며...",
       "image": "https://img.ruliweb.com/data/news/tn/26/06/18/19ed8fef59b_npckfz.webp",
@@ -33538,7 +34433,7 @@
         },
         {
           "t": "p",
-          "v": "조회수 193 | 루리웹 | 입력 2026.06.18 (13:30:50)"
+          "v": "조회수 204 | 루리웹 | 입력 2026.06.18 (13:30:50)"
         },
         {
           "t": "p",
@@ -33762,7 +34657,7 @@
     },
     {
       "id": "ruliweb-2356271",
-      "title": "(루머) 캡콤 내부에서는 RE5 리메이크에 대한 열망이 그다지 크지 않다...",
+      "title": "(루머) 캡콤 내부에서는 RE5 리메이크에 대한 열망이 그다지 크지 않다.",
       "url": "https://bbs.ruliweb.com/news/board/1001/read/2356271",
       "source": "루리웹",
       "date": "2026.06.18",
@@ -33789,7 +34684,7 @@
         {
           "nick": "Aassddffgg",
           "text": "",
-          "like": 21,
+          "like": 23,
           "best": true,
           "imgs": [
             "https://i1.ruliweb.com/cmt/26/06/18/19ed928c25655414f.png"
@@ -33818,12 +34713,12 @@
         {
           "nick": "스코즈마",
           "text": "용꼬리™",
-          "like": 10
+          "like": 11
         },
         {
           "nick": "★혁군★",
           "text": "스코즈마",
-          "like": 12
+          "like": 13
         },
         {
           "nick": "맥주가람",
@@ -33858,7 +34753,7 @@
         {
           "nick": "Aassddffgg",
           "text": "",
-          "like": 21,
+          "like": 23,
           "imgs": [
             "https://i1.ruliweb.com/cmt/26/06/18/19ed928c25655414f.png"
           ]
@@ -33901,7 +34796,7 @@
         {
           "nick": "루리웹-1224532001",
           "text": "5는 호러겜이라긴 보단 완벽한 액션겜 같아서 재밌더라구요 ㅎㅎ",
-          "like": 6
+          "like": 7
         },
         {
           "nick": "BS롸",
@@ -33931,7 +34826,7 @@
         {
           "nick": "solarcreeper",
           "text": "5는 평가가 박하긴 해도 해마다 엄청 팔리던데. 작년에도 굉장한 판매량을 올렸다 들었음.",
-          "like": 2
+          "like": 3
         },
         {
           "nick": "게러프",
@@ -34151,7 +35046,7 @@
         {
           "nick": "비비탄사격수",
           "text": "5,6 멀티가 진짜 꿀잼인데 아쉽네",
-          "like": 0
+          "like": 1
         },
         {
           "nick": "곰연지",
@@ -34162,11 +35057,6 @@
           "nick": "{■■■■■■■}",
           "text": "5.6이 듀얼플레이때문에 대중성도 더 늘리지 않았음? 캡콤이 온라인에 대한 미련도 있어서 안만들것 같지는 않은데.",
           "like": 0
-        },
-        {
-          "nick": "갓시그마(Σ)",
-          "text": "혹시... RE3 완성본이나 만들 생각 없니?! 내가 한 번 깨고 두번 다시 손이 안 간 유일한 RE시리즈라서 말이야.. 그니까 베타버전 재밌게 했으니까 컴플리트 버전이나 해주고 생각해..",
-          "like": 1
         }
       ]
     },
@@ -34177,7 +35067,7 @@
       "source": "루리웹",
       "date": "2026.06.18",
       "time": "13:14:36",
-      "views": 197,
+      "views": 214,
       "comments": 0,
       "summary": "넥슨은 인기 온라인게임 '메이플스토리'에 마족 마법사 신규 직업 '레테'를 포함한 대규모 여름 업데이트를 실시했으며, 9월 16일까지 신규 캐릭터 육성 지원 이벤...",
       "image": "https://img.ruliweb.com/data/news/tn/26/06/18/19ed8efa203_fcxezm.webp",
@@ -34189,7 +35079,7 @@
         },
         {
           "t": "p",
-          "v": "조회수 197 | 루리웹 | 입력 2026.06.18 (13:14:36)"
+          "v": "조회수 214 | 루리웹 | 입력 2026.06.18 (13:14:36)"
         },
         {
           "t": "p",
@@ -34462,7 +35352,7 @@
       "source": "루리웹",
       "date": "2026.06.18",
       "time": "13:11:05",
-      "views": 138,
+      "views": 148,
       "comments": 0,
       "summary": "엔씨는 mmorpg 'throne and liberty(tl)'의 대규모 업데이트와 맞춰, 설원 대륙 '닉스' 탐험에 활용될 ost 앨범 'the frozen d...",
       "image": "https://img.ruliweb.com/data/news/tn/26/06/18/19ed8ebbc15_burjnh.webp",
@@ -34474,7 +35364,7 @@
         },
         {
           "t": "p",
-          "v": "조회수 138 | 루리웹 | 입력 2026.06.18 (13:11:05)"
+          "v": "조회수 148 | 루리웹 | 입력 2026.06.18 (13:11:05)"
         },
         {
           "t": "p",
@@ -34729,7 +35619,7 @@
       "source": "루리웹",
       "date": "2026.06.18",
       "time": "13:06:57",
-      "views": 529,
+      "views": 606,
       "comments": 1,
       "summary": "원스 휴먼이 오늘부터 엑스박스 시리즈 x|s와 플레이스테이션5를 통해 콘솔 버전 최종 오픈 베타 테스트를 시작하며, 이는 7월 9일까지 글로벌 지역에서 동시 진행...",
       "image": "https://img.ruliweb.com/data/news/tn/26/06/18/19ed8e91412_nxjgdp.webp",
@@ -34741,7 +35631,7 @@
         },
         {
           "t": "p",
-          "v": "조회수 529 | 루리웹 | 입력 2026.06.18 (13:06:57)"
+          "v": "조회수 606 | 루리웹 | 입력 2026.06.18 (13:06:57)"
         },
         {
           "t": "p",
@@ -35059,7 +35949,7 @@
       "source": "루리웹",
       "date": "2026.06.18",
       "time": "13:01:35",
-      "views": 491,
+      "views": 570,
       "comments": 0,
       "summary": "크래프톤이 글로벌 플랫폼 스팀에서 2026년 '배급사 할인'을 6월 18일부터 26일까지 총 8일간 진행하며, pubg: 배틀그라운드 등 대표 ip를 포함해 30...",
       "image": "https://img.ruliweb.com/data/news/tn/26/06/18/19ed8e3e392_xkrgcj.webp",
@@ -35071,7 +35961,7 @@
         },
         {
           "t": "p",
-          "v": "조회수 491 | 루리웹 | 입력 2026.06.18 (13:01:35)"
+          "v": "조회수 570 | 루리웹 | 입력 2026.06.18 (13:01:35)"
         },
         {
           "t": "p",
@@ -35222,7 +36112,7 @@
       "source": "루리웹",
       "date": "2026.06.18",
       "time": "13:01:33",
-      "views": 505,
+      "views": 584,
       "comments": 0,
       "summary": "'승리의 여신: 니케'가 오는 27일 오후 7시 공식 유튜브 채널에서 여름 특별 방송 '서바이벌!? 해변 섬 탐색 대작전!'을 개최하며 올여름 업데이트 주요 콘텐...",
       "image": "https://img.ruliweb.com/data/news/tn/26/06/18/19ed8da9263_kesujd.webp",
@@ -35234,7 +36124,7 @@
         },
         {
           "t": "p",
-          "v": "조회수 505 | 루리웹 | 입력 2026.06.18 (13:01:33)"
+          "v": "조회수 584 | 루리웹 | 입력 2026.06.18 (13:01:33)"
         },
         {
           "t": "p",
@@ -35477,6 +36367,16 @@
           "seg": [
             {
               "t": "a",
+              "v": "https://bbs.ruliweb.com/game/86188/read/2492",
+              "l": "시작한지 2주차 된 뉴비인데 조합 어떻게 짜야하나요"
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "seg": [
+            {
+              "t": "a",
               "v": "https://bbs.ruliweb.com/game/86188/read/2491",
               "l": "니케)🤖 ARK RANGER 🤖 2주차 유실물"
             }
@@ -35514,16 +36414,6 @@
         },
         {
           "t": "p",
-          "seg": [
-            {
-              "t": "a",
-              "v": "https://bbs.ruliweb.com/game/86188/read/2487",
-              "l": "지즈에서 막혔지만 아득바득 해서"
-            }
-          ]
-        },
-        {
-          "t": "p",
           "v": "댓글"
         },
         {
@@ -35545,7 +36435,7 @@
       "source": "루리웹",
       "date": "2026.06.18",
       "time": "13:01:30",
-      "views": 350,
+      "views": 393,
       "comments": 0,
       "summary": "파우프린트 스튜디오의 오픈월드 몬스터 포획 rpg '애니모'가 최신 플레이 영상을 공개하며, 미래 도시 '아스트라'와 자연 생태계를 배경으로 한 높은 몰입감을 선...",
       "image": "https://img.ruliweb.com/data/news/tn/26/06/18/19ed8c8538a_cedbju.webp",
@@ -35557,7 +36447,7 @@
         },
         {
           "t": "p",
-          "v": "조회수 350 | 루리웹 | 입력 2026.06.18 (13:01:30)"
+          "v": "조회수 393 | 루리웹 | 입력 2026.06.18 (13:01:30)"
         },
         {
           "t": "p",
@@ -35770,7 +36660,7 @@
       "source": "루리웹",
       "date": "2026.06.18",
       "time": "13:01:28",
-      "views": 574,
+      "views": 623,
       "comments": 0,
       "summary": "사이게임즈는 액션 rpg '그랑블루 판타지 리링크 – 엔드리스 라그나로크'의 체험판을 배포하며 초반 스토리와 온라인 크로스 플레이 퀘스트를 경험할 수 있게 했다....",
       "image": "https://img.ruliweb.com/data/news/tn/26/06/18/19ed8bec3df_mdhisa.webp",
@@ -35782,7 +36672,7 @@
         },
         {
           "t": "p",
-          "v": "조회수 574 | 루리웹 | 입력 2026.06.18 (13:01:28)"
+          "v": "조회수 623 | 루리웹 | 입력 2026.06.18 (13:01:28)"
         },
         {
           "t": "p",
@@ -36027,8 +36917,8 @@
       "source": "루리웹",
       "date": "2026.06.18",
       "time": "13:01:26",
-      "views": 444,
-      "comments": 2,
+      "views": 525,
+      "comments": 3,
       "summary": "아크시스템웍스가 다수의 타이틀 최신 정보를 공개하는 '아크시스템웍스 쇼케이스 2026' 특별 방송을 개최한다고 밝혔다. 이 행사는 오는 2026년 6월 25일 목...",
       "image": "https://img.ruliweb.com/data/news/tn/26/06/18/19ed8c32bb7_tsvome.webp",
       "author": "이장원 기자",
@@ -36039,7 +36929,7 @@
         },
         {
           "t": "p",
-          "v": "조회수 444 | 루리웹 | 입력 2026.06.18 (13:01:26)"
+          "v": "조회수 526 | 루리웹 | 입력 2026.06.18 (13:01:26)"
         },
         {
           "t": "p",
@@ -36162,6 +37052,11 @@
           "nick": "응그래마자용",
           "text": "드디어 타입문.. 3대장 한글화 출시일 나오나요....!!!!! 지금인가요..!!!!!",
           "like": 0
+        },
+        {
+          "nick": "로메오카이",
+          "text": "로보카이 발표 할려나?",
+          "like": 0
         }
       ]
     },
@@ -36273,7 +37168,7 @@
     {
       "id": "ruliweb-2356268",
       "title": "아크시스템웍스 쇼케이스 2026 다음 주 방송 결정",
-      "url": "https://bbs.ruliweb.com/news/board/1001/read/2356268?",
+      "url": "https://bbs.ruliweb.com/news/board/1001/read/2356268?page=2",
       "source": "루리웹",
       "date": "2026.06.18",
       "image": "https://i1.ruliweb.com/img/26/06/18/19ed8c2fc79137dbd.webp",
@@ -36339,7 +37234,7 @@
       "source": "루리웹",
       "date": "2026.06.18",
       "time": "12:20:00",
-      "views": 1327,
+      "views": 1513,
       "comments": 3,
       "summary": "넥슨게임즈의 '블루 아카이브' 개발 과정이 ndc 2026에서 포스트모템 형식으로 공개되었으며, 차민서 pd는 비전 빌드 명확화와 일정 준수 등 성공 요인과 더불...",
       "image": "https://img.ruliweb.com/data/news/tn/26/06/18/19ed89ce852_ktzdln.webp",
@@ -36351,7 +37246,7 @@
         },
         {
           "t": "p",
-          "v": "조회수 1329 | 루리웹 | 입력 2026.06.18 (12:20:00)"
+          "v": "조회수 1513 | 루리웹 | 입력 2026.06.18 (12:20:00)"
         },
         {
           "t": "p",
@@ -36794,7 +37689,7 @@
     {
       "id": "ruliweb-2356265",
       "title": "한국닌텐도, 닌텐도 스위치 스포츠 리조트 한국어판 티저 페이지 공개",
-      "url": "https://bbs.ruliweb.com/news/board/1001/read/2356265?",
+      "url": "https://bbs.ruliweb.com/news/board/1001/read/2356265?page=2",
       "source": "루리웹",
       "date": "2026.06.18",
       "image": "https://i2.ruliweb.com/ori/26/06/18/19ed8b0f233242da.webp",
@@ -36853,11 +37748,6 @@
           "like": 0
         },
         {
-          "nick": "루리웹-2847201839",
-          "text": "주가 떨어졌다고 비겁하게 치트키를",
-          "like": 5
-        },
-        {
           "nick": "오르트구름",
           "text": "스위치 1때도 스포츠 용으로 조이콘 1세트 더 샀었는데 조이콘 1 호환 조금이라도 됬으면 스위치 스포츠 땜에 조이콘 1 세트는 처분 안했는데 ㅠㅠ",
           "like": 2
@@ -36875,7 +37765,7 @@
         {
           "nick": "QT예워닝",
           "text": "전작 스위치 스포츠 온라인 플레이가 너무 강제되는 부분이 있어서 이거는 좀 그렇게 안 되었으면 좋겠는데...",
-          "like": 3
+          "like": 4
         }
       ]
     },
@@ -36977,7 +37867,7 @@
           "v": "・매칭 에러와 관련된 대응을 실시했습니다."
         }
       ],
-      "comments": 6,
+      "comments": 7,
       "topComments": [
         {
           "nick": "모루모름",
@@ -36992,6 +37882,21 @@
         {
           "nick": "루리웹-1224532001",
           "text": "이거 재미는 있는데 온라인쪽 사람 없어서 망햇다던 그거 후속인가보죠?",
+          "like": 0
+        },
+        {
+          "nick": "RTX6080",
+          "text": "이거사면 본편도 포함되어있는건가요?",
+          "like": 0
+        },
+        {
+          "nick": "メ한조ξ",
+          "text": "RTX6080",
+          "like": 1
+        },
+        {
+          "nick": "RTX6080",
+          "text": "メ한조ξ",
           "like": 0
         }
       ]
@@ -37025,7 +37930,7 @@
       "source": "루리웹",
       "date": "2026.06.18",
       "time": "11:56:48",
-      "views": 219,
+      "views": 227,
       "comments": 0,
       "summary": "rpg 'another eden 시공을 넘는 고양이'가 7월 6일부로 『final fantasy ix』 콜라보 스토리 'memories of another sky...",
       "image": "https://img.ruliweb.com/data/news/tn/26/06/18/19ed8a8de90_qsmfvu.webp",
@@ -37037,7 +37942,7 @@
         },
         {
           "t": "p",
-          "v": "조회수 219 | 루리웹 | 입력 2026.06.18 (11:56:48)"
+          "v": "조회수 227 | 루리웹 | 입력 2026.06.18 (11:56:48)"
         },
         {
           "t": "p",
@@ -37456,8 +38361,8 @@
       "source": "루리웹",
       "date": "2026.06.18",
       "time": "11:50:00",
-      "views": 2650,
-      "comments": 20,
+      "views": 3131,
+      "comments": 23,
       "summary": "캡콤이 대전 격투 게임 '스트리트 파이터 6'의 새로운 캐릭터 '야스민' 트레일러를 공개하며 year 4 개막을 알렸다. 필리핀 전통 무예인 에스크리마와 카람빗 ...",
       "image": "https://img.ruliweb.com/data/news/tn/26/06/18/19ed8972e13_zpqsyi.webp",
       "author": "루리웹 기자",
@@ -37468,7 +38373,7 @@
         },
         {
           "t": "p",
-          "v": "조회수 2650 | 루리웹 | 입력 2026.06.18 (11:50:00)"
+          "v": "조회수 3131 | 루리웹 | 입력 2026.06.18 (11:50:00)"
         },
         {
           "t": "p",
@@ -37717,14 +38622,14 @@
       ],
       "topComments": [
         {
-          "nick": "호구왕자",
-          "text": "진짜 우리나라 일본 중국 아시아 게임회사들은 캐릭터를 예쁘고 멋있게 만들어서 좋음 되도않은 짓거리 안해서 좋음",
-          "like": 7
-        },
-        {
           "nick": "렘피지고스트",
           "text": "호구왕자",
-          "like": 2
+          "like": 3
+        },
+        {
+          "nick": "루리웹-0451967625",
+          "text": "렘피지고스트",
+          "like": 0
         },
         {
           "nick": "ʕ̢̣̣̣̣̩̩̩̩·͡˔·ོɁ",
@@ -37784,7 +38689,7 @@
         {
           "nick": "OMGDRAGOON",
           "text": "이부키+마코토 컨셉인가?",
-          "like": 0
+          "like": 1
         },
         {
           "nick": "마르케르스",
@@ -37805,6 +38710,19 @@
           "nick": "로메오카이",
           "text": "신캐릭 치곤 첫인상은 나쁘진 않군",
           "like": 0
+        },
+        {
+          "nick": "스페코",
+          "text": "",
+          "like": 2,
+          "imgs": [
+            "https://i1.ruliweb.com/cmt/26/06/18/19eda54690054926c.png"
+          ]
+        },
+        {
+          "nick": "[잇힝]",
+          "text": "이쁘게 잘나온거 같은뎅",
+          "like": 0
         }
       ]
     },
@@ -37815,7 +38733,7 @@
       "source": "루리웹",
       "date": "2026.06.18",
       "time": "11:47:10",
-      "views": 431,
+      "views": 461,
       "comments": 0,
       "summary": "전 세계적 인기 만화 '진격의 거인'의 공식 전시 '진격의 거인展 final'이 오는 6월 19일 서울 덕스 홍대에서 개막하며, 엘런의 집 지하실 재현 등 풍성한...",
       "image": "https://img.ruliweb.com/data/news/tn/26/06/18/19ed8a00a0f_hcsife.webp",
@@ -37827,7 +38745,7 @@
         },
         {
           "t": "p",
-          "v": "조회수 431 | 루리웹 | 입력 2026.06.18 (11:47:10)"
+          "v": "조회수 461 | 루리웹 | 입력 2026.06.18 (11:47:10)"
         },
         {
           "t": "p",
@@ -38008,7 +38926,7 @@
       "source": "루리웹",
       "date": "2026.06.18",
       "time": "11:42:43",
-      "views": 189,
+      "views": 194,
       "comments": 0,
       "summary": "모조게임즈는 던전탐험 로그라이트 게임 '플라워 서바이버스'에 1.5.0 무료 업데이트를 진행하며 신규 dlc 챔피언 '클라우스'를 출시했다. 클라우스는 적 처치 ...",
       "image": "https://img.ruliweb.com/data/news/tn/26/06/18/19ed89bf51d_gkxonc.webp",
@@ -38020,7 +38938,7 @@
         },
         {
           "t": "p",
-          "v": "조회수 189 | 루리웹 | 입력 2026.06.18 (11:42:43)"
+          "v": "조회수 194 | 루리웹 | 입력 2026.06.18 (11:42:43)"
         },
         {
           "t": "p",
@@ -38469,7 +39387,7 @@
       "source": "루리웹",
       "date": "2026.06.18",
       "time": "11:26:46",
-      "views": 174,
+      "views": 185,
       "comments": 0,
       "summary": "차세대 오픈월드 mmorpg '스카이 어비스: 혈맹의 서약'의 세계관 pv가 공개되며, 한때 영광스러웠던 하늘성이 배신으로 무너진 후 생존자들이 심연에서 인어족,...",
       "image": "https://img.ruliweb.com/data/news/tn/26/06/18/19ed88d06f3_kcvgmr.webp",
@@ -38481,7 +39399,7 @@
         },
         {
           "t": "p",
-          "v": "조회수 174 | 루리웹 | 입력 2026.06.18 (11:26:46)"
+          "v": "조회수 185 | 루리웹 | 입력 2026.06.18 (11:26:46)"
         },
         {
           "t": "p",
@@ -38667,7 +39585,7 @@
           "v": "「죄악을 척결하겠다…」"
         }
       ],
-      "comments": 4,
+      "comments": 5,
       "topComments": [
         {
           "nick": "개꿀맛!!",
@@ -38703,13 +39621,13 @@
           "like": 1
         },
         {
-          "nick": "히로유키",
-          "text": "미안하다 카오스야 아직 나나리도 못뽑았다",
-          "like": 2
-        },
-        {
           "nick": "Talesof..",
           "text": "카오스는 포르쉐로 대체되었다...",
+          "like": 0
+        },
+        {
+          "nick": "사과맛곰젤리",
+          "text": "맨처음 히든다리까지만 돌려보고 안나오면 말듯",
           "like": 0
         }
       ]
@@ -38721,7 +39639,7 @@
       "source": "루리웹",
       "date": "2026.06.18",
       "time": "11:00:06",
-      "views": 1014,
+      "views": 1146,
       "comments": 0,
       "summary": "스퀘어에닉스는 도트 아트와 3d cg가 결합된 신작 액션 rpg 『모험가 엘리엇의 천 년 이야기』를 닌텐도 스위치, 플레이스테이션 5 등 여러 플랫폼으로 발매하며...",
       "image": "https://img.ruliweb.com/data/news/tn/26/06/18/19ed8782e8a_uglrzj.webp",
@@ -38733,7 +39651,7 @@
         },
         {
           "t": "p",
-          "v": "조회수 1014 | 루리웹 | 입력 2026.06.18 (11:00:06)"
+          "v": "조회수 1146 | 루리웹 | 입력 2026.06.18 (11:00:06)"
         },
         {
           "t": "p",
@@ -39456,6 +40374,16 @@
           "seg": [
             {
               "t": "a",
+              "v": "https://bbs.ruliweb.com/game/87064/read/2554213",
+              "l": "(스포주의)첫마을인데~"
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "seg": [
+            {
+              "t": "a",
               "v": "https://bbs.ruliweb.com/game/87064/read/2554212",
               "l": "코드사용하신분 계신가요? 코드가 어떤아이템일까요?"
             }
@@ -39493,16 +40421,6 @@
         },
         {
           "t": "p",
-          "seg": [
-            {
-              "t": "a",
-              "v": "https://bbs.ruliweb.com/game/87064/read/2554206",
-              "l": "구매하신 분들 만족하시나요?"
-            }
-          ]
-        },
-        {
-          "t": "p",
           "v": "댓글"
         },
         {
@@ -39524,8 +40442,8 @@
       "source": "루리웹",
       "date": "2026.06.18",
       "time": "10:50:00",
-      "views": 3230,
-      "comments": 24,
+      "views": 3806,
+      "comments": 26,
       "summary": "넥슨은 '넥슨 리플레이'를 통해 과거 서비스 종료된 클래식 ip들을 단순 복각이 아닌 플랫폼으로 재조명하며 새로운 가치를 창출하고 있다. 오세형 리더는 팬덤의 기...",
       "image": "https://img.ruliweb.com/data/news/tn/26/06/18/19ed85e7012_mqxgol.webp",
       "author": "정필권 기자",
@@ -39536,7 +40454,7 @@
         },
         {
           "t": "p",
-          "v": "조회수 3230 | 루리웹 | 입력 2026.06.18 (10:50:00)"
+          "v": "조회수 3807 | 루리웹 | 입력 2026.06.18 (10:50:00)"
         },
         {
           "t": "p",
@@ -39825,7 +40743,7 @@
         {
           "nick": "Mr_kim2",
           "text": "크아도 부활시킬려고 죽인거니",
-          "like": 0
+          "like": 2
         },
         {
           "nick": "아미티",
@@ -39840,7 +40758,7 @@
         {
           "nick": "자막.",
           "text": "구구절절 말하지만 요약하자면 \"리스크 없이 너네 추억을 팔아야겠다\"",
-          "like": 0
+          "like": 1
         },
         {
           "nick": "부라리멜트다운",
@@ -39855,11 +40773,21 @@
         {
           "nick": "루리웹-6023764379",
           "text": "택컴 프로젝트 진행중인건 아는데 내가보기엔 나오기 글러먹은거 같음ㅋㅋ..",
-          "like": 0
+          "like": 1
         },
         {
           "nick": "heisZELDA",
           "text": "크아는 이놈들아",
+          "like": 0
+        },
+        {
+          "nick": "비오네",
+          "text": "뭐야 살리려면 일단 죽어야 해서 구작들 쓸어버리는 중이여?",
+          "like": 1
+        },
+        {
+          "nick": "에이다웡",
+          "text": "앨리멘탈 사가 내놔",
           "like": 0
         }
       ]
@@ -40036,7 +40964,7 @@
       "source": "루리웹",
       "date": "2026.06.18",
       "time": "10:34:37",
-      "views": 495,
+      "views": 539,
       "comments": 0,
       "summary": "스마일게이트의 다크 판타지 로그라이크 rpg '카오스 제로 나이트메어'가 시즌3 마지막 스토리 '별이 빛나는 밤'을 업데이트하며 은하 최고의 아이돌 테네브리아를 ...",
       "image": "https://img.ruliweb.com/data/news/tn/26/06/18/19ed85da0a2_uwvojd.webp",
@@ -40048,7 +40976,7 @@
         },
         {
           "t": "p",
-          "v": "조회수 495 | 루리웹 | 입력 2026.06.18 (10:34:37)"
+          "v": "조회수 539 | 루리웹 | 입력 2026.06.18 (10:34:37)"
         },
         {
           "t": "p",
@@ -40318,7 +41246,7 @@
       "source": "루리웹",
       "date": "2026.06.18",
       "time": "10:27:43",
-      "views": 586,
+      "views": 638,
       "comments": 0,
       "summary": "카카오게임즈는 라이온하트 스튜디오의 신작 mmorpg '오딘q: 발키리스콜'의 티저 사이트를 열고, 북유럽 신화 속 최후의 전쟁인 라그나로크를 배경으로 한 키비주...",
       "image": "https://img.ruliweb.com/data/news/tn/26/06/18/19ed856164b_lpksrj.webp",
@@ -40330,7 +41258,7 @@
         },
         {
           "t": "p",
-          "v": "조회수 586 | 루리웹 | 입력 2026.06.18 (10:27:43)"
+          "v": "조회수 638 | 루리웹 | 입력 2026.06.18 (10:27:43)"
         },
         {
           "t": "p",
@@ -40481,7 +41409,7 @@
       "source": "루리웹",
       "date": "2026.06.18",
       "time": "10:24:14",
-      "views": 249,
+      "views": 262,
       "comments": 0,
       "summary": "전자랜드는 6월 18일 용산 전자랜드 4층 'g:et play'에서 글로벌 게임 '명조: 워더링 웨이브'의 세계관을 구현한 체험형 팝업 스토어 '명조 night ...",
       "image": "https://img.ruliweb.com/data/news/tn/26/06/18/19ed8541d64_wjypok.webp",
@@ -40493,7 +41421,7 @@
         },
         {
           "t": "p",
-          "v": "조회수 249 | 루리웹 | 입력 2026.06.18 (10:24:14)"
+          "v": "조회수 262 | 루리웹 | 입력 2026.06.18 (10:24:14)"
         },
         {
           "t": "p",
@@ -40802,7 +41730,7 @@
       "source": "루리웹",
       "date": "2026.06.18",
       "time": "10:18:23",
-      "views": 620,
+      "views": 638,
       "comments": 0,
       "summary": "포켓몬코리아는 포켓몬 30주년을 기념하여 오는 7월 17일부터 부산에서 '포켓몬 메가페스타 2026 in 부산'을 개최하며, 부산역 등 주요 도시철도 역사 5곳에...",
       "image": "https://img.ruliweb.com/data/news/tn/26/06/18/19ed84e9ff2_gvlwxa.webp",
@@ -40814,7 +41742,7 @@
         },
         {
           "t": "p",
-          "v": "조회수 620 | 루리웹 | 입력 2026.06.18 (10:18:23)"
+          "v": "조회수 638 | 루리웹 | 입력 2026.06.18 (10:18:23)"
         },
         {
           "t": "p",
@@ -41009,7 +41937,7 @@
       "source": "루리웹",
       "date": "2026.06.18",
       "time": "10:13:20",
-      "views": 362,
+      "views": 363,
       "comments": 0,
       "summary": "엔씨의 mmorpg 'tl'이 대규모 업데이트 '얼어붙은 경계: 닉스'를 공개하며, 이용자는 6월 23일부터 최대 규모 신규 영지 '닉스', 하이브리드 근접 무기...",
       "image": "https://img.ruliweb.com/data/news/tn/26/06/18/19ed84a210c_itugvm.webp",
@@ -41021,7 +41949,7 @@
         },
         {
           "t": "p",
-          "v": "조회수 362 | 루리웹 | 입력 2026.06.18 (10:13:20)"
+          "v": "조회수 363 | 루리웹 | 입력 2026.06.18 (10:13:20)"
         },
         {
           "t": "p",
@@ -41336,7 +42264,7 @@
       "source": "루리웹",
       "date": "2026.06.18",
       "time": "10:08:30",
-      "views": 1057,
+      "views": 1130,
       "comments": 0,
       "summary": "퍼펙트월드 산하 hotta studio의 rpg '이 gs25 편의점'과 컬래버레이션한 '편의점 타이쿤'이 18일부터 7월 15일까지 진행되며, 기간 중에는 컬래...",
       "image": "https://img.ruliweb.com/data/news/tn/26/06/18/19ed8450968_miklay.webp",
@@ -41348,7 +42276,7 @@
         },
         {
           "t": "p",
-          "v": "조회수 1057 | 루리웹 | 입력 2026.06.18 (10:08:30)"
+          "v": "조회수 1130 | 루리웹 | 입력 2026.06.18 (10:08:30)"
         },
         {
           "t": "p",
@@ -41573,6 +42501,16 @@
           "seg": [
             {
               "t": "a",
+              "v": "https://bbs.ruliweb.com/game/87144/read/2503316",
+              "l": "신이벤) 할거 생기니까 좋네요"
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "seg": [
+            {
+              "t": "a",
               "v": "https://bbs.ruliweb.com/game/87144/read/2503314",
               "l": "신규 이벤트 두개 하루 컷"
             }
@@ -41610,16 +42548,6 @@
         },
         {
           "t": "p",
-          "seg": [
-            {
-              "t": "a",
-              "v": "https://bbs.ruliweb.com/game/87144/read/2503307",
-              "l": "6/16 업데이트"
-            }
-          ]
-        },
-        {
-          "t": "p",
           "v": "댓글"
         },
         {
@@ -41641,7 +42569,7 @@
       "source": "루리웹",
       "date": "2026.06.18",
       "time": "10:04:08",
-      "views": 353,
+      "views": 359,
       "comments": 0,
       "summary": "코단샤 게임랩이 인터랙티브 노벨 '앤드 로저'를 닌텐도 스위치 2와 모바일(ios·안드로이드)로 출시하며 전 플랫폼 특별 할인 행사를 진행합니다. 누적 판매량 1...",
       "image": "https://img.ruliweb.com/data/news/tn/26/06/18/19ed841b46e_kcwozi.webp",
@@ -41653,7 +42581,7 @@
         },
         {
           "t": "p",
-          "v": "조회수 353 | 루리웹 | 입력 2026.06.18 (10:04:08)"
+          "v": "조회수 359 | 루리웹 | 입력 2026.06.18 (10:04:08)"
         },
         {
           "t": "p",
@@ -41818,7 +42746,7 @@
     {
       "id": "ruliweb-2356255",
       "title": "한국닌텐도, 닌텐도 스위치 2 포켓몬 포코피아 세트 발매 결정",
-      "url": "https://bbs.ruliweb.com/news/board/1001/read/2356255",
+      "url": "https://bbs.ruliweb.com/news/board/1001/read/2356255?page=2",
       "source": "루리웹",
       "date": "2026.06.18",
       "image": "https://i2.ruliweb.com/ori/26/06/18/19ed83fce97242da.webp",
@@ -42000,13 +42928,18 @@
           "nick": "마이온",
           "text": "박스는 이쁘네",
           "like": 1
+        },
+        {
+          "nick": "쿠로쟁이",
+          "text": "박스가 이뻐 갈아탑니다!!",
+          "like": 0
         }
       ]
     },
     {
       "id": "ruliweb-2356254",
       "title": "리듬 천국 미라클 스타즈 CM",
-      "url": "https://bbs.ruliweb.com/news/board/1001/read/2356254",
+      "url": "https://bbs.ruliweb.com/news/board/1001/read/2356254?page=2",
       "source": "루리웹",
       "date": "2026.06.18",
       "image": "https://img.youtube.com/vi/PrA0xMH_980/hqdefault.jpg",
@@ -42078,6 +43011,11 @@
           "nick": "김치찌개킬러",
           "text": "크~ 빨리와라",
           "like": 0
+        },
+        {
+          "nick": "오쟈마뇨ssb",
+          "text": "어 오니렌짱에서 시교ㅗ오오오ㅗ오오옹 외치던 맛도리 아조시네 ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ",
+          "like": 0
         }
       ]
     },
@@ -42088,7 +43026,7 @@
       "source": "루리웹",
       "date": "2026.06.18",
       "time": "10:00:00",
-      "views": 871,
+      "views": 894,
       "comments": 1,
       "summary": "닌텐도 스위치 게임 《매지컬 크래프트》가 2026년 6월 18일부터 홍콩과 대만에서 실물 패키지 및 아시아 각 지역 디지털 다운로드로 정식 발매된다. 이 라이프 ...",
       "image": "https://img.ruliweb.com/data/news/tn/26/06/17/19ed61109c0_idjons.webp",
@@ -42100,7 +43038,7 @@
         },
         {
           "t": "p",
-          "v": "조회수 871 | 루리웹 | 입력 2026.06.18 (10:00:00)"
+          "v": "조회수 894 | 루리웹 | 입력 2026.06.18 (10:00:00)"
         },
         {
           "t": "p",
@@ -42416,7 +43354,7 @@
       "source": "루리웹",
       "date": "2026.06.18",
       "time": "09:51:01",
-      "views": 163,
+      "views": 164,
       "comments": 0,
       "summary": "델 테크놀로지스가 xps 노트북과 에일리언웨어 라인업 등 소비자용 신제품 6종을 공개하며 포트폴리오를 강화했다. 이번 신제품에는 역대 가장 슬림한 xps 13, ...",
       "image": "https://img.ruliweb.com/data/news/tn/26/06/18/19ed835b460_blqyjr.webp",
@@ -42428,7 +43366,7 @@
         },
         {
           "t": "p",
-          "v": "조회수 163 | 루리웹 | 입력 2026.06.18 (09:51:01)"
+          "v": "조회수 164 | 루리웹 | 입력 2026.06.18 (09:51:01)"
         },
         {
           "t": "p",
@@ -42677,7 +43615,7 @@
       "source": "루리웹",
       "date": "2026.06.18",
       "time": "09:45:36",
-      "views": 146,
+      "views": 147,
       "comments": 0,
       "summary": "위메이드플레이는 모바일게임 '애니팡4'에서 6월 26일까지 여섯 번째 '루비왕' 이벤트를 진행하며, 퍼즐 플레이에 주사위 던지기, 보드 게임, 룰렛 등 다양한 요...",
       "image": "https://img.ruliweb.com/data/news/tn/26/06/18/19ed830b8ad_qnkive.webp",
@@ -42689,7 +43627,7 @@
         },
         {
           "t": "p",
-          "v": "조회수 146 | 루리웹 | 입력 2026.06.18 (09:45:36)"
+          "v": "조회수 147 | 루리웹 | 입력 2026.06.18 (09:45:36)"
         },
         {
           "t": "p",
@@ -42805,8 +43743,8 @@
     },
     {
       "id": "ruliweb-2356253",
-      "title": "에픽게임즈가 NS2에서 두배 빠른 성능을 제공하는 언리얼엔진 5의 업데이트를 공개",
-      "url": "https://bbs.ruliweb.com/news/board/1001/read/2356253",
+      "title": "에픽게임즈가 NS2에서 두배 빠른 성능을 제공하는 언리얼엔진 5의 업데이...",
+      "url": "https://bbs.ruliweb.com/news/board/1001/read/2356253?page=2",
       "source": "루리웹",
       "date": "2026.06.18",
       "image": "https://i3.ruliweb.com/ori/26/06/18/19ed82bae54242da.webp",
@@ -42956,7 +43894,7 @@
         {
           "nick": "니말이무조건옳습니다",
           "text": "하지만...업뎃 전에 얼마나 그지 같았는지는 얘기 안했다.....",
-          "like": 0
+          "like": 1
         }
       ]
     },
@@ -42967,7 +43905,7 @@
       "source": "루리웹",
       "date": "2026.06.18",
       "time": "09:42:57",
-      "views": 279,
+      "views": 280,
       "comments": 0,
       "summary": "해긴이 모바일 야구 게임 '2026 프로야구go!'를 업데이트하며 경기 몰입도를 높일 '치어리더 시스템'을 전격 도입하고, 각 구단별 투수·타자 총 10종의 신규...",
       "image": "https://img.ruliweb.com/data/news/tn/26/06/18/19ed82e51f1_ztxafw.webp",
@@ -42979,7 +43917,7 @@
         },
         {
           "t": "p",
-          "v": "조회수 279 | 루리웹 | 입력 2026.06.18 (09:42:57)"
+          "v": "조회수 280 | 루리웹 | 입력 2026.06.18 (09:42:57)"
         },
         {
           "t": "p",
@@ -43114,7 +44052,7 @@
       "source": "루리웹",
       "date": "2026.06.18",
       "time": "09:39:38",
-      "views": 139,
+      "views": 141,
       "comments": 0,
       "summary": "컴퓨터 부품 유통 전문 업체 서린씨앤아이가 써멀라이트의 신규 쿨링 팬 'tl-m12 시리즈'를 출시하며 조립 편의성을 높인 무선 데이지 체인 구조가 특징이다. 이...",
       "image": "https://img.ruliweb.com/data/news/tn/26/06/18/19ed82b4b20_qtyaic.webp",
@@ -43126,7 +44064,7 @@
         },
         {
           "t": "p",
-          "v": "조회수 139 | 루리웹 | 입력 2026.06.18 (09:39:38)"
+          "v": "조회수 141 | 루리웹 | 입력 2026.06.18 (09:39:38)"
         },
         {
           "t": "p",
@@ -43251,7 +44189,7 @@
       "source": "루리웹",
       "date": "2026.06.18",
       "time": "09:36:53",
-      "views": 109,
+      "views": 112,
       "comments": 0,
       "summary": "캐논코리아가 약 3,250만 화소 센서와 digic x 엔진을 탑재한 영상 특화 미러리스 카메라 'eos r6 v'와 표준 줌 렌즈 'rf20-50mm f4 l ...",
       "image": "https://img.ruliweb.com/data/news/tn/26/06/18/19ed828a9e0_bkjyam.webp",
@@ -43263,7 +44201,7 @@
         },
         {
           "t": "p",
-          "v": "조회수 109 | 루리웹 | 입력 2026.06.18 (09:36:53)"
+          "v": "조회수 112 | 루리웹 | 입력 2026.06.18 (09:36:53)"
         },
         {
           "t": "p",
@@ -43446,7 +44384,7 @@
     {
       "id": "ruliweb-2356252",
       "title": "나고시 스튜디오 공동 창립자 SNS 프로필 변경",
-      "url": "https://bbs.ruliweb.com/news/board/1001/read/2356252",
+      "url": "https://bbs.ruliweb.com/news/board/1001/read/2356252?page=2",
       "source": "루리웹",
       "date": "2026.06.18",
       "image": "https://i2.ruliweb.com/ori/26/06/18/19ed82726e710a2ff.webp",
@@ -43508,7 +44446,7 @@
         {
           "nick": "정말진짜로",
           "text": "나가서까지 또 미완성 또무로쵸인 건 좀 심했음",
-          "like": 13
+          "like": 14
         },
         {
           "nick": "루리웹-1092802801",
@@ -43528,7 +44466,7 @@
         {
           "nick": "라이오",
           "text": "사기아닌가 이정도면",
-          "like": 2
+          "like": 3
         },
         {
           "nick": "rudans",
@@ -43538,7 +44476,7 @@
         {
           "nick": "리무루 템페스트",
           "text": "예산을 적당히 쓰면서 만들어야지 신생 스튜디오 주제에 무슨 돈을 aaa이상을 쓸라고해",
-          "like": 5
+          "like": 6
         },
         {
           "nick": "takejun",
@@ -43619,7 +44557,7 @@
       "source": "루리웹",
       "date": "2026.06.18",
       "time": "09:31:49",
-      "views": 79,
+      "views": 81,
       "comments": 0,
       "summary": "글로벌 드론 기업 dji가 엔터프라이즈용 광역 전송 시스템 'dji o4 ground station'을 출시하며 신호 한계를 극복했다고 밝혔다. 이 시스템은 12...",
       "image": "https://img.ruliweb.com/data/news/tn/26/06/18/19ed823a53b_xdhbnk.webp",
@@ -43631,7 +44569,7 @@
         },
         {
           "t": "p",
-          "v": "조회수 79 | 루리웹 | 입력 2026.06.18 (09:31:49)"
+          "v": "조회수 81 | 루리웹 | 입력 2026.06.18 (09:31:49)"
         },
         {
           "t": "p",
@@ -43990,6 +44928,21 @@
           "nick": "원투펀치를날려",
           "text": "플스 합본 계속 기다렸는데 ㅠ",
           "like": 0
+        },
+        {
+          "nick": "メ한조ξ",
+          "text": "필구긴 한데 해상도 프레임 최적화가 어떨지 궁금하네요.",
+          "like": 0
+        },
+        {
+          "nick": "NPC 001",
+          "text": "이정도면 혜자네요. 스위치1으로 다크소울 리마스터도 재밌게했는데 그것보단 퍼포먼스가 잘나올거라 기대합니다.",
+          "like": 0
+        },
+        {
+          "nick": "뇌거친생강과",
+          "text": "PC로 5회차까지 했는데 서곡만 안해봤고 하 그냥 이거 살까...",
+          "like": 0
         }
       ]
     },
@@ -44150,7 +45103,7 @@
           ]
         }
       ],
-      "comments": 3,
+      "comments": 1,
       "topComments": [
         {
           "nick": "rule-des",
@@ -44158,14 +45111,9 @@
           "like": 0
         },
         {
-          "nick": "앙드레 바쟁",
-          "text": "똔&rarr;돈&rarr;돈&rarr;돈↘돈&rarr;똔↗ 똔&rarr;돈↘돈↘돈↘ 똔↗똔↗",
-          "like": 2
-        },
-        {
           "nick": "몽둥이찜질방",
           "text": "추억의 게임~",
-          "like": 1
+          "like": 2
         }
       ]
     },
@@ -44400,7 +45348,7 @@
         {
           "nick": "촤아아앗",
           "text": "희동구86",
-          "like": 3
+          "like": 4
         },
         {
           "nick": "루리웹-7085665056",
@@ -44415,7 +45363,7 @@
         {
           "nick": "시스프리 메이커",
           "text": "이드도 저 소속 아닌가",
-          "like": 3
+          "like": 4
         },
         {
           "nick": "희동구86",
@@ -44431,6 +45379,11 @@
           "nick": "Jirocul",
           "text": "얘들는 진짜 대수술이 필요하지",
           "like": 5
+        },
+        {
+          "nick": "루리웹-2432223941",
+          "text": "엑박이 플스 죽인다고 광란의 인수쇼 벌인 덕분에 플스도 반 광란 상태로 억지로 인수쇼에 참여했고 그 결과는 정말 참담하기 그지없네요... 이번 세대에 엑박이 끼친 악영향이 너무 끔찍한 수준입니다.....",
+          "like": 16
         },
         {
           "nick": "루리웹-7095299304",
@@ -44465,6 +45418,11 @@
         {
           "nick": "동방제과",
           "text": "레드폴 스타필드 스캠게임 2개 연속출시로 브랜드 가치 다 말아먹었는데 당시 스튜디오 폐쇄와 별개로 결국 대가를 치르는군요. 문제는 저런 퀄의 게임을 30프레임 출시를 허용했다는 거.",
+          "like": 0
+        },
+        {
+          "nick": "울동네지킴이",
+          "text": "회사가 어찌 되든 알빠 아닙니다. 게이머들은 혜자일때 쪼오오옥 빨아먹고 창렬 테크를 타면 버리기 ㄱㄱ",
           "like": 0
         }
       ]
@@ -44752,6 +45710,11 @@
           "nick": "클라우디카",
           "text": "근본없는 캐릭이라 생각했는데 생각보다 전투스타일 시원시원하고 괜찮은듯 철권 아주세나 같이 불쾌하지도 않게 디자인도 잘 만든듯 역시 격겜명가 캡콤",
           "like": 1
+        },
+        {
+          "nick": "루리웹-6327137403",
+          "text": "클라우디카",
+          "like": 0
         }
       ]
     },
@@ -44933,893 +45896,6 @@
           "like": 0
         }
       ]
-    },
-    {
-      "id": "ruliweb-2356242",
-      "title": "콜오브듀티 블랙옵스 1,2 이식판 발표",
-      "url": "https://bbs.ruliweb.com/news/board/1001/read/2356242?page=2",
-      "source": "루리웹",
-      "date": "2026.06.18",
-      "image": "https://i1.ruliweb.com/ori/26/06/18/19ed763649253d19c.webp",
-      "summary": "콜오브듀티 블랙옵스 1 2 이식판 발표",
-      "time": "06:01",
-      "author": "루리웹-912735355120",
-      "content": [
-        {
-          "t": "img",
-          "v": "https://i1.ruliweb.com/img/26/06/18/19ed763649253d19c.webp"
-        }
-      ],
-      "comments": 5,
-      "topComments": [
-        {
-          "nick": "로즈필드",
-          "text": "LAFC",
-          "like": 2
-        },
-        {
-          "nick": "TheGame_",
-          "text": "나이스 멀티!!!!!!!!",
-          "like": 2
-        },
-        {
-          "nick": "멍멍아 물어!",
-          "text": "사랑해황실장",
-          "like": 0
-        },
-        {
-          "nick": "gambbate",
-          "text": "리마스터는 해주는건가?",
-          "like": 2
-        },
-        {
-          "nick": "카일로123",
-          "text": "gambbate",
-          "like": 0
-        },
-        {
-          "nick": "10받네",
-          "text": "나이스 멀티",
-          "like": 1
-        },
-        {
-          "nick": "Viatoryu",
-          "text": "리마스터가 아닌 원판 그대로 이식인가",
-          "like": 1
-        },
-        {
-          "nick": "강철레이저",
-          "text": "Viatoryu",
-          "like": 0
-        },
-        {
-          "nick": "스팀덱vs리전고",
-          "text": "월드앳워도 해주지",
-          "like": 3
-        },
-        {
-          "nick": "사기꾼꺼져",
-          "text": "冷血誠民",
-          "like": 1
-        },
-        {
-          "nick": "안경",
-          "text": "WANTED",
-          "like": 2
-        },
-        {
-          "nick": "그림록",
-          "text": "모던3 리마스터도 마저 해줌 좋겠다",
-          "like": 1
-        },
-        {
-          "nick": "안경",
-          "text": "블랙옵스1 멀티, 싱글 모두 재밌었죠 싱글 스토리가 흥미진진하고 성우진도 빵빵 (개리 올드먼, 에드 해리스, 샘 워딩턴, 아이스큐브)",
-          "like": 1
-        },
-        {
-          "nick": "94_ung",
-          "text": "이건 사야겟다 콜옵 시리즈중 가장 재밌게한 사이코 스릴러",
-          "like": 1
-        },
-        {
-          "nick": "모루와망치",
-          "text": "리마스터 겠죠? 메덴데즈의 '좃ㅔ피나 !! ' 절규를 다시 듣게 된느건가...",
-          "like": 2
-        },
-        {
-          "nick": "박봉출",
-          "text": "진짜 재미있게 했었는데.",
-          "like": 2
-        },
-        {
-          "nick": "루리웹-8146561647",
-          "text": "가격 설마 풀프라이스 받진 않겠지? 가격보고 살듯..",
-          "like": 1
-        },
-        {
-          "nick": "Lucky7Eric",
-          "text": "와.. PC 버전 스팀 초창기에 등록한 게임으로 기억하는데, 찾아보니 2010년ㅜㅜ 근데 이거 플스로 나온 적이 없는거에요? (잘 몰라서...)",
-          "like": 1
-        },
-        {
-          "nick": "중고플스",
-          "text": "Lucky7Eric",
-          "like": 0
-        },
-        {
-          "nick": "게이형 멀린",
-          "text": "아이언갤럭시면 아캄나이트랑 라오어 이식한곳 아님? 불안한데...",
-          "like": 2
-        },
-        {
-          "nick": "선미",
-          "text": "블옵1은 뒤통수를 한 대 얻어맞은듯한 반전 엔딩이 정말 좋았고 블옵2는 시리즈 최초로 시도된 멀티 엔딩이 너무 좋았음... 무엇보다도 빌런인 메넨데스가 정말 매력적임...",
-          "like": 0
-        }
-      ]
-    },
-    {
-      "id": "ruliweb-2356241",
-      "title": "스파이더맨 2, 브랜드 뉴 데이 코스튬 추가 예정",
-      "url": "https://bbs.ruliweb.com/news/board/1001/read/2356241?page=2",
-      "source": "루리웹",
-      "date": "2026.06.18",
-      "image": "https://i1.ruliweb.com/ori/26/06/18/19ed705a365137dbd.webp",
-      "summary": "https x com PlayStation status 2067321531668238637브랜드 뉴 데이가 7월 31일 극장에서 개봉 7월 28일에는 마블 스파이더맨2 게임에 새로운 프레시 스타트 슈트 가 추가됩니다",
-      "time": "04:20",
-      "author": "이토 시즈카",
-      "content": [
-        {
-          "t": "yt",
-          "v": "6TnbSI4yfZY"
-        },
-        {
-          "t": "img",
-          "v": "https://i1.ruliweb.com/img/26/06/18/19ed705a365137dbd.webp"
-        },
-        {
-          "t": "p",
-          "seg": [
-            {
-              "t": "a",
-              "v": "https://x.com/PlayStation/status/2067321531668238637",
-              "l": "https://x.com/PlayStation/status/2067321531668238637"
-            }
-          ]
-        },
-        {
-          "t": "p",
-          "v": "브랜드 뉴 데이가 7월 31일 극장에서 개봉,"
-        },
-        {
-          "t": "p",
-          "v": "7월 28일에는 마블 스파이더맨2 게임에 새로운 ‘프레시 스타트 슈트’가 추가됩니다."
-        },
-        {
-          "t": "yt",
-          "v": "dosbhD_1LIo"
-        }
-      ],
-      "comments": 2,
-      "topComments": [
-        {
-          "nick": "씨익..☆",
-          "text": "1편 리마에도 추가해줘요ㅠ",
-          "like": 0
-        },
-        {
-          "nick": "새누",
-          "text": "게임에 코스튬 추가 ㅎ",
-          "like": 1
-        }
-      ]
-    },
-    {
-      "id": "ruliweb-2356239",
-      "title": "어쌔신 크리드: 블랙 플래그 리싱크드 골드행",
-      "url": "https://bbs.ruliweb.com/news/board/1001/read/2356239?page=2",
-      "source": "루리웹",
-      "date": "2026.06.18",
-      "image": null,
-      "summary": "https x com assassinscreed status 2067276081858519486어쌔신 크리드 블랙 플래그 리싱크드 골드행2026년 7월 9일 발매",
-      "time": "02:05",
-      "author": "nokcha",
-      "content": [
-        {
-          "t": "p",
-          "seg": [
-            {
-              "t": "a",
-              "v": "https://x.com/assassinscreed/status/2067276081858519486",
-              "l": "https://x.com/assassinscreed/status/2067276081858519486"
-            }
-          ]
-        },
-        {
-          "t": "p",
-          "v": "어쌔신 크리드: 블랙 플래그 리싱크드 골드행"
-        },
-        {
-          "t": "p",
-          "v": "2026년 7월 9일 발매"
-        }
-      ],
-      "comments": 3,
-      "topComments": [
-        {
-          "nick": "은꼬르러브",
-          "text": "",
-          "like": 91,
-          "best": true,
-          "imgs": [
-            "https://i3.ruliweb.com/cmt/26/06/18/19ed69470651c1258.png"
-          ]
-        },
-        {
-          "nick": "나는야 멀티유저",
-          "text": "",
-          "like": 56,
-          "best": true,
-          "imgs": [
-            "https://i3.ruliweb.com/cmt/26/06/18/19ed691857857c8a4.jpeg"
-          ]
-        },
-        {
-          "nick": "나는야 멀티유저",
-          "text": "",
-          "like": 56,
-          "imgs": [
-            "https://i3.ruliweb.com/cmt/26/06/18/19ed691857857c8a4.jpeg"
-          ]
-        },
-        {
-          "nick": "은꼬르러브",
-          "text": "",
-          "like": 91,
-          "imgs": [
-            "https://i3.ruliweb.com/cmt/26/06/18/19ed69470651c1258.png"
-          ]
-        },
-        {
-          "nick": "한번만봐줘ㅜㅜ",
-          "text": "은꼬르러브",
-          "like": 4
-        },
-        {
-          "nick": "조블랙의 사랑",
-          "text": "나는야 멀티유저",
-          "like": 3
-        },
-        {
-          "nick": "ピカチュウ帝国",
-          "text": "MK2077",
-          "like": 5
-        },
-        {
-          "nick": "나이뚜",
-          "text": "irwin",
-          "like": 7
-        },
-        {
-          "nick": "루리웹-0202659184",
-          "text": "ピカチュウ帝国",
-          "like": 4,
-          "imgs": [
-            "https://i1.ruliweb.com/cmt/26/06/18/19ed831e5f74fa100.png"
-          ]
-        },
-        {
-          "nick": "루리웹-0202659184",
-          "text": "따잃학상",
-          "like": 0
-        },
-        {
-          "nick": "다이애나☆",
-          "text": "내가 기억하는 어세신크리드.. 진짜 최고명작이엇던게 4탄 블랙플래그엿던거같음 와와.. 그당시, 해적선 몰면서 진짜 선원들이랑 같이 바다를 돌아뎅기면서 대포쏘고 전쟁하고. 진짜 그 당시 게임그래픽들 생각하면 대충격의 작품. 최고명작같음 이후엔, 그 그리스 배경의 여캐나온 어크가 잼낫던 오딧세이엿나.",
-          "like": 3
-        },
-        {
-          "nick": "ピカチュウ帝国",
-          "text": "다이애나☆",
-          "like": 5
-        },
-        {
-          "nick": "nironman",
-          "text": "편안",
-          "like": 0
-        },
-        {
-          "nick": "물방게",
-          "text": "유비가 어크조선 만들때까지 살려야 한다",
-          "like": 1
-        },
-        {
-          "nick": "준스보이",
-          "text": "유비가 빈성하길 바랬지 망하길 바란적ㅇ.ㄴ 없다. 이러니저러니해도 라이브러리에 가보면 어크 시리즈는 다 있는듯. 아.. 미라지만 빼고..",
-          "like": 0
-        },
-        {
-          "nick": "새누",
-          "text": "웹툰 스토리 dlc 추가 안될려나",
-          "like": 0
-        },
-        {
-          "nick": "Bictory",
-          "text": "사실 게임이 재미있던건 아닌데 저 해상전과 항해때문에 산다",
-          "like": 0
-        }
-      ]
-    },
-    {
-      "id": "ruliweb-2356238",
-      "title": "캡콤 '스트리트 파이터6' 시즌4 신캐 야스민 곧 공개예정.",
-      "url": "https://bbs.ruliweb.com/news/board/1001/read/2356238?page=2",
-      "source": "루리웹",
-      "date": "2026.06.18",
-      "image": "https://i3.ruliweb.com/ori/26/06/18/19ed66db97e58c6a6.webp",
-      "summary": "잠시후 시즌4 구매자들 신캐릭터야스미 영상 6시간뒤 공개됩니다 시즌4 참고로 순차적으로 캐릭터들이 계속 공개 예정 화제의 파판7 티파포함",
-      "time": "01:35",
-      "author": "다이애나☆",
-      "content": [
-        {
-          "t": "img",
-          "v": "https://i3.ruliweb.com/img/26/06/18/19ed66db97e58c6a6.webp"
-        },
-        {
-          "t": "p",
-          "v": "잠시후, 시즌4 구매자들 신캐릭터"
-        },
-        {
-          "t": "p",
-          "v": "야스미 영상, 6시간뒤 공개됩니다."
-        },
-        {
-          "t": "yt",
-          "v": "7Yyi5OeuIgw"
-        },
-        {
-          "t": "img",
-          "v": "https://i3.ruliweb.com/img/26/06/18/19ed670d1a758c6a6.webp"
-        },
-        {
-          "t": "p",
-          "v": "시즌4, 참고로 순차적으로 캐릭터들이"
-        },
-        {
-          "t": "p",
-          "v": "계속 공개 예정 (화제의 파판7 티파포함)"
-        }
-      ],
-      "comments": 4,
-      "topComments": [
-        {
-          "nick": "방못난이",
-          "text": "자스민 아닌가?",
-          "like": 0
-        },
-        {
-          "nick": "오레노피코",
-          "text": "방못난이",
-          "like": 3,
-          "imgs": [
-            "https://i3.ruliweb.com/cmt/26/06/18/19ed7d765fd80c4f.png"
-          ]
-        },
-        {
-          "nick": "irwin",
-          "text": "썸네일만 봐도 티파에 눈이가긴 하네요 ㅋ",
-          "like": 3
-        },
-        {
-          "nick": "토깽2",
-          "text": "걍 사쿠라나 마코토 내주징 꼬챙이도 날올때 된거 같은데",
-          "like": 4
-        },
-        {
-          "nick": "갓시그마(Σ)",
-          "text": "난 특이하지만 하칸을 기다렸다굿!!!!!!!!!",
-          "like": 4
-        },
-        {
-          "nick": "뭉치면 이상해지는것들!!?",
-          "text": "다 신캐네.",
-          "like": 1
-        },
-        {
-          "nick": "SEGA Sauce",
-          "text": "근데 신캐가 다 어디서 한번씩 본거 같아...",
-          "like": 1
-        },
-        {
-          "nick": "루리웹-3228832709",
-          "text": "모델리이 기깔나게 뽑아져 나올것같긴하다",
-          "like": 2
-        },
-        {
-          "nick": "장동건",
-          "text": "신캐릭터들 이발 좀 시켜라.",
-          "like": 3
-        },
-        {
-          "nick": "로메오카이",
-          "text": "이번 Year 4 티파만 살까?",
-          "like": 2
-        },
-        {
-          "nick": "차주 성깔있음",
-          "text": "야스",
-          "like": 2
-        },
-        {
-          "nick": "deepriver",
-          "text": "칼들고 들어오면 반칙아니냐",
-          "like": 2
-        },
-        {
-          "nick": "아덴시아",
-          "text": "이제 월드투어도 안만든다면.. 캐릭터 4개가 아니라, 6개정도는 내놔야지~~~~",
-          "like": 1
-        },
-        {
-          "nick": "세기말의쎄자",
-          "text": "티파 인질극이긴 하네",
-          "like": 2
-        },
-        {
-          "nick": "쭈꾸루",
-          "text": "야스?!?",
-          "like": 0
-        }
-      ]
-    },
-    {
-      "id": "ruliweb-2356237",
-      "title": "콜 오브 듀티: 뱅가드 게임패스 등록",
-      "url": "https://bbs.ruliweb.com/news/board/1001/read/2356237?page=2",
-      "source": "루리웹",
-      "date": "2026.06.18",
-      "image": "https://i1.ruliweb.com/ori/26/06/18/19ed6696bf0242da.webp",
-      "summary": "콜 오브 듀티 뱅가드 게임패스 등록",
-      "time": "01:28",
-      "author": "nokcha",
-      "content": [
-        {
-          "t": "img",
-          "v": "https://i3.ruliweb.com/img/26/06/18/19ed668d65a242da.webp"
-        },
-        {
-          "t": "img",
-          "v": "https://i3.ruliweb.com/img/26/06/18/19ed668d81a242da.webp"
-        },
-        {
-          "t": "img",
-          "v": "https://i1.ruliweb.com/img/26/06/18/19ed6696bf0242da.webp"
-        }
-      ],
-      "comments": 5,
-      "topComments": [
-        {
-          "nick": "다이애나☆",
-          "text": "콜옵 모던워페어 4 .. 북한이랑 싸운다던데. 완전 기대중, 이건 겜패 등록 안된건가요.",
-          "like": 2
-        },
-        {
-          "nick": "중고플스",
-          "text": "햇살속인형",
-          "like": 3
-        },
-        {
-          "nick": "햇살속인형",
-          "text": "jiballove",
-          "like": 1
-        },
-        {
-          "nick": "울동네지킴이",
-          "text": "갓패스",
-          "like": 4
-        },
-        {
-          "nick": "용꼬리™",
-          "text": "이따 저녁때 후딱 싱글 플레이 해봐야겠다.",
-          "like": 2
-        },
-        {
-          "nick": "Technos",
-          "text": "엄청 짧아서 하루면 다 깹니다 그것도 시네마틱 보는 시간이 더 길 정도 ㅎㅎ",
-          "like": 2
-        },
-        {
-          "nick": "너의고향은",
-          "text": "멀티 사람은 있을까?",
-          "like": 0
-        }
-      ]
-    },
-    {
-      "id": "ruliweb-2356236",
-      "title": "모험가 엘리엇의 천 년 이야기 플랫폼 별 성능 분석",
-      "url": "https://bbs.ruliweb.com/news/board/1001/read/2356236?page=2",
-      "source": "루리웹",
-      "date": "2026.06.18",
-      "image": null,
-      "summary": "Which is the best version of The Adventures of Elliot The Millennium Tales PS5 Xbox Switch 2 PC compared RPG Sitehttps www rpgsite net feature 20708 the of adve",
-      "time": "00:54",
-      "author": "테메노스",
-      "content": [
-        {
-          "t": "p",
-          "v": "Which is the best version of The Adventures of Elliot: The Millennium Tales? PS5, Xbox, Switch 2 & PC compared | RPG Site"
-        },
-        {
-          "t": "p",
-          "seg": [
-            {
-              "t": "a",
-              "v": "https://www.rpgsite.net/feature/20708-the-of-adventures-elliot-the-millennium-tales-ps5-vs-switch-2-full-game-xbox-pc-steam-deck-comparison",
-              "l": "https://www.rpgsite.net/feature/20708-the-of-adventures-elliot-the-millennium-tales-ps5-vs-switch-2-full-game-xbox-pc-steam-deck-comparison"
-            }
-          ]
-        },
-        {
-          "t": "p",
-          "v": "그래픽 및 퍼포먼스 분석"
-        },
-        {
-          "t": "p",
-          "v": "높은 사양 요구: 기존 HD-2D 게임들보다 요구 사양이 높아 휴대용 기기에서는 60fps 고정이 거의 불가능합니다."
-        },
-        {
-          "t": "p",
-          "v": "시각적 문제: 해상도가 낮아지면 그래픽이 심하게 깨지거나 뭉개지는 현상(Shimmering)이 발생하여 시각적 피로도가 높습니다."
-        },
-        {
-          "t": "p",
-          "v": "기기별 특징 및 추천 가이드"
-        },
-        {
-          "t": "p",
-          "v": "PS5 / PS5 Pro (TV 플레이 최적화): 로딩 속도가 가장 빠릅니다. 특히 PS5 Pro는 부스트 모드를 통해 TV 환경에서 가장 선명하고 뛰어난 그래픽을 제공합니다."
-        },
-        {
-          "t": "p",
-          "v": "Xbox Series / Xbox PC (에코시스템 우수): 'Play Anywhere'와 'Quick Resume'을 지원해 기기 간 전환이 자유롭습니다. 해상도 면에서도 우수합니다."
-        },
-        {
-          "t": "p",
-          "v": "Steam / PC (최적화 부족): 해상도 설정 버그(전체화면 적용 불가)와 잦은 화면 끊김(Stuttering) 문제가 있어 패치가 시급합니다."
-        },
-        {
-          "t": "p",
-          "v": "Steam Deck (휴대용 최적화): 해상도와 프레임(30~45fps)을 타협하면 현재 휴대용 기기 중에서는 가장 안정적인 플레이가 가능합니다."
-        },
-        {
-          "t": "p",
-          "v": "Nintendo Switch 2 (아쉬운 이식): 프레임 방어에 실패하고 그래픽 뭉개짐이 매우 심합니다. 기기의 휴대성(하이브리드)을 최우선으로 여기는 것이 아니라면 현재로서는 추천하기 어려우며, 30fps 고정 품질 모드 패치가 필요합니다."
-        },
-        {
-          "t": "p",
-          "v": "로딩 속도 비교"
-        },
-        {
-          "t": "p",
-          "v": "가장 빠름: PS5 및 PS5 Pro (저장 데이터 로딩 5~6초)"
-        },
-        {
-          "t": "p",
-          "v": "보통: Xbox Series X, Steam PC/Deck (8~9초)"
-        },
-        {
-          "t": "p",
-          "v": "가장 느림: Switch 2 (11~13초) 및 동기화가 필요한 Xbox PC"
-        },
-        {
-          "t": "p",
-          "v": "개선 필요 사항 (Patch Requests)"
-        },
-        {
-          "t": "p",
-          "v": "PC 버전의 화면 끊김 및 해상도 설정 버그 수정"
-        },
-        {
-          "t": "p",
-          "v": "화면 흔들림(Screen shake) 및 히트스탑 옵션 끄기 기능 추가"
-        },
-        {
-          "t": "p",
-          "v": "Switch 2 버전의 그래픽 품질 개선 및 30fps 고정 모드 추가"
-        }
-      ],
-      "comments": 5,
-      "topComments": [
-        {
-          "nick": "다이애나☆",
-          "text": "게임자체 진짜 재밋는데. 가격이 쫌 높음..",
-          "like": 11
-        },
-        {
-          "nick": "하야야하",
-          "text": "다이애나☆",
-          "like": 15
-        },
-        {
-          "nick": "다이애나☆",
-          "text": "하야야하",
-          "like": 5
-        },
-        {
-          "nick": "연쇄부먹자",
-          "text": "뭔 요즘 기기 사양에서 60이 안되죠.",
-          "like": 9
-        },
-        {
-          "nick": "미래를",
-          "text": "DoomSlayer",
-          "like": 1
-        },
-        {
-          "nick": "루리웹-3708230679",
-          "text": "미래를",
-          "like": 3
-        },
-        {
-          "nick": "하야야하",
-          "text": "문.",
-          "like": 5
-        },
-        {
-          "nick": "캐미화이트",
-          "text": "SolidSnake™",
-          "like": 3
-        },
-        {
-          "nick": "게임업계는루리인들을채용하라",
-          "text": "믿거 스퀘어가 돼버렸네,",
-          "like": 10
-        },
-        {
-          "nick": "기가찮",
-          "text": "게임업계는루리인들을채용하라",
-          "like": 5
-        },
-        {
-          "nick": "Eclair__",
-          "text": "이거 언리얼5던데",
-          "like": 4
-        },
-        {
-          "nick": "양농부",
-          "text": "진짜 기술력딸리나 언리얼4 아니고는 제대로 최적화를 못하는거같네",
-          "like": 8
-        },
-        {
-          "nick": "클램프모코나",
-          "text": "스위치2는 제일 구린데 키카드네...",
-          "like": 13
-        },
-        {
-          "nick": "선녀와아무꿈",
-          "text": "클램프모코나",
-          "like": 3
-        },
-        {
-          "nick": "캐미화이트",
-          "text": "선녀와아무꿈",
-          "like": 3
-        },
-        {
-          "nick": "마시멜로☆",
-          "text": "이게 플스5 프로까지 필요한 게임이였다니",
-          "like": 5
-        },
-        {
-          "nick": "별부스러기",
-          "text": "옥토패스 소스 재활용 ㅋㅋㅋ 스퀘어 요즘 이걸로 밀고 나가데",
-          "like": 5
-        },
-        {
-          "nick": "과장차장부장와장창",
-          "text": "데모때는 딱히 이상 못 느꼈는데 제품판은 pc뭔가 최적화 ㅈ 박았나 보네...",
-          "like": 1
-        },
-        {
-          "nick": "개인과개인이개입된게임",
-          "text": "덤핑가겠다~",
-          "like": 2
-        },
-        {
-          "nick": "루리웹-7366708487",
-          "text": "도대체 이딴 게임도 최적화 못하는 스퀘닉스 니들은 진짜",
-          "like": 9
-        },
-        {
-          "nick": "SNOW-I",
-          "text": "Hd-2d 게임은 스위치가 제격인데.... 데모는 괜찮았던거 같은데 아쉽네요",
-          "like": 0
-        },
-        {
-          "nick": "알면 그랬겠나!",
-          "text": "흠 umpc로 돌릴껀데 스터터링이라니..",
-          "like": 1
-        },
-        {
-          "nick": "골든딜리셔스보로트펀치",
-          "text": "근데 hd 2d가 은근히 사양 높다고들었는데 진짜인가",
-          "like": 0
-        },
-        {
-          "nick": "하루이사",
-          "text": "스위치2 데모 해보고 불안해서 그냥 플스로 갔는데 다행이구만...",
-          "like": 1
-        },
-        {
-          "nick": "張劍鐵",
-          "text": "저 그래픽이 스위치2로 60 방어가 안된다고? ㅎㄷㄷ",
-          "like": 1
-        },
-        {
-          "nick": "공허의 신혜선♥",
-          "text": "최적화 좀 잡히면 그 때 사야겠다 스위치 판으로 하려고했는디",
-          "like": 0
-        },
-        {
-          "nick": "시간이없는게아니라할게많은거임",
-          "text": "플레이 영상보고 도트 감성에 스위치2판으로 살려고 했는데 습...플스판을 사야 하나...",
-          "like": 0
-        },
-        {
-          "nick": "시드tlem",
-          "text": "스위치2가 저정도면 이후 나올 파판레조넌스도 좀 에반데...",
-          "like": 0
-        },
-        {
-          "nick": "빨강머리엔",
-          "text": "그래서 스위치로는 독점게임이나 리마스터 수준 게임만 돌림",
-          "like": 0
-        }
-      ]
-    },
-    {
-      "id": "ruliweb-2356235",
-      "title": "기어스 오브 워 E-Day 시네마틱 트레일러, 테크데모 영상 (XSX 6...",
-      "url": "https://bbs.ruliweb.com/news/board/1001/read/2356235?page=2",
-      "source": "루리웹",
-      "date": "2026.06.18",
-      "image": "https://i1.ruliweb.com/ori/26/06/18/19ed629f9ff242da.webp",
-      "summary": "XSX에서 60fps",
-      "time": "00:03",
-      "author": "nokcha",
-      "content": [
-        {
-          "t": "yt",
-          "v": "9c6RGAkZA2Q"
-        },
-        {
-          "t": "yt",
-          "v": "eyLIZEGJ2_Y"
-        },
-        {
-          "t": "img",
-          "v": "https://i1.ruliweb.com/img/26/06/18/19ed629f9ff242da.webp"
-        },
-        {
-          "t": "p",
-          "v": "XSX에서 60fps"
-        }
-      ],
-      "comments": 4,
-      "topComments": [
-        {
-          "nick": "루리웹-0178274518",
-          "text": "",
-          "like": 24,
-          "best": true,
-          "imgs": [
-            "https://i2.ruliweb.com/cmt/26/06/18/19ed6275cf453dd39.png"
-          ]
-        },
-        {
-          "nick": null,
-          "text": "삭제된 댓글입니다.",
-          "like": null
-        },
-        {
-          "nick": "루리웹-0178274518",
-          "text": "",
-          "like": 24,
-          "imgs": [
-            "https://i2.ruliweb.com/cmt/26/06/18/19ed6275cf453dd39.png"
-          ]
-        },
-        {
-          "nick": "루리웹-7972236768",
-          "text": "올해 최다 고티",
-          "like": 9
-        },
-        {
-          "nick": "pjd245",
-          "text": "옛날에 언리얼 엔진 5 메가라이트라고 보여준거 처음 적용된 게임인지 궁금하네요. https://youtu.be/duTMP-G0QEU?si=iydonN_6qsm-rSK1",
-          "like": 5
-        },
-        {
-          "nick": "중고플스",
-          "text": "pjd245",
-          "like": 3
-        },
-        {
-          "nick": "니모센드",
-          "text": "구리긴 하네",
-          "like": 8
-        },
-        {
-          "nick": "루리웹-7095299304",
-          "text": "솔까말 모름지기 테크데모라고 하면 뭔가 보자마자 와~ 하는 느낌이 있어야 하는데 그런건 전혀 없는...",
-          "like": 10
-        },
-        {
-          "nick": "키티냐옹",
-          "text": "그래도 마소가 콜리션 하나는 건졌네",
-          "like": 5
-        },
-        {
-          "nick": "루리웹-7972236768",
-          "text": "멀티 온라인 개재밌겠다",
-          "like": 5
-        },
-        {
-          "nick": "으다닷",
-          "text": "endfieldNTE",
-          "like": 3
-        },
-        {
-          "nick": "ha0987",
-          "text": "으다닷",
-          "like": 3
-        },
-        {
-          "nick": "울동네지킴이",
-          "text": "초갓겜",
-          "like": 3
-        },
-        {
-          "nick": "치지직_와이맨",
-          "text": "기어스 오브 워 2 와 3,저지먼트 를 리마스터 나 리메이크 해라 좀! 그거 나온다면 판매량 문제 없을텐데.ㅜㅜ",
-          "like": 3
-        },
-        {
-          "nick": "Free Tempo™",
-          "text": "근데 로커스트?? 얘들 정체가 뭐에요??",
-          "like": 3
-        },
-        {
-          "nick": "사쿠라지마 마이",
-          "text": "Free Tempo™",
-          "like": 3
-        },
-        {
-          "nick": "바키라",
-          "text": "와 진짜 별로고 성의없네. 헬기에 매달린 로커스트한테 사격하는데 총알이 박히는 것도 아니고 튕겨 나가는 것도 아니고 불꽃 좀 튀기고 총알이 다 흡수되네 ㅋㅋㅋ",
-          "like": 4
-        }
-      ]
-    },
-    {
-      "id": "ruliweb-2356234",
-      "title": "모험가 엘리엇의 천 년 이야기 발매 기념 일러스트",
-      "url": "https://bbs.ruliweb.com/news/board/1001/read/2356234?page=2",
-      "source": "루리웹",
-      "date": "2026.06.18",
-      "image": "https://i1.ruliweb.com/ori/26/06/18/19ed618ccc4137dbd.webp",
-      "summary": "모험가 엘리엇의 천 년 이야기 발매 기념 일러스트",
-      "time": "00:00",
-      "author": "이토 시즈카",
-      "content": [
-        {
-          "t": "img",
-          "v": "https://i1.ruliweb.com/img/26/06/18/19ed618ccc4137dbd.webp"
-        }
-      ],
-      "comments": 1
     },
     {
       "id": "ruliweb-2458",
