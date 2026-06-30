@@ -1,4 +1,4 @@
-diag_at=2026-06-30T11:46:00.534Z
+diag_at=2026-06-30T22:10:30.982Z
 game_targets=9
 game inven-13631 https://www.inven.co.kr/webzine/calendar/game/13631 status=404 len=7638
   title=인벤 | 종합 게임 커뮤니티 INVEN
