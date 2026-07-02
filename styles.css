@@ -148,8 +148,8 @@ a { color: inherit; }
   font-size: 13px; font-weight: 600; cursor: pointer;
 }
 .haptic-test-btn:active { background: var(--bg-card-hover); color: var(--text); }
-/* 페이크 햅틱 시각 펄스: 리스트 드래그 래칫마다 화면 구석에서 아주 짧게 반짝 —
-   실제 진동을 못 느끼는 기기에서 청각 틱과 함께 촉각 착각을 보강한다. */
+/* 페이크 햅틱 시각 펄스: 터치하는 동안 일정 간격으로 화면 구석에서 아주 짧게 반짝 —
+   실제 진동을 못 느끼는 기기에서 시각으로 촉각 착각을 보강한다. */
 .fake-haptic-pulse {
   position: fixed; right: 12px; bottom: calc(78px + var(--safe-bottom));
   width: 7px; height: 7px; border-radius: 50%;
