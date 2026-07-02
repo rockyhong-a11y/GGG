@@ -140,6 +140,8 @@ a { color: inherit; }
 }
 .theme-opt svg { width: 15px; height: 15px; }
 .theme-opt.sel { background: var(--accent); color: #fff; }
+/* 햅틱 토글: iOS 17.4+ 는 네이티브 switch 로 렌더링(토글 시 시스템 햅틱), 그 외는 체크박스 */
+.haptic-switch { accent-color: var(--accent); transform: scale(1.25); margin-right: 4px; cursor: pointer; }
 .sheet-close {
   background: none; border: none; color: var(--text-dim);
   font-size: 18px; cursor: pointer; width: 32px; height: 32px; border-radius: 8px;
