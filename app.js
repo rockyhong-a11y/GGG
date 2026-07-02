@@ -6,32 +6,35 @@
 
 // 인벤 발매 캘린더의 실제 분류와 일치 (카드 배지)
 /* ---------- 햅틱 피드백 ----------
- * iOS Safari는 Web Vibration API(navigator.vibrate)를 지원하지 않는다(배터리·프라이버시
- * 정책상 WebKit 미구현, 애플 공식 정책 — 캐시/코드 문제가 아니라 플랫폼 자체의 한계).
- * 대신 Safari 17.4+ 는 네이티브 switch 입력을 실제 사용자 제스처 안에서 토글하면
- * 진짜 Taptic Engine 햅틱이 울린다(문서화된 유일한 iOS 웹 햅틱 우회). 화면 밖에 숨긴
- * <input type="checkbox" switch> 를 만들어두고 매번 체크 상태를 뒤집어 이를 활용한다.
- * 안드로이드 Chrome 등 Vibration API 지원 브라우저에는 navigator.vibrate를 그대로 사용. */
-let _hapticSwitch = null;
-function _getHapticSwitch() {
-  if (_hapticSwitch) return _hapticSwitch;
-  const el = document.createElement("input");
-  el.type = "checkbox";
-  el.setAttribute("switch", "");
-  el.setAttribute("aria-hidden", "true");
-  el.tabIndex = -1;
-  el.style.cssText = "position:fixed;top:-999px;left:-999px;width:1px;height:1px;opacity:0;pointer-events:none;";
-  document.body.appendChild(el);
-  _hapticSwitch = el;
-  return el;
+ * iOS는 사파리·크롬·홈화면 웹앱 모두 동일한 WebKit 엔진이라 navigator.vibrate 가
+ * 전부 미지원(애플 정책)이다. 실기기에서 검증된 유일한 방법은 iOS 17.4+ 의 네이티브
+ * switch 컨트롤 토글 — 단, 호출 패턴이 정확해야 한다: 매 호출마다 display:none 인
+ * <label><input type=checkbox switch></label> 를 새로 만들어 label.click() 후 제거
+ * (ios-haptics 패키지와 동일 패턴; 화면 밖 고정 배치·요소 재사용 방식은 울리지 않는
+ * 사례가 있어 폐기). 렌더링 여부와 무관하게 switch 상태 토글 자체가 Taptic 을 울린다.
+ * 안드로이드 크롬 등 Vibration API 지원 브라우저는 navigator.vibrate 병행.
+ * 한계: iOS 17.4 미만은 웹에서 햅틱 자체가 불가능. iOS 는 세기 조절도 불가(강함=2회). */
+const HAPTIC_KEY = "gnw-haptic";
+const hapticEnabled = () => { try { return localStorage.getItem(HAPTIC_KEY) !== "off"; } catch { return true; } };
+function _hapticTick() {
+  try {
+    const label = document.createElement("label");
+    label.setAttribute("aria-hidden", "true");
+    label.style.display = "none";
+    const input = document.createElement("input");
+    input.type = "checkbox";
+    input.setAttribute("switch", "");
+    label.appendChild(input);
+    document.head.appendChild(label);
+    label.click();                      // switch 토글 → iOS Taptic Engine
+    document.head.removeChild(label);
+  } catch { /* 미지원 환경은 조용히 무시 */ }
 }
 const haptic = (intensity = "light") => {
-  if (navigator.vibrate) {
-    const durations = { light: 10, medium: 20, strong: 30 };
-    navigator.vibrate(durations[intensity] || 10);
-  }
-  // iOS Safari: 실제 사용자 제스처(touchstart/touchend 핸들러) 안에서 호출되어야 동작한다.
-  try { _getHapticSwitch().click(); } catch {}
+  if (!hapticEnabled()) return;
+  if (navigator.vibrate) navigator.vibrate({ light: 10, medium: 20, strong: 30 }[intensity] || 10);
+  _hapticTick();
+  if (intensity === "strong") setTimeout(_hapticTick, 120); // iOS: 강한 피드백은 두 번 톡톡
 };
 const EVENT_META = {
   release: { label: "출시", color: "#3ddc84" },
@@ -303,16 +306,22 @@ function setTab(cat) {
 
 function bindTabs() {
   document.querySelectorAll("#platformTabs .tab").forEach((t) =>
-    t.addEventListener("click", () => setTab(t.dataset.cat))
+    t.addEventListener("click", () => { haptic("light"); setTab(t.dataset.cat); })
   );
-  // 콘텐츠 좌우 스와이프로 탭 전환
+  // 콘텐츠 좌우 스와이프로 탭 전환 + 드래그 중 래칫 햅틱(휠 돌리듯 일정 거리마다 톡톡)
   const main = document.querySelector("main");
-  let x0 = null, y0 = null;
+  let x0 = null, y0 = null, tickY = null;
+  const RATCHET = 56; // 세로 드래그 픽셀당 틱 간격
   main.addEventListener("touchstart", (e) => {
-    const t = e.changedTouches[0]; x0 = t.clientX; y0 = t.clientY;
-    haptic("light");
+    const t = e.changedTouches[0]; x0 = t.clientX; y0 = t.clientY; tickY = t.clientY;
+  }, { passive: true });
+  main.addEventListener("touchmove", (e) => {
+    if (tickY == null) return;
+    const y = e.touches[0].clientY;
+    if (Math.abs(y - tickY) >= RATCHET) { haptic("light"); tickY = y; }
   }, { passive: true });
   main.addEventListener("touchend", (e) => {
+    tickY = null;
     if (x0 == null) return;
     const t = e.changedTouches[0];
     const dx = t.clientX - x0, dy = t.clientY - y0;
@@ -412,7 +421,6 @@ function bindPullToRefresh() {
     if (window.scrollY > 0 || detailOpen() || isLoading) return;
     if (e.touches.length !== 1) return;
     startY = e.touches[0].clientY; pulling = true; dist = 0;
-    haptic("light");
   }, { passive: true });
 
   let wasReady = false;
@@ -593,7 +601,17 @@ function bindTheme() {
 
 function bindSettings() {
   const overlay = $("#settingsSheet");
-  $("#settingsBtn").addEventListener("click", () => { buildIconGrid(); overlay.hidden = false; });
+  // 햅틱 토글: 보이는 네이티브 switch. iOS 17.4+ 는 손으로 켜고 끄는 것만으로 시스템이
+  // 햅틱을 울리므로(합성 클릭 불필요), 기기가 웹 햅틱을 지원하는지 확인하는 진단도 겸한다.
+  const ht = $("#hapticToggle");
+  if (ht) {
+    ht.checked = hapticEnabled();
+    ht.addEventListener("change", () => {
+      try { localStorage.setItem(HAPTIC_KEY, ht.checked ? "on" : "off"); } catch {}
+      if (ht.checked && navigator.vibrate) navigator.vibrate(20); // 안드로이드 확인 진동(iOS는 스위치 자체가 울림)
+    });
+  }
+  $("#settingsBtn").addEventListener("click", () => { haptic("light"); buildIconGrid(); overlay.hidden = false; });
   $("#settingsClose").addEventListener("click", () => { overlay.hidden = true; });
   overlay.addEventListener("click", (e) => { if (e.target === overlay) overlay.hidden = true; });
   $("#iconUploadBtn").addEventListener("click", () => $("#iconFile").click());
@@ -612,13 +630,13 @@ function bindCardClicks() {
     const card = e.target.closest(".card[data-gid]");
     if (card) {
       const g = STATE.games.find((x) => String(x.id) === card.dataset.gid);
-      if (g) openGameDetail(g);
+      if (g) { haptic("light"); openGameDetail(g); }
       return;
     }
     const ni = e.target.closest(".news-item[data-ni]");
     if (ni && STATE._newsView) {
       const n = STATE._newsView[+ni.dataset.ni];
-      if (n) openDetail(n);
+      if (n) { haptic("light"); openDetail(n); }
     }
   });
 }
@@ -795,7 +813,7 @@ function closeDetail() {
 }
 function bindDetail() {
   document.addEventListener("keydown", (e) => { if (e.key === "Escape" && !$("#detailSheet").hidden) closeDetail(); });
-  $("#detailBack").addEventListener("click", closeDetail);
+  $("#detailBack").addEventListener("click", () => { haptic("light"); closeDetail(); });
   bindDetailSwipe();
 }
 // 좌측 가장자리에서 오른쪽으로 슬라이드 → 목록으로 복귀(iOS 인터랙티브 백 제스처)
@@ -844,6 +862,7 @@ async function init() {
   bindDetail();
   applyIcon(savedIconKey());
   $("#monthSelect").addEventListener("change", (e) => {
+    haptic("light");
     STATE.month = e.target.value; render();
     requestAnimationFrame(() => window.scrollTo({ top: 0, behavior: "instant" })); // 기간 변경 시 최상단부터
   });
