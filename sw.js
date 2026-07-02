@@ -2,7 +2,7 @@
  * - games.json(데이터) & 앱 셸(html·js·css): 네트워크 우선 → 항상 최신 코드/데이터.
  *   실패(오프라인) 시에만 캐시로 폴백(데이터는 캐시된 JSON, 네비게이션은 index.html). 절대 HTML을 JS/JSON에 폴백하지 않음.
  * - 아이콘·폰트 등 정적 자산: 캐시 우선(속도). */
-const CACHE = "ggg-v43";
+const CACHE = "ggg-v44";
 const SHELL = [
   "./",
   "./index.html",
@@ -53,10 +53,15 @@ self.addEventListener("fetch", (e) => {
     return;
   }
 
-  // 그 외(아이콘·폰트 등): 캐시 우선, 없으면 네트워크.
+  // 교차 출처(인벤·루리웹 이미지, 유튜브 썸네일 등)는 캐싱하지 않으므로 SW가 가로챌 이유가 없다.
+  // 그대로 브라우저 기본 처리에 맡긴다 — no-cors opaque 응답을 SW가 대신 fetch()해 반환하면
+  // 일부 iOS Safari에서 카드 썸네일이 표시되지 않는 사례가 있어 이를 회피한다.
+  if (!sameOrigin) return;
+
+  // 그 외(아이콘·폰트 등 동일 출처 정적 자산): 캐시 우선, 없으면 네트워크.
   e.respondWith(
     caches.match(req).then((r) => r || fetch(req).then((res) => {
-      if (res && res.ok && sameOrigin) { const copy = res.clone(); caches.open(CACHE).then((c) => c.put(req, copy)); }
+      if (res && res.ok) { const copy = res.clone(); caches.open(CACHE).then((c) => c.put(req, copy)); }
       return res;
     }))
   );

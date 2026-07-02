@@ -5,11 +5,33 @@
  * month list box. The same JSON is consumed by the iOS Scriptable widget. */
 
 // 인벤 발매 캘린더의 실제 분류와 일치 (카드 배지)
-/* ---------- 햅틱 피드백 (iOS/안드로이드) ---------- */
+/* ---------- 햅틱 피드백 ----------
+ * iOS Safari는 Web Vibration API(navigator.vibrate)를 지원하지 않는다(배터리·프라이버시
+ * 정책상 WebKit 미구현, 애플 공식 정책 — 캐시/코드 문제가 아니라 플랫폼 자체의 한계).
+ * 대신 Safari 17.4+ 는 네이티브 switch 입력을 실제 사용자 제스처 안에서 토글하면
+ * 진짜 Taptic Engine 햅틱이 울린다(문서화된 유일한 iOS 웹 햅틱 우회). 화면 밖에 숨긴
+ * <input type="checkbox" switch> 를 만들어두고 매번 체크 상태를 뒤집어 이를 활용한다.
+ * 안드로이드 Chrome 등 Vibration API 지원 브라우저에는 navigator.vibrate를 그대로 사용. */
+let _hapticSwitch = null;
+function _getHapticSwitch() {
+  if (_hapticSwitch) return _hapticSwitch;
+  const el = document.createElement("input");
+  el.type = "checkbox";
+  el.setAttribute("switch", "");
+  el.setAttribute("aria-hidden", "true");
+  el.tabIndex = -1;
+  el.style.cssText = "position:fixed;top:-999px;left:-999px;width:1px;height:1px;opacity:0;pointer-events:none;";
+  document.body.appendChild(el);
+  _hapticSwitch = el;
+  return el;
+}
 const haptic = (intensity = "light") => {
-  if (!navigator.vibrate) return;
-  const durations = { light: 10, medium: 20, strong: 30 };
-  navigator.vibrate(durations[intensity] || 10);
+  if (navigator.vibrate) {
+    const durations = { light: 10, medium: 20, strong: 30 };
+    navigator.vibrate(durations[intensity] || 10);
+  }
+  // iOS Safari: 실제 사용자 제스처(touchstart/touchend 핸들러) 안에서 호출되어야 동작한다.
+  try { _getHapticSwitch().click(); } catch {}
 };
 const EVENT_META = {
   release: { label: "출시", color: "#3ddc84" },
@@ -150,7 +172,7 @@ function renderCard(g) {
   // 인벤 게임 이미지(대부분 /gamelogo/ 경로). 깨진 이미지는 onerror 로 그라디언트 폴백.
   const cardImgUrl = g.image || null;
   const img = cardImgUrl
-    ? `<img class="card-img" src="${esc(cardImgUrl)}" alt="" loading="lazy" referrerpolicy="no-referrer" onerror="this.remove();this.closest('.card-banner').classList.remove('has-img')">`
+    ? `<img class="card-img" src="${esc(cardImgUrl)}" alt="" loading="lazy" referrerpolicy="no-referrer" onerror="this.closest('.card-banner').classList.remove('has-img');this.remove()">`
     : "";
 
   return `
