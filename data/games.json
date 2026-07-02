@@ -22,7 +22,7 @@
       },
       {
         "name": "GameDetails",
-        "added": 135
+        "added": 99
       }
     ],
     "counts": {
@@ -24318,7 +24318,25 @@
         "url": "https://www.inven.co.kr/webzine/calendar/"
       },
       "detailUrl": "https://www.inven.co.kr/webzine/calendar/game/13717",
-      "trailer": "https://youtu.be/mMd3P577SGM"
+      "trailer": "https://youtu.be/mMd3P577SGM",
+      "content": [
+        {
+          "t": "p",
+          "v": "문라이트 페일은 1800년대 후반의 기숙학교인 세인트 비르지타 여신학교를 배경으로 한 2D 수제 애니메이션 스타일의 서바이벌 호러 게임이다. 학생 줄리엣은 세상을 떠난 반려묘의 유령을 따라 학교 정원 깊숙이 숨겨진 낡은 건물 안으로 발을 들이게 되고, 괴물과 유령이 들끓는 기이하도록 낯익은 복도를 헤쳐 나가며 갇힌 다른 학생들을 구출하고 학교 아래 묻힌 비극적인 비밀을 밝혀내야 한다."
+        },
+        {
+          "t": "p",
+          "v": "게임플레이는 사일런트 힐 시리즈에서 영감을 받은 탐색과 전투, 퍼즐 해결로 구성된다. 기본 상태인 탐색 모드에서는 환경을 탐색하고 아이템을 수집하며 단서를 조합해 퍼즐을 해결하고, 주의 모드로 전환하면 속도가 느려지는 대신 회피, 경공격, 강공격, 방어 등의 전투 행동이 가능해진다. 줄리엣은 뛰어난 전투원이 아니기 때문에 싸울지 도망칠지를 신중하게 판단하는 것이 생존의 핵심이다."
+        },
+        {
+          "t": "p",
+          "v": "키라 버클랜드, 리지 프리먼 등 유명 성우진이 참여한 풀 보이스 연출과 함께, 니어 오토마타·Mili 등과 협업한 일본 다크 호러 작곡가 아라이 타스쿠가 담당한 17곡의 오리지널 사운드트랙이 음산한 분위기를 완성한다."
+        },
+        {
+          "t": "yt",
+          "v": "mMd3P577SGM"
+        }
+      ]
     },
     {
       "id": "inven-13716",
@@ -24348,7 +24366,25 @@
         "url": "https://www.inven.co.kr/webzine/calendar/"
       },
       "detailUrl": "https://www.inven.co.kr/webzine/calendar/game/13716",
-      "trailer": "https://youtu.be/z00-C3YaprU"
+      "trailer": "https://youtu.be/z00-C3YaprU",
+      "content": [
+        {
+          "t": "p",
+          "v": "드림: 혼란의 심연은 2010년대 초반의 애니메이션 스타일에서 영감을 받은 사이케델릭한 아레나 트윈 스틱 슈팅 로그라이크 게임이다. 플레이어는 시리얼 브랜드 마스코트 캐릭터인 마그누스가 되어 아이들의 악몽 생명체들을 물리치고 그들을 공포에서 해방시키는 한편, 최고의 시리얼을 만들기 위한 신비로운 재료들을 수집하는 여정을 떠난다."
+        },
+        {
+          "t": "p",
+          "v": "게임플레이는 사방에서 밀려오는 악몽 생명체들의 웨이브를 탑다운 시점에서 격파하며 생존하는 방식으로 진행된다. 기관총부터 투석기, 마상 창시합용 랜스에 이르기까지 고유한 조작감을 지닌 다채로운 무기 체계를 활용할 수 있으며, 전황에 따라 특수 게이지를 실시간으로 관리하는 것이 생존의 핵심이다. 하드 모드에 도전하면 새로운 영웅과 숨겨진 설정을 해금할 수 있다."
+        },
+        {
+          "t": "p",
+          "v": "70종 이상의 고유 능력 카드를 획득하고 조합하는 무작위 성장 시스템도 갖추고 있으며, 카드의 배치 순서와 슬롯 위치에 따라 상호작용이 발생하는 위치 기반 덱 빌딩 메커니즘이 특징이다. 다양한 캐릭터 아키타입과 연계된 업그레이드 경로를 탐색하며 이동 속도, 공격력 등을 강화해 자신만의 빌드를 구축하는 재미를 제공한다."
+        },
+        {
+          "t": "yt",
+          "v": "z00-C3YaprU"
+        }
+      ]
     },
     {
       "id": "inven-13715",
@@ -24378,7 +24414,21 @@
         "url": "https://www.inven.co.kr/webzine/calendar/"
       },
       "detailUrl": "https://www.inven.co.kr/webzine/calendar/game/13715",
-      "trailer": "https://youtu.be/YxEIkrFywys"
+      "trailer": "https://youtu.be/YxEIkrFywys",
+      "content": [
+        {
+          "t": "p",
+          "v": "커널 하트는 액션 RPG와 로그라이크 요소를 결합한 멀티플레이 협동 액션 게임이다. 재로 뒤덮여 가는 세계를 구하기 위해 소환된 마법 소녀 특수 부대 M.A.H.O.U 유닛의 일원이 되어 천상의 존재들이 득실거리는 바벨탑을 정상까지 올라가며 신을 타도해야 한다. 최대 4인 온라인 협동 또는 솔로 플레이를 지원하며, 각 구역의 끝에서는 해당 영역의 수호자인 강력한 보스와의 전투가 기다리고 있다."
+        },
+        {
+          "t": "p",
+          "v": "매 플레이마다 무작위로 주어지는 공격, 마법, 이동 기술을 조합해 독창적인 콤보를 만들어내는 로그라이크 방식으로 진행된다. 원정을 마치고 거점으로 돌아오면 획득한 보상으로 최대 256KB 규모의 칩을 유닛 MAHOU.OS에 장착하고 커스터마이징할 수 있어 매 판마다 다른 빌드 구성이 가능하다. 탑 내부의 고유한 인물들과 교류하고 선물을 건네며 유대를 쌓는 관계 형성 요소도 갖추고 있다."
+        },
+        {
+          "t": "yt",
+          "v": "YxEIkrFywys"
+        }
+      ]
     },
     {
       "id": "inven-13714",
@@ -24408,7 +24458,25 @@
         "url": "https://www.inven.co.kr/webzine/calendar/"
       },
       "detailUrl": "https://www.inven.co.kr/webzine/calendar/game/13714",
-      "trailer": "https://youtu.be/NjEdNDjAq_M"
+      "trailer": "https://youtu.be/NjEdNDjAq_M",
+      "content": [
+        {
+          "t": "p",
+          "v": "템푸스 비테는 시간 여행 요소를 결합한 공상과학 세계관 배경의 1인칭 슈팅 메트로배니아 게임이다. 플레이어는 우주 정거장 테이아에 홀로 남겨진 우주비행사 알렉스가 되어, 전쟁이 한창인 2185년과 인간이 사라진 채 괴물들만 득실거리는 포스트 아포칼립스의 2385년이라는 두 시간대를 실시간으로 오가며 실종된 형제 에이드리언을 찾아 나선다. 두 시대에 걸쳐 얽히고설킨 갈등의 실마리를 풀어가며 정거장에 숨겨진 거대한 음모를 파헤치는 여정을 다룬다."
+        },
+        {
+          "t": "p",
+          "v": "게임플레이의 핵심은 200년의 시간 차를 둔 두 타임라인을 교차하며 탐색과 전투를 수행하는 메커니즘이다. 과거에서의 행동이 미래의 지형 구조에 직접적인 영향을 미쳐 새로운 경로를 개척하는 방식으로 진행되며, 탐험을 통해 획득한 자원과 장비로 접근 가능한 구역을 점차 확장해 나간다. 다양한 시간 제어 기술과 화기를 조합해 적을 제압하는 전투 구조가 메트로배니아 특유의 탐색 재미와 유기적으로 결합되어 있다."
+        },
+        {
+          "t": "p",
+          "v": "과거와 미래의 상반된 환경을 시각적으로 대비시킨 레벨 디자인이 특징으로, 공간 인식력과 타임라인 전환 타이밍을 동시에 요구하는 환경 퍼즐들이 정교하게 배치되어 있다."
+        },
+        {
+          "t": "yt",
+          "v": "NjEdNDjAq_M"
+        }
+      ]
     },
     {
       "id": "inven-13713",
@@ -24438,7 +24506,21 @@
         "url": "https://www.inven.co.kr/webzine/calendar/"
       },
       "detailUrl": "https://www.inven.co.kr/webzine/calendar/game/13713",
-      "trailer": "https://youtu.be/tPAgv6OyYyk"
+      "trailer": "https://youtu.be/tPAgv6OyYyk",
+      "content": [
+        {
+          "t": "p",
+          "v": "헤드커터는 SF 스파게티 웨스턴 감성을 1인칭 슈터 장르에 녹여낸 고어 액션 게임이다. 총과 위스키를 사랑하는 현상금 사냥꾼 지미 \"럭키\" 오닐, 그리고 가족과 팔다리를 잃고 복수를 갈망하는 Z. 두 인물을 번갈아 조작하며 표적을 추적하고 제거하는 임무를 수행한다. 목표물의 머리를 베어 돈을 받는 것이 이 직업의 본질이며, 그 과정에서 벌어지는 혼란과 파괴는 모두 감수해야 할 부수적 피해다."
+        },
+        {
+          "t": "p",
+          "v": "총기마다 고유한 수동 장전·발사 메커니즘을 숙달하는 것이 전투의 핵심이다. 각 무기의 특성을 체득해야 극한의 총격전에서 우위를 점할 수 있으며, 미션 사이 건샵을 통해 무기를 업그레이드할 수 있다. 벽과 구조물이 실시간으로 파괴되는 환경 파괴 시스템이 적용되어 있어 새로운 경로를 개척하거나 적을 처치하는 데 활용할 수 있으며, 다중 경로로 설계된 맵 구조가 다양한 공략 방식을 제공한다. 미션을 마치고 거점으로 돌아오면 팀원들과 대화를 나누며 그들의 개인적인 이야기와 다음 임무 정보를 얻을 수 있다."
+        },
+        {
+          "t": "yt",
+          "v": "tPAgv6OyYyk"
+        }
+      ]
     },
     {
       "id": "inven-13712",
@@ -24468,7 +24550,25 @@
         "url": "https://www.inven.co.kr/webzine/calendar/"
       },
       "detailUrl": "https://www.inven.co.kr/webzine/calendar/game/13712",
-      "trailer": "https://youtu.be/WIukBprNcgU"
+      "trailer": "https://youtu.be/WIukBprNcgU",
+      "content": [
+        {
+          "t": "p",
+          "v": "퀀텀 쿼츠는 아기자기한 픽셀 아트 감성과 스팀펑크 세계관을 배경으로 한 2D 정밀 플랫포머 게임이다. 붕괴 직전의 세계를 구하기 위해 흩어진 네 개의 고대 크리스탈을 되찾는 여정을 다루며, 주인공을 이끌거나 도발하는 매력적인 인물들과의 조우를 통해 세계관에 얽힌 서사를 풀어간다."
+        },
+        {
+          "t": "p",
+          "v": "게임의 핵심은 색상별로 서로 다른 이동 능력을 부여하는 크리스탈 교체 시스템이다. 파란색은 이단 점프, 빨간색은 돌진, 초록색은 벽 점프, 노란색은 활공을 제공하며, 한 번에 하나만 활성화할 수 있어 지형과 함정의 배치에 맞춰 순간적으로 최적의 능력을 선택하는 판단력과 조작 정밀도가 동시에 요구된다."
+        },
+        {
+          "t": "p",
+          "v": "150개 이상의 수제작 스테이지와 각기 다른 시각 디자인을 가진 4개 이상의 테마 월드, 그리고 본편 클리어 이후 도전할 수 있는 30개 이상의 고난이도 트라이 모드까지 갖추고 있어 숙련된 플레이어에게도 충분한 도전 거리를 제공한다."
+        },
+        {
+          "t": "yt",
+          "v": "WIukBprNcgU"
+        }
+      ]
     },
     {
       "id": "inven-13711",
@@ -24498,7 +24598,25 @@
         "url": "https://www.inven.co.kr/webzine/calendar/"
       },
       "detailUrl": "https://www.inven.co.kr/webzine/calendar/game/13711",
-      "trailer": "https://youtu.be/aE93AlNXDAw"
+      "trailer": "https://youtu.be/aE93AlNXDAw",
+      "content": [
+        {
+          "t": "p",
+          "v": "거니 어센드는 테트리스식 블록 쌓기 퍼즐과 빠른 호흡의 로그라이트 액션을 결합한 장르 혼합형 게임이다. 차원을 넘나드는 갈등에 휘말린 건설 노동자 거니가 되어 세상의 이야기를 보존한다는 명목으로 사람들을 가두는 이계의 존재 '수집가'로부터 탈출해야 한다. 위에서 끊임없이 떨어지는 블록으로 발판을 쌓아 위로 올라가며, 무작위로 쏟아지는 위험 요소와 적들을 피해 탈출구를 확보하는 것이 핵심이다."
+        },
+        {
+          "t": "p",
+          "v": "스테이지를 진행하며 40여 종의 아이템을 해금하고 자신만의 빌드를 구성하는 로그라이트 특유의 무작위성이 매 판마다 다른 경험을 제공한다. 실시간으로 떨어지는 블록 위에서의 플랫폼 조작과 상황에 맞는 아이템 조합 전략이 동시에 요구되며, 고유한 전투 기믹을 지닌 7종의 보스전과 온라인 PvP 대전 모드로 다채로운 플레이 방식을 지원한다."
+        },
+        {
+          "t": "p",
+          "v": "'어몽 어스'의 크루원, '댓츠 낫 마이 네이버'의 프랜시스, '플래닛 큐브: 엣지'의 엣지 등 30명이 넘는 타 인디 게임 캐릭터들이 플레이어블 영웅으로 등장하는 대규모 크로스오버도 주요 콘텐츠 중 하나다. 각 캐릭터는 원작의 개성을 살린 고유 능력과 전투 스타일을 갖고 있어 선택에 따라 매번 다른 공략 변화를 경험할 수 있다."
+        },
+        {
+          "t": "yt",
+          "v": "aE93AlNXDAw"
+        }
+      ]
     },
     {
       "id": "inven-13270",
@@ -24529,7 +24647,17 @@
         "url": "https://www.inven.co.kr/webzine/calendar/"
       },
       "detailUrl": "https://www.inven.co.kr/webzine/calendar/game/13270",
-      "trailer": "https://www.youtube.com/results?search_query=Fortress%203%20Blue%20%20official%20trailer"
+      "trailer": "https://www.youtube.com/results?search_query=Fortress%203%20Blue%20%20official%20trailer",
+      "content": [
+        {
+          "t": "p",
+          "v": "포트리스3 블루는 PC와 모바일에서 함께 즐길 수 있는 크로스 플랫폼 게임으로, 포격 게임 장르를 대표하는 포트리스 IP 기반의 30주년 기념작이다. 특히 시리즈 최고 인기작으로 꼽히는 포트리스2 블루의 감성과 전투 시스템을 현대적으로 재해석한 것이 특징이다."
+        },
+        {
+          "t": "img",
+          "v": "https://static.inven.co.kr/column/webzine3/gamelogo/2026/i1291364232.jpg"
+        }
+      ]
     },
     {
       "id": "inven-10337",
@@ -24557,7 +24685,25 @@
         "url": "https://www.inven.co.kr/webzine/calendar/"
       },
       "detailUrl": "https://www.inven.co.kr/webzine/calendar/game/10337",
-      "trailer": "https://youtu.be/nRKyyK7S-Zw"
+      "trailer": "https://youtu.be/nRKyyK7S-Zw",
+      "content": [
+        {
+          "t": "p",
+          "v": "'드래곤 퀘스트12: 꿈의 저편으로'는 드래곤 퀘스트 시리즈의 최신작이다. 2021년 공개 후 더 좋은 게임을 위해 체제 개편 후 새롭게 개발에 돌입했다."
+        },
+        {
+          "t": "p",
+          "v": "이번 작품은 신비한 꿈을 꾸게 되는 주인공의 모험을 그린 이야기다. 꿈 너머에는 어둡기보다는 밝고 설레는 세계가 펼쳐져 있다. 이번 작품도 토리야마 아키라의 그림과 스기야마 코이치의 음악이 함께한다."
+        },
+        {
+          "t": "p",
+          "v": "또한 지금까지의 시리즈에 없었던 요소도 담아 한층 더 진화한 드래곤 퀘스트의 모습을 만나볼 수 있을 예정이다. 영상에서는 주인공의 모습과 함께 아름다운 그래픽의 배경 등을 확인할 수 있다. 드래곤 퀘스트12와 관련된 더 많은 정보는 추후 공개될 예정이다. 플랫폼과 출시일정 모두 미정이다."
+        },
+        {
+          "t": "yt",
+          "v": "nRKyyK7S-Zw"
+        }
+      ]
     },
     {
       "id": "inven-13688",
@@ -24589,7 +24735,25 @@
         "url": "https://www.inven.co.kr/webzine/calendar/"
       },
       "detailUrl": "https://www.inven.co.kr/webzine/calendar/game/13688",
-      "trailer": "https://youtu.be/Cab1j11nm7Q"
+      "trailer": "https://youtu.be/Cab1j11nm7Q",
+      "content": [
+        {
+          "t": "p",
+          "v": "'드래곤 퀘스트 몬스터즈4 메마른 나라의 비앙카와 플로라'는 드래곤 퀘스트 몬스터즈 시리즈의 넘버링 타이틀이다."
+        },
+        {
+          "t": "p",
+          "v": "2026 드래곤 퀘스트 40주년 기념 발표를 통해 깜짝 공개됐으며, 게임의 세부적인 정보는 아직 미정이다. PV에서는 비앙카와 플로라의 어린 시절 모습을 확인할 수 있다."
+        },
+        {
+          "t": "p",
+          "v": "드래곤 퀘스트 몬스터즈4는 닌텐도 스위치1&2, PS5, Xbox 시리즈 X|S, PC를 통해 발매될 예정이다. 다만 구체적인 출시 일정은 공개되지 않았다."
+        },
+        {
+          "t": "yt",
+          "v": "Cab1j11nm7Q"
+        }
+      ]
     },
     {
       "id": "inven-13687",
@@ -24620,7 +24784,25 @@
         "url": "https://www.inven.co.kr/webzine/calendar/"
       },
       "detailUrl": "https://www.inven.co.kr/webzine/calendar/game/13687",
-      "trailer": "https://www.youtube.com/results?search_query=The%20Witcher%203%3A%20Wild%20Hunt%20-%20Songs%20of%20the%20Past%20%20official%20trailer"
+      "trailer": "https://www.youtube.com/results?search_query=The%20Witcher%203%3A%20Wild%20Hunt%20-%20Songs%20of%20the%20Past%20%20official%20trailer",
+      "content": [
+        {
+          "t": "p",
+          "v": "'더 위쳐 3: 와일드 헌트 - 송즈 오브 더 패스트'는 전설적인 괴물 사냥꾼 리비아의 게롤트가 마주하는 새로운 이야기를 다룬 확장팩이다. 플레이어는 원작의 깊이 있는 세계관을 바탕으로 다시 한번 어두운 판타지 오픈월드를 탐험하며 새로운 여정을 시작하게 된다. 이번 작품은 원작의 개발 경험을 갖춘 베테랑 인력들이 참여해 기존의 매력적인 서사를 이어가는 데 집중한다."
+        },
+        {
+          "t": "p",
+          "v": "게임의 개발에는 원작 제작에 참여했던 숙련된 개발진이 포진한 외부 스튜디오가 공동으로 참여하여 완성도를 높인다. 개발진은 기존 시스템과의 유기적인 연결과 함께 새로운 지역이나 의뢰 등 확장팩에 걸맞은 다채로운 콘텐츠를 선보일 예정이다. 작품에 대한 세부적인 시스템 정보와 구체적인 콘텐츠 구성은 다가오는 늦여름에 추가로 공개될 예정이다."
+        },
+        {
+          "t": "p",
+          "v": "기반이 되는 원작은 글로벌 시장에서 수많은 상을 받으며 이야기 중심의 롤플레잉 게임으로서 가치를 인정받은 작품이다. 플레이어는 주인공 게롤트의 시선으로 수양딸 시리를 찾아 나서는 거대한 여정 속에서 다양한 선택과 마주하게 된다. 이번 확장팩 역시 원작이 가진 특유의 어두운 분위기와 치밀한 이야기 전개를 고스란히 계승하여 깊이 있는 몰입감을 선사할 예정이다."
+        },
+        {
+          "t": "img",
+          "v": "https://static.inven.co.kr/column/webzine3/gamelogo/2026/i1746868284.png"
+        }
+      ]
     },
     {
       "id": "inven-13686",
@@ -24650,7 +24832,25 @@
         "url": "https://www.inven.co.kr/webzine/calendar/"
       },
       "detailUrl": "https://www.inven.co.kr/webzine/calendar/game/13686",
-      "trailer": "https://www.youtube.com/results?search_query=Dragon%20Village%203%20%20official%20trailer"
+      "trailer": "https://www.youtube.com/results?search_query=Dragon%20Village%203%20%20official%20trailer",
+      "content": [
+        {
+          "t": "p",
+          "v": "'드래곤빌리지3'는 고유의 드래곤 수집과 육성 요소를 바탕으로 가볍게 즐기는 수집 시스템과 깊이 있는 플레이 구조를 결합한 모바일 게임이다. 오랜 시간 동안 축적된 시리즈의 전통성을 이어받아 기존의 팬층에게는 친숙한 문법을 제공하는 동시에, 모바일 환경에 최적화된 편의성을 갖추어 새로운 이용자들도 쉽게 몰입할 수 있도록 설계되었다. 알이 부화하는 단계에서 결정되는 무작위 능력치 등 고유의 육성 감성을 재해석하여 나만의 드래곤을 키워나가는 경험을 전한다."
+        },
+        {
+          "t": "p",
+          "v": "게임 플레이는 전통적인 전투와 수집 구조를 넘어 마을을 직접 경영하고 확장하는 정교한 시뮬레이션 시스템이 접목되어 차별화된 영지 관리의 재미를 준다. 이용자는 각기 다른 특성을 지닌 드래곤들을 활용해 던전을 순차적으로 탐험하는 지하성채 콘텐츠와 강력한 대형 괴수를 상대로 협력하는 월드보스 레이드에 참여하게 된다. 실시간으로 펼쳐지는 아레나 랭크전에서는 상대의 조합을 분석하고 대항마를 선택하거나 제외하는 전략적인 밴픽 시스템이 도입되어 깊이 있는 두뇌 싸움의 기회를 제공한다."
+        },
+        {
+          "t": "p",
+          "v": "안정적인 정착을 돕는 도전 과제와 협동 중심의 길드전 등 다양한 협력 및 경쟁 시스템이 유기적으로 연결되어 플레이어들에게 다채로운 성취감을 전달한다. 정식 서비스를 기점으로 다채로운 접속 보상과 미션형 이벤트가 상시 운영되며 연속적인 뽑기 기회 등 원활한 성장을 돕는 지원책이 마련되었다. 단순한 가상 공간 속 플레이에 머무르지 않고, 게임 내부의 서사와 설정을 바탕으로 한 독자적인 도서 출간 및 전용 피규어 팝업 스토어 같은 다채로운 문화 확장 사업까지 긴밀하게 연계될 예정이다."
+        },
+        {
+          "t": "img",
+          "v": "https://static.inven.co.kr/column/webzine3/gamelogo/2026/i1443583422.jpg"
+        }
+      ]
     },
     {
       "id": "inven-8563",
@@ -24680,7 +24880,13 @@
         "url": "https://www.inven.co.kr/webzine/calendar/"
       },
       "detailUrl": "https://www.inven.co.kr/webzine/calendar/game/8563",
-      "trailer": "https://www.youtube.com/results?search_query=Lineage2M%20%20official%20trailer"
+      "trailer": "https://www.youtube.com/results?search_query=Lineage2M%20%20official%20trailer",
+      "content": [
+        {
+          "t": "img",
+          "v": "https://static.inven.co.kr/column/webzine3/gamelogo/2019/i14328763967.jpg"
+        }
+      ]
     },
     {
       "id": "inven-13683",
@@ -24710,7 +24916,25 @@
         "url": "https://www.inven.co.kr/webzine/calendar/"
       },
       "detailUrl": "https://www.inven.co.kr/webzine/calendar/game/13683",
-      "trailer": "https://www.youtube.com/results?search_query=%EB%B0%94%EB%9E%8C%EC%9D%98%EA%B8%B0%EC%82%AC%EB%8B%A8%20%20official%20trailer"
+      "trailer": "https://www.youtube.com/results?search_query=%EB%B0%94%EB%9E%8C%EC%9D%98%EA%B8%B0%EC%82%AC%EB%8B%A8%20%20official%20trailer",
+      "content": [
+        {
+          "t": "p",
+          "v": "'바람의기사단'은 어둠의 세력에 맞서기 위해 금지된 힘을 수용한 기사들의 이야기를 다룬 판타지 MMORPG다. 세계를 수호하던 존재에서 마계의 학살자로 타락한 암흑 드래곤의 위협에 대응하는 서사를 담았다. 이용자는 모험을 시작하면서 버서커, 홀리나이트, 소서러, 서머너 등 고유의 특성을 지닌 4종의 직업 중 하나를 선택해 자신만의 캐릭터를 육성할 수 있다."
+        },
+        {
+          "t": "p",
+          "v": "게임 플레이는 이용자 캐릭터의 시각적 성장과 역동적인 변신 기능에 중점을 둔다. 캐릭터는 육성 과정에서 총 6번에 이르는 전직을 진행할 수 있으며, 단계를 거듭할 때마다 외형이 변화하고 한층 강화된 능력을 얻는다. 실제 전투에서는 전황에 맞춰 최대 4단계까지 연계되는 연속 변신 스킬을 구사할 수 있고, 메카 형태의 장비에 직접 탑승해 전장을 지배하는 전투 방식을 활용하게 된다."
+        },
+        {
+          "t": "p",
+          "v": "아울러 서버 내 최상위 권력을 다투는 경쟁 요소와 이를 바탕으로 한 보상 시스템이 유기적으로 연결되어 있다. 서버 최강자의 자리에 오른 이용자에게는 특별한 명예의 상징으로 전설 등급 드래곤의 탑승 권한이 주어진다. 정식 오픈 전까지 진행되는 사전예약에 참여한 모든 이용자에게는 게임 내에서 즉시 활용할 수 있는 아이템 패키지가 제공되며 추첨을 통한 추가적인 보상도 마련되어 있다."
+        },
+        {
+          "t": "img",
+          "v": "https://static.inven.co.kr/column/webzine3/gamelogo/2026/i1711507163.jpg"
+        }
+      ]
     },
     {
       "id": "inven-13684",
@@ -24740,7 +24964,25 @@
         "url": "https://www.inven.co.kr/webzine/calendar/"
       },
       "detailUrl": "https://www.inven.co.kr/webzine/calendar/game/13684",
-      "trailer": "https://www.youtube.com/results?search_query=%ED%99%98%EC%84%B8%EB%A1%9D%20%EB%A6%AC%EB%A9%94%EC%9D%B4%ED%81%AC%20%20official%20trailer"
+      "trailer": "https://www.youtube.com/results?search_query=%ED%99%98%EC%84%B8%EB%A1%9D%20%EB%A6%AC%EB%A9%94%EC%9D%B4%ED%81%AC%20%20official%20trailer",
+      "content": [
+        {
+          "t": "p",
+          "v": "'환세록 리메이크'는 과거 많은 이들에게 깊은 인상을 남겼던 고전 전략 RPG를 현대적인 기술로 복원한 작품이다. 다섯 종족이 살아가고 있는 판타지 대륙 파르시오니를 배경으로 삼았으며, 평화롭던 연합이 깨어지고 다시 시작된 국가 간의 갈등을 다룬다. 이용자는 주인공 레오나드가 되어 배신으로 잃어버린 것들을 되찾고 거대한 음모를 밝히기 위한 여정을 떠나게 된다."
+        },
+        {
+          "t": "p",
+          "v": "모험 도중 제국의 공주인 티나를 비롯해 수인족 궁수 호, 다크 엘프 마검사 크라터 등 다양한 배경을 지닌 동료들과 조우하여 의기투합한다. 전투는 치밀한 계산이 필요한 턴제 방식으로 진행되며, 피해를 입거나 공격할 때 쌓이는 기력을 소모해 강력한 필살기를 사용할 수 있다. 적을 연속으로 쓰러뜨리면 발동하는 체인 킬 시스템은 불리한 전황을 단숨에 뒤집는 요소로 작용한다."
+        },
+        {
+          "t": "p",
+          "v": "캐릭터들은 특정 요건을 채우면 운명의 신전을 통해 상위 직업으로 전직할 수 있으며, 이에 따라 외형이 바뀌고 새로운 기술이나 고위 마법을 습득한다. 전장 곳곳을 탐색해 숨겨진 무기와 유용한 영약을 찾아내는 재미도 존재한다. 특히 이용자가 내리는 결정과 전직 상태에 따라 이야기의 흐름과 최종 결말이 바뀌는 멀티 엔딩 시스템을 채택하여 다채로운 이야기를 경험할 수 있다."
+        },
+        {
+          "t": "img",
+          "v": "https://static.inven.co.kr/column/webzine3/gamelogo/2026/i1752797063.png"
+        }
+      ]
     },
     {
       "id": "inven-13682",
@@ -24771,7 +25013,25 @@
         "url": "https://www.inven.co.kr/webzine/calendar/"
       },
       "detailUrl": "https://www.inven.co.kr/webzine/calendar/game/13682",
-      "trailer": "https://youtu.be/CK8V9sZDY-o"
+      "trailer": "https://youtu.be/CK8V9sZDY-o",
+      "content": [
+        {
+          "t": "p",
+          "v": "'워해머 40,000: 카오스 게이트 - 데스워치'는 끝없이 밀려오는 외계 세력의 위협에 맞서 인류 제국을 수호하는 정예 전술 부대의 활약상을 그린 턴제 전술 RPG이다. 플레이어는 제국의 가장 강력한 비밀 병기이자 외계인 말살 전문가 집단인 데스워치 부대를 이끌고, 은하계 전역을 위협하는 흉포한 생명체들과 치열한 전투를 벌여야 한다. 이빨과 발톱을 드러내며 행성을 잠식해 들어오는 잔혹한 제노 세력으로부터 제국의 영토와 인류의 미래를 지켜내기 위한 처절한 여정이 펼쳐진다."
+        },
+        {
+          "t": "p",
+          "v": "이번 작품은 전작의 탄대하고 깊이 있는 전략적 시스템을 계승하는 동시에 한층 발전된 속편으로 돌아왔다. 게임 플레이 측면에서는 한층 정교해진 전술적 선택지와 강력해진 장비 커스터마이징을 지원하여 각기 다른 특성을 지닌 분대원들을 효율적으로 지휘하는 재미를 강화했다. 또한 전장에 직접 참여하는 듯한 몰입감을 주는 시네마틱 연출과 전술 지도가 결합되어, 플레이어는 은하계를 무대로 펼쳐지는 거대한 전장의 사령관으로서 깊이 있는 전략적 결단을 내릴 수 있다."
+        },
+        {
+          "t": "p",
+          "v": "더욱 강력해진 외계 세력의 공세에 맞서기 위해 분대원들의 고유 능력을 조합하고 지형지물을 활용하는 지략이 요구된다. 예측하기 힘든 적들의 기습과 전장 환경의 변화 속에서 플레이어는 매 순간 아군을 승리로 이끌 최선의 경로를 찾아내야 한다. 은하계를 수호하겠다는 피의 맹세를 가슴에 품고, 인류의 생존을 위협하는 모든 외계 생명체에게 완전한 종말을 선사하기 위한 장엄한 전술 시뮬레이션이 시작된다."
+        },
+        {
+          "t": "yt",
+          "v": "CK8V9sZDY-o"
+        }
+      ]
     },
     {
       "id": "inven-13678",
@@ -24801,7 +25061,25 @@
         "url": "https://www.inven.co.kr/webzine/calendar/"
       },
       "detailUrl": "https://www.inven.co.kr/webzine/calendar/game/13678",
-      "trailer": "https://youtu.be/KqmFZMszjfA"
+      "trailer": "https://youtu.be/KqmFZMszjfA",
+      "content": [
+        {
+          "t": "p",
+          "v": "'보이드 다이버(VOID DIVER: Escape from the Abyss)'는 로드 컴플릿 산하의 네모 스튜디오가 개발하는 익스트랙션 액션 RPG다. 이상 현상에 잠식되어 거대한 던전으로 변해버린 도시를 배경으로, 플레이어는 골동품점 '발루샤'의 점장이 되어 유물 회수를 전문으로 하는 '다이버'들을 심연 속으로 파견하는 역할을 맡는다. 고퀄리티 2.5D 픽셀 아트로 구현된 이계와 현실이 뒤엉킨 기괴한 공간이 특징이며, 싱글 플레이와 최대 3인 온라인 협동 플레이를 모두 지원한다."
+        },
+        {
+          "t": "p",
+          "v": "핵심 게임플레이는 던전 탐사, 전투, 탈출로 이어지는 익스트랙션 구조를 따른다. 이계의 괴물, 폭주한 기계, 도시 전설 속 괴이, 광기에 물든 인간 등 다양한 위협에 맞서 싸우면서 유물을 수집하고 살아서 귀환하는 것이 목표다. 던전은 육체뿐 아니라 정신도 갉아먹는 공간으로 설계되어 있으며, 스트레스가 한계에 달하면 이상 현상이 발생하는 정신적 압박 시스템이 존재한다. 또한 탐사 후에도 남는 저주인 '패러독스'에 대한 치료법을 찾는 것도 생존의 중요한 요소다."
+        },
+        {
+          "t": "p",
+          "v": "캐릭터 고유의 스킬 트리와 특성 조합을 통한 성장 시스템, 던전에서 획득한 무기·장신구·유물을 활용한 자유로운 빌드 구성도 보이드 다이버의 주요 재미 요소다. 전투 외에도 골동품점 '발루샤'를 거점으로 다이버들을 지원하고 유물을 매매하며 가게를 성장시키는 미니게임 요소가 더해져, 거래되는 금지된 유물들을 통해 도시의 어두운 비밀이 서서히 드러나는 서사 구조를 갖추고 있다."
+        },
+        {
+          "t": "yt",
+          "v": "KqmFZMszjfA"
+        }
+      ]
     },
     {
       "id": "inven-13675",
@@ -24861,7 +25139,13 @@
         "url": "https://www.inven.co.kr/webzine/calendar/"
       },
       "detailUrl": "https://www.inven.co.kr/webzine/calendar/game/13674",
-      "trailer": "https://youtu.be/P2aTIVXCUck"
+      "trailer": "https://youtu.be/P2aTIVXCUck",
+      "content": [
+        {
+          "t": "yt",
+          "v": "P2aTIVXCUck"
+        }
+      ]
     },
     {
       "id": "inven-13672",
@@ -24921,7 +25205,25 @@
         "url": "https://www.inven.co.kr/webzine/calendar/"
       },
       "detailUrl": "https://www.inven.co.kr/webzine/calendar/game/13622",
-      "trailer": "https://www.youtube.com/results?search_query=CODE%20EXIT%20%20official%20trailer"
+      "trailer": "https://www.youtube.com/results?search_query=CODE%20EXIT%20%20official%20trailer",
+      "content": [
+        {
+          "t": "p",
+          "v": "‘CODE EXIT’는 폭주한 인공지능 미네르바에게 점령된 도시를 배경으로, 시스템 복구를 위해 투입된 조사단체 ‘헤르메스’가 살인 기계를 피해 사건의 진실을 파헤쳐 나가는 이야기를 담고 있다. 어둠 속에서 팀원과 시설을 조사하고 미션을 완수하는 방식으로 플레이를 전개한다."
+        },
+        {
+          "t": "p",
+          "v": "가장 큰 특징은 협동 플레이가 강조된 점으로, 서로 분리된 위치에서 팀원과 정보를 공유하거나, 상호 의존을 통해 해결할 수 있는 미션이 배치되는 등 협력 시너지를 유도하는 콘텐츠가 다양하게 제공된다. 게임은 최대 4인까지 협동 플레이를 즐길 수 있으며, 인게임 보이스 채팅을 지원한다."
+        },
+        {
+          "t": "p",
+          "v": "게임에 등장하는 적은 이용자의 패턴을 학습하는 시스템이 적용됐다. 이에 따라 심리적 공포와 몰입감 있는 연출이 극대화되며, 끊임없이 변화하는 위협 상황에서 생존을 위한 전략적 선택이 요구된다."
+        },
+        {
+          "t": "img",
+          "v": "https://static.inven.co.kr/column/webzine3/gamelogo/2026/i1345738312.jpg"
+        }
+      ]
     },
     {
       "id": "inven-13670",
@@ -24951,7 +25253,29 @@
         "url": "https://www.inven.co.kr/webzine/calendar/"
       },
       "detailUrl": "https://www.inven.co.kr/webzine/calendar/game/13670",
-      "trailer": "https://youtu.be/7lACOlYytsc"
+      "trailer": "https://youtu.be/7lACOlYytsc",
+      "content": [
+        {
+          "t": "p",
+          "v": "프로젝트 ETHOS는 현재 개발 중인 무료 플레이 3인칭 로그라이크 히어로 슈터입니다."
+        },
+        {
+          "t": "p",
+          "v": "영웅별로 고유한 강력한 반 무작위 업그레이드 '진화'를 통해 모든 매치에서 내 플레이 스타일을 만들어가 보세요. 스나이퍼를 근거리 스커미셔로 키우거나, 지원병을 강력한 고독한 늑대로 키워보세요. 히어로를 나만의 플레이 스타일에 맞게 실시간으로 빌드하세요."
+        },
+        {
+          "t": "p",
+          "v": "트라이얼 게임모드에서 코어를 수집하고 탈출하면 다음 트라이얼 런에서 보탬이 될 강력한 강화를 잠금 해제할 수 있습니다."
+        },
+        {
+          "t": "p",
+          "v": "매번 새로운 능력과 위험 부담, 챌린지가 제공되는 매치에서 경쟁자를 물리치고 모든 런에 걸쳐 새로운 경지에 올라 보세요. 얼마 남지 않은 시간을 두고 여러분은 어렵게 손에 넣은 코어를 가지고 안전하게 탈출하실 건가요, 아니면 모든 것을 걸고 위험을 부담하여 팀과 함께 상위 랭킹에 도전하실 건가요? 선택은 여러분의 몫입니다."
+        },
+        {
+          "t": "yt",
+          "v": "7lACOlYytsc"
+        }
+      ]
     },
     {
       "id": "inven-7018",
@@ -25013,7 +25337,13 @@
         "url": "https://www.inven.co.kr/webzine/calendar/"
       },
       "detailUrl": "https://www.inven.co.kr/webzine/calendar/game/2116",
-      "trailer": "https://www.youtube.com/results?search_query=BioShock%20Infinite%20%20official%20trailer"
+      "trailer": "https://www.youtube.com/results?search_query=BioShock%20Infinite%20%20official%20trailer",
+      "content": [
+        {
+          "t": "img",
+          "v": "https://static.inven.co.kr/column/webzine3/gamelogo/2010/0924_2701.jpg"
+        }
+      ]
     },
     {
       "id": "inven-1075",
@@ -25044,7 +25374,13 @@
         "url": "https://www.inven.co.kr/webzine/calendar/"
       },
       "detailUrl": "https://www.inven.co.kr/webzine/calendar/game/1075",
-      "trailer": "https://www.youtube.com/results?search_query=BioShock2%20%20official%20trailer"
+      "trailer": "https://www.youtube.com/results?search_query=BioShock2%20%20official%20trailer",
+      "content": [
+        {
+          "t": "img",
+          "v": "https://static.inven.co.kr/column/webzine3/gamelogo/2015/0318_7556.jpg"
+        }
+      ]
     },
     {
       "id": "inven-811",
@@ -25075,7 +25411,25 @@
         "url": "https://www.inven.co.kr/webzine/calendar/"
       },
       "detailUrl": "https://www.inven.co.kr/webzine/calendar/game/811",
-      "trailer": "https://www.youtube.com/results?search_query=BioShock%20%20official%20trailer"
+      "trailer": "https://www.youtube.com/results?search_query=BioShock%20%20official%20trailer",
+      "content": [
+        {
+          "t": "p",
+          "v": "바이오쇼크는 해외에서 출시된 이후 LA 타임즈과 AP 통신이 선정한 ‘2007 올해의 게임’으로 선정됐을 뿐만 아니라 IGN, Game Spy, Game Spot등 비디오 게임 관련 해외 온라인 매체에서 선정한 ‘베스트 게임’으로 손꼽히고 있는 작품. 이 뿐만 아니라 바이오쇼크는 각종 해외 비디오 게임 매체에서 비평가들로부터 평균 95점 이상의 높은 평점을 기록하며, 최고 평점의 타이틀로 각광 받고 있다."
+        },
+        {
+          "t": "p",
+          "v": "바이오쇼크는 게이머가 ‘유전적 특성을 강화한(genetically enhanced)’ 주인공이 돼 주변 사물, 불과 물, 심지어는 적까지도 무기로 바꾸어 사용할 수 있는 새로운 개념의 1인칭 슈팅게임. 항공기 추락사고에서 홀로 살아 남은 주인공은 내전이 벌어지고 있는 심해의 유토피아 랩처(Rapture)에 들어가게 되며, 유전자 조작을 거친 ‘스플라이서(splicers)’와 치명적인 보안 시스템의 공격을 받으면서 신비와 어둠으로 가득찬 세계의 비밀을 벗겨 나가는 임무를 맡는다."
+        },
+        {
+          "t": "p",
+          "v": "바이오쇼크의 매력은 게임을 진행할 때마다 단 한 가지라도 그대로 반복되는 것이 없는 ‘전혀 다른 새로움’에 있다. 게이머들은 생체학적 신체 개조가 가능한 플라스미드(Plasmids)를 통해, 손가락에서 전기 섬광을 발사하거나, 팔의 혈관에서 부화한 벌떼를 한꺼번에 풀어 놓거나, 자극제를 이용해 적들을 서로 싸우게 하는 능력을 갖게 된다."
+        },
+        {
+          "t": "img",
+          "v": "https://static.inven.co.kr/column/webzine3/gamelogo/2008/0911_7148.jpg"
+        }
+      ]
     },
     {
       "id": "inven-13655",
@@ -25105,7 +25459,25 @@
         "url": "https://www.inven.co.kr/webzine/calendar/"
       },
       "detailUrl": "https://www.inven.co.kr/webzine/calendar/game/13655",
-      "trailer": "https://youtu.be/uySs1Dx9cz0"
+      "trailer": "https://youtu.be/uySs1Dx9cz0",
+      "content": [
+        {
+          "t": "p",
+          "v": "'삼국군영전: 격투판'는 기존의 대규모 전략 게임 방식을 벗어나 삼국지 전장을 격투장으로 옮긴 킹덤 히어로즈 시리즈의 최신 격투 게임이다. 관우, 여포, 조운 등 삼국지의 유명 장군들이 등장하여 일대일 결투를 벌이는 구조를 취하고 있다. 각 캐릭터는 도끼, 검, 미늘창 등 고유의 전설적인 무기와 무술을 보유하며, 실감 나는 애니메이션과 콤보 시스템을 통해 전투를 구현한다."
+        },
+        {
+          "t": "p",
+          "v": "이 게임은 복잡한 입력 방식 대신 간편한 조작 체계를 채택하여 진입 장벽을 낮추고 타격감을 강조했다. 3D 측면 시점 전투 시스템을 도입해 자유로운 측면 이동이 가능하며, 이를 통해 공격과 방어의 역동적인 공방이 이루어진다. 초보자도 쉽게 접근할 수 있으면서도 반사 신경과 전략적 리듬감을 요구하는 깊이를 갖추고 있다."
+        },
+        {
+          "t": "p",
+          "v": "전술적 다양성을 위해 각 장군은 두 가지 무기를 동시에 장착할 수 있으며 전투 중 즉시 교체가 가능하다. 무기마다 사거리, 공격 속도, 콤보 구성이 달라 상대에 따라 독특한 전투 스타일을 설계할 수 있다. 또한 전투가 절정에 달했을 때 간단한 명령으로 발동하는 필살기 시스템인 슈퍼 피니셔를 통해 전세를 역전시킬 수 있는 요소를 포함한다."
+        },
+        {
+          "t": "yt",
+          "v": "uySs1Dx9cz0"
+        }
+      ]
     },
     {
       "id": "inven-13654",
@@ -25136,7 +25508,25 @@
         "url": "https://www.inven.co.kr/webzine/calendar/"
       },
       "detailUrl": "https://www.inven.co.kr/webzine/calendar/game/13654",
-      "trailer": "https://youtu.be/JMXLe7YUDeE"
+      "trailer": "https://youtu.be/JMXLe7YUDeE",
+      "content": [
+        {
+          "t": "p",
+          "v": "'사일런트 위스퍼스'는 언리얼 엔진 5로 제작한 무료 플레이 시네마틱 러브 어드벤처 게임이다. 배경은 판타지 대도시 '빛이 사라지는 도시(City of Fading Light)'로, 평범한 일상과 낭만적인 모험을 즐기는 한편, 생존과 배신의 기로에 서게 되는 위험한 '게임'에 끌려드는 이야기를 중심으로 전개된다. 환상과 현실의 경계가 허물어지는 세계 속에서, 플레이어는 빛과 그림자가 뒤섞인 미로 같은 도시를 누비며 등장인물들과 영혼이 공명하는 순간들을 경험하게 된다."
+        },
+        {
+          "t": "p",
+          "v": "게임에는 알라릭(Alarik), 테론(Theron), 발렌(Valen) 등 개성 강한 캐릭터들이 등장하며, 대화와 데이트를 비롯한 일상적인 교류를 통해 이들과 관계를 쌓아 나갈 수 있다. 카페, 공중역, 대관람차 등 시각적으로 풍성한 다양한 도시 공간이 배경으로 펼쳐지며, 잠재된 위험 속에서도 생동감 넘치는 환경을 만들어낸다. 1인칭 시점의 친밀한 상호작용과 자유로운 도시 탐색을 통해 일상에 숨겨진 작은 기적들을 발견해 나가는 경험을 제공한다."
+        },
+        {
+          "t": "p",
+          "v": "핵심 콘텐츠로는 운명을 초월한 로맨스 서사, 언리얼 엔진 5 기반의 4K 시네마틱 비주얼, 자유로운 도시 탐험, 그리고 반복되는 시간 루프 속에서 다음 기회를 향해 모든 것을 거는 내러티브가 있다. 현재 PC, iOS, Android를 대상으로 글로벌 사전 등록이 진행 중이며, 구체적인 출시일은 아직 발표되지 않았다."
+        },
+        {
+          "t": "yt",
+          "v": "JMXLe7YUDeE"
+        }
+      ]
     },
     {
       "id": "inven-13642",
@@ -25166,7 +25556,21 @@
         "url": "https://www.inven.co.kr/webzine/calendar/"
       },
       "detailUrl": "https://www.inven.co.kr/webzine/calendar/game/13642",
-      "trailer": "https://www.youtube.com/results?search_query=Mandate%20Order%20%20official%20trailer"
+      "trailer": "https://www.youtube.com/results?search_query=Mandate%20Order%20%20official%20trailer",
+      "content": [
+        {
+          "t": "p",
+          "v": "'맨데이트 오더'는 고대 중국을 배경으로 건설, 경영, 전략이 결합된 고대 군사 기지 시뮬레이션 게임입니다. 플레이어는 맨 땅에서 시작하여 생산, 방어, 군사 기능을 겸비한 고대 군영을 건설하고 운영하게 됩니다."
+        },
+        {
+          "t": "p",
+          "v": "이 게임은 자유로운 건물 배치 시스템, 역동적인 인구 관리, 계절 및 날씨 변화, 그리고 고대 중국 철학 사상에 깊이 영향을 받은 전략적 효과를 결합했습니다. 적의 침략 위협 속에서 플레이어는 관리와 건설뿐만 아니라 요새를 건설하고, 선제 공격을 조직하고, 피난민 마을로 진출하고, 심지어 희생과 이벤트 선택을 통해 국가의 운명에 영향을 미칠 수도 있습니다."
+        },
+        {
+          "t": "img",
+          "v": "https://static.inven.co.kr/column/webzine3/gamelogo/2026/i1423570407.jpg"
+        }
+      ]
     },
     {
       "id": "inven-13640",
@@ -25196,7 +25600,33 @@
         "url": "https://www.inven.co.kr/webzine/calendar/"
       },
       "detailUrl": "https://www.inven.co.kr/webzine/calendar/game/13640",
-      "trailer": "https://youtu.be/WgxvWFAJtlo"
+      "trailer": "https://youtu.be/WgxvWFAJtlo",
+      "content": [
+        {
+          "t": "p",
+          "v": "‘루미마스터’는 따뜻한 색감의 동화풍 세계를 배경으로, 수백 종의 귀여운 ‘루미’를 수집하고 성장시키는 몬스터 테이밍 RPG다. 간단한 포획 시스템과 하우징(경영) 콘텐츠를 결합했으며, 두더지 잡기, 케이크 나누기 등 다양한 미니게임을 통해 가볍고 부담 없는 플레이 경험을 제공한다."
+        },
+        {
+          "t": "p",
+          "v": "특히 루미를 수집하고 육성하는 과정에서의 성취감을 전달한다."
+        },
+        {
+          "t": "p",
+          "v": "비주얼 측면에서는 동화책을 연상시키는 일러스트 스타일 그래픽이 특징이다. 부드러운 색감과 섬세한 연출을 통해 편안한 몰입감을 제공하며, 플레이어는 간단한 터치 조작만으로 숲, 사막, 화산 등 다양한 지역을 자유롭게 탐험할 수 있다."
+        },
+        {
+          "t": "p",
+          "v": "각 지역에서는 개성 넘치는 루미를 포획할 수 있으며, 직관적인 수집 시스템과 도감 콘텐츠를 통해 새로운 수집의 재미를 느낄 수 있다. 모든 루미는 고유의 진화 형태를 보유하고 있어 육성과 성장에 따라 더욱 강력한 동료로 발전한다."
+        },
+        {
+          "t": "p",
+          "v": "이 밖에도 글로벌 이용자 간 루미 거래 시스템을 통해 희귀 루미를 교환하고 도감을 완성할 수 있으며, 건물 배치와 공간 설계를 자유롭게 구성할 수 있는 하우징 시스템을 통해 자신만의 감성적인 공간을 꾸미는 것도 가능하다."
+        },
+        {
+          "t": "yt",
+          "v": "WgxvWFAJtlo"
+        }
+      ]
     },
     {
       "id": "inven-13639",
@@ -25226,7 +25656,21 @@
         "url": "https://www.inven.co.kr/webzine/calendar/"
       },
       "detailUrl": "https://www.inven.co.kr/webzine/calendar/game/13639",
-      "trailer": "https://www.youtube.com/results?search_query=Dawn%20Village%20%20official%20trailer"
+      "trailer": "https://www.youtube.com/results?search_query=Dawn%20Village%20%20official%20trailer",
+      "content": [
+        {
+          "t": "p",
+          "v": "'여명촌'은 1670년 조선시대 경신대기근을 배경으로 한 생존 전략 게임이다. 플레이어는 제한된 자원을 관리하고 동료를 배치하며 매 턴마다 생존을 위한 선택을 내려야 한다. 선택지 판정 시스템은 3d6 주사위 기반이며, 확률과 상태에 따라 결과가 달라진다."
+        },
+        {
+          "t": "p",
+          "v": "하루는 점호부터 마지막 사건까지 총 6단계의 차례로 구성된다. 아침 점호로 시작해 마을 안팎의 사건, 여정, 정비 등을 거치며 생존의 기반을 다져야 한다. 안전한 선택으로 마을을 오래 유지할 것인지, 혹은 위험을 무릅쓰고 과감한 결단을 내려 자원을 확보할 것인지에 대한 전략적 판단이 매 순간 요구된다."
+        },
+        {
+          "t": "img",
+          "v": "https://static.inven.co.kr/column/webzine3/gamelogo/2026/i1360825032.jpg"
+        }
+      ]
     },
     {
       "id": "inven-13634",
@@ -25256,7 +25700,25 @@
         "url": "https://www.inven.co.kr/webzine/calendar/"
       },
       "detailUrl": "https://www.inven.co.kr/webzine/calendar/game/13634",
-      "trailer": "https://www.youtube.com/results?search_query=Embers%20of%20the%20Uncrowned%20%20official%20trailer"
+      "trailer": "https://www.youtube.com/results?search_query=Embers%20of%20the%20Uncrowned%20%20official%20trailer",
+      "content": [
+        {
+          "t": "p",
+          "v": "엘프의 침공으로 폐허가 된 대륙에서 유저는 하버웰 가문의 서자이자 용병 출신인 주인공이 되어 고향으로 돌아옵니다. 타락한 존재들과 엘프 세력에 맞서 잃어버린 영지를 되찾고, 보잘것없던 야영지를 활기찬 도시로 발전시키며 가문의 명예를 회복해야 합니다. 세계 곳곳에 숨겨진 비극적인 사연과 잔혹한 비밀을 파헤치는 탐험의 재미도 함께 제공됩니다."
+        },
+        {
+          "t": "p",
+          "v": "아이소메트릭 시점에서 펼쳐지는 전투는 단순한 힘 대결이 아닌 유저의 실력과 전략적 판단을 강조합니다. 민첩한 스펙트럴 블레이드, 묵직한 한 방의 이그제큐셔너, 마법을 부리는 스톰브링어 등 개성 넘치는 직업을 선택할 수 있습니다. 또한, 고유한 스킬 젬 조합과 장비 강화, 그리고 곁을 지키는 충직한 동료들과의 시너지를 통해 자신만의 강력한 전투 스타일을 구축할 수 있습니다."
+        },
+        {
+          "t": "p",
+          "v": "혼자 처치하기 힘든 강력한 영지 보스와 레이드 콘텐츠는 다른 플레이어와의 완벽한 전술적 협력을 요구합니다. 이를 통해 영지를 해방하고 값진 보상을 획득할 수 있습니다. 더불어 정교한 얼굴 및 신체 커스터마이징과 다채로운 의상 시스템을 지원하여, 어두운 판타지 세계관 속에서도 자신만의 독특한 개성을 드러낼 수 있는 시각적 즐거움을 선사합니다."
+        },
+        {
+          "t": "img",
+          "v": "https://static.inven.co.kr/column/webzine3/gamelogo/2026/i1184926327.jpg"
+        }
+      ]
     },
     {
       "id": "inven-13633",
@@ -25286,7 +25748,21 @@
         "url": "https://www.inven.co.kr/webzine/calendar/"
       },
       "detailUrl": "https://www.inven.co.kr/webzine/calendar/game/13633",
-      "trailer": "https://www.youtube.com/results?search_query=Today's%20Flower%20%20official%20trailer"
+      "trailer": "https://www.youtube.com/results?search_query=Today's%20Flower%20%20official%20trailer",
+      "content": [
+        {
+          "t": "p",
+          "v": "‘오늘의 꽃’은 이용자가 게임 내에서 꽃을 재배하고 가꾸며 자신만의 꽃다발을 완성하는 플라워 큐레이션 시뮬레이션 게임이다. 특히 게임 플레이를 통해 키우고 완성한 꽃을 현실에서 직접 받아볼 수 있는 연동형 시스템을 앞세워, 기존 시뮬레이션 장르에서 경험할 수 없었던 새로운 재미를 제공한다."
+        },
+        {
+          "t": "p",
+          "v": "국내에서는 ‘꾸까’와의 협업을 통해 게임플레이에서 완성한 꽃을 실물로 받아보는 연동형 시스템이 제공된다. 꾸까 플로리스트가 제작한 한정 꽃다발이 이용자의 문 앞까지 배송되며, 게임과 현실을 자연스럽게 연결하는 특별한 경험을 선사할 예정이다. 게임 안에서의 플레이가 현실 속 꽃 선물로 이어지는 구조를 선보일 예정이다."
+        },
+        {
+          "t": "img",
+          "v": "https://static.inven.co.kr/column/webzine3/gamelogo/2026/i1774610928.jpg"
+        }
+      ]
     },
     {
       "id": "inven-13630",
@@ -25314,7 +25790,25 @@
         "url": "https://www.inven.co.kr/webzine/calendar/"
       },
       "detailUrl": "https://www.inven.co.kr/webzine/calendar/game/13630",
-      "trailer": "https://www.youtube.com/results?search_query=Petals%20de%20Reincarnation%20BLOOM%20%20official%20trailer"
+      "trailer": "https://www.youtube.com/results?search_query=Petals%20de%20Reincarnation%20BLOOM%20%20official%20trailer",
+      "content": [
+        {
+          "t": "p",
+          "v": "‘리인카네이션의 꽃잎 BLOOM’은 원작 애니메이션의 세계관을 바탕으로 한 방치형 MMORPG다. 이용자는 주인공 센지 토우야가 되어 ‘위인의 숲’에 소속된 ‘되돌아간 자’로서 ‘죄인격’과의 전투에 참여하게 된다."
+        },
+        {
+          "t": "p",
+          "v": "이 게임은 전투가 자동으로 진행되는 방치형 시스템을 적용해 누구나 쉽게 즐길 수 있도록 구성됐다. 이용자는 캐릭터 육성, 장비 세팅, 파티 편성 등 성장과 전략 요소에 집중할 수 있다."
+        },
+        {
+          "t": "p",
+          "v": "또한 스마트폰과 PC 웹브라우저를 통해 별도 다운로드 없이 바로 플레이할 수 있다. 게임 내에서는 노이만의 전뇌 공간에서 센지 토우야를 성장시키고, 동료 및 서포터와 함께 다양한 임무를 수행하게 된다. 장비, 재능, 무구 등 여러 성장 요소를 조합해 자신만의 전략을 구성할 수 있는 점도 특징이다."
+        },
+        {
+          "t": "img",
+          "v": "https://static.inven.co.kr/column/webzine3/gamelogo/2026/i1307699928.jpg"
+        }
+      ]
     },
     {
       "id": "inven-13629",
@@ -25344,7 +25838,25 @@
         "url": "https://www.inven.co.kr/webzine/calendar/"
       },
       "detailUrl": "https://www.inven.co.kr/webzine/calendar/game/13629",
-      "trailer": "https://youtu.be/DYZpQTFRhPo"
+      "trailer": "https://youtu.be/DYZpQTFRhPo",
+      "content": [
+        {
+          "t": "p",
+          "v": "‘NBA 덩크 시티’는 NBA 공식 라이선스를 획득한 모바일 스트리트 농구 게임으로, NBA 제휴를 통해 총 30개팀의 라이선스를 공식 취득했다. 40명 이상의 NBA 슈퍼스타들이 게임에 실제 등장하며, 한국에서도 매우 두터운 팬 층을 보유한, 르브론 제임스, 스테판 커리 등을 직접 육성해 플레이할 수 있다."
+        },
+        {
+          "t": "p",
+          "v": "MOBA 장르의 전략적 요소 및 육성 메커니즘을 농구 게임에 최초로 적용한 것도 ‘NBA 덩크 시티’만의 특징이다. 선수 육성 결과 및 스타 선수별 전용 스킬 활용 등이 게임의 승패를 좌우하는, 전술 게임의 즐거움도 느낄 수 있다."
+        },
+        {
+          "t": "p",
+          "v": "덩크 시티만의 지루함 없이 빠른 경쟁 매치를 제공하는 ‘11점제’ 모드를 비롯, 3대3 매치 외 팀 전체를 지휘하는 ‘다이너스티 모드’, ‘5:5 풀코트 모드’까지 다양한 모드로 플레이할 수 있다. 이외에도 친구와 함께 하는 '아레나 리그'나 1대1, 3대3 매치 ‘커스텀 모드’ 기능도 제공한다."
+        },
+        {
+          "t": "yt",
+          "v": "DYZpQTFRhPo"
+        }
+      ]
     },
     {
       "id": "inven-13628",
@@ -25374,7 +25886,25 @@
         "url": "https://www.inven.co.kr/webzine/calendar/"
       },
       "detailUrl": "https://www.inven.co.kr/webzine/calendar/game/13628",
-      "trailer": "https://www.youtube.com/results?search_query=The%20Player%20Who%20Can't%20Level%20Up%20%20official%20trailer"
+      "trailer": "https://www.youtube.com/results?search_query=The%20Player%20Who%20Can't%20Level%20Up%20%20official%20trailer",
+      "content": [
+        {
+          "t": "p",
+          "v": "레벨업 못 하는 플레이어는 카카오엔터테인먼트의 동명의 원작 웹소설, 웹툰 IP을 기반으로 한 스타일리쉬 액션 로그라이트 게임이다."
+        },
+        {
+          "t": "p",
+          "v": "신비한 탑과 차원의 문이 나타난 세계. 선택받은 이들은 '플레이어'로 깨어나 무한한 잠재력을 얻었지만 주인공 김기규는 5년이 넘도록 레벨1에 멈춰있는 상황. 그런 그에게만 열리는 특별한 게이트가 나타났을 때, 세상을 뒤흔들 비밀이 모습을 드러낸다."
+        },
+        {
+          "t": "p",
+          "v": "이러한 원작의 내용을 바탕으로 언리얼 엔진 5로 구현된 화려한 3D 그래픽과 자유로운 카메라 시점으로 몰입감 있는 전투를 구현, 스타일리시한 액션을 더했다. 또한 레벨업은 불가능하지만, 로그라이트 요소를 활용한 다채로운 성장 시스템을 통해 도전할 때마다 새로운 전투 스타일을 발견하고 에고 파편(특성) 시스템을 통해 전략적 전투를 즐길 수 있다."
+        },
+        {
+          "t": "img",
+          "v": "https://static.inven.co.kr/column/webzine3/gamelogo/2026/i1719664214.jpg"
+        }
+      ]
     },
     {
       "id": "inven-13603",
@@ -25405,7 +25935,25 @@
         "url": "https://www.inven.co.kr/webzine/calendar/"
       },
       "detailUrl": "https://www.inven.co.kr/webzine/calendar/game/13603",
-      "trailer": "https://youtu.be/WcMPEfcCD24"
+      "trailer": "https://youtu.be/WcMPEfcCD24",
+      "content": [
+        {
+          "t": "p",
+          "v": "메트로 2039는 드미트리 글루홉스키의 소설을 원작으로 한 4A 게임즈의 포스트 아포칼립스 1인칭 슈터, 메트로 시리즈 네 번째 작품이다. 메트로 2039는 2026년 겨울 Xbox 시리즈 X|S, Xbox 클라우드, PS5, PC(스팀, 에픽스토어, Xbox)로 출시된다."
+        },
+        {
+          "t": "p",
+          "v": "메트로 2039는 핵전쟁에서 살아남은 마지막 생존자들이 폐허가 된 도시의 터널과 지하철에서 고군분투하는 모스크바 메트로의 어두운 심장부를 배경으로 한다. 이번 작품에서 지하 세력들과 역 주변 공동체들은 노보라이크라는 하나의 깃발 아래 통합됐다. 노보라이크는 새로운 총통, 전설적인 스파르탄 '헌터'가 이끄는 조직이다. 총통은 지상에서의 삶이라는 새로운 목표를 제시하지만, 사람들은 여전히 메트로에 갇혀 프로파간다와 허위 정보, 공포에 휩싸여 있고, 총통의 잔혹하고 권위주의적인 통치에 고통받고 있다."
+        },
+        {
+          "t": "p",
+          "v": "플레이어는 폭력적인 악몽에 시달리는 은둔자이자 주인공인 '이방인'을 플레이하게 된다. 그는 다시는 돌아가지 않겠다 맹세했던 메트로로 다시 내려가야만 하는 참혹한 여정을 떠난다. 은둔자는 완전한 음성 연기가 지원되는 주인공으로, 메트로 특유의 분위기를 살린 스토리텔링에 몰입감을 더할 예정이다. 이번 작품의 분위기는 기존보다 훨씬 더 어두워진다. 싱글 플레이 캠페인을 통해 플레이어는 썩어가는 세상이 짓누르는 무게를 실감하게 되며, 폐쇄 공포증을 일으키는 악몽에 더욱 깊이 빠지게 된다."
+        },
+        {
+          "t": "yt",
+          "v": "WcMPEfcCD24"
+        }
+      ]
     },
     {
       "id": "inven-1533",
@@ -25461,7 +26009,13 @@
         "url": "https://www.inven.co.kr/webzine/calendar/"
       },
       "detailUrl": "https://www.inven.co.kr/webzine/calendar/game/13608",
-      "trailer": "https://www.youtube.com/results?search_query=The%20Apothecary%20Diaries%3A%20Palace%20Chronicles%20%20official%20trailer"
+      "trailer": "https://www.youtube.com/results?search_query=The%20Apothecary%20Diaries%3A%20Palace%20Chronicles%20%20official%20trailer",
+      "content": [
+        {
+          "t": "img",
+          "v": "https://static.inven.co.kr/column/webzine3/gamelogo/2026/i1209728793.jpg"
+        }
+      ]
     },
     {
       "id": "inven-13517",
@@ -25492,7 +26046,25 @@
         "url": "https://www.inven.co.kr/webzine/calendar/"
       },
       "detailUrl": "https://www.inven.co.kr/webzine/calendar/game/13517",
-      "trailer": "https://youtu.be/qNLLBhQjEf8"
+      "trailer": "https://youtu.be/qNLLBhQjEf8",
+      "content": [
+        {
+          "t": "p",
+          "v": "픽몬은 고대 문명과 미스터리한 생물 ‘픽몬’이 존재하는 대륙을 무대로 한 멀티플레이어 오픈월드 서바이벌 크래프팅 게임이다. 특수 카드로 다양한 픽몬을 포획해 동료로 삼고, 연구자들과 함께 세계의 수수께끼를 풀어가며 어두운 조직의 음모를 저지하는 스토리를 따라간다. 개발사는 초목 지대부터 정글, 빙원, 화산 등 다채로운 지형을 픽몬의 고유 능력으로 탐험하며 생존과 모험을 즐길 수 있다고 설명한다."
+        },
+        {
+          "t": "p",
+          "v": "게임플레이는 포획한 픽몬과 함께 전투와 자원 수집을 중심으로 펼쳐지며, 집 건설과 농장 설립으로 안정적인 생존 기반을 마련한다. 공장 자동화 시스템을 통해 무기와 장비 생산을 효율화하고, 온라인 코옵으로 친구들과 협력해 거대한 산업 제국을 구축할 수 있다. 최대 32인 멀티플레이를 지원한다."
+        },
+        {
+          "t": "p",
+          "v": "단, 포켓몬스터, 젤다의 전설, 팰월드 등을 비롯해 픽몬은 여러 게임의 표절 의혹에 휩싸였다. 일부 유저 팬아트와 동일한 내용이 게임 홍보에 사용되며 논란은 더욱 거세졌다."
+        },
+        {
+          "t": "yt",
+          "v": "qNLLBhQjEf8"
+        }
+      ]
     },
     {
       "id": "inven-13606",
@@ -25522,7 +26094,21 @@
         "url": "https://www.inven.co.kr/webzine/calendar/"
       },
       "detailUrl": "https://www.inven.co.kr/webzine/calendar/game/13606",
-      "trailer": "https://www.youtube.com/results?search_query=Fading%20Echo%20%20official%20trailer"
+      "trailer": "https://www.youtube.com/results?search_query=Fading%20Echo%20%20official%20trailer",
+      "content": [
+        {
+          "t": "p",
+          "v": "페이딩 에코는 뉴테일즈 산하 ‘에메테리아(Emeteria)’ 스튜디오가 개발한 액션 어드벤처 게임이다. 인간, 물, 수증기 형태로 자유롭게 변신하는 능력을 지닌 젊은 영웅 ‘원(One)’을 조작해 끊임없이 변화하는 현실 속을 탐험하게 된다. 물, 수증기, 원소의 힘이 유기적으로 상호작용하는 시스템과 깊이 있는 서사를 결합한 것이 특징이다. 코믹스 스타일의 독창적인 비주얼이 매력 포인트이며, 유려한 이동과 역동적인 전투, 주변 환경과의 상호작용에 기반한 탐험을 즐길 수 있다."
+        },
+        {
+          "t": "p",
+          "v": "현재 세계 최대 게임 유통 플랫폼 ‘스팀’을 통해 데모 버전이 공개되었으며, 올해 하반기 PC는 물론 플레이스테이션5, 엑스박스 시리즈 X와 S 등 다양한 콘솔 기기로도 선보일 예정이다."
+        },
+        {
+          "t": "img",
+          "v": "https://static.inven.co.kr/column/webzine3/gamelogo/2026/i1408605245.jpg"
+        }
+      ]
     },
     {
       "id": "inven-13605",
@@ -25553,7 +26139,17 @@
         "url": "https://www.inven.co.kr/webzine/calendar/"
       },
       "detailUrl": "https://www.inven.co.kr/webzine/calendar/game/13605",
-      "trailer": "https://www.youtube.com/results?search_query=Ragnarok%3A%20The%20New%20World%20%20official%20trailer"
+      "trailer": "https://www.youtube.com/results?search_query=Ragnarok%3A%20The%20New%20World%20%20official%20trailer",
+      "content": [
+        {
+          "t": "p",
+          "v": "라그나로크: 더 뉴 월드는 라그나로크 IP를 활용한 첫 오픈월드 MMORPG로 광활한 필드에서 자유로운 모험을 즐길 수 있는 것이 특징이다. 라그나로크 IP 게임 최초로 비행 탈것을 도입해 하늘을 날아 미드가르드 대륙을 횡단 가능하며 제한 없는 전직과 자유로운 스킬 조합으로 본인의 취향에 맞는 플레이를 펼칠 수 있다. 또한 반복 콘텐츠 소요 시간을 줄이고 오프라인 자동 사냥 기능을 지원해 편의성을 높였으며 커플 시스템, 실시간 노점상, 캐릭터 커스터마이징 등 다양한 생활형 콘텐츠를 더해 색다른 재미를 선사한다."
+        },
+        {
+          "t": "img",
+          "v": "https://static.inven.co.kr/column/webzine3/gamelogo/2026/i1834221808.png"
+        }
+      ]
     },
     {
       "id": "inven-13602",
@@ -25583,7 +26179,25 @@
         "url": "https://www.inven.co.kr/webzine/calendar/"
       },
       "detailUrl": "https://www.inven.co.kr/webzine/calendar/game/13602",
-      "trailer": "https://www.youtube.com/results?search_query=Pingco's%20Adventure%20%20official%20trailer"
+      "trailer": "https://www.youtube.com/results?search_query=Pingco's%20Adventure%20%20official%20trailer",
+      "content": [
+        {
+          "t": "p",
+          "v": "펭귄런은 주인공 ‘핑코’가 외계인에게 납치된 엄마를 구하기 위해 다양한 테마 월드를 질주하는 스토리를 담은 캐주얼 런 게임이다. 점프와 슬라이드 중심의 직관적인 조작을 기반으로 장애물 회피, 타이밍 액션, 구간별 기믹 공략이 특징이다."
+        },
+        {
+          "t": "p",
+          "v": "스테이지는 북극을 시작으로 숲·사막·도시 등으로 확장돼 각 월드마다 고유한 장애물과 플레이 요소가 적용되며 단순 러닝에 그치지 않고 포털에 진입할 시 ▲보스전 ▲미스터리 장애물 등의 즐길거리를 제공한다."
+        },
+        {
+          "t": "p",
+          "v": "또한 이용자는 뽑기를 통해 머리와 의상 파츠 조합으로 구성된 약 460만 개의 스킨 캐릭터를 획득할 수 있다. 보유 캐릭터 간 합성 시스템으로 새로운 조합의 캐릭터를 추가 획득 가능하며 이를 통해 수집의 재미는 물론 다양한 조합을 완성해가는 플레이를 경험할 수 있다."
+        },
+        {
+          "t": "img",
+          "v": "https://static.inven.co.kr/column/webzine3/gamelogo/2026/i1908978683.jpg"
+        }
+      ]
     },
     {
       "id": "inven-13598",
@@ -25613,7 +26227,21 @@
         "url": "https://www.inven.co.kr/webzine/calendar/"
       },
       "detailUrl": "https://www.inven.co.kr/webzine/calendar/game/13598",
-      "trailer": "https://www.youtube.com/results?search_query=Erase%20-Missing%20Link-%20%20official%20trailer"
+      "trailer": "https://www.youtube.com/results?search_query=Erase%20-Missing%20Link-%20%20official%20trailer",
+      "content": [
+        {
+          "t": "p",
+          "v": "'이레이즈 -미싱링크-는 '최고에 자리에 오르면 마법을 쓸 수 있게 된다'는 의문의 카드 게임 '이레이즈'를 두고 교토 거리에서 벌어지는 사건을 다룬 TCG 어드벤처 게임이다. 주인공 나츠야기 우즈라는 최고의 자리에 오르기 위해 강적들에게 도전하면서 교류를 쌓아가는 가운데, 마을에서 연쇄적으로 의문사 사건이 발생하면서 이야기는 미궁으로 빠져든다."
+        },
+        {
+          "t": "p",
+          "v": "크툴루 신화를 시작한 H.P 러브크래프트 그리고 러브크래프트에게 영향을 끼친 로버트 W.체임버스의 작품에 영향을 받은 작품으로, 주인공이 심연에 접근할수록 이성 수치가 감소하면서 광기에 잠식된다. 그렇게 광기에 물들어가는 와중에 여러 차례 루프를 거쳐 '노란 옷의 왕' 등에 기록된 예언과 사건의 진상으로 도달하게 된다."
+        },
+        {
+          "t": "img",
+          "v": "https://static.inven.co.kr/column/webzine3/gamelogo/2026/i1231326965.jpg"
+        }
+      ]
     },
     {
       "id": "inven-13596",
@@ -25643,7 +26271,25 @@
         "url": "https://www.inven.co.kr/webzine/calendar/"
       },
       "detailUrl": "https://www.inven.co.kr/webzine/calendar/game/13596",
-      "trailer": "https://youtu.be/hbWkpX49FnU"
+      "trailer": "https://youtu.be/hbWkpX49FnU",
+      "content": [
+        {
+          "t": "p",
+          "v": "‘템템: 파이오니어스’는 2022년 정식 출시된 크리처 수집 RPG ‘템템’의 스핀오프 신작으로, 개발사 Crema가 시리즈의 새로운 방향성을 제시하는 오픈월드 생존 크래프팅 게임이다. 배경은 기존 시리즈의 무대인 공중 군도를 벗어나, ’다운벨로우(Downbelow)’라 불리는 미지의 광활한 대지다. 플레이어는 비행선 나왈(Narwhal)의 추락 이후 이 미지의 땅에 고립된 생존자가 되어, 야생 템템들과 함께 혹독한 환경 속에서 살아남아야 한다."
+        },
+        {
+          "t": "p",
+          "v": "게임플레이의 가장 큰 변화는 기존 시리즈의 턴제 전투를 과감히 버리고 직접 조작 방식의 실시간 액션 전투를 도입한 점이다. 최대 세 마리의 템템을 전투에 데려가 즉각적으로 교체하며 콤보와 회피를 연계할 수 있으며, 각 템템은 고유한 기술과 능력을 지닌다. 200종 이상의 템템을 포획하고 길들여 전투 파트너 겸 생존 조력자로 성장시키는 ‘페디그리(Pedigree)’ 시스템도 새롭게 도입되어, 특정 종을 더 많이 활용할수록 새로운 기술과 영구적인 능력치 강화가 해제된다."
+        },
+        {
+          "t": "p",
+          "v": "세계는 울창한 숲과 늪지, 화산, 사막 등 다양한 바이옴으로 구성되며 각 구역의 강력한 보스가 플레이어의 준비도를 시험한다. 자원을 수집하고 거점 기지를 건설하며 야생 템템의 습격을 방어하는 경영 요소도 중요한 축을 담당한다. 솔로 플레이뿐 아니라 여러 플레이어가 협력해 기지를 함께 구축하고 탐험하는 멀티플레이어 협동 모드를 지원하며, 개발 자금 일부는 킥스타터 크라우드펀딩을 통해 조달하고 있다."
+        },
+        {
+          "t": "yt",
+          "v": "hbWkpX49FnU"
+        }
+      ]
     },
     {
       "id": "inven-13594",
@@ -25673,7 +26319,25 @@
         "url": "https://www.inven.co.kr/webzine/calendar/"
       },
       "detailUrl": "https://www.inven.co.kr/webzine/calendar/game/13594",
-      "trailer": "https://youtu.be/Ycb5mqqGPis"
+      "trailer": "https://youtu.be/Ycb5mqqGPis",
+      "content": [
+        {
+          "t": "p",
+          "v": "‘돈 스타브 엘스웨어’는 2013년 원작 ‘돈 스타브’와 2016년 협동 확장판 이후 약 10년 만에 등장하는 시리즈의 신작으로, Klei Entertainment가 개발하는 생존 크래프팅 게임이다. 2026년 4월 The Triple-i Initiative 쇼케이스에서 세계 최초 공개되었으며, 윌슨, 윌로우, 웬디, WX-78 등 기존 시리즈의 친숙한 캐릭터들이 다시 등장하는 것이 트레일러를 통해 확인되었다. 싱글플레이와 온라인 협동 플레이를 모두 지원하며, 친구들과 함께 혹은 혼자서 위험한 새 세계를 탐험하고 생존을 이어나가는 방식은 기존 시리즈의 핵심 재미를 계승한다."
+        },
+        {
+          "t": "p",
+          "v": "이번 신작의 가장 큰 변화는 ‘수직적 지형’ 개념의 도입이다. 눈 덮인 산 정상을 오르고, 급류를 헤엄쳐 건너고, 뒤틀린 동굴 깊숙이 탐험하는 등 다층 구조의 입체적인 생태계가 처음으로 펼쳐진다. 각 바이옴은 독자적인 기후를 지니고 있어, 레드우드 삼림의 폭우나 고지대의 혹한 같은 환경적 위협에 맞서 생존 전략을 달리해야 한다."
+        },
+        {
+          "t": "p",
+          "v": "이 세계에는 안개라 불리는 새로운 위협 요소 ’포그(Fog)’가 등장해 지형 전반을 잠식하며 플레이어의 판단을 시험한다. 포그를 피해 도망칠 것인지, 정신력을 소모하더라도 그 안에 숨겨진 비밀을 탐색할 것인지는 전적으로 플레이어의 선택에 달려 있다. 절차적으로 생성되는 월드 구조 덕분에 매 플레이마다 다른 환경이 펼쳐지며, “떨어지지 말고, 안개 속에 머물지 말고, 무엇보다 굶지 말라”는 시리즈의 정신을 새로운 무대 위에서 이어간다."
+        },
+        {
+          "t": "yt",
+          "v": "Ycb5mqqGPis"
+        }
+      ]
     },
     {
       "id": "inven-13592",
@@ -25705,7 +26369,21 @@
         "url": "https://www.inven.co.kr/webzine/calendar/"
       },
       "detailUrl": "https://www.inven.co.kr/webzine/calendar/game/13592",
-      "trailer": "https://www.youtube.com/results?search_query=Starseeker%3A%20Astroneer%20Expeditions%20%20official%20trailer"
+      "trailer": "https://www.youtube.com/results?search_query=Starseeker%3A%20Astroneer%20Expeditions%20%20official%20trailer",
+      "content": [
+        {
+          "t": "p",
+          "v": "스타시커는 ‘아스트로니어’ 세계관을 바탕으로, 온라인 멀티플레이 행성 탐험을 핵심으로 하는 우주개척 샌드박스 장르의 게임이다. 플레이어들은 최대 4인의 팀을 꾸려 첨단 장비를 갖추고 심우주 탐험 미션에 나선다."
+        },
+        {
+          "t": "p",
+          "v": "게임의 첫 번째 행성 '테프라'에서부터 유저는 새로운 행성의 자연 생태계를 마주한다. 귀여운 당근 모양의 생명체 '캐럿링'부터, 등에 유용한 자원과 아이템을 지니고 다니며 교역도 가능한 '그랩크랩'까지 마주칠 수 있으며 그 외에도 위협적인 존재도, 의외의 우군도 될 수 있는 다양한 생물들이 육지와 바다, 하늘에서 기다리고 있다."
+        },
+        {
+          "t": "img",
+          "v": "https://static.inven.co.kr/column/webzine3/gamelogo/2026/i1216461178.jpg"
+        }
+      ]
     },
     {
       "id": "inven-13591",
@@ -25735,7 +26413,25 @@
         "url": "https://www.inven.co.kr/webzine/calendar/"
       },
       "detailUrl": "https://www.inven.co.kr/webzine/calendar/game/13591",
-      "trailer": "https://youtu.be/YLXtLqTfV7I"
+      "trailer": "https://youtu.be/YLXtLqTfV7I",
+      "content": [
+        {
+          "t": "p",
+          "v": "미래의 어느 연구 기지에 발생한 우주 폭풍으로부터 15년이 지난 시점을 배경으로 한다. 평온을 되찾았던 거주지에 다시 한번 우주 폭풍의 위기가 닥치자, 이곳에서 나고 자란 탐험가 마키와 오무라가 기지를 지키기 위해 대응에 나선다는 이야기를 담고 있다."
+        },
+        {
+          "t": "p",
+          "v": "시각적으로는 1990년대 초반 일본 SF 소년 만화 및 애니메이션의 스타일을 지향한다. 이를 구현하기 위해 카툰 렌더링과 필름 노이즈 효과를 적용하였으며, 의도적으로 프레임을 끊어서 연출하는 리미티드 애니메이션 기법을 활용해 복고풍 분위기를 재현했다."
+        },
+        {
+          "t": "p",
+          "v": "게임 플레이는 두 명의 플레이어가 반드시 협동해야 하는 구조를 갖추고 있다. 화면 분할 방식을 채택하고 있으며, 진행 과정에서 여러 게임 장르의 요소가 혼합된 구성을 선보이는 것이 특징이다."
+        },
+        {
+          "t": "yt",
+          "v": "YLXtLqTfV7I"
+        }
+      ]
     },
     {
       "id": "inven-13589",
@@ -25765,7 +26461,25 @@
         "url": "https://www.inven.co.kr/webzine/calendar/"
       },
       "detailUrl": "https://www.inven.co.kr/webzine/calendar/game/13589",
-      "trailer": "https://youtu.be/KVRMQLegdJg"
+      "trailer": "https://youtu.be/KVRMQLegdJg",
+      "content": [
+        {
+          "t": "p",
+          "v": "'슬롯 앤 소드 앤 매직(Slots & Sword & Magic)'은 인디 개발사 JL Studio가 개발한 턴제 로그라이크 게임으로, 슬롯 머신 메커니즘을 전투 시스템의 핵심으로 내세운 작품이다. 매 턴마다 슬롯을 돌려 공격, 방어, 회복, 골드, 마법 등 다양한 행동을 획득하고, 영웅은 그 결과를 즉시 자동으로 실행한다. 예측 불가능한 조합과 폭발적인 콤보 체인으로 매 플레이마다 전혀 다른 경험을 선사하는 것이 특징이다."
+        },
+        {
+          "t": "p",
+          "v": "단순해 보이는 구조 뒤에는 게임 전체를 뒤흔드는 강력한 콤보 시스템이 숨어 있다. 매 턴 슬롯을 돌릴 때마다 효과들이 서로를 증폭시키고, 아이템은 복제 및 변이되며, 콤보는 걷잡을 수 없이 커져간다. 인접한 심볼을 복사하거나 스스로 다른 효과로 변신하는 스페셜 아이템, 나아가 '시스템 폭주(System Glitch)'를 발동시키는 요소까지 더해져, 단 한 번의 럭키 스핀이 판세를 완전히 뒤집는 혼돈의 재미를 경험할 수 있다."
+        },
+        {
+          "t": "p",
+          "v": "로그라이크 특유의 런 기반 진행 구조로 매 플레이마다 새로운 빌드와 시너지를 탐구할 수 있어 높은 반복 플레이성을 갖추고 있으며, 세련된 픽셀 그래픽과 화려한 시각 이펙트가 콤보가 터지는 순간의 쾌감을 한층 극대화해준다. 슬롯 앤 소드 앤 매직은 한국어를 포함한 9개 언어를 지원한다."
+        },
+        {
+          "t": "yt",
+          "v": "KVRMQLegdJg"
+        }
+      ]
     },
     {
       "id": "inven-12125",
@@ -25796,7 +26510,13 @@
         "url": "https://www.inven.co.kr/webzine/calendar/"
       },
       "detailUrl": "https://www.inven.co.kr/webzine/calendar/game/12125",
-      "trailer": "https://www.youtube.com/results?search_query=Sonic%20Rumble%20Party%20%20official%20trailer"
+      "trailer": "https://www.youtube.com/results?search_query=Sonic%20Rumble%20Party%20%20official%20trailer",
+      "content": [
+        {
+          "t": "img",
+          "v": "https://static.inven.co.kr/column/webzine3/gamelogo/2024/i1756381312.jpg"
+        }
+      ]
     },
     {
       "id": "inven-13584",
@@ -25824,7 +26544,17 @@
         "url": "https://www.inven.co.kr/webzine/calendar/"
       },
       "detailUrl": "https://www.inven.co.kr/webzine/calendar/game/13584",
-      "trailer": "https://www.youtube.com/results?search_query=Shakugan%20no%20SHANA%20Blaze%20Edge%20%20official%20trailer"
+      "trailer": "https://www.youtube.com/results?search_query=Shakugan%20no%20SHANA%20Blaze%20Edge%20%20official%20trailer",
+      "content": [
+        {
+          "t": "p",
+          "v": "'작안의 샤나 블레이즈 엣지'는 타카하시 야시치로의 라이트 노벨을 원작으로 한 학원 액션 판타지 '작안의 샤나'를 기반으로 한 브라우저 RPG다.. 평범한 고등학생 사카이 유지가 ‘염발작안의 소녀’ 샤나와 만나, 인류의 존재를 먹는 ‘홍세의 무리’와 맞서 싸우는 이야기를 스마트폰 및 PC, 태블릿 등 다양한 환경에서 풀어낸다."
+        },
+        {
+          "t": "img",
+          "v": "https://static.inven.co.kr/column/webzine3/gamelogo/2026/i1625922612.jpg"
+        }
+      ]
     },
     {
       "id": "inven-5676",
@@ -25856,7 +26586,17 @@
         "url": "https://www.inven.co.kr/webzine/calendar/"
       },
       "detailUrl": "https://www.inven.co.kr/webzine/calendar/game/5676",
-      "trailer": "https://www.youtube.com/results?search_query=Overwatch%20%20official%20trailer"
+      "trailer": "https://www.youtube.com/results?search_query=Overwatch%20%20official%20trailer",
+      "content": [
+        {
+          "t": "p",
+          "v": "블리자드 엔터테인먼트의 팀 기반 멀티플레이 FPS 게임. 2014년 11월 블리즈컨에서 크리스 멧젠의 발표를 통해 최초로 공개되었다. 2015년 10월 27일부터 유럽과 북미지역에서 본격적으로 베타 테스트가 진행되고 있다."
+        },
+        {
+          "t": "img",
+          "v": "https://static.inven.co.kr/column/webzine3/gamelogo/2015/i11762101580.jpg"
+        }
+      ]
     },
     {
       "id": "inven-13580",
@@ -25886,7 +26626,25 @@
         "url": "https://www.inven.co.kr/webzine/calendar/"
       },
       "detailUrl": "https://www.inven.co.kr/webzine/calendar/game/13580",
-      "trailer": "https://www.youtube.com/results?search_query=Last%20Hunter%20K%3A%20Seoul%20%20official%20trailer"
+      "trailer": "https://www.youtube.com/results?search_query=Last%20Hunter%20K%3A%20Seoul%20%20official%20trailer",
+      "content": [
+        {
+          "t": "p",
+          "v": "‘라스트 헌터 K’는 제4차 세계대전과 핵전쟁 이후 황폐해진 근 미래의 서울을 배경으로 한 헌팅 액션 신작이다. 자원 고갈로 멸망 위기에 처한 인류와 거대 군수기업 연합 ‘하이 테이블(High Table)’, 그리고 그들이 창조한 기계 생명체 ‘와치독스(Watchdogs)’ 사이의 치열한 생존 전쟁을 담아 냈다."
+        },
+        {
+          "t": "p",
+          "v": "유저는 인류의 마지막 희망인 ‘라스트 헌터’가 되어, 거대 보스들과의 긴박감 넘치는 1:1 진검승부를 펼치게 된다. 특히 적의 공격 패턴에 맞춰 대응하는 패링, 회피, 카운터 등 정교한 조작 시스템을 통해 액션의 손맛을 더했다."
+        },
+        {
+          "t": "p",
+          "v": "또한, 한손검, 대검, 카타나, 해머, 활 등 5종의 무기 스타일을 제공하며, 얼굴과 체형, 문신까지 조절 가능한 세밀한 커스터마이징 시스템을 통해 자신만의 개성 있는 헌터를 생성할 수 있다. 이외에도 학습형 AI 기술이 적용된 몬스터와의 전투, 협동 모드 등 다채로운 콘텐츠를 갖췄다."
+        },
+        {
+          "t": "img",
+          "v": "https://static.inven.co.kr/column/webzine3/gamelogo/2026/i1596861918.jpg"
+        }
+      ]
     },
     {
       "id": "inven-13579",
@@ -25917,7 +26675,25 @@
         "url": "https://www.inven.co.kr/webzine/calendar/"
       },
       "detailUrl": "https://www.inven.co.kr/webzine/calendar/game/13579",
-      "trailer": "https://youtu.be/IeZDr5ulQbw"
+      "trailer": "https://youtu.be/IeZDr5ulQbw",
+      "content": [
+        {
+          "t": "p",
+          "v": "자이언트 소프트웨어의 농사 시뮬레이션, '파밍 시뮬레이터' 시리즈가 신작으로 돌아온다."
+        },
+        {
+          "t": "p",
+          "v": "플레이어는 유럽과 북미를 배경으로 한 2개의 신규 맵에서 농장 경영을 즐길 수 있으며, 새롭게 '챌린지 시스템'을 추가해 다양한 작업을 도전하면서 성장하는 과정도 농장 체험에 담아냈다. 특히 농사 시뮬레이션에 익숙하지 않은 유저를 위해 각종 공정을 자유롭게 진행해보는 튜토리얼의 역할도 챌린지 시스템을 통해서 녹여냈다."
+        },
+        {
+          "t": "p",
+          "v": "뿐만 아니라 자신의 취향에 맞춰 자유롭게 나만의 농장을 만들 수 있다. 15종류의 작물을 키우며 밭일을 즐길 수 있을 뿐만 아니라, 임업용 대형 기계를 활용한 산림 작업 및 소, 양, 닭, 염소와 같은 가축 돌보기 등 다양한 농업 체험을 만끽할 수 있다. 또한, 새로운 생산망과 물류 요소가 추가되어 전략성이 더욱 깊어졌다. 여기에 일본의 Kubota를 비롯해 Case IH, CLAAS, DEUTZ-FAHR, Fendt, John Deere, KRONE, Massey Ferguson, New Holland, Valtra 등 세계적으로 높은 평가를 받는 농기계 제조사들의 트랙터와 수확기, 분무기 등 각종 장비를 직접 조작하면서 실감나는 농사 체험을 할 수 있다."
+        },
+        {
+          "t": "yt",
+          "v": "IeZDr5ulQbw"
+        }
+      ]
     },
     {
       "id": "inven-13578",
@@ -25947,7 +26723,17 @@
         "url": "https://www.inven.co.kr/webzine/calendar/"
       },
       "detailUrl": "https://www.inven.co.kr/webzine/calendar/game/13578",
-      "trailer": "https://www.youtube.com/results?search_query=Savi's%20Tale%20%20official%20trailer"
+      "trailer": "https://www.youtube.com/results?search_query=Savi's%20Tale%20%20official%20trailer",
+      "content": [
+        {
+          "t": "p",
+          "v": "'사비 이야기'는 사후세계에서 주인을 기다리며 선물을 준비하는 고양이 ‘사비’의 이야기를 담은 스토리 중심 탐험 어드벤처다. '사비'는 아늑한 세계를 탐험하고 성장하며 다양한 이들과 우정을 쌓는다. 때로는 뛰어놀고, 때로는 소중한 기억을 떠올리며 주인에게 줄 선물을 준비하는 사비의 여정을 통해 사비가 어떤 고양이였는지, 그 인연의 팔찌의 의미에 대해서 서서히 알아가게 된다."
+        },
+        {
+          "t": "img",
+          "v": "https://static.inven.co.kr/column/webzine3/gamelogo/2026/i1504667874.jpg"
+        }
+      ]
     },
     {
       "id": "inven-13576",
@@ -25977,7 +26763,13 @@
         "url": "https://www.inven.co.kr/webzine/calendar/"
       },
       "detailUrl": "https://www.inven.co.kr/webzine/calendar/game/13576",
-      "trailer": "https://www.youtube.com/results?search_query=Cats%20%26%20Soup%3A%20Magic%20Recipe%20%20official%20trailer"
+      "trailer": "https://www.youtube.com/results?search_query=Cats%20%26%20Soup%3A%20Magic%20Recipe%20%20official%20trailer",
+      "content": [
+        {
+          "t": "img",
+          "v": "https://static.inven.co.kr/column/webzine3/gamelogo/2026/i1152461124.jpg"
+        }
+      ]
     },
     {
       "id": "inven-13573",
@@ -26007,7 +26799,21 @@
         "url": "https://www.inven.co.kr/webzine/calendar/"
       },
       "detailUrl": "https://www.inven.co.kr/webzine/calendar/game/13573",
-      "trailer": "https://www.youtube.com/results?search_query=Zombie%20Island%20%20official%20trailer"
+      "trailer": "https://www.youtube.com/results?search_query=Zombie%20Island%20%20official%20trailer",
+      "content": [
+        {
+          "t": "p",
+          "v": "좀비 아일랜드는 좀비로 가득한 섬을 배경으로 레이싱과 전투 요소를 결합한 서바이벌 배틀로얄 게임이다. 이용자는 차량을 타고 고속으로 질주하며 좀비를 밀어내고 다양한 무기를 활용해 경쟁 차량과 맞서 싸우며 최후의 생존자를 가리게 된다."
+        },
+        {
+          "t": "p",
+          "v": "게임은 좀비섬, 서킷장, 공사장 등 좁은 도로와 장애물, 함정이 배치된 다양한 전장을 기반으로 진행된다. 이용자는 스포츠카, 몬스터트럭 등 10종 이상의 차량 및 무기를 장착해 전략적인 플레이가 가능하며 AI 기반 PvE 시스템을 통해 실제 이용자 간 대전과 유사한 긴장감 있는 전투를 경험할 수 있다."
+        },
+        {
+          "t": "img",
+          "v": "https://static.inven.co.kr/column/webzine3/gamelogo/2026/i1390301107.jpg"
+        }
+      ]
     },
     {
       "id": "inven-13571",
@@ -26037,7 +26843,17 @@
         "url": "https://www.inven.co.kr/webzine/calendar/"
       },
       "detailUrl": "https://www.inven.co.kr/webzine/calendar/game/13571",
-      "trailer": "https://www.youtube.com/results?search_query=Chaos%20W%20%20official%20trailer"
+      "trailer": "https://www.youtube.com/results?search_query=Chaos%20W%20%20official%20trailer",
+      "content": [
+        {
+          "t": "p",
+          "v": "'카오스W'는 기존 RTS 기반 원작인 ‘카오스 온라인’을 모바일 MMORPG로 재해석한 타이틀이다. 원작의 전략성과 RPG의 장점을 융합, 장비를 강화하고 펫을 수집하고 훈련시키면서 카오스의 세계에서 영광을 쟁취하기 위한 경쟁에 뛰어드는 구도를 MMORPG로 구현했다. 여기에 밸로프의 글로벌 플랫폼인 VFUN과 함께, 넥써쓰의 온체인 게임 플랫폼 ‘크로쓰(CROSS)’와 결합했다."
+        },
+        {
+          "t": "img",
+          "v": "https://static.inven.co.kr/column/webzine3/gamelogo/2026/i1259815021.jpg"
+        }
+      ]
     },
     {
       "id": "inven-13567",
@@ -26067,7 +26883,25 @@
         "url": "https://www.inven.co.kr/webzine/calendar/"
       },
       "detailUrl": "https://www.inven.co.kr/webzine/calendar/game/13567",
-      "trailer": "https://www.youtube.com/results?search_query=Endless%20Frontier%202%20%20official%20trailer"
+      "trailer": "https://www.youtube.com/results?search_query=Endless%20Frontier%202%20%20official%20trailer",
+      "content": [
+        {
+          "t": "p",
+          "v": "방치형 전설의 귀환, '오늘도 환생 2'가 더 강력해져서 돌아왔습니다."
+        },
+        {
+          "t": "p",
+          "v": "한계에 부딪힐 때마다 행하는 '환생'은 끝이 아닌 새로운 시작입니다. 환생으로 얻은 훈장을 통해 기사단을 무한히 강화하고, 수천 개의 스테이지를 광속으로 돌파하세요."
+        },
+        {
+          "t": "p",
+          "v": "지금 바로 인생 n회차의 주인공이 되어, 기사단의 전설을 다시 쓰세요!"
+        },
+        {
+          "t": "img",
+          "v": "https://static.inven.co.kr/column/webzine3/gamelogo/2026/i1734292678.png"
+        }
+      ]
     },
     {
       "id": "inven-13566",
@@ -26098,7 +26932,25 @@
         "url": "https://www.inven.co.kr/webzine/calendar/"
       },
       "detailUrl": "https://www.inven.co.kr/webzine/calendar/game/13566",
-      "trailer": "https://youtu.be/Hzom1AFJ6iY"
+      "trailer": "https://youtu.be/Hzom1AFJ6iY",
+      "content": [
+        {
+          "t": "p",
+          "v": "헌터: 더 레커닝 - 데스 위시는 TRPG에서 시작된 뱀파이어 더 마스커레이드, 워울프 디 아포칼립스 등과 같은 월드 오브 다크니스 세계관의 신작이다. 로보캅: 로그 시티의 개발사 테이온에서 제작한다."
+        },
+        {
+          "t": "p",
+          "v": "게임은 1인칭 액션 게임으로, 메인 퀘스트 라인과 함께 다양한 사이드 퀘스트가 있는 세미 오픈 월드를 선보인다. 메인 퀘스트는 비교적 선형적인 경로를 따르지만, 분기점도 존재한다. 동료들과 유대감을 쌓고 개인적 이야기에 영향을 줄 수도 있다."
+        },
+        {
+          "t": "p",
+          "v": "캐릭터의 성별을 선택할 수 있고, 헤어스타일이나 피부색, 체형 등을 세부적으로 커스터마이징 할 수 있다. 이외에도 전투와 액션, 문제에 접근하는 방식, 다른 이와의 상호작용 방식 등 다양한 면에서 플레이어가 자신만의 캐릭터와 플레이스타일을 선택할 수 있다."
+        },
+        {
+          "t": "yt",
+          "v": "Hzom1AFJ6iY"
+        }
+      ]
     },
     {
       "id": "inven-13564",
@@ -26129,7 +26981,25 @@
         "url": "https://www.inven.co.kr/webzine/calendar/"
       },
       "detailUrl": "https://www.inven.co.kr/webzine/calendar/game/13564",
-      "trailer": "https://youtu.be/V2H5TBVr2hQ"
+      "trailer": "https://youtu.be/V2H5TBVr2hQ",
+      "content": [
+        {
+          "t": "p",
+          "v": "스토커2: 코스트 오브 호프는 스토커2의 첫 번째 대규모 확장팩이다. 이번 확장팩은 본편 출시 이후 개발이 시작되었으며, 전체 스토리를 완료하는 데만 수십 시간이 소요될 예정이다. 모든 콘텐츠를 경험할 시 플레이타임은 더 길어진다. 플레이어는 확장팩을 통해 더 흥미로운 퀘스트와 캐릭터, 스토리를 경험할 수 있다."
+        },
+        {
+          "t": "p",
+          "v": "주인공은 스키프로, 스토리는 초르노빌의 심장부와 병행해서 진행된다. 확장팩 설치 후 본편 캠페인을 진행하는 동안 PDA에 신호가 나타나며, 새로운 스토리를 시작할 수 있다. 게임 진행 과정에서 하는 플레이어의 선택이 게임 전체에 매우 큰 영향을 미칠 예정이다."
+        },
+        {
+          "t": "p",
+          "v": "확장팩에서는 오랫동안 고립되어 있었던 철의 숲과 초르노빌 원자력 발전소, 두 개의 새로운 지역을 탐험할 수 있다. 각 지역에는 중심지와 수십개의 작은 지역이 자리하며, 다양한 퀘스트와 활동이 준비되어 있다."
+        },
+        {
+          "t": "yt",
+          "v": "V2H5TBVr2hQ"
+        }
+      ]
     },
     {
       "id": "inven-13563",
@@ -26160,7 +27030,25 @@
         "url": "https://www.inven.co.kr/webzine/calendar/"
       },
       "detailUrl": "https://www.inven.co.kr/webzine/calendar/game/13563",
-      "trailer": "https://youtu.be/LBxjH-lZjEo"
+      "trailer": "https://youtu.be/LBxjH-lZjEo",
+      "content": [
+        {
+          "t": "p",
+          "v": "'익스팬스: 오시리스 리본'은 동명의 SF 소설·TV 시리즈를 원작으로 한 3인칭 액션 RPG로, '패스파인더: 라이트어스니스'와 '워해머 40,000: 로그 트레이더』를 개발한 올캣 게임즈가 제작을 맡았다. 무대는 24세기의 태양계로, 지구·화성·벨트 간 세력 균형이 붕괴 직전에 놓인 혼란의 시대다. 플레이어는 핑크워터 시큐리티 소속 용병으로, 소행성 에로스에서의 짧은 휴가 도중 치명적인 봉쇄 상황에 휘말리며 태양계 전체를 뒤흔드는 거대한 음모 속으로 끌려들어 간다. 지구인, 화성인, 벨터 중 하나의 출신을 선택해 커스터마이즈한 대장을 만들고, 각자의 사연과 목적을 지닌 동료들을 모아 태양계에서 가장 강력한 함선을 이끌어야 한다."
+        },
+        {
+          "t": "p",
+          "v": "전투는 엄폐물을 활용한 3인칭 슈팅과 실시간 분대 지휘를 결합한 전술적 구조로 이루어진다. 최대 두 명의 동료를 직접 대동해 교전에 투입할 수 있으며, 함선에 남은 대원들도 해킹이나 교란 등 원격 방식으로 전황에 개입한다. '익스플로잇' 시스템을 통해 각 동료의 고유한 능력을 전투 중에 적절히 활용하는 것이 핵심이며, 이 시스템은 단순한 전투 보조를 넘어 동료와의 관계에도 영향을 미친다. 세레스의 빈민가, 가니메데의 돔 농원, 화성과 루나의 정치 요충지 등 태양계 각지를 무대로 세력 간 갈등과 도덕적 선택이 교차하는 이야기가 펼쳐진다."
+        },
+        {
+          "t": "p",
+          "v": "동료와의 관계는 게임의 핵심 축 가운데 하나다. 각 동료는 저마다의 과거와 숨겨진 동기를 지니고 있으며, 대화 선택에 따라 신뢰 혹은 균열이 쌓이고 그 결과가 이야기 전반에 걸쳐 파급된다. TV 시리즈에 출연했던 배우 일부가 게임에서 동일한 역할로 목소리 연기에 참여하며, 원작 팬들에게 친숙한 얼굴을 만날 수 있다. 개발진은 마스 이펙트 시리즈를 주요 영감으로 꼽으면서도, 현실적인 하드 SF 세계관과 정치적 복잡성을 바탕으로 독자적인 서사 구조를 구현하겠다고 밝혔다."
+        },
+        {
+          "t": "yt",
+          "v": "LBxjH-lZjEo"
+        }
+      ]
     },
     {
       "id": "inven-13558",
@@ -26191,7 +27079,25 @@
         "url": "https://www.inven.co.kr/webzine/calendar/"
       },
       "detailUrl": "https://www.inven.co.kr/webzine/calendar/game/13558",
-      "trailer": "https://youtu.be/7DlVXpef_xY"
+      "trailer": "https://youtu.be/7DlVXpef_xY",
+      "content": [
+        {
+          "t": "p",
+          "v": "에일리언 데스스톰은 SF 서바이벌과 액션이 결합된 1인칭 호러 게임으로, 폭풍이 몰아치는 외계 식민지에서 끊임없이 변하는 위협에 대응하며 살아남아야 한다. 통신이 완전히 두절된 외계 기지로 파견된 플레이어는 기지가 이렇게 된 원인을 밝히고, 최대한 많은 생명을 구해내야 한다. 주인공은 수색 및 구조, 전투, 폭파, 공학 분야에 능숙한 고도로 훈련된 요원이다."
+        },
+        {
+          "t": "p",
+          "v": "게임은 1980년대 SF 영화의 아날로그적 분위기에서 영감을 받아 제작됐다. 개발진은 이런 요소들이 게임에 투박하면서도 개성 넘치는 독특한 느낌을 불어넣었다며 러브크래프트풍의 기괴한 공포부터 1980년 VHS SF까지 다양한 곳에서 영향을 받았다고 전했다."
+        },
+        {
+          "t": "p",
+          "v": "에일리언 데스스톰은 긴장감 넘치는 탐험과 발견, 액션 슈팅이 합쳐진 하이브리드 게임으로, 전통적인 서바이벌 호러 게임의 긴장감과 공포감은 유지하면서, 박진감 넘치는 액션을 선보일 예정이다."
+        },
+        {
+          "t": "yt",
+          "v": "7DlVXpef_xY"
+        }
+      ]
     },
     {
       "id": "inven-13297",
@@ -26222,7 +27128,17 @@
         "url": "https://www.inven.co.kr/webzine/calendar/"
       },
       "detailUrl": "https://www.inven.co.kr/webzine/calendar/game/13297",
-      "trailer": "https://youtu.be/x2BGF12nGU8"
+      "trailer": "https://youtu.be/x2BGF12nGU8",
+      "content": [
+        {
+          "t": "p",
+          "v": "'프로그 스콰드(Frog Sqwad)'는 Fall Guys 개발 경력을 가진 인디 스튜디오 패닉 스테이션즈의 데뷔작으로, 최대 8명이 협력해 하수도를 누비며 탐욕스러운 늪의 왕을 위해 먹이를 조달하는 개구리 협동 퍼즐 플랫포머다. 플레이어는 찐득한 혀를 이용해 파이프에 매달리거나 동료를 공중으로 튕겨 올리고, 물리 기반의 퍼즐을 함께 풀어가며 구불구불한 하수도 미로를 헤쳐 나간다. 매 런마다 새롭게 바뀌는 구조와 장애물, 기묘한 생물들이 기다리는 하수도 속에서, 더 많이 먹을수록 거대한 메가프록으로 부풀어 오르는 성장 시스템이 독특한 재미를 더한다.핵심 게임플레이는 먹이를 수거해 탈출하는 '익스트랙션' 방식으로 진행된다. 팀 전체가 할당량을 채우지 못하면 자칫 왕의 저녁 식사가 될 수도 있어, 협동과 경쟁이 뒤섞인 긴장감이 매 판을 새롭게 만든다. 성공적인 런에서 획득한 골드로 새로운 물리 도구와 장치를 구입할 수 있어 이후 미션에서 활용할 전략적 다양성도 갖췄다. 최대 8인 동시 플레이를 지원하면서도 소규모 팀으로도 충분히 즐길 수 있도록 설계된 점이 특징이다.이 게임은 Fall Guys 특유의 왁자지껄한 멀티플레이 에너지를 계승하면서도, 중력과 관성을 이용한 퍼즐 풀기와 협동 이동이라는 요소를 더욱 깊이 있게 발전시킨 것이 차별점이다. 2025년 12월 Day of the Devs 쇼케이스에서 처음 공개된 이후 스팀 데모 플레이테스트에서 큰 호응을 받았으며, 2026년 3월 Xbox 파트너 프리뷰를 통해 Xbox와 게임패스 출시가 확정되었다."
+        },
+        {
+          "t": "yt",
+          "v": "x2BGF12nGU8"
+        }
+      ]
     },
     {
       "id": "inven-13557",
@@ -26254,7 +27170,17 @@
         "url": "https://www.inven.co.kr/webzine/calendar/"
       },
       "detailUrl": "https://www.inven.co.kr/webzine/calendar/game/13557",
-      "trailer": "https://youtu.be/l-k93PJGj3E"
+      "trailer": "https://youtu.be/l-k93PJGj3E",
+      "content": [
+        {
+          "t": "p",
+          "v": "'블루이의 해피 스냅(Bluey's Happy Snaps)'은 호주의 인기 어린이 애니메이션 시리즈 를 원작으로 한 사진 촬영 어드벤처 게임이다. 블루이와 동생 빙고가 아빠 밴딧의 카메라를 발견해 가족 여행에 나서는 이야기로, 플레이어는 카메라 렌즈를 통해 블루이의 집과 브리즈번의 상징적인 장소들을 탐험하며 동물과 사물을 사진으로 포착한다. TV 시리즈에서 처음 등장하는 새로운 배경들이 게임 속 입체적인 환경으로 구현된 것이 특징이다. 게임 플레이는 촬영, 스티커 수집, 스크랩북 꾸미기 등 아이들이 친근하게 즐길 수 있는 활동으로 구성된다. 특히 'Play for Real Life'라는 기능을 통해 게임 속 활동이 현실에서도 이어지는 경험을 제공하며, 수백 가지의 수집 요소가 장기적인 재미를 지원한다. 블루이 IP의 실제 제작사 루도 스튜디오 및 BBC 스튜디오와 긴밀히 협력해 원작의 분위기와 캐릭터 특성을 충실히 담아냈다. 블루이의 고향 도시인 브리즈번을 본거지로 두는 게임로프트 브리즈번이 개발을 담당해, 원작 배경의 현지성을 살린 점도 주목할 부분이다. 2026년 3월 Xbox 파트너 프리뷰에서 처음 공개되었으며 Xbox 게임패스와 Xbox Play Anywhere를 지원해 콘솔과 PC 간 원활한 플레이가 가능하다. 가을 시즌에 멀티플랫폼으로 동시 출시가 예정되어 있어, 어린 자녀를 둔 가족을 주 대상으로 폭넓은 접근성을 갖춘 작품이다."
+        },
+        {
+          "t": "yt",
+          "v": "l-k93PJGj3E"
+        }
+      ]
     },
     {
       "id": "inven-13555",
@@ -26286,7 +27212,17 @@
         "url": "https://www.inven.co.kr/webzine/calendar/"
       },
       "detailUrl": "https://www.inven.co.kr/webzine/calendar/game/13555",
-      "trailer": "https://youtu.be/YMLqErUolhw"
+      "trailer": "https://youtu.be/YMLqErUolhw",
+      "content": [
+        {
+          "t": "p",
+          "v": "'포에버 어고'는 예기치 못한 비극적 사고 이후 속죄와 치유를 찾아 북쪽으로 떠나는 한 노인의 로드 트립을 다루는 3인칭 1인용 내러티브 어드벤처 게임이다. 플레이어는 주인공 알프레드가 되어 그의 낡은 미니밴에 몸을 싣고, 인생 후반부에 마주하는 슬픔과 상실, 후회, 그리고 용기와 우정이라는 복합적인 감정들을 탐색하게 된다. 게임을 개발한 서드 쉬프트는 독일의 두 친구가 함께 설립한 소규모 1인 스튜디오로, 이 작품이 첫 번째 타이틀이다. 고령의 주인공을 내세운 설정은 비디오 게임에서 보기 드문 시도로, 개발자들은 한 노인이 삶의 무게를 어떻게 감당해 나가는지를 이야기하고 싶었다고 밝혔다. 알프레드가 여정을 이어가며 마주하는 환경은 고요한 숲속 호수부터 뜨거운 황무지와 황량한 사막, 산악 지대까지 다양하게 펼쳐진다. 길 위에서 다양한 인물들을 만나고 주변 사물들을 살펴보며 그 장소와 사람들의 이야기를 조금씩 알아가는 방식이다. 특히 게임 내 핵심 메카닉으로 기능하는 즉석카메라는 단순한 사진 촬영을 넘어 알프레드가 과거의 기억 속으로 직접 들어가는 통로 역할을 한다. 특정 장소나 사물이 오래된 기억을 자극하면, 카메라를 통해 그 기억의 장면을 다시 체험하거나 소규모 환경 퍼즐을 풀 수 있는 구조다. '슬레이 더 스파이어'의 음악을 담당했던 클락 아보드가 오리지널 사운드트랙을 제공하여 게임의 감정적 분위기를 뒷받침한다. 여정 내내 알프레드의 곁을 지키는 개 캐릭터도 등장하며, 직접 쓰다듬는 것도 가능하다. 2020년 처음 발표된 이후 오랜 기간 개발이 이어졌으며, 2026년 3월 Xbox 파트너 프리뷰를 통해 가을 출시 예정임이 공식 확인되었다."
+        },
+        {
+          "t": "yt",
+          "v": "YMLqErUolhw"
+        }
+      ]
     },
     {
       "id": "inven-11140",
@@ -26318,7 +27254,13 @@
         "url": "https://www.inven.co.kr/webzine/calendar/"
       },
       "detailUrl": "https://www.inven.co.kr/webzine/calendar/game/11140",
-      "trailer": "https://www.youtube.com/results?search_query=Wuthering%20Waves%20%20official%20trailer"
+      "trailer": "https://www.youtube.com/results?search_query=Wuthering%20Waves%20%20official%20trailer",
+      "content": [
+        {
+          "t": "img",
+          "v": "https://static.inven.co.kr/column/webzine3/gamelogo/2022/i8239308419.png"
+        }
+      ]
     },
     {
       "id": "inven-13552",
@@ -26348,7 +27290,13 @@
         "url": "https://www.inven.co.kr/webzine/calendar/"
       },
       "detailUrl": "https://www.inven.co.kr/webzine/calendar/game/13552",
-      "trailer": "https://www.youtube.com/results?search_query=FIFA%20Heroes%20%20official%20trailer"
+      "trailer": "https://www.youtube.com/results?search_query=FIFA%20Heroes%20%20official%20trailer",
+      "content": [
+        {
+          "t": "img",
+          "v": "https://static.inven.co.kr/column/webzine3/gamelogo/2026/i1569237025.jpg"
+        }
+      ]
     },
     {
       "id": "inven-13547",
@@ -26376,7 +27324,13 @@
         "url": "https://www.inven.co.kr/webzine/calendar/"
       },
       "detailUrl": "https://www.inven.co.kr/webzine/calendar/game/13547",
-      "trailer": "https://www.youtube.com/results?search_query=Payday%3A%20Aces%20High%20%20official%20trailer"
+      "trailer": "https://www.youtube.com/results?search_query=Payday%3A%20Aces%20High%20%20official%20trailer",
+      "content": [
+        {
+          "t": "img",
+          "v": "https://static.inven.co.kr/column/webzine3/gamelogo/2026/i1225785795.jpg"
+        }
+      ]
     },
     {
       "id": "inven-13546",
@@ -26406,7 +27360,13 @@
         "url": "https://www.inven.co.kr/webzine/calendar/"
       },
       "detailUrl": "https://www.inven.co.kr/webzine/calendar/game/13546",
-      "trailer": "https://www.youtube.com/results?search_query=Everquest%20Legends%20%20official%20trailer"
+      "trailer": "https://www.youtube.com/results?search_query=Everquest%20Legends%20%20official%20trailer",
+      "content": [
+        {
+          "t": "img",
+          "v": "https://static.inven.co.kr/column/webzine3/gamelogo/2026/i1271659844.jpg"
+        }
+      ]
     },
     {
       "id": "inven-11138",
@@ -26436,7 +27396,13 @@
         "url": "https://www.inven.co.kr/webzine/calendar/"
       },
       "detailUrl": "https://www.inven.co.kr/webzine/calendar/game/11138",
-      "trailer": "https://www.youtube.com/results?search_query=SD%20Gundam%20G%20Generation%20Eternal%20%20official%20trailer"
+      "trailer": "https://www.youtube.com/results?search_query=SD%20Gundam%20G%20Generation%20Eternal%20%20official%20trailer",
+      "content": [
+        {
+          "t": "img",
+          "v": "https://static.inven.co.kr/column/webzine3/gamelogo/2026/i1205334046.jpg"
+        }
+      ]
     },
     {
       "id": "inven-13539",
@@ -26467,7 +27433,17 @@
         "url": "https://www.inven.co.kr/webzine/calendar/"
       },
       "detailUrl": "https://www.inven.co.kr/webzine/calendar/game/13539",
-      "trailer": "https://youtu.be/PIqojzUzC-E"
+      "trailer": "https://youtu.be/PIqojzUzC-E",
+      "content": [
+        {
+          "t": "p",
+          "v": "'리리의 세계'는 미니어처 세계를 배경으로 한 코지 라이프 시뮬레이션 게임이다. 인디 스튜디오 '릴리란디아 게임즈(LilliLandia Games)'가 처음으로 선보이는 이 작품은 2026년 2월 사전등록이 시작된 이후 전 세계 630만 명 이상의 유저가 사전 등록을 마쳤다. PC, PS5, Nintendo Switch 2, Mac OS 출시를 예고하고 있다. 게임의 세계관은 어느 날 잠에서 깨어보니, 꿈속에서 그리던 소인국이 현실이 되어 있었고, 주인공은 자신의 방, 자신의 책상 위에서 소인이 된 채 '별빛 마을'의 일원이 된다. 처음에는 낯선 세상에 어리둥절하지만, 이내 마을 주민인 '리리'들과 어울리며 나만의 보금자리를 꾸려나가게 된다. 여정을 함께하는 동반자 '우바'도 있다. 탐험의 든든한 길잡이인 동시에, 보기만 해도 미소가 지어지는 귀여운 존재다. 우바와 더불어 별빛 마을에는 다양한 리리들이 거주하며, 요리, 댄스, 공연 등 다양한 활동을 함께 즐길 수 있다."
+        },
+        {
+          "t": "yt",
+          "v": "PIqojzUzC-E"
+        }
+      ]
     },
     {
       "id": "inven-11847",
@@ -26497,7 +27473,25 @@
         "url": "https://www.inven.co.kr/webzine/calendar/"
       },
       "detailUrl": "https://www.inven.co.kr/webzine/calendar/game/11847",
-      "trailer": "https://youtu.be/WwWfeVvGt1M"
+      "trailer": "https://youtu.be/WwWfeVvGt1M",
+      "content": [
+        {
+          "t": "p",
+          "v": "'낙원: 라스트 파라다이스'는 넥슨에서 개발 중인 좀비 아포칼립스 기반의 3인칭 서바이벌 액션 게임이다. 폐허가 된 서울을 배경으로 하며, 실제 지형과 건물을 사실적으로 재현해 한국 유저들에게 독보적인 몰입감을 선사한다. 플레이어는 좀비가 가득한 도시 속으로 뛰어들어 생존에 필요한 자원을 수집하고, 무사히 탈출해야 하는 막중한 임무를 수행하게 된다."
+        },
+        {
+          "t": "p",
+          "v": "게임의 핵심 재미는 잠입과 탈출이 결합된 '익스트랙션(Extraction)' 구조에 있다. 소리에 민감하게 반응하는 좀비의 추격을 피해 정숙을 유지하며 탐사하는 긴장감이 일품이다. 또한 다른 생존자들과 자원을 두고 협력하거나 대립하는 PvPvE 방식의 교전이 수시로 발생한다. 단순히 좀비를 사냥하는 것을 넘어, 위험천만한 전장에서 욕심과 생존 사이의 균형을 잡으며 탈출구까지 도달하는 과정이 이 게임의 묘미다."
+        },
+        {
+          "t": "p",
+          "v": "탐사를 통해 수집한 자원은 안전지대인 '낙원'에서 삶을 영위하고 다음을 준비하는 데 사용된다. 플레이어는 안전지대 안에서 시민 등급을 올리고 장비를 강화하며 자신만의 생존 전략을 구축한다. 좀비의 위협뿐만 아니라 자원 부족과 계급 사회라는 현실적인 생존 요소를 더해 장르적 깊이를 더했다. '낙원'은 한국적인 색채가 짙은 포스트 아포칼립스 세계관 속에서 극강의 심리전과 생존의 짜릿함을 선사하는 기대작이다."
+        },
+        {
+          "t": "yt",
+          "v": "WwWfeVvGt1M"
+        }
+      ]
     },
     {
       "id": "inven-10385",
@@ -26527,7 +27521,13 @@
         "url": "https://www.inven.co.kr/webzine/calendar/"
       },
       "detailUrl": "https://www.inven.co.kr/webzine/calendar/game/10385",
-      "trailer": "https://www.youtube.com/results?search_query=%EB%A6%AC%EB%8B%88%EC%A7%80%20%ED%81%B4%EB%9E%98%EC%8B%9D%20%20official%20trailer"
+      "trailer": "https://www.youtube.com/results?search_query=%EB%A6%AC%EB%8B%88%EC%A7%80%20%ED%81%B4%EB%9E%98%EC%8B%9D%20%20official%20trailer",
+      "content": [
+        {
+          "t": "img",
+          "v": "https://static.inven.co.kr/column/webzine3/gamelogo/2026/i1585714484.png"
+        }
+      ]
     },
     {
       "id": "inven-13522",
@@ -26557,7 +27557,25 @@
         "url": "https://www.inven.co.kr/webzine/calendar/"
       },
       "detailUrl": "https://www.inven.co.kr/webzine/calendar/game/13522",
-      "trailer": "https://www.youtube.com/results?search_query=Beast%20Clash%3A%20Last%20Front%20%20official%20trailer"
+      "trailer": "https://www.youtube.com/results?search_query=Beast%20Clash%3A%20Last%20Front%20%20official%20trailer",
+      "content": [
+        {
+          "t": "p",
+          "v": "'비스트 클래시: 라스트 프런트'는 수십 년간 외부와 단절된 미지의 지역이자 신비로운 세계관을 지닌 ‘ARC 섬’을 배경으로 한다. 유저는 첫 상륙 작전의 실패와 추락 사고로 혼란에 빠진 전선 한가운데 고립된 지휘관으로 시작한다. 비스트를 병기화해 ARC 섬을 장악하려는 적대 세력 ‘센카 부대’에 맞서 기지를 재건하고 반격의 기반을 마련해야 하는 것이 목표다."
+        },
+        {
+          "t": "p",
+          "v": "게임의 가장 큰 특징은 전황을 뒤집는 핵심 전력인 ‘비스트(거수)’의 포획과 운용이다. 유저는 전선을 장악해 나가는 과정에서 거수를 포획하고 훈련하며, 개조 기술을 차례로 확보하게 된다. 이같이 확보한 거대 병기들을 전황에 맞춰 전략적으로 투입하는 것이 핵심 플레이 요소다."
+        },
+        {
+          "t": "p",
+          "v": "또한, 단순한 전투를 넘어 안정적인 기지 구축과 자원 생산, 병력 운용 등 장기적인 전략 수립이 요구된다. 이처럼 비스트와 병력의 편성, 그리고 해당 비스트들을 어떻게 투입하고 지휘하는가에 따라 전장의 성패 여부가 크게 좌우된다."
+        },
+        {
+          "t": "img",
+          "v": "https://static.inven.co.kr/column/webzine3/gamelogo/2026/i1592073111.jpg"
+        }
+      ]
     },
     {
       "id": "inven-10987",
@@ -26587,7 +27605,13 @@
         "url": "https://www.inven.co.kr/webzine/calendar/"
       },
       "detailUrl": "https://www.inven.co.kr/webzine/calendar/game/10987",
-      "trailer": "https://www.youtube.com/results?search_query=streetfighter%206%20%20official%20trailer"
+      "trailer": "https://www.youtube.com/results?search_query=streetfighter%206%20%20official%20trailer",
+      "content": [
+        {
+          "t": "img",
+          "v": "https://static.inven.co.kr/column/webzine3/gamelogo/2022/i8298681011.jpg"
+        }
+      ]
     },
     {
       "id": "inven-13519",
@@ -26617,7 +27641,25 @@
         "url": "https://www.inven.co.kr/webzine/calendar/"
       },
       "detailUrl": "https://www.inven.co.kr/webzine/calendar/game/13519",
-      "trailer": "https://youtu.be/Y4mFfb_QBeM"
+      "trailer": "https://youtu.be/Y4mFfb_QBeM",
+      "content": [
+        {
+          "t": "p",
+          "v": "'에이나: 조각난 진실(Ayna: Shattered Truth)'은 독일의 인디 개발사 디자인매틱(designmatic)이 개발 중인 2.8D 메트로이드바니아 액션 어드벤처 게임이다. 2D 횡스크롤의 조작감과 비주얼을 유지하면서도 3D 공간감을 결합한 독특한 시각적 표현 방식이 특징이다. 플레이어는 주인공 사에(Sae)가 되어 여정을 떠나며, 손으로 그린 듯한 스타일리시한 그래픽과 함께 감성적인 스토리텔링에 높은 비중을 두고 있어, 단순한 액션 게임을 넘어 서사 중심의 경험을 추구한다."
+        },
+        {
+          "t": "p",
+          "v": "게임플레이는 도전적인 전투, 정밀한 플랫포밍, 그리고 퍼즐을 유기적으로 결합한 구성으로 이루어져 있다. 전투에서는 다양한 근접 공격 콤보와 원거리 특수 공격을 활용해 강적들을 상대할 수 있으며, 무기·스킬·캐릭터 스탯 등의 성장 요소도 갖추고 있다. 탐험 측면에서는 각기 다른 디자인의 지역들을 오가며, 고유 시스템을 통해 3D적인 이동 경험을 2D 횡스크롤 형식으로 구현한 점이 눈에 띈다."
+        },
+        {
+          "t": "p",
+          "v": "에이나: 조각난 진실은 플레이어의 선택과 행동에 반응하는 다양한 NPC와의 상호작용을 통해 서사에 깊이를 더한다. PC 버전에서는 NVIDIA DLSS, AMD FSR 등의 업스케일 기술과 Dolby Atmos, DTS:X 같은 공간 음향을 지원하며, Xbox 및 PlayStation 컨트롤러와 키보드·마우스 모두 지원한다. 현재 Steam에서 데모 버전을 다운로드할 수 있다."
+        },
+        {
+          "t": "yt",
+          "v": "Y4mFfb_QBeM"
+        }
+      ]
     },
     {
       "id": "inven-12431",
@@ -26647,7 +27689,13 @@
         "url": "https://www.inven.co.kr/webzine/calendar/"
       },
       "detailUrl": "https://www.inven.co.kr/webzine/calendar/game/12431",
-      "trailer": "https://www.youtube.com/results?search_query=Monster%20Hunter%20Outlanders%20%20official%20trailer"
+      "trailer": "https://www.youtube.com/results?search_query=Monster%20Hunter%20Outlanders%20%20official%20trailer",
+      "content": [
+        {
+          "t": "img",
+          "v": "https://static.inven.co.kr/column/webzine3/gamelogo/2024/i1745262114.jpg"
+        }
+      ]
     },
     {
       "id": "inven-13458",
@@ -26678,7 +27726,25 @@
         "url": "https://www.inven.co.kr/webzine/calendar/"
       },
       "detailUrl": "https://www.inven.co.kr/webzine/calendar/game/13458",
-      "trailer": "https://youtu.be/PZZN_tf2NCo"
+      "trailer": "https://youtu.be/PZZN_tf2NCo",
+      "content": [
+        {
+          "t": "p",
+          "v": "Bus Simulator 27은 이베리아 반도를 모티브로 한 펠리시아 베이에서 버스 회사를 운영하는 시뮬레이션 게임으로, 13개 제조사의 45대 이상 라이선스 버스를 몰며 도시와 장거리 노선을 개척한다. 메르세데스-벤츠, MAN, IVECO BUS, 스카니아, 볼보 등 기존 브랜드에 솔라리스가 새롭게 추가되어 리지드, 관절, 더블데커, 전기 버스, 코치 버스를 다양하게 운행한다. Unreal Engine 5로 구현된 생동감 있는 여름 풍경 속에서 승객 수송과 일정 관리를 체험한다."
+        },
+        {
+          "t": "p",
+          "v": "플레이어는 스토리, 커리어, 샌드박스 모드를 선택해 맞춤 경로 설계와 운전자 고용으로 사업을 키우며, 4인 협동 멀티플레이로 친구들과 협업한다. 페리시아 베이의 해변가와 번화가, 랜드마크를 자유롭게 탐험하며 공공 교통의 신뢰를 회복하는 과정을 즐긴다. 장거리 코치 버스 운행으로 시리즈 최초의 광활한 이동감을 선사한다."
+        },
+        {
+          "t": "p",
+          "v": "라이선스 차량의 세밀한 물리와 그래픽 향상으로 몰입감을 극대화하며, 지속적인 업데이트를 통해 콘텐츠가 풍부해질 예정이다. PC, PS5, Xbox Series X|S에서 2026년 출시를 앞두고 있다. 시뮬레이션 팬에게 가장 야심찬 버스 운전 경험을 약속한다."
+        },
+        {
+          "t": "yt",
+          "v": "PZZN_tf2NCo"
+        }
+      ]
     },
     {
       "id": "inven-13450",
@@ -26708,7 +27774,25 @@
         "url": "https://www.inven.co.kr/webzine/calendar/"
       },
       "detailUrl": "https://www.inven.co.kr/webzine/calendar/game/13450",
-      "trailer": "https://youtu.be/8CSEx8b5asA"
+      "trailer": "https://youtu.be/8CSEx8b5asA",
+      "content": [
+        {
+          "t": "p",
+          "v": "'아웃워드2(Outward 2)'는 Nine Dots Studio가 개발한 생존 요소를 곁들인 오픈 월드 액션 RPG다. 플레이어는 마법적 친화력조차 없는 평범한 인간으로 시작하며, 배고픔과 갈증, 탈진, 악천후 등 환경적 위협이 몬스터 못지않게 치명적인 세계 '아우라이'를 탐험하게 된다. 레벨에 맞춰진 조우나 편의 기능 없이 오직 철저한 준비와 전략으로 역경을 헤쳐나가는 하드코어한 여정이 핵심이다."
+        },
+        {
+          "t": "p",
+          "v": "캐릭터 성장은 전사, 궁수, 마법사 계열을 포함해 최대 세 가지 클래스를 동시에 특화할 수 있으며, 아우라이 곳곳에 흩어진 교관에게 스킬을 배워 자신만의 플레이스타일을 구축한다. 전투는 회피, 공격, 방어, 스킬이 유연하게 연계되는 소울라이크 방식으로, 양손에 서로 다른 무기를 들고 조합을 활용하는 것이 가능하다. 함정, 물약, 독, 룬 마법 등 다양한 수단을 적재적소에 활용하는 것이 강력한 적을 상대하는 핵심이다."
+        },
+        {
+          "t": "p",
+          "v": "패배 시 자동 저장으로 인해 무모한 행동이 고스란히 결과로 이어지며, 하드코어 모드에서는 패배 시 20% 확률로 세이브 파일이 삭제되는 극한의 긴장감을 경험할 수 있다. 온라인 및 화면 분할 협동 플레이를 지원해 다른 플레이어와 함께 모험하는 것도 가능하며, 한국어 인터페이스와 자막을 공식 지원한다."
+        },
+        {
+          "t": "yt",
+          "v": "8CSEx8b5asA"
+        }
+      ]
     },
     {
       "id": "inven-13492",
@@ -26738,7 +27822,25 @@
         "url": "https://www.inven.co.kr/webzine/calendar/"
       },
       "detailUrl": "https://www.inven.co.kr/webzine/calendar/game/13492",
-      "trailer": "https://www.youtube.com/results?search_query=Iron%20%26%20Incense%20%20official%20trailer"
+      "trailer": "https://www.youtube.com/results?search_query=Iron%20%26%20Incense%20%20official%20trailer",
+      "content": [
+        {
+          "t": "p",
+          "v": "'아이언 앤 인센스(Iron & Incense)'는 초자연 현상으로 봉쇄된 현대 일본 시부야를 배경으로 한 하드코어 PvPvE 익스트랙션 슈터다. '세컨드 웨이브' 개발 경력을 가진 타무라 코지가 새롭게 설립한 스튜디오 보이저 Inc.의 신작으로, 저주받은 유물을 확보해 탈출하는 것을 목표로 한다. 여기에 인간을 흉내 내는 괴이들이 도사리고 있어, 게임 내 HUD상으로는 아군과 적군을 구별할 수 없는 극도의 긴장감이 특징이다."
+        },
+        {
+          "t": "p",
+          "v": "아이언 앤 인센스의 가장 큰 차별점은 서로 다른 전투 방식을 가진 두 진영 중 하나를 선택해 플레이한다는 점이다. '밀리터리(Iron)' 진영은 총기, 유탄 발사기, 드론 등의 첨단 장비를 활용한 화력 중심의 전술을 구사한다. 반면 '주술사(Incense)' 진영은 오컬트 비술을 구사하며, 식신 소환이나 변이종을 불러내 적을 교란하거나, 주도(검)·혼궁(활) 같은 주술 무기로 전투에 임한다. 두 진영은 전혀 다른 플레이 스타일을 제공하면서도 같은 전장에서 충돌한다."
+        },
+        {
+          "t": "p",
+          "v": "게임 제목 자체가 이 두 진영의 상징을 담고 있다. 'Iron'은 냉철한 군사력을, 'Incense'는 신비로운 주술 의식을 뜻하며, 현대적 전술과 고대의 오컬트가 하나의 전장에서 맞부딪히는 독특한 세계관을 함축한다. 시부야라는 현대 도시를 무대로 총기와 주술이 공존하는 설정은 아이언 앤 인센스만의 개성 있는 분위기를 만들어낸다."
+        },
+        {
+          "t": "img",
+          "v": "https://static.inven.co.kr/column/webzine3/gamelogo/2026/i1525424182.jpg"
+        }
+      ]
     },
     {
       "id": "inven-13512",
@@ -26769,7 +27871,25 @@
         "url": "https://www.inven.co.kr/webzine/calendar/"
       },
       "detailUrl": "https://www.inven.co.kr/webzine/calendar/game/13512",
-      "trailer": "https://www.youtube.com/results?search_query=Dead%20Account%20%20official%20trailer"
+      "trailer": "https://www.youtube.com/results?search_query=Dead%20Account%20%20official%20trailer",
+      "content": [
+        {
+          "t": "p",
+          "v": "'데드 어카운트 : 두 개의 푸른 불꽃'은 이안게임즈(대표 박영재)가 개발하고 스마일게이트가 글로벌 퍼블리싱을 맡은 팀 로그라이트 장르의 게임이다. 원작은 2023년 연재를 시작한 동명의 일본 만화로, '리얼 어카운트'와 '마녀에게 바치는 트릭'으로 알려진 와타나베 시즈무 작가의 작품이다. 죽은 자의 SNS 계정이 디지털화되어 되살아난 유령을 퇴치하기 위해, 주인공 에니시로 소지가 미덴학원에 편입해 동료들과 분투하는 내용을 담고 있으며, 현대 사회를 반영한 주제와 박진감 넘치는 배틀 액션으로 젊은 독자층을 중심으로 큰 관심을 받고 있다. 스마일게이트는 2025년 10월 일본 출판사 코단샤와 게임화를 위한 라이선스 계약을 체결했다."
+        },
+        {
+          "t": "p",
+          "v": "게임은 원작의 스토리와 세계관을 충실히 반영하는 것을 기본 방향으로 삼고 있으며, 캐릭터 수집 및 육성 요소를 접목한 팀 로그라이트 구조로 설계됐다. 플레이어는 원작 캐릭터들을 수집·육성해 팀을 편성하고 스테이지에 도전하는 방식으로 진행된다. 원작의 핵심 전투 콘텐츠인 '갑을전'도 게임에 반영될 예정으로, 갑을전은 미덴학원 1층 을조와 갑조가 실제 마을을 완전 재현한 가상 공간에서 맞붙는 대결전이다. 개발은 '세븐나이츠' 등 다수의 게임 개발 경험을 보유한 이안게임즈가 맡았다."
+        },
+        {
+          "t": "p",
+          "v": "데드 어카운트 : 두 개의 푸른 불꽃은 2026년 3월 6일부터 글로벌 웹 사전 등록을 시작했다. 사전 등록자에게는 SSR 등급 캐릭터 '우루스가와 키요미'와 프로필 프레임이 제공되며, 사전 등록 소식을 SNS에 공유하면 캐릭터 소환 티켓과 행동력을 추가로 획득할 수 있다."
+        },
+        {
+          "t": "img",
+          "v": "https://static.inven.co.kr/column/webzine3/gamelogo/2026/i1669015444.jpg"
+        }
+      ]
     },
     {
       "id": "inven-9264",
@@ -26799,7 +27919,25 @@
         "url": "https://www.inven.co.kr/webzine/calendar/"
       },
       "detailUrl": "https://www.inven.co.kr/webzine/calendar/game/9264",
-      "trailer": "https://youtu.be/wNjXDVfyBBk"
+      "trailer": "https://youtu.be/wNjXDVfyBBk",
+      "content": [
+        {
+          "t": "p",
+          "v": "프로젝트 윈드리스는 한국의 유명 장르 소설 '눈물을 마시는 새'를 원작으로 한 싱글플레이어 오픈월드 액션 게임이다. 크래프톤 몬트리올에서 개발 중이며, 페트릭 메테가 대표를 맡고 있다. 이번 이야기는 '눈물을 마시는 새'로부터 약 1,500년 전의 이야기를 다루고 있으며, 소설 속 중요한 국가인 '아라짓 왕국'의 건국 시조인 '영웅왕'의 탄생 이야기를 다룬다."
+        },
+        {
+          "t": "p",
+          "v": "프로젝트 윈드리스의 핵심 가치는 '자유'로, 플레이어에게 무엇을 하라고 지시하는 것이 아니라 탐험과 동맹 결성 등을 통해 스스로 전설을 써내려가는 유기적인 자유도를 지향한다. 선택과 결과는 게임 내에서 중요한 테마로 작용할 예정이다."
+        },
+        {
+          "t": "p",
+          "v": "또, 플레이어는 강력한 레콘 전사로의 모험을 경험하게 되며, 개발팀 역시 레콘 특유의 압도적인 힘과 속도, 맷집을 살려 다수의 적을 쓸어버리는 처절하고 본능적인 전투를 구현했다. 이를 통해 플레이어는 레콘 특유의 압도적인 무력을 체험할 수 있게 될 전망이다. 프로젝트 윈드리스의 출시일을 비롯해 세부적인 정보는 아직 공개되지 않았다."
+        },
+        {
+          "t": "yt",
+          "v": "wNjXDVfyBBk"
+        }
+      ]
     },
     {
       "id": "inven-13493",
@@ -26830,7 +27968,21 @@
         "url": "https://www.inven.co.kr/webzine/calendar/"
       },
       "detailUrl": "https://www.inven.co.kr/webzine/calendar/game/13493",
-      "trailer": "https://youtu.be/QwAOjls4vbA"
+      "trailer": "https://youtu.be/QwAOjls4vbA",
+      "content": [
+        {
+          "t": "p",
+          "v": "Heave Ho 2는 팔 모양 캐릭터들이 서로 손을 잡고 흔들며 목표를 향해 나아가는 물리 기반 파티 게임의 후속작이다. 친구들과 로컬 또는 온라인으로 2~4인 협동 플레이를 즐기며, 순간의 타이밍과 협력이 핵심이다. 100만 장 가까운 판매를 기록한 전작의 재미를 계승하면서 새로운 요소를 대거 도입했다."
+        },
+        {
+          "t": "p",
+          "v": "이번 작품에서는 무중력 우주, 혼돈의 주방, 중세 성 등 8개의 신규 테마 월드가 등장한다. 단순 이동 외에 팝건, 드론, 열쇠, 소스병 같은 기믹 아이템으로 환경과 상호작용하며 퍼즐과 액션을 풀어나간다. 캐릭터 표정과 환경 디테일이 세밀해지고 시각 가이드가 강화되어 플레이가 더 직관적이다. 버서스 모드를 통해 협동 중 배신과 복수를 즐길 수 있으며, 온라인 멀티플레이가 처음 지원되어 원거리 친구들과도 카오스를 공유한다."
+        },
+        {
+          "t": "yt",
+          "v": "QwAOjls4vbA"
+        }
+      ]
     },
     {
       "id": "inven-12678",
@@ -26860,7 +28012,25 @@
         "url": "https://www.inven.co.kr/webzine/calendar/"
       },
       "detailUrl": "https://www.inven.co.kr/webzine/calendar/game/12678",
-      "trailer": "https://youtu.be/CVBZL2Eku7E"
+      "trailer": "https://youtu.be/CVBZL2Eku7E",
+      "content": [
+        {
+          "t": "p",
+          "v": "드레드무어(DREADMOOR)는 어둡고 불길한 포스트 아포칼립스 세계를 배경으로 한 1인칭 낚시 어드벤처 게임이다. 핵전쟁으로 대륙이 물에 잠긴 ‘침몰된 땅들’에서 플레이어는 낚싯배를 조종하며 변이된 해양 생물들을 낚아 올리고, 자원을 모아 생존해야 한다. 러브크래프트풍 공포 요소가 스며든 이 게임은 단순한 낚시를 넘어 탐험과 제작, 전투가 어우러진 긴장감 넘치는 경험을 제공한다."
+        },
+        {
+          "t": "p",
+          "v": "육지 상륙 시 폐허 건물이나 동굴, 난파선에서 자재를 수집해 낚싯대와 미끼, 작살 등을 제작하며 점차 강력한 ‘떠다니는 요새’로 배를 업그레이드할 수 있다. 다양한 희귀도와 위험도를 가진 수십 종의 괴생물체를 대상으로 전략적인 낚시가 핵심이며, 약물이나 의료 키트 같은 필수 아이템도 직접 만들어야 한다. 수중 생태계의 최상위 포식자들과의 대결에서 철저한 준비가 생사를 가른다."
+        },
+        {
+          "t": "p",
+          "v": "게임은 어둠 속에서 빛나는 루어와 강한 낚싯줄 같은 특수 장비를 통해 점진적으로 난이도를 높여가며, 판매나 퀘스트를 통해 자원을 순환하는 루프를 강조한다. Dream Dock Games의 첫 작품으로 2026년 말 Steam 출시를 앞두고 있으며, 최근 공개된 플레이 영상에서 호러와 생존의 조화가 돋보인다."
+        },
+        {
+          "t": "yt",
+          "v": "CVBZL2Eku7E"
+        }
+      ]
     },
     {
       "id": "inven-13474",
@@ -26890,7 +28060,25 @@
         "url": "https://www.inven.co.kr/webzine/calendar/"
       },
       "detailUrl": "https://www.inven.co.kr/webzine/calendar/game/13474",
-      "trailer": "https://youtu.be/BRNPp-z4hxI"
+      "trailer": "https://youtu.be/BRNPp-z4hxI",
+      "content": [
+        {
+          "t": "p",
+          "v": "Imprinted는 Cobalt Lane이 개발한 심리 스릴러 게임으로, 창작과 집착, 인간 경험이 소리에 새겨지는 과정을 다룬다. 플레이어는 재능 있는 오디오 엔지니어 빈센트 브란트가 되어 1970년대 실험 음악가 비올라 포사티의 손상된 테이프를 복원하는 역할을 맡는다. 단순한 복원 작업에서 점차 테이프 속 무언가가 저항하며 미스터리와 초자연적 요소가 드러난다."
+        },
+        {
+          "t": "p",
+          "v": "게임플레이는 ArdesiaOS라는 가상 운영체제를 통해 빈센트의 컴퓨터를 조작하며 이뤄진다. 미디어 플레이어, 브라우저, 터미널 등 실제처럼 작동하는 프로그램으로 파일, 사진, 음악 조각을 탐색하고 채팅이나 이메일로 관계를 형성한다. 숨겨진 디테일을 발굴하고 미완성 곡을 완성하며 창작 과정을 통해 스토리를 영향을 준다."
+        },
+        {
+          "t": "p",
+          "v": "분위기 있는 사운드 디자인과 점진적 공포가 특징이며, 필리포 벡 페초즈의 오리지널 사운드트랙이 몰입감을 더한다. PC(Steam)에서 2026년 출시 예정이다."
+        },
+        {
+          "t": "yt",
+          "v": "BRNPp-z4hxI"
+        }
+      ]
     },
     {
       "id": "inven-13485",
@@ -26921,7 +28109,25 @@
         "url": "https://www.inven.co.kr/webzine/calendar/"
       },
       "detailUrl": "https://www.inven.co.kr/webzine/calendar/game/13485",
-      "trailer": "https://youtu.be/cUrkAf3uTE4"
+      "trailer": "https://youtu.be/cUrkAf3uTE4",
+      "content": [
+        {
+          "t": "p",
+          "v": "Stage Tour는 노트 하이웨이 리듬 액션을 현대적으로 재해석한 리듬 게임으로, 플라스틱 악기 리듬 게임의 부활을 노린다. 플레이어는 리드, 그루브, 드럼, 보컬 역할을 맡은 밴드원을 선택해 독특한 외모와 태도로 무대를 장악한다. 기타와 베이스에 공식 Gibson 디자인을 적용하며 솔로 또는 최대 4인 멀티플레이로 커스터마이징한 라인업을 구성한다."
+        },
+        {
+          "t": "p",
+          "v": "경쟁 중심의 깊이 있는 모드와 계절 콘텐츠, 라이브 이벤트 로드맵이 준비되어 있으며, 스킬 마스터로 랭킹을 오르며 전설 보상을 획득한다. RedOctane Games가 개발과 퍼블리싱을 맡아 커뮤니티 피드백으로 미래를 형성한다. 기타 히어로 시리즈의 정신을 계승한 신규 기능이 기대를 모은다."
+        },
+        {
+          "t": "p",
+          "v": "가을 2026년 PC(Steam) 출시 예정이며, 추가 세부 기능 공개를 앞두고 있다."
+        },
+        {
+          "t": "yt",
+          "v": "cUrkAf3uTE4"
+        }
+      ]
     },
     {
       "id": "inven-13469",
@@ -26951,7 +28157,25 @@
         "url": "https://www.inven.co.kr/webzine/calendar/"
       },
       "detailUrl": "https://www.inven.co.kr/webzine/calendar/game/13469",
-      "trailer": "https://youtu.be/jNCBvhusit8"
+      "trailer": "https://youtu.be/jNCBvhusit8",
+      "content": [
+        {
+          "t": "p",
+          "v": "Battlestar Galactica: Scattered Hopes는 12 식민지 멸망 후 생존자 함대를 이끄는 건스타 함장을 맡아 싸이런의 추격을 피해 배틀스타 갤락티카로 합류하는 전술 로그라이크 게임이다. 제한된 턴으로 자원을 관리하고 승무원을 훈련하며, 함선과 편대를 업그레이드해 위기를 극복한다. 탐사와 내부 사건 해결을 통해 영웅을 성장시키며, 배신과 사보타주 같은 극적인 선택이 함대의 운명을 결정한다."
+        },
+        {
+          "t": "p",
+          "v": "게임플레이는 함대 관리와 실시간 전투를 번갈아 진행한다. 준비 단계에서 폐기물, 보급품, 핵무기, 틸륨을 수집하고 편대 파일럿을 배치한 뒤, 싸이런 파도에 맞서 스쿼드런과 건스타 무기를 지휘한다. 전투 중 FTL 점프 타이밍과 적 패턴 대처가 핵심이며, 피해 누적으로 함대가 파괴되면 런이 종료된다.​"
+        },
+        {
+          "t": "p",
+          "v": "로그라이크 요소로 매 런마다 새로운 전술 옵션과 메타 업그레이드가 해금되며, 위기 시스템이 도덕과 계급 갈등을 부각시킨다. 영웅 특성과 스쿼드런 업그레이드가 전투 효율을 높이고, 데모를 통해 2시간 분량의 생존 도전을 체험할 수 있다. 인류 최후의 희망을 지키는 긴장된 여정이 펼쳐진다."
+        },
+        {
+          "t": "yt",
+          "v": "jNCBvhusit8"
+        }
+      ]
     },
     {
       "id": "inven-13472",
@@ -26982,7 +28206,25 @@
         "url": "https://www.inven.co.kr/webzine/calendar/"
       },
       "detailUrl": "https://www.inven.co.kr/webzine/calendar/game/13472",
-      "trailer": "https://youtu.be/6C11Zmc93-I"
+      "trailer": "https://youtu.be/6C11Zmc93-I",
+      "content": [
+        {
+          "t": "p",
+          "v": "Kiln은 도자기 제작과 격렬한 전투를 결합한 독특한 온라인 멀티플레이어 파티 브롤러 게임이다. Double Fine Productions가 개발한 이 작품에서 플레이어는 도자기 바퀴를 이용해 다양한 모양의 도자기를 빚어 영혼이 깃든 전투 몸체로 만든다. 도자기의 크기와 형태가 각각의 능력과 플레이 스타일을 결정짓는 점이 핵심 재미 요소다."
+        },
+        {
+          "t": "p",
+          "v": "주요 모드는 4대4 'Quench'로, 팀원들과 협력해 물을 모아 적 팀의 가마 불을 끄는 것을 목표로 한다. 물리 기반 전투 시스템 덕분에 도자기 몸체가 충돌에 따라 깨지고 산산조각 나며, 이를 이용한 전략적 움직임이 중요하다. 소셜 허브 'The Wedge'에서는 도장에서 연습하거나 글레이즈, 손잡이, 스티커로 도자기를 꾸미고 거래할 수 있다."
+        },
+        {
+          "t": "p",
+          "v": "창작의 즐거움과 파괴의 쾌감을 동시에 강조하며, 다양한 도자기 조합으로 팀 전술을 짜는 과정이 매력적이다. 베타 테스트 신청이 가능하며, 2026년 봄 Xbox Series X/S, PS5, PC(Steam)에서 출시 예정이다.​​"
+        },
+        {
+          "t": "yt",
+          "v": "6C11Zmc93-I"
+        }
+      ]
     },
     {
       "id": "inven-13433",
@@ -27012,7 +28254,25 @@
         "url": "https://www.inven.co.kr/webzine/calendar/"
       },
       "detailUrl": "https://www.inven.co.kr/webzine/calendar/game/13433",
-      "trailer": "https://www.youtube.com/results?search_query=Save%20Me%2C%20My%20Friend%20%20official%20trailer"
+      "trailer": "https://www.youtube.com/results?search_query=Save%20Me%2C%20My%20Friend%20%20official%20trailer",
+      "content": [
+        {
+          "t": "p",
+          "v": "'구해줘 친구야'는 포스트 아포칼립스 세계관을 배경으로 하는 탑다운 슈팅 액션 게임이다. 붕괴된 세상 속에서 사용자는 생존자들을 이끌고 살아남아야 한다. 무너진 질서 안에서 공동체의 생존을 도모하는 과정이 게임의 핵심적인 흐름을 구성한다."
+        },
+        {
+          "t": "p",
+          "v": "'구해줘 친구야'에서 사용자는 효율과 연민 사이에서 갈등하는 다양한 선택의 순간에 직면하게 된다. 이러한 매 순간의 결정은 생존자 집단 전체의 운명을 결정짓는 중요한 요소로 작용한다. 단순히 적을 물리치는 액션을 넘어, 도덕적 가치와 실리 사이의 판단이 요구되는 구조를 취하고 있다."
+        },
+        {
+          "t": "p",
+          "v": "생존을 위한 전투와 집단 관리의 책임이 결합되어 심도 있는 몰입감을 제공한다. 사용자의 선택에 따라 변화하는 상황 속에서 모든 이들의 운명을 형성해 나가는 과정을 담고 있다. 척박한 환경에서 생존자들의 리더로서 내리는 결정들이 게임 전체의 전개에 영향을 미친다."
+        },
+        {
+          "t": "img",
+          "v": "https://static.inven.co.kr/column/webzine3/gamelogo/2026/i1362613018.jpg"
+        }
+      ]
     },
     {
       "id": "inven-13429",
@@ -27042,7 +28302,25 @@
         "url": "https://www.inven.co.kr/webzine/calendar/"
       },
       "detailUrl": "https://www.inven.co.kr/webzine/calendar/game/13429",
-      "trailer": "https://youtu.be/yQzqjXBSxnA"
+      "trailer": "https://youtu.be/yQzqjXBSxnA",
+      "content": [
+        {
+          "t": "p",
+          "v": "'컴투마이파티!'는 1999년 한국 신도시의 어느 초등학교를 배경으로 한 블랙코미디 비주얼 노벨이다. 주인공인 열 살 소녀 지민이가 반장이 되어 생애 첫 생일 파티를 열기 위해 고군분투하는 이야기를 다룬다. 우등생 언니와 남동생 사이에서 존재감이 부족했던 지민이가 엄마의 제안을 계기로 자신의 특별한 순간을 쟁취하려는 과정을 유머와 감동이 섞인 서사로 풀어냈다."
+        },
+        {
+          "t": "p",
+          "v": "이 게임은 90년대 말 한국의 초등학교 일상을 생생하게 재현하여 당시의 향수를 자극하는 배경을 제공한다. 플레이어의 선택에 따라 이야기가 분기되는 멀티 엔딩 시스템을 채택하고 있으며, 총 12개의 다양한 결말이 존재한다. 가벼운 유머 속에 어린 시절의 순수함과 슬픔 등 복잡한 감정을 담아낸 블랙코미디적 요소가 특징이다."
+        },
+        {
+          "t": "p",
+          "v": "플레이어의 주된 목표는 지민이를 도와 새로운 친구들과 관계를 맺고 반장 선거에서 승리하여 생일 파티를 성공적으로 개최하는 것이다. 각기 다른 개성을 가진 캐릭터들과 교류하며 그들의 성장을 지켜볼 수 있다. 선택에 따라 지민이의 운명과 인간관계가 달라지며, 이를 통해 친구가 세상의 전부였던 시절의 감성을 깊이 있게 경험할 수 있도록 설계되었다."
+        },
+        {
+          "t": "yt",
+          "v": "yQzqjXBSxnA"
+        }
+      ]
     },
     {
       "id": "inven-13434",
@@ -27072,7 +28350,25 @@
         "url": "https://www.inven.co.kr/webzine/calendar/"
       },
       "detailUrl": "https://www.inven.co.kr/webzine/calendar/game/13434",
-      "trailer": "https://youtu.be/FoTK7pzCFFE"
+      "trailer": "https://youtu.be/FoTK7pzCFFE",
+      "content": [
+        {
+          "t": "p",
+          "v": "'리로디안'은 빠른 전투 템포와 빌드 구성을 핵심으로 하는 액션 게임이다. 플레이어는 우주 전역의 보스를 처치하여 전설적인 무기와 능력을 해금할 수 있다. 전투 과정에서 제공되는 선택지를 바탕으로 자신만의 고유한 전투 빌드를 설계하며 성장을 경험하게 된다."
+        },
+        {
+          "t": "p",
+          "v": "이 게임은 싱글 플레이와 코옵 플레이를 모두 지원하여 팀 단위로 위협에 대응할 수 있다. 적들의 공세와 변화하는 환경 속에서 이동 기술과 타이밍을 습득하는 것이 필수적이다. 또한 크로스플레이 기능을 통해 플랫폼 제한 없이 다른 사용자와 함께 게임을 즐길 수 있는 환경을 제공한다."
+        },
+        {
+          "t": "p",
+          "v": "전투 방식의 정의와 반복 플레이의 가치에 중점을 둔 점이 특징이다. 플레이어는 획득한 장비와 능력을 조합하여 다양한 스타일을 실험하며 실력을 향상시킨다. 결과적으로 리로디안은 빠른 속도감의 액션과 로그라이크 요소를 결합하여 지속적인 도전 과제를 제시하는 구조를 갖추고 있다."
+        },
+        {
+          "t": "yt",
+          "v": "FoTK7pzCFFE"
+        }
+      ]
     },
     {
       "id": "inven-13387",
@@ -27103,7 +28399,25 @@
         "url": "https://www.inven.co.kr/webzine/calendar/"
       },
       "detailUrl": "https://www.inven.co.kr/webzine/calendar/game/13387",
-      "trailer": "https://youtu.be/hEwhwXXEevk"
+      "trailer": "https://youtu.be/hEwhwXXEevk",
+      "content": [
+        {
+          "t": "p",
+          "v": "'오딘 Q'는 '오딘: 발할라 라이징'의 세계관을 계승하고 확장한 정식 후속작으로, 북유럽 신화 '에다'를 현대적으로 재해석한 탄탄한 서사가 특징이다. 플레이어는 전작보다 더욱 깊어진 신화적 배경 속에서 전설적인 대륙을 누비며 장대한 운명의 소용돌이에 뛰어들게 된다. 고전적인 신화의 매력을 동시대적인 감각으로 풀어내어, 원작의 팬들은 물론 새로운 플레이어들에게도 몰입감 넘치는 서사적 경험을 약속한다."
+        },
+        {
+          "t": "p",
+          "v": "기술적으로는 언리얼 엔진 5를 기반으로 제작되어 현세대 최정상급의 압도적인 그래픽 퀄리티를 자랑한다. 특히 클래식한 쿼터뷰 방식과 로딩 없는 심리스 오픈월드를 결합하여 독창적인 게임 플레이 환경을 구축했다. 이는 고전적인 전략적 시야의 장점을 살리면서도 최첨단 엔진이 선사하는 화려한 시각 효과를 극대화한다. 광활한 필드를 끊김 없이 이동하며 펼쳐지는 전투는 플레이어에게 색다른 시각적 즐거움과 손맛을 동시에 제공한다."
+        },
+        {
+          "t": "p",
+          "v": "2026년 출시를 목표로 개발 중인 이 작품은 쿼터뷰 액션 RPG의 새로운 지평을 열 것으로 기대를 모으고 있다. 정교한 캐릭터 성장 시스템과 대규모 협동 및 경쟁 콘텐츠를 통해 북유럽 신화의 웅장함을 직접 체험할 수 있다. 신들과 인간이 얽힌 복잡한 세계관 속에서 자신만의 전설을 써 내려가는 과정은 전략적인 재미와 시각적인 웅장함을 모두 충족시키며, 진정한 '오딘' 시리즈의 정통성을 이어갈 예정이다."
+        },
+        {
+          "t": "yt",
+          "v": "hEwhwXXEevk"
+        }
+      ]
     },
     {
       "id": "inven-12141",
@@ -27133,7 +28447,21 @@
         "url": "https://www.inven.co.kr/webzine/calendar/"
       },
       "detailUrl": "https://www.inven.co.kr/webzine/calendar/game/12141",
-      "trailer": "https://youtu.be/FhJDzbVRSgE"
+      "trailer": "https://youtu.be/FhJDzbVRSgE",
+      "content": [
+        {
+          "t": "p",
+          "v": "'데드락(Deadlock)'은 밸브(Valve)가 개발 중인 6대6 3인칭 영웅 슈팅 기반의 MOBA 게임이다. 판타지와 스팀펑크가 결합된 독특한 세계관을 배경으로 하며, 플레이어는 고유한 능력을 지닌 다양한 캐릭터 중 하나를 선택해 전투에 참여한다. 4개의 라인에서 아군 미니언과 함께 적의 가디언을 파괴하고, 최종적으로 상대 본진의 '패트론'을 쓰러뜨리는 것이 목표다."
+        },
+        {
+          "t": "p",
+          "v": "이 게임은 '도타 2'의 전략적 깊이와 '팀 포트리스 2'의 액션성을 조화롭게 버무린 것이 특징이다. 단순히 사격 실력뿐만 아니라 영혼(Souls) 파밍을 통한 아이템 구매와 스킬 강화 등 전략적인 성장이 승패를 좌우한다. 또한 맵 곳곳을 빠르게 이동할 수 있는 집라인 시스템을 도입하여 역동적이고 긴장감 넘치는 공방의 재미를 선사한다."
+        },
+        {
+          "t": "yt",
+          "v": "FhJDzbVRSgE"
+        }
+      ]
     },
     {
       "id": "inven-12149",
@@ -27164,7 +28492,21 @@
         "url": "https://www.inven.co.kr/webzine/calendar/"
       },
       "detailUrl": "https://www.inven.co.kr/webzine/calendar/game/12149",
-      "trailer": "https://www.youtube.com/results?search_query=OVERDARE%20%20official%20trailer"
+      "trailer": "https://www.youtube.com/results?search_query=OVERDARE%20%20official%20trailer",
+      "content": [
+        {
+          "t": "p",
+          "v": "'오버데어'는 누구나 가상세계에서 자신만의 게임과 콘텐츠를 창조하고 공유할 수 있는 사용자 제작 콘텐츠(UGC) 플랫폼이다. 몰입감 높은 인터랙티브 경험과 사용자 친화적인 창작 도구를 제공하여, 복잡한 과정 없이도 상상력을 현실로 구현할 수 있는 환경을 조성한다."
+        },
+        {
+          "t": "p",
+          "v": "특히 IP 라이선싱에 최적화된 블록체인 기술을 도입해 크리에이터의 권익 보호에 집중한다. 이를 통해 창작자는 자신의 결과물을 안전하게 보호하는 동시에 사용자 간 거래를 통해 수익을 창출할 수 있는 투명한 경제 생태계를 경험하게 된다."
+        },
+        {
+          "t": "img",
+          "v": "https://static.inven.co.kr/column/webzine3/gamelogo/2026/i1153885365.jpg"
+        }
+      ]
     },
     {
       "id": "inven-13480",
@@ -27195,7 +28537,25 @@
         "url": "https://www.inven.co.kr/webzine/calendar/"
       },
       "detailUrl": "https://www.inven.co.kr/webzine/calendar/game/13480",
-      "trailer": "https://youtu.be/Ghd4ppradNo"
+      "trailer": "https://youtu.be/Ghd4ppradNo",
+      "content": [
+        {
+          "t": "p",
+          "v": "Sprawl Zero는 2000년대 FPS 황금기를 오마주한 빠른 템포의 1인칭 슈터로, 군사 통치와 컬트 광신이 지배하는 사이버펑크 도시에서 생존한다. 사이보그 초병 FIVE로 플레이하며, 테크노-종교 단체 IMAGO-DEI 리더 SILAS를 제거하는 임무를 수행한다. 중력 장갑, 증강 장치, 40여 종 무기를 활용해 물리 기반 전투를 벌인다."
+        },
+        {
+          "t": "p",
+          "v": "전투는 F.E.A.R., Halo에서 영감 받은 영리한 AI 적들이 측면 공격, 엄폐 사격, 수류탄으로 압박하며 현실적 긴장감을 준다. 중력 쉴드, 슬로우모션 탄도 조정, 돌진 모드로 전술적 깊이를 더하며 수직 구조 레벨에서 자유로운 경로 선택이 가능하다. Y2K 미학과 전자 사운드트랙이 시대감을 강조한다."
+        },
+        {
+          "t": "p",
+          "v": "원작 SPRAWL의 프리퀄로, 물리 상호작용과 플레이어 주도 전투가 핵심이다. PS5, Xbox Series X|S, PC(Steam) 출시 예정이다."
+        },
+        {
+          "t": "yt",
+          "v": "Ghd4ppradNo"
+        }
+      ]
     },
     {
       "id": "inven-13476",
@@ -27225,7 +28585,25 @@
         "url": "https://www.inven.co.kr/webzine/calendar/"
       },
       "detailUrl": "https://www.inven.co.kr/webzine/calendar/game/13476",
-      "trailer": "https://youtu.be/nvlX8LzExoc"
+      "trailer": "https://youtu.be/nvlX8LzExoc",
+      "content": [
+        {
+          "t": "p",
+          "v": "Out Fishing은 잊힌 실종 사건의 호수로 보내진 낚시꾼의 이야기를 다룬 1인칭 공포 낚시 시뮬레이터 게임이다. 낮에는 호수에서 낚시를 하고 물고기를 팔아 장비를 업그레이드하며 캠프를 세우는 여유로운 루틴을 즐긴다. 그러나 밤이 되면 숲이 속삭이고 물고기가 말을 걸며, 안개 속에서 위협이 다가오는 심리적 공포로 전환된다."
+        },
+        {
+          "t": "p",
+          "v": "탐험을 통해 과거 단서와 이상 현상을 발견하며 현실과 환각의 경계가 모호해진다. 가벼운 생존 요소와 일일 밤 사이클이 긴장감을 조성하며, 제한된 샷건은 최후의 수단으로 사용된다. 유령 같은 존재와 숲의 변화가 공포를 증폭시킨다.​​"
+        },
+        {
+          "t": "p",
+          "v": "사운드 디자인과 분위기가 핵심이며, UNIKAT Label과 Mūn Mūn Games가 개발했다. PC(Steam)에서 출시 예정이다.​​"
+        },
+        {
+          "t": "yt",
+          "v": "nvlX8LzExoc"
+        }
+      ]
     },
     {
       "id": "inven-13470",
@@ -27256,7 +28634,25 @@
         "url": "https://www.inven.co.kr/webzine/calendar/"
       },
       "detailUrl": "https://www.inven.co.kr/webzine/calendar/game/13470",
-      "trailer": "https://youtu.be/HS9bCamdNCc"
+      "trailer": "https://youtu.be/HS9bCamdNCc",
+      "content": [
+        {
+          "t": "p",
+          "v": "Warhammer 40,000: Dark Heresy는 칼릭시스 섹터에서 황제의 심판관 보좌관으로서 배신과 이단을 파헤치는 grimdark CRPG다. 오울캣 게임즈가 개발하며, Tyrant Star라는 신비로운 위협을 추적하며 부패, 제노스 영향, 악마 감염을 뿌리 뽑는다. 워밴드 동료들의 도덕 갈등과 신앙 대 진실의 딜레마가 서사를 이끈다."
+        },
+        {
+          "t": "p",
+          "v": "조사 중심 게임플레이로 증거 분석, 용의자 심문, 사건 연결을 통해 음모를 밝히며, 동료의 통찰이 단서를 제공한다. 턴제 전투에서는 사기 시스템과 신체 부위 타격, 집중 능력 교란으로 전략성을 강조한다. 잘못된 판결도 진행을 막지 않으나 세계에 파장을 일으킨다."
+        },
+        {
+          "t": "p",
+          "v": "파라노이아와 죄책감이 주제인 어두운 이야기로, 매 판결이 영혼의 대가를 요구한다. 알파 테스트를 통해 전투와 탐정 요소를 확인할 수 있으며, Rogue Trader의 자유와 달리 결과의 무게를 탐구한다. 이단의 대가로 인류를 지키는 비밀 전쟁이 펼쳐진다."
+        },
+        {
+          "t": "yt",
+          "v": "HS9bCamdNCc"
+        }
+      ]
     },
     {
       "id": "inven-13446",
@@ -27286,7 +28682,25 @@
         "url": "https://www.inven.co.kr/webzine/calendar/"
       },
       "detailUrl": "https://www.inven.co.kr/webzine/calendar/game/13446",
-      "trailer": "https://youtu.be/GzhmhDpA-j4"
+      "trailer": "https://youtu.be/GzhmhDpA-j4",
+      "content": [
+        {
+          "t": "p",
+          "v": "Drivers of the Apocalypse는 황폐한 황무지에서 용병 아르테미스가 적 컨보이를 상대로 차량을 무기로 삼아 싸우는 액션 드라이빙 게임이다. 광활한 사막 지형을 자유롭게 누비며 적 차량을 총으로 약화시킨 뒤 점프해 탑승, 순식간에 진영을 뒤집는 역동적인 전투가 펼쳐진다. 거대한 호송대와 강력한 리더 보스들을 무너뜨리며 생존을 위한 치열한 전투를 경험한다."
+        },
+        {
+          "t": "p",
+          "v": "게임플레이는 실시간 차량 스위칭과 탐험이 어우러져 끊임없는 긴장감을 준다. 총격과 함께 차를 약화시켜 하이재킹하는 메커니즘이 전투의 핵심이며, 프로시저럴 생성 열차나 산악 지형을 활용한 공중 기동으로 전술적 깊이를 더한다. 플레이테스트에서 확인된 부드러운 커스터마이징 시스템으로 차량 페인트와 데칼을 조정해 자신만의 스타일을 완성할 수 있다."
+        },
+        {
+          "t": "p",
+          "v": "아르테미스의 여정이 황무지의 패권을 뒤흔드는 과정에서 다양한 업그레이드와 전투 변화를 맞이한다. Remedy Games 출신 개발자의 솔로 프로젝트로 Twisted Metal을 연상시키는 강렬한 스타일이 돋보이며, 개발 로그 영상을 통해 지속적인 진화가 이뤄진다. 플레이어는 컨보이를 분쇄하며 아포칼립스 세계의 지배자가 되는 쾌감을 느낄 수 있다."
+        },
+        {
+          "t": "yt",
+          "v": "GzhmhDpA-j4"
+        }
+      ]
     },
     {
       "id": "inven-13461",
@@ -27316,7 +28730,25 @@
         "url": "https://www.inven.co.kr/webzine/calendar/"
       },
       "detailUrl": "https://www.inven.co.kr/webzine/calendar/game/13461",
-      "trailer": "https://youtu.be/j8_SQwxaAjE"
+      "trailer": "https://youtu.be/j8_SQwxaAjE",
+      "content": [
+        {
+          "t": "p",
+          "v": "Verminsteel은 동물 캐릭터들이 등장하는 해킹앤슬래시 액션 게임으로, 까마귀 전사가 버민스틸의 압제 세력에 맞서 대규모 군중을 상대한다. SkateBIRD 개발사 Glass Bottom Games의 신작으로, Fragaria 지방을 배경으로 검, 몰로토프, 프라잉팬 등 다양한 무기를 휘두르며 수천 명의 적을 물리친다. 구조한 마을 주민들로부터 강화 무기와 전투 스킬을 획득하며 점진적으로 강해진다."
+        },
+        {
+          "t": "p",
+          "v": "플레이어는 까마귀 Crow 외에 오소리 Clod나 쥐 Cookie 등 다른 캐릭터로 전환하며, 각자의 특화 능력을 활용해 전투를 주도한다. 구조한 동료들을 소환해 화살 비나 돌격 같은 집단 기동으로 지원받고, 전략 지점을 확보하며 전황을 뒤집는다. 세 가지 클래스 무기를 장착하고 업그레이드하며, 하드코어 바드코어 비트에 맞춰 콤보를 연결한다."
+        },
+        {
+          "t": "p",
+          "v": "압제자들을 몰아내는 혁명 스토리를 통해 공동체 결속을 강조하며, 영화 같은 전투 연출로 몰입감을 준다. PC Steam에서 2027년 출시 예정이며, GenAI를 사용하지 않은 수작으로 주목받는다. 군중 학살 액션 팬에게 강렬한 스타일과 깊이를 선사할 작품이다."
+        },
+        {
+          "t": "yt",
+          "v": "j8_SQwxaAjE"
+        }
+      ]
     },
     {
       "id": "inven-13443",
@@ -27348,7 +28780,25 @@
         "url": "https://www.inven.co.kr/webzine/calendar/"
       },
       "detailUrl": "https://www.inven.co.kr/webzine/calendar/game/13443",
-      "trailer": "https://youtu.be/XwzjDboeb5Q"
+      "trailer": "https://youtu.be/XwzjDboeb5Q",
+      "content": [
+        {
+          "t": "p",
+          "v": "마블 맥시멈 컬렉션은은 아케이드와 8비트, 16비트 콘솔 시대의 고전 마블 게임 13개를 모은 컬렉션으로, Limited Run Games, Marvel Games, Konami가 협력해 개발되었다. X-Men: The Arcade Game, Captain America and The Avengers, Spider-Man/Venom: Maximum Carnage, Venom/Spider-Man: Separation Anxiety, Spider-Man/X-Men: Arcade’s Revenge, Silver Surfer 등 팬들에게 사랑받는 비트업과 슈팅, 플랫폼 게임을 아우르며, 휴대용 버전까지 포함해 마블의 초기 게임 유산을 재현한다. 전설적인 작곡가 Chris Huelsbeck의 신곡과 함께 향수를 자극하는 액션 팩으로 구성되어 있다."
+        },
+        {
+          "t": "p",
+          "v": "게임플레이는 롤백 넷코드가 적용된 X-Men: The Arcade Game에서 최대 6인 온라인 멀티플레이를 통해 매그니토의 군대와 맞서며 팀업 액션을 즐길 수 있고, Silver Surfer의 악명 높은 슈팅 챌린지나 Maximum Carnage의 뉴욕 스트리트 배틀을 다양한 플랫폼 버전으로 체험할 수 있다. 리와인드와 세이브 스테이트 기능으로 과거의 고난이도 난관을 극복하며, 2인 협동 플레이나 Murderworld 탐험 같은 원작의 역동성을 현대적으로 재해석한다. 뮤지엄 모드에서 원작 박스 아트와 매뉴얼을 감상하거나 치트 메뉴로 자유로운 플레이를 지원한다."
+        },
+        {
+          "t": "p",
+          "v": "추가 기능으로는 전 게임의 칩튠 사운드를 즐길 수 있는 뮤직 플레이어와 디지털 아카이브가 있으며, CRT 필터나 스캔라인 옵션으로 레트로 분위기를 선택할 수 있다. 이러한 요소들은 단순 포팅을 넘어 현대 게이머와 컬렉터를 위한 완성된 패키지를 완성하며, 마블 히어로들의 픽셀 퍼펙트 액션을 통해 세대를 초월한 재미를 선사한다."
+        },
+        {
+          "t": "yt",
+          "v": "XwzjDboeb5Q"
+        }
+      ]
     },
     {
       "id": "inven-13441",
@@ -27378,7 +28828,25 @@
         "url": "https://www.inven.co.kr/webzine/calendar/"
       },
       "detailUrl": "https://www.inven.co.kr/webzine/calendar/game/13441",
-      "trailer": "https://youtu.be/h_GNt0ILldw"
+      "trailer": "https://youtu.be/h_GNt0ILldw",
+      "content": [
+        {
+          "t": "p",
+          "v": "탑다운 히어로 슈터 게임이다. 기존 PC와 콘솔 버전의 액션을 단순히 옮겨온 포팅작이 아니라, 모바일 환경에 맞춰 처음부터 새롭게 설계된 독립 타이틀인 점이 특징이다. 플레이어는 가상 스틱과 버튼을 활용해 전장을 한눈에 파악할 수 있는 쿼터뷰 시점에서 팀 기반의 역동적인 전투를 즐길 수 있다."
+        },
+        {
+          "t": "p",
+          "v": "핵심 재미 요소는 기존 영웅들의 아이덴티티를 유지하면서도 모바일에 최적화된 변화를 준 점이다. 예를 들어 메르시의 궁극기가 부활 대신 피해와 치유 오라로 변경되는 등 조작 편의성을 고려한 스킬 리워크가 이루어졌다. 또한 '마스터리' 시스템을 통해 반복 플레이로 영웅을 강화할 수 있는데, 라인하르트가 회오리를 생성하거나 트레이서가 시간 역행 중 적에게 피해를 주는 등 본편과는 차별화된 강력한 연쇄 효과를 경험할 수 있다."
+        },
+        {
+          "t": "p",
+          "v": "게임은 초기 로스터로 트레이서, 라인하르트, 키리코 등 상징적인 영웅들을 제공하며, 전략적인 영웅 선택과 팀워크가 승패를 가른다. 블리자드 전담 개발팀이 제작을 맡아 기존 오버워치(팀4)의 업데이트와는 별개로 운영되며, 사양이 낮은 모바일 기기에서도 원활하게 구동되도록 최적화에 집중했다. 플레이어는 무료로 게임을 즐기며 다양한 전장을 탐험하고, 테스트 기간을 거쳐 더욱 완성도 높은 모바일 슈팅 액션을 만나볼 수 있게 될 전망이다."
+        },
+        {
+          "t": "yt",
+          "v": "h_GNt0ILldw"
+        }
+      ]
     },
     {
       "id": "inven-13428",
@@ -27409,7 +28877,17 @@
         "url": "https://www.inven.co.kr/webzine/calendar/"
       },
       "detailUrl": "https://www.inven.co.kr/webzine/calendar/game/13428",
-      "trailer": "https://www.youtube.com/results?search_query=PROJECT.%20A%20%20official%20trailer"
+      "trailer": "https://www.youtube.com/results?search_query=PROJECT.%20A%20%20official%20trailer",
+      "content": [
+        {
+          "t": "p",
+          "v": "라인게임즈 실적발표에서 공개한 2026년 3분기 출시 예정인 미공개 신작입니다. PC, 콘솔 출시를 예정하고 있으며 아직 공개된 정보는 없습니다."
+        },
+        {
+          "t": "img",
+          "v": "https://static.inven.co.kr/column/webzine3/gamelogo/2026/i1456922886.png"
+        }
+      ]
     }
   ],
   "news": [
@@ -27458,7 +28936,7 @@
         },
         {
           "t": "p",
-          "v": "전자의 경우 거의 확실히 비용이 들 것이며, 후자 역시 비용이 발생할 수 있어 플레이스테이션 게이머들의 불만을 더욱 가중시킬 가능성이 높습니다. 차세대 플레이스테이션의 가격이 1,000달러에 달할 수 있다는 루머 및 보도와 실물 게임에 대한 하위 호환성 부족이 겹친다면, 소니가 이러한 전환을 완화할 방법을 찾지 못할 경우 많은 이들에게 이것이 구매 포기의 결정적 원인(딜브레이커)이 될 수 있습니다."
+          "v": "전자의 경우 거의 확실히 비용이 들 것이며, 후자 역시 비용이 발생할 수 있어 플레이스테이션 게이머들의 불만을 더욱 가중시킬 가능성이 높습니다. 차세대 플레이스테이션의 가격이 1,000달러에 달할 수 있다는 루머 보도와 실물 게임에 대한 하위 호환성 부족이 겹친다면, 소니가 이러한 전환을 완화할 방법을 찾지 못할 경우 많은 이들에게 이것이 구매 포기의 결정적 원인(딜브레이커)이 될 수 있습니다."
         },
         {
           "t": "p",
@@ -27550,7 +29028,7 @@
         },
         {
           "t": "p",
-          "v": "나머지 사람들은…"
+          "v": "남은 우리들은…"
         },
         {
           "t": "p",
@@ -27558,7 +29036,7 @@
         },
         {
           "t": "p",
-          "v": "첫 번째는 추가적인 가격 인상 가능성입니다. 소니와 같은 회사들은 이 변화로 인해 비용을 절감하겠지만, 이는 그들에게 할인과 같은 요소들에 대해 훨씬 더 큰 통제력을 부여하며, (앞서 언급했듯이) 더 저렴한 중고 복사본의 가능성을 제거합니다."
+          "v": "첫 번째는 추가적인 가격 인상 가능성입니다. 소니와 같은 회사들은 이 변화로 인해 비용을 절감하겠지만, 이는 그들에게 할인과 같은 요소들에 대해 훨씬 더 큰 통제력을 부여하며, (앞서 언급했듯이) 더 저렴한 중고의 가능성을 제거합니다."
         },
         {
           "t": "p",
@@ -27585,7 +29063,34 @@
           "v": "\"이것이 AAA급 게임에서 흔히 이루어지는 방식이지만, 이러한 빌드를 조립하는 작업은 팀의 주의를 컨트롤러 연결 해제 처리, 스토어프론트 규정 준수, 극단적 예외 상황 처리 등 핵심 개발 이후에나 진행해야 할 인증 박스 채우기 작업으로 분산시킵니다. 마감의 완성도는 깔끔한 출시와 험난한 출시를 가르는 차이가 될 수 있으므로, 기술적으로 디지털 전용 타이틀은 '최종' 빌드 작업을 출시일에 훨씬 더 가깝게 미룰 수 있습니다. 벽에 부딪혀 있는 스튜디오에게 이러한 유연성은 세상의 전부를 의미할 수도 있습니다. 그러니 그것이 하나의 위안거리입니다.\""
         }
       ],
-      "comments": 0
+      "comments": 6,
+      "topComments": [
+        {
+          "nick": "역습의 신지",
+          "text": "이미 소니는 플스5로 넘어갈때 퍼스트게임 할인율을 줄였었지. 거기서 더 줄이는게 어려울리가 없음 DL만 하는 유저니까 패키지는 망하라던 사람들 이제 무슨 생각 하려나?",
+          "like": 2
+        },
+        {
+          "nick": "루리웹-0146012932",
+          "text": "서드게임이야 플스판 가격올리면 스팀으로 하면 그만이고 퍼스트게임은 몇개 나오지도 않는데 소니가 가격통제력이 생길까요",
+          "like": 0
+        },
+        {
+          "nick": "루리웹-7752427110",
+          "text": "xpa 엑박판 사면 pc , 엑박 다됨 ㄷㄷ",
+          "like": 0
+        },
+        {
+          "nick": "의리웹",
+          "text": "진짜 ㅈ같은게 DL 밖에 없으면 가격 올려도 할인율 낮아도 그래서 늬들이 어쩔건데? 이게 되는거임 선택지가 없음",
+          "like": 1
+        },
+        {
+          "nick": "Red드래곤",
+          "text": "패키지가 있어서 콘솔하는건데...그게 아니라면 컴퓨터로 하지...",
+          "like": 0
+        }
+      ]
     },
     {
       "id": "ruliweb-2357261",
@@ -27603,11 +29108,16 @@
           "v": "jlzG8ik0WtE"
         }
       ],
-      "comments": 1,
+      "comments": 2,
       "topComments": [
         {
           "nick": "멋진 신세계",
           "text": "나올때 한글화도 정식으로 해주면 안되겠니... 힘들려나",
+          "like": 0
+        },
+        {
+          "nick": "프림블루로즈",
+          "text": "이건 한글화 예정에 있을려나? 그보다 마녀재판은 언제 되는거..",
           "like": 0
         }
       ]
@@ -27686,7 +29196,7 @@
         {
           "nick": "루리웹-8716489191",
           "text": "심지어 매출에선 3퍼센트였음",
-          "like": 24
+          "like": 25
         },
         {
           "nick": "NCR_레인저",
@@ -27706,17 +29216,17 @@
         {
           "nick": "티모센코",
           "text": "wh2ale7",
-          "like": 2
+          "like": 3
         },
         {
           "nick": "밥은먹고다니냐??",
           "text": "하이 호",
-          "like": 24
+          "like": 25
         },
         {
           "nick": "검볼 워터슨",
           "text": "20%가 전원 디지털로 간다는 보장이 없음. 그리고 20%라고 단순히 적혀있어서 그렇지 저 수치가 빠지면 회사에 막대한 타격이 됨.",
-          "like": 17
+          "like": 18
         },
         {
           "nick": "작성자",
@@ -27846,7 +29356,7 @@
         {
           "nick": "루리웹-1451125040",
           "text": "마이온",
-          "like": 5
+          "like": 6
         },
         {
           "nick": "Jirocul",
@@ -27856,7 +29366,12 @@
         {
           "nick": "3D",
           "text": "완전 디지털화 선언하면서 옛날 기기 스토어 폐쇄를 동시에 고지하는 건 마케팅적으로 꽝",
-          "like": 3
+          "like": 4
+        },
+        {
+          "nick": "루리웹-1451125040",
+          "text": "3D",
+          "like": 0
         },
         {
           "nick": "루리웹-6472907110",
@@ -27901,7 +29416,7 @@
         {
           "nick": "루리웹-1451125040",
           "text": "6ㅡ_ㅡ9",
-          "like": 7
+          "like": 8
         },
         {
           "nick": "겨울목소리",
@@ -27924,22 +29439,22 @@
         {
           "nick": "TM™",
           "text": "DL 온리를 시전할거면 시스템좀 잘 갖췄으면.. 스팀처럼 몇시간 해보고 환불 가능하게 하던가 이젠 아예 찍먹조차도 못하는건데 닌텐도 키카드가 욕먹었던건 어디까지나 패키지 시장이 건재할때 얘기지 이렇게 되면 키카드가 존나 선녀임",
-          "like": 3
+          "like": 4
         },
         {
           "nick": "루리웹-1451125040",
           "text": "TM™",
-          "like": 2
+          "like": 3
         },
         {
           "nick": "Border🚦Down™",
           "text": "일단 중고시장이 망하는건 잘 알겠다. 오프라인 매장들도 죄다 닌텐도 게임으로 채워넣겠네?",
-          "like": 2
+          "like": 3
         },
         {
           "nick": "Rex Splode",
           "text": "단순히 20% 빠지는게 아니지 빠진 유저만큼 구매층이 줄어들고 구매층 줄어든 플랫폼에 투자할 개발사들은 적어지겠고 그러면 또 유저 떠나가고.. 악순환에 빠질 수 있음",
-          "like": 0
+          "like": 1
         }
       ]
     },
@@ -28092,12 +29607,12 @@
         {
           "nick": "kiruautomobile",
           "text": "이요셉",
-          "like": 6
+          "like": 7
         },
         {
           "nick": "라이트트윈스",
           "text": "신의게임기",
-          "like": 29
+          "like": 31
         },
         {
           "nick": "마이피드링크",
@@ -28107,12 +29622,12 @@
         {
           "nick": "Kabil",
           "text": "마이피드링크",
-          "like": 1
+          "like": 3
         },
         {
           "nick": "Bzzzz",
           "text": "지금 ps5pro가 내 마지막 플스가 될것같음.. 이번세대 독점작도 부실했는데 참...",
-          "like": 19
+          "like": 20
         },
         {
           "nick": "새누",
@@ -28157,7 +29672,7 @@
         {
           "nick": "双葉杏",
           "text": "[삭제된 댓글의 댓글입니다.]",
-          "like": 3
+          "like": 4
         },
         {
           "nick": "퐝겜돌이",
@@ -28172,22 +29687,22 @@
         {
           "nick": "루리웹-7972236768",
           "text": "그림에 떡 ㅋㅋㅋㅋㅋㅋ",
-          "like": 10
+          "like": 11
         },
         {
           "nick": "쫌비짱",
           "text": "ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ",
-          "like": 1
+          "like": 2
         },
         {
           "nick": "루리웹-2397104658",
           "text": "진짜 패키지 시장 어찌되려나...",
-          "like": 5
+          "like": 6
         },
         {
           "nick": "link",
           "text": "이래서, 경쟁사가 중요한데..쩝",
-          "like": 0
+          "like": 1
         }
       ]
     },
@@ -28303,7 +29818,7 @@
       "source": "루리웹",
       "date": "2026.07.02",
       "time": "17:38:30",
-      "views": 184,
+      "views": 191,
       "comments": 0,
       "summary": "커뮤니티의 큰 사랑을 받은 포스트 아포칼립스 농업 시뮬레이션 게임 『doloc town』이 신규 지역, 농업 자동화 시스템, 메인 스토리 완결 등 대규모 업데이트...",
       "image": "https://img.ruliweb.com/data/news/tn/26/07/02/19f21f9b779_bmlqut.webp",
@@ -28315,7 +29830,7 @@
         },
         {
           "t": "p",
-          "v": "조회수 184 | 루리웹 | 입력 2026.07.02 (17:38:30)"
+          "v": "조회수 191 | 루리웹 | 입력 2026.07.02 (17:38:30)"
         },
         {
           "t": "p",
@@ -28844,7 +30359,7 @@
         {
           "nick": "루리웹-23436197",
           "text": "민초맛돈까스",
-          "like": 12,
+          "like": 13,
           "imgs": [
             "https://i1.ruliweb.com/cmt/26/07/02/19f221dd8f81e0adc.png"
           ]
@@ -28852,7 +30367,7 @@
         {
           "nick": "루리웹-23436197",
           "text": "",
-          "like": 6,
+          "like": 7,
           "imgs": [
             "https://i3.ruliweb.com/cmt/26/07/02/19f2240e0a81e0adc.png"
           ]
@@ -28865,12 +30380,17 @@
         {
           "nick": "게임멀티유저",
           "text": "저 사람이야 말로 진정한 엑뽀이지 PC유저인척 가면쓰고 활동하는 그들과는 다르다",
-          "like": 16
+          "like": 17
         },
         {
           "nick": "알폰소",
           "text": "겨드랑이 가슴살이 왜 저래...",
-          "like": 1
+          "like": 2
+        },
+        {
+          "nick": "루리웹-7752427110",
+          "text": "알폰소",
+          "like": 0
         },
         {
           "nick": "NSXBPS",
@@ -28880,7 +30400,7 @@
         {
           "nick": "ffotagu",
           "text": "저정도면 팬이 손절때린거네",
-          "like": 5
+          "like": 6
         },
         {
           "nick": "Game4life",
@@ -29024,12 +30544,12 @@
         {
           "nick": "혼의반복",
           "text": "담담하긴 무슨 아주ㅈ같구만",
-          "like": 20
+          "like": 22
         },
         {
           "nick": "마사카리",
           "text": "마치 시한부가 된느낌이랄까요",
-          "like": 12
+          "like": 14
         },
         {
           "nick": "괄리쟈 씹알럼아",
@@ -29039,27 +30559,27 @@
         {
           "nick": "루리웹-6632178466",
           "text": "Rex Splode",
-          "like": 17
+          "like": 18
         },
         {
           "nick": "[?]R-iddle-R[?]",
           "text": "스탑 킬링 게임법 스멀스멀 올라오니까 그전에 기정사실화 만드려나 싶을만큼 급작스럽게 진행하네... 심지어 VOD 종료해서 욕까지 거하게 먹고있는 상황에서...",
-          "like": 14
+          "like": 15
         },
         {
           "nick": "관주",
           "text": "[?]R-iddle-R[?]",
-          "like": 6
+          "like": 7
         },
         {
           "nick": "환불했어요",
           "text": "이번세대 독점작중 기깔난게 있어야 다음세대 콘솔 인질 잡지 솔직히 게임패드 빼면 특출난거 없을텐데 ㅋㅋㅋㅋㅋ",
-          "like": 9
+          "like": 10
         },
         {
           "nick": "내맘앙팡맘",
           "text": "이럴때 유럽쪽에서 개같이 반대법안이라도 내줬으면 ...",
-          "like": 12
+          "like": 13
         },
         {
           "nick": "쇼고:이동전투단",
@@ -29069,7 +30589,7 @@
         {
           "nick": "내맘앙팡맘",
           "text": "쇼고:이동전투단",
-          "like": 10
+          "like": 11
         },
         {
           "nick": "spiacente",
@@ -29079,7 +30599,7 @@
         {
           "nick": "가면남작",
           "text": "spiacente",
-          "like": 0
+          "like": 1
         },
         {
           "nick": "TheAlfee디 알피",
@@ -29129,7 +30649,7 @@
         {
           "nick": "하얀사신",
           "text": "디스크니까 꾸역꾸역 사준거지 dl이면 당장 안할건데 굳이 빠르게 안사지",
-          "like": 27
+          "like": 29
         },
         {
           "nick": "styner",
@@ -29249,11 +30769,21 @@
         {
           "nick": "마지막판타지",
           "text": "게임하는 시간보다 패키지 모으고 사러갈때의 그 기분 재미를 느끼는데 에휴 ㅜㅜ",
-          "like": 0
+          "like": 1
         },
         {
           "nick": "츠카모토 텐마",
           "text": "일본이 반발 제일 심할듯한데..",
+          "like": 0
+        },
+        {
+          "nick": "Lillix",
+          "text": "아쉽지만 이제 콘솔 손절 할 수 있게 해줘서 고맙다 소니야.. PS5가 나에겐 마지막 콘솔.",
+          "like": 0
+        },
+        {
+          "nick": "루리웹-7752427110",
+          "text": "xpa 엑박판 사면 pc , 엑박 다됨 ㄷㄷ",
           "like": 0
         }
       ]
@@ -29337,7 +30867,7 @@
         {
           "nick": "이요셉",
           "text": "결국엔 클라우드와 게임패스가 대세가 될것같군요..",
-          "like": 3
+          "like": 4
         },
         {
           "nick": "루2지",
@@ -29393,6 +30923,11 @@
           "nick": "8세컨즈",
           "text": "PS5 쓰다가 PC 가야지 내가 산 타이틀 6에서 무용지물에 보나마나 뻔하게 업글도 아니코 풀프라이스 받아쳐먹고 리마질 하겠지 DL 좋다고 뭐라하던 것들이나 잘 사서 즐기세요",
           "like": 2
+        },
+        {
+          "nick": "루리웹-7752427110",
+          "text": "8세컨즈",
+          "like": 0
         },
         {
           "nick": "Jirocul",
@@ -29512,7 +31047,7 @@
         {
           "nick": "시드tlem",
           "text": "육성파트를 좀더 본격적으로 만든거 같긴한데 솔직히 뭔가 흥미가 느껴지는 방식은 아니고 탐색파트도 사쿠나히메보다 손맛은 떨어져보이고 그나마 보스전은 좀 해볼만 할거 같긴한데 보기만으론 솔직히 도쿄제너두보다 못한 느낌이네요. 이거 저거 넣어서 합쳐보려다 죽도밥도 안된 느낌이랄까... 도쿄재너두는 좀 오글거려도 나름 맛이 있었는데 이번작은 솔직히 좀...",
-          "like": 0
+          "like": 1
         }
       ]
     },
@@ -29523,7 +31058,7 @@
       "source": "루리웹",
       "date": "2026.07.02",
       "time": "17:01:02",
-      "views": 455,
+      "views": 473,
       "comments": 0,
       "summary": "주식회사 snk는 인기 대전 격투 게임 『the king of fighters xv』의 밸런스 조정을 위해 2026년 7월 2일 업데이트를 예고했다. 이번 조정은...",
       "image": "https://img.ruliweb.com/data/news/tn/26/07/02/19f21d80933_lfarcm.webp",
@@ -29535,7 +31070,7 @@
         },
         {
           "t": "p",
-          "v": "조회수 455 | 루리웹 | 입력 2026.07.02 (17:01:02)"
+          "v": "조회수 473 | 루리웹 | 입력 2026.07.02 (17:01:02)"
         },
         {
           "t": "p",
@@ -30096,7 +31631,7 @@
       "source": "루리웹",
       "date": "2026.07.02",
       "time": "16:51:30",
-      "views": 432,
+      "views": 443,
       "comments": 0,
       "summary": "'교토 재너두 -앵화환무-'는 교토가 수도인 현대 일본을 무대로, '적격자'로 각성한 소년, 소녀들의 이계 재너두를 둘러싼 이야기를 그린 니혼 팔콤의 완전 신작 ...",
       "image": "https://img.ruliweb.com/data/news27/07m/02/ps5/kt.webp",
@@ -30108,7 +31643,7 @@
         },
         {
           "t": "p",
-          "v": "조회수 433 | 루리웹 | 입력 2026.07.02 (16:51:30)"
+          "v": "조회수 443 | 루리웹 | 입력 2026.07.02 (16:51:30)"
         },
         {
           "t": "p",
@@ -30507,7 +32042,7 @@
       "source": "루리웹",
       "date": "2026.07.02",
       "time": "16:30:00",
-      "views": 796,
+      "views": 825,
       "comments": 1,
       "summary": "조던 메크너가 제작한 '페르시아의 왕자'와 '카라테카' 개발일지 한정 세트가 출시되어 큰 주목을 받고 있다. 이 세트는 서적 본편, 게임 매뉴얼 복각판 등과 함께...",
       "image": "https://img.ruliweb.com/data/news/tn/26/07/02/19f21a8a284_xrzwki.webp",
@@ -30519,7 +32054,7 @@
         },
         {
           "t": "p",
-          "v": "조회수 796 | 루리웹 | 입력 2026.07.02 (16:30:00)"
+          "v": "조회수 825 | 루리웹 | 입력 2026.07.02 (16:30:00)"
         },
         {
           "t": "p",
@@ -30711,7 +32246,7 @@
       "source": "루리웹",
       "date": "2026.07.02",
       "time": "16:18:28",
-      "views": 283,
+      "views": 291,
       "comments": 0,
       "summary": "세가퍼블리싱코리아는 '파밍 시뮬레이터 25'의 콘텐츠 확장팩 'sky agriculture pack'을 배포하며, 프랑스 농기계 제조사 sky agricultur...",
       "image": "https://img.ruliweb.com/data/news/tn/26/07/02/19f21b145de_jfseiy.webp",
@@ -30723,7 +32258,7 @@
         },
         {
           "t": "p",
-          "v": "조회수 283 | 루리웹 | 입력 2026.07.02 (16:18:28)"
+          "v": "조회수 291 | 루리웹 | 입력 2026.07.02 (16:18:28)"
         },
         {
           "t": "p",
@@ -31158,7 +32693,7 @@
       "source": "루리웹",
       "date": "2026.07.02",
       "time": "16:09:32",
-      "views": 238,
+      "views": 242,
       "comments": 0,
       "summary": "컴투스홀딩스는 아르까가 개발한 추론형 모바일 퍼즐 게임 '컬러스위퍼'를 구글 플레이와 애플 앱스토어에 글로벌 출시하며, 고전 지뢰찾기와 노노그램의 논리 요소를 재...",
       "image": "https://img.ruliweb.com/data/news/tn/26/07/02/19f21a80f31_luovxq.webp",
@@ -31170,7 +32705,7 @@
         },
         {
           "t": "p",
-          "v": "조회수 238 | 루리웹 | 입력 2026.07.02 (16:09:32)"
+          "v": "조회수 242 | 루리웹 | 입력 2026.07.02 (16:09:32)"
         },
         {
           "t": "p",
@@ -31403,7 +32938,7 @@
       "source": "루리웹",
       "date": "2026.07.02",
       "time": "16:03:03",
-      "views": 460,
+      "views": 471,
       "comments": 0,
       "summary": "넷마블은 액션 게임 '나 혼자만 레벨업:어라이즈'의 업데이트를 통해 신규 ssr 헌터 '아그네스 리베라'(암속성 버스터)를 추가하고, 스토리 익스퍼트 난이도 히든...",
       "image": "https://img.ruliweb.com/data/news/tn/26/07/02/19f21a31fb5_kufbah.webp",
@@ -31415,7 +32950,7 @@
         },
         {
           "t": "p",
-          "v": "조회수 460 | 루리웹 | 입력 2026.07.02 (16:03:03)"
+          "v": "조회수 471 | 루리웹 | 입력 2026.07.02 (16:03:03)"
         },
         {
           "t": "p",
@@ -31686,7 +33221,7 @@
         {
           "nick": "20121027",
           "text": "에스메랄다와 파비오의 만담쇼가 벌써부터 기대된다",
-          "like": 1
+          "like": 2
         },
         {
           "nick": "로켓님",
@@ -32322,7 +33857,7 @@
       "source": "루리웹",
       "date": "2026.07.02",
       "time": "15:14:41",
-      "views": 363,
+      "views": 369,
       "comments": 0,
       "summary": "넥슨은 루트슈터 게임 '퍼스트 디센던트'의 2주년 라이브 방송을 통해 하반기 업데이트 로드맵을 공개했으며, 오는 8월 20일 시즌4 '대격전'에서 서사 마무리와 ...",
       "image": "https://img.ruliweb.com/data/news/tn/26/07/02/19f2176ecd5_sghjyp.webp",
@@ -32334,7 +33869,7 @@
         },
         {
           "t": "p",
-          "v": "조회수 363 | 루리웹 | 입력 2026.07.02 (15:14:41)"
+          "v": "조회수 369 | 루리웹 | 입력 2026.07.02 (15:14:41)"
         },
         {
           "t": "p",
@@ -32611,7 +34146,7 @@
       "source": "루리웹",
       "date": "2026.07.02",
       "time": "14:07:52",
-      "views": 120,
+      "views": 124,
       "comments": 0,
       "summary": "soop이 생활체육부터 국제대회까지 수영 콘텐츠 영역을 확장하며 수영 생태계 활성화에 주력하고 있다. 오는 8월 서울시장기 대회 등 주요 대회를 포함해 올해 총 ...",
       "image": "https://img.ruliweb.com/data/news/tn/26/07/02/19f2139e813_fihgvx.webp",
@@ -32623,7 +34158,7 @@
         },
         {
           "t": "p",
-          "v": "조회수 120 | 루리웹 | 입력 2026.07.02 (14:07:52)"
+          "v": "조회수 124 | 루리웹 | 입력 2026.07.02 (14:07:52)"
         },
         {
           "t": "p",
@@ -32778,7 +34313,7 @@
       "source": "루리웹",
       "date": "2026.07.02",
       "time": "14:04:45",
-      "views": 182,
+      "views": 185,
       "comments": 0,
       "summary": "블루죤이 오는 7월 1일부터 10일까지 쿠팡에서 기가바이트의 4k qd-oled 게이밍 모니터 3종을 특가로 선보인다. 이번 프로모션은 최신 4세대 펜타 탠덤 패...",
       "image": "https://img.ruliweb.com/data/news/tn/26/07/02/19f213706b2_bswxud.webp",
@@ -32790,7 +34325,7 @@
         },
         {
           "t": "p",
-          "v": "조회수 182 | 루리웹 | 입력 2026.07.02 (14:04:45)"
+          "v": "조회수 185 | 루리웹 | 입력 2026.07.02 (14:04:45)"
         },
         {
           "t": "p",
@@ -33017,7 +34552,7 @@
       "source": "루리웹",
       "date": "2026.07.02",
       "time": "13:56:06",
-      "views": 322,
+      "views": 331,
       "comments": 0,
       "summary": "나딕게임즈가 온라인 액션 rpg '클로저스'의 23번째 신규 캐릭터 '모아'를 정식 출시하며, 군주에서 인간으로 변한 배경을 가진 이 캐릭터는 거대한 차크람을 활...",
       "image": "https://img.ruliweb.com/data/news/tn/26/07/02/19f213080f6_zbmsuv.webp",
@@ -33029,7 +34564,7 @@
         },
         {
           "t": "p",
-          "v": "조회수 322 | 루리웹 | 입력 2026.07.02 (13:56:06)"
+          "v": "조회수 331 | 루리웹 | 입력 2026.07.02 (13:56:06)"
         },
         {
           "t": "p",
@@ -33603,7 +35138,7 @@
       "source": "루리웹",
       "date": "2026.07.02",
       "time": "13:14:36",
-      "views": 349,
+      "views": 356,
       "comments": 0,
       "summary": "lck 2번 시드 t1이 라이엇 게임즈 주관 2026 msi 플레이-인 스테이지에서 세트 패배 없이 브래킷 스테이지 진출을 확정했다. t1은 lcs 2번 시드 t...",
       "image": "https://img.ruliweb.com/data/news/tn/26/07/02/19f2108f862_mynhpc.webp",
@@ -33615,7 +35150,7 @@
         },
         {
           "t": "p",
-          "v": "조회수 349 | 루리웹 | 입력 2026.07.02 (13:14:36)"
+          "v": "조회수 356 | 루리웹 | 입력 2026.07.02 (13:14:36)"
         },
         {
           "t": "p",
@@ -34648,7 +36183,7 @@
       "source": "루리웹",
       "date": "2026.07.02",
       "time": "12:30:00",
-      "views": 4266,
+      "views": 4330,
       "comments": 19,
       "summary": "소니인터랙티브엔터테인먼트코리아는 ps plus 구독자를 위해 7월 7일부터 8월 3일까지 '콜 오브 듀티: 모던 워페어 iii', '포 더 킹 ii', '크로스코...",
       "image": "https://img.ruliweb.com/data/news/tn/22/09/29/18385063bd0_lbufmh.webp",
@@ -34660,7 +36195,7 @@
         },
         {
           "t": "p",
-          "v": "조회수 4266 | 루리웹 | 입력 2026.07.02 (12:30:00)"
+          "v": "조회수 4330 | 루리웹 | 입력 2026.07.02 (12:30:00)"
         },
         {
           "t": "p",
@@ -35019,7 +36554,7 @@
         {
           "nick": "밥은먹고다니냐??",
           "text": "공서령",
-          "like": 11
+          "like": 12
         },
         {
           "nick": "게임멀티유저",
@@ -35099,12 +36634,12 @@
         {
           "nick": "시렌",
           "text": "코지마 히데오 결국 언젠가, 디지털 데이터조차 개인이 자발적으로 소유할 수 없는 날이 올 것입니다. 세계나 국가, 정부, 사상, 혹은 시대의 흐름에 큰 변화나 사건이 일어날 때마다 데이터에 대한 접근이 갑작스럽게 차단될 수도 있습니다. 이건 거의 종말예언느낌",
-          "like": 17
+          "like": 18
         },
         {
           "nick": "S.U.Y.U.RUCAMΔ",
           "text": "시렌",
-          "like": 4
+          "like": 5
         },
         {
           "nick": "공서령",
@@ -35149,12 +36684,12 @@
         {
           "nick": "별차",
           "text": "GTA6로 첫 스타트 끊기 위한 거였다는게 다들 예상하신 수순이네요.. 소니 입장이야 당연히 메모리, 저장장치 가격이 올라가니 단가 맞추려고 디스크 자체를 날려버리는거는 구실이죠.. 사실 블루레이 디스크 속도 생각하면 그냥 nvme ssd가 가장 효율적이기도 하고요..(디스크는 한참전부터 닌텐도의 키카드 역할이었다고 봅니다..) 여튼 디지털로만 한다는건 스팀이랑 별 차이가 없어지는 건데.. 그러려면 소니만의 강력한 독점 IP를 계속 내놓을 수 있다는 자신감이 없다면 저런 행동을 못할 것 같은데요.. (아니면 pc 보급률이 낮은 나라들 대상으로 매출에 의존하겠다는 건지...?) 최근 한 행보들을 보면 독점작이 매번 히트할 거라는 보장도 없어보이죠.. 결론은 플스에서만 구동가능한 히트작 게임들이 많지 않다면 플",
-          "like": 5
+          "like": 6
         },
         {
           "nick": "마이피드링크",
           "text": "게임도 안하고 돈만 밝히고 숫자에만 능한 사이코패스들이 게임 회사를 장악하면 벌어지는 일",
-          "like": 21
+          "like": 22
         },
         {
           "nick": "쇼고:이동전투단",
@@ -35169,7 +36704,7 @@
         {
           "nick": "괄리쟈 씹알럼아",
           "text": "코지마형 대단한게 지금 전쟁에 투입했던 로봇 개들 보면 완전 메탈기어솔리드에 나오는 로봇개랑 똑같음 경제강국은 전쟁용 로봇을 더 진화시켜 만들거고 가난한 나라는 로봇만들 돈도없어서 ㅈ될거고 메탈기어가 현실화된게 진짜 신기함 그 시기가 이렇게 빨리 올줄은 ㅎㄷㄷ",
-          "like": 12
+          "like": 13
         },
         {
           "nick": "후카다쿄코",
@@ -35209,7 +36744,7 @@
         {
           "nick": "Riren",
           "text": "엔토리스",
-          "like": 2
+          "like": 3
         },
         {
           "nick": "MARIO128",
@@ -35532,7 +37067,7 @@
       "source": "루리웹",
       "date": "2026.07.02",
       "time": "11:52:54",
-      "views": 119,
+      "views": 121,
       "comments": 0,
       "summary": "아이지에이웍스가 kt·sk브로드밴드·lg유플러스의 1800만 셋톱박스 데이터와 자체 ai 기술 sci를 결합해 '2026 북중미 월드컵 tv 데이터 분석' 리포트...",
       "image": "https://img.ruliweb.com/data/news/tn/26/07/02/19f20be57ff_wadxqe.webp",
@@ -35544,7 +37079,7 @@
         },
         {
           "t": "p",
-          "v": "조회수 119 | 루리웹 | 입력 2026.07.02 (11:52:54)"
+          "v": "조회수 121 | 루리웹 | 입력 2026.07.02 (11:52:54)"
         },
         {
           "t": "p",
@@ -35920,7 +37455,7 @@
       "source": "루리웹",
       "date": "2026.07.02",
       "time": "11:42:07",
-      "views": 754,
+      "views": 763,
       "comments": 0,
       "summary": "클라우디드 레오파드 엔터테인먼트는 서스펜스 탈옥 rpg 'back to the dawn'의 ps5 버전을 2026년 10월 22일 발매하며, 신규 디자인의 한정판...",
       "image": "https://img.ruliweb.com/data/news/tn/26/07/02/19f20b101f4_zudykg.webp",
@@ -35932,7 +37467,7 @@
         },
         {
           "t": "p",
-          "v": "조회수 754 | 루리웹 | 입력 2026.07.02 (11:42:07)"
+          "v": "조회수 763 | 루리웹 | 입력 2026.07.02 (11:42:07)"
         },
         {
           "t": "p",
@@ -36437,7 +37972,7 @@
       "source": "루리웹",
       "date": "2026.07.02",
       "time": "11:24:40",
-      "views": 1121,
+      "views": 1131,
       "comments": 5,
       "summary": "게임피아는 니혼 팔콤 개발 신작 액션 rpg 『교토 재너두 -앵화환무-』의 예약판매를 2026년 7월 3일부터 시작한다고 밝혔다. 이 작품은 현대 일본을 배경으로...",
       "image": "https://img.ruliweb.com/data/news/tn/26/07/02/19f20a47cf1_yfrmnv.webp",
@@ -36449,7 +37984,7 @@
         },
         {
           "t": "p",
-          "v": "조회수 1121 | 루리웹 | 입력 2026.07.02 (11:24:40)"
+          "v": "조회수 1131 | 루리웹 | 입력 2026.07.02 (11:24:40)"
         },
         {
           "t": "p",
@@ -37784,7 +39319,7 @@
       "source": "루리웹",
       "date": "2026.07.02",
       "time": "11:07:33",
-      "views": 315,
+      "views": 321,
       "comments": 0,
       "summary": "모바일 rpg '쿠키런: 킹덤'이 '용언의 노래' 업데이트를 진행하며 신규 에피소드 '검은 날개의 인도자'와 함께 고대 힘을 되찾은 드래곤 등급 쿠키 '파인 드래...",
       "image": "https://img.ruliweb.com/data/news/tn/26/07/02/19f2094cd29_jivzsx.webp",
@@ -37796,7 +39331,7 @@
         },
         {
           "t": "p",
-          "v": "조회수 315 | 루리웹 | 입력 2026.07.02 (11:07:33)"
+          "v": "조회수 321 | 루리웹 | 입력 2026.07.02 (11:07:33)"
         },
         {
           "t": "p",
@@ -38159,7 +39694,7 @@
       "source": "루리웹",
       "date": "2026.07.02",
       "time": "11:01:47",
-      "views": 599,
+      "views": 604,
       "comments": 0,
       "summary": "주식회사 부시로드는 2026년 7월 3일, 어드벤처 rpg '브라운더스트2'의 트라이얼 덱 및 부스터 팩 「브라운더스트2」를 일본어판과 한국어판으로 동시 발매합니...",
       "image": "https://img.ruliweb.com/data/news/tn/26/07/02/19f20867a5f_cwtqvd.webp",
@@ -38171,7 +39706,7 @@
         },
         {
           "t": "p",
-          "v": "조회수 599 | 루리웹 | 입력 2026.07.02 (11:01:47)"
+          "v": "조회수 604 | 루리웹 | 입력 2026.07.02 (11:01:47)"
         },
         {
           "t": "p",
@@ -38967,7 +40502,7 @@
       "source": "루리웹",
       "date": "2026.07.02",
       "time": "11:00:00",
-      "views": 1773,
+      "views": 1792,
       "comments": 7,
       "summary": "넥슨게임즈는 '퍼스트 디센던트' 서비스 2주년을 맞아 온라인 쇼케이스를 열고 시즌 4의 대규모 업데이트인 '대격전'과 하반기 로드맵을 공개했다. 주요 내용은 카렐...",
       "image": "https://img.ruliweb.com/data/news/tn/26/07/02/19f20768037_bnwhij.webp",
@@ -38979,7 +40514,7 @@
         },
         {
           "t": "p",
-          "v": "조회수 1773 | 루리웹 | 입력 2026.07.02 (11:00:00)"
+          "v": "조회수 1792 | 루리웹 | 입력 2026.07.02 (11:00:00)"
         },
         {
           "t": "p",
@@ -39476,7 +41011,7 @@
         {
           "nick": "제이 리",
           "text": "Hestiaz",
-          "like": 5
+          "like": 6
         },
         {
           "nick": "chahee",
@@ -39502,7 +41037,7 @@
       "source": "루리웹",
       "date": "2026.07.02",
       "time": "11:00:00",
-      "views": 434,
+      "views": 440,
       "comments": 0,
       "summary": "'사신 공주와 이서관의 괴물'은 '거짓말쟁이 공주와 눈먼 왕자'와 '나쁜 왕과 훌륭한 용사'에 이어, 이형의 존재와 인간 간의 교류를 그린 '그림책' 시리즈의 최...",
       "image": "https://img.ruliweb.com/data/news27/07m/02/ps5/sg.webp",
@@ -39514,7 +41049,7 @@
         },
         {
           "t": "p",
-          "v": "조회수 434 | 루리웹 | 입력 2026.07.02 (11:00:00)"
+          "v": "조회수 440 | 루리웹 | 입력 2026.07.02 (11:00:00)"
         },
         {
           "t": "p",
@@ -39815,17 +41350,17 @@
         {
           "nick": "익명-8001285",
           "text": "월화수목금토일..",
-          "like": 4
+          "like": 5
         },
         {
           "nick": "루리웹-8655666907",
           "text": "Gta6 피씨버전 나오기만해봐라",
-          "like": 9
+          "like": 10
         },
         {
           "nick": "칼쑤마졍이",
           "text": "???:게임 말고 본체를 빌려 주면 됩니다 ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ",
-          "like": 5
+          "like": 6
         },
         {
           "nick": "urucu",
@@ -40099,17 +41634,17 @@
         {
           "nick": "밥은먹고다니냐??",
           "text": "𝓝𝓸𝓮𝓵",
-          "like": 11
+          "like": 12
         },
         {
           "nick": "8801153620",
           "text": "Nucker",
-          "like": 23
+          "like": 24
         },
         {
           "nick": "루리웹-8830681567",
           "text": "[삭제된 댓글의 댓글입니다.]",
-          "like": 4
+          "like": 5
         },
         {
           "nick": "DragonOfDojima",
@@ -40122,12 +41657,12 @@
         {
           "nick": "Huntr/x",
           "text": "DragonOfDojima",
-          "like": 12
+          "like": 13
         },
         {
           "nick": "환불했어요",
           "text": "방못난이",
-          "like": 1
+          "like": 2
         },
         {
           "nick": "라이오",
@@ -40137,22 +41672,22 @@
         {
           "nick": "에메랄드마운틴",
           "text": "게임 보존 측면에서 보면 틀린말은 아님.. 공식이 DL에 대해 소유의 의미를 없애버렸으니 저 방법말고 가능한 보존법은 기기안에 게임을 미리 다운받은 상태로 기기 보관하는 방법밖에 없음",
-          "like": 26
+          "like": 27
         },
         {
           "nick": "괄리쟈 씹알럼아",
           "text": "지금 DL이 딱 불법복제 풀프라이스 내고 하는 느낌임 장난감 사듯이 패키지 사서 하는 그 맛이 나야하는데 돈주고 알포에다가 다운받아서 하는 느낌... 단지 정식과 불법의 차이일뿐. ㅅㅂ ㅅㅅ도 과정없이 발사하고 끝내면 ㅈ같은것처럼 게임도 패키지로 넣고 구동시키는 맛이 있어야함",
-          "like": 10
+          "like": 11
         },
         {
           "nick": "괄리쟈 씹알럼아",
           "text": "이 시점에서 닌텐도가 우리는 키카드 없애겠다고 발표하면 유저들 난리나고 주가도 좀 오를듯?",
-          "like": 5
+          "like": 6
         },
         {
           "nick": "내맘앙팡맘",
           "text": "디에스게임 정품사가면서 했고 정발 안해주던 때부터 꾸역꾸역 정품 구해가며 게임 해왔는데 내가 불따 옹호자로 만들줄은 몰랐네 대단들하다.",
-          "like": 12
+          "like": 13
         },
         {
           "nick": "先愛治患🗽비취빛",
@@ -40167,7 +41702,7 @@
         {
           "nick": "q1w2e3r4!",
           "text": "구매가 소유가 아니면 복돌은 훔치는게 아니다",
-          "like": 39
+          "like": 40
         },
         {
           "nick": "C.LQ.DT",
@@ -40243,7 +41778,7 @@
       "source": "루리웹",
       "date": "2026.07.02",
       "time": "10:42:32",
-      "views": 290,
+      "views": 294,
       "comments": 0,
       "summary": "㈜넥슨네트웍스가 판교센터 게임 qa 부문 채용연계형 인턴을 7월 12일까지 모집하며, 최종 합격자는 8월 중 입사해 6개월간 근무 후 평가를 거쳐 정규직 전환 기...",
       "image": "https://img.ruliweb.com/data/news/tn/26/07/02/19f207de8ef_egsyxn.webp",
@@ -40255,7 +41790,7 @@
         },
         {
           "t": "p",
-          "v": "조회수 290 | 루리웹 | 입력 2026.07.02 (10:42:32)"
+          "v": "조회수 294 | 루리웹 | 입력 2026.07.02 (10:42:32)"
         },
         {
           "t": "p",
@@ -40412,7 +41947,7 @@
       "source": "루리웹",
       "date": "2026.07.02",
       "time": "10:39:34",
-      "views": 331,
+      "views": 332,
       "comments": 0,
       "summary": "넥슨은 인기 fps 게임 '서든어택'에 2026 시즌3 '패러독스'를 업데이트하며 신규 캐릭터 'c.베라'와 저격소총 'rsr paradox'를 공개했다. 이번 ...",
       "image": "https://img.ruliweb.com/data/news/tn/26/07/02/19f207b05e6_wozcpf.webp",
@@ -40424,7 +41959,7 @@
         },
         {
           "t": "p",
-          "v": "조회수 331 | 루리웹 | 입력 2026.07.02 (10:39:34)"
+          "v": "조회수 332 | 루리웹 | 입력 2026.07.02 (10:39:34)"
         },
         {
           "t": "p",
@@ -40693,7 +42228,7 @@
       "source": "루리웹",
       "date": "2026.07.02",
       "time": "10:35:15",
-      "views": 426,
+      "views": 427,
       "comments": 0,
       "summary": "게임피아㈜는 일본 니폰 이치 소프트웨어 개발작인 어드벤처 게임 『사신 공주와 이서관의 괴물』을 7월 2일 플레이스테이션5와 닌텐도 스위치로 국내 정식 출시한다고 ...",
       "image": "https://img.ruliweb.com/data/news/tn/26/07/02/19f20761e09_eutjic.webp",
@@ -40705,7 +42240,7 @@
         },
         {
           "t": "p",
-          "v": "조회수 426 | 루리웹 | 입력 2026.07.02 (10:35:15)"
+          "v": "조회수 427 | 루리웹 | 입력 2026.07.02 (10:35:15)"
         },
         {
           "t": "p",
@@ -41083,7 +42618,7 @@
       "source": "루리웹",
       "date": "2026.07.02",
       "time": "10:25:43",
-      "views": 215,
+      "views": 217,
       "comments": 0,
       "summary": "스마일게이트 희망스튜디오는 블랙야크강태선나눔재단과 협력하여 'creating x 덕업일치 프로젝트 시즌 2-문화예술 테마 편'을 론칭하고, 음악·영화 등 문화예술...",
       "image": "https://img.ruliweb.com/data/news/tn/26/07/02/19f206e838c_dwvjoi.webp",
@@ -41095,7 +42630,7 @@
         },
         {
           "t": "p",
-          "v": "조회수 215 | 루리웹 | 입력 2026.07.02 (10:25:43)"
+          "v": "조회수 217 | 루리웹 | 입력 2026.07.02 (10:25:43)"
         },
         {
           "t": "p",
@@ -41868,7 +43403,7 @@
       "source": "루리웹",
       "date": "2026.07.02",
       "time": "10:19:12",
-      "views": 225,
+      "views": 226,
       "comments": 0,
       "summary": "2026 lck 정규 시즌 후반부인 3~4라운드가 오는 7월 29일부터 8월 23일까지 진행되며, 이 기간 동안 젠지와 t1이 각각 홈 로드쇼를 개최해 팬들과 만...",
       "image": "https://img.ruliweb.com/data/news/tn/26/07/02/19f206888d1_jgmtve.webp",
@@ -41880,7 +43415,7 @@
         },
         {
           "t": "p",
-          "v": "조회수 225 | 루리웹 | 입력 2026.07.02 (10:19:12)"
+          "v": "조회수 226 | 루리웹 | 입력 2026.07.02 (10:19:12)"
         },
         {
           "t": "p",
@@ -42175,7 +43710,7 @@
       "source": "루리웹",
       "date": "2026.07.02",
       "time": "10:15:49",
-      "views": 908,
+      "views": 916,
       "comments": 0,
       "summary": "시프트업은 '승리의 여신: 니케'에 여름 시즌 한정 ssr 화력형 니케 '신데렐라 : 크리스탈 웨이브', '마르차나 : 마린 스터디'를 추가하고, 신규 풀 보이스...",
       "image": "https://img.ruliweb.com/data/news/tn/26/07/02/19f2064dff9_pgqjie.webp",
@@ -42187,7 +43722,7 @@
         },
         {
           "t": "p",
-          "v": "조회수 908 | 루리웹 | 입력 2026.07.02 (10:15:49)"
+          "v": "조회수 917 | 루리웹 | 입력 2026.07.02 (10:15:49)"
         },
         {
           "t": "p",
@@ -42571,7 +44106,7 @@
       "source": "루리웹",
       "date": "2026.07.02",
       "time": "10:11:09",
-      "views": 472,
+      "views": 475,
       "comments": 0,
       "summary": "모바일 리듬게임 '리듬하이브'가 아티스트 르세라핌의 인천 공연을 기념하여 온·오프라인 연계 프로모션을 진행한다. 오는 7월 11일부터 12일까지 현장 부스에서는 ...",
       "image": "https://img.ruliweb.com/data/news/tn/26/07/02/19f20612e84_koewcm.webp",
@@ -42583,7 +44118,7 @@
         },
         {
           "t": "p",
-          "v": "조회수 472 | 루리웹 | 입력 2026.07.02 (10:11:09)"
+          "v": "조회수 475 | 루리웹 | 입력 2026.07.02 (10:11:09)"
         },
         {
           "t": "p",
@@ -42780,7 +44315,7 @@
       "source": "루리웹",
       "date": "2026.07.02",
       "time": "10:07:36",
-      "views": 461,
+      "views": 463,
       "comments": 0,
       "summary": "워게이밍은 무료 전차 슈팅 게임 '월드 오브 탱크: 히트'의 시즌 1 업데이트로 저격수 flair와 두 종류의 신규 전차(leo 2fk, leo 2kst), 그리...",
       "image": "https://img.ruliweb.com/data/news/tn/26/07/02/19f205da641_pbmgyt.webp",
@@ -42792,7 +44327,7 @@
         },
         {
           "t": "p",
-          "v": "조회수 461 | 루리웹 | 입력 2026.07.02 (10:07:36)"
+          "v": "조회수 463 | 루리웹 | 입력 2026.07.02 (10:07:36)"
         },
         {
           "t": "p",
@@ -43202,7 +44737,7 @@
       "source": "루리웹",
       "date": "2026.07.02",
       "time": "10:00:00",
-      "views": 5033,
+      "views": 5102,
       "comments": 30,
       "summary": "캡콤이 액션 게임 '귀무자 웨이 오브 더 소드'의 발매일을 기존 9월 25일에서 3주 앞당겨 9월 4일로 변경한다고 공식 발표했다. 이에 따라 디지털 버전 예약 ...",
       "image": "https://img.ruliweb.com/data/news/tn/26/07/02/19f20470f82_cwfdye.webp",
@@ -43214,7 +44749,7 @@
         },
         {
           "t": "p",
-          "v": "조회수 5034 | 루리웹 | 입력 2026.07.02 (10:00:00)"
+          "v": "조회수 5105 | 루리웹 | 입력 2026.07.02 (10:00:00)"
         },
         {
           "t": "p",
@@ -43597,7 +45132,7 @@
       "source": "루리웹",
       "date": "2026.07.02",
       "time": "09:57:55",
-      "views": 1353,
+      "views": 1363,
       "comments": 4,
       "summary": "디지털터치가 koei tecmo games의 액션 게임 『진격의 거인3』 프로모션 영상을 공개하며, 신규 요소 '벽 외 조사'와 진화된 입체기동 액션을 선보였다....",
       "image": "https://img.ruliweb.com/data/news/tn/26/07/02/19f20546dc3_qhzcfs.webp",
@@ -43609,7 +45144,7 @@
         },
         {
           "t": "p",
-          "v": "조회수 1353 | 루리웹 | 입력 2026.07.02 (09:57:55)"
+          "v": "조회수 1363 | 루리웹 | 입력 2026.07.02 (09:57:55)"
         },
         {
           "t": "p",
@@ -43972,7 +45507,7 @@
       "source": "루리웹",
       "date": "2026.07.02",
       "time": "09:45:27",
-      "views": 191,
+      "views": 193,
       "comments": 0,
       "summary": "soop이 소니 inzone과 협력하여 총상금 5,000만 원 규모의 오리지널 e스포츠 콘텐츠 '2026 배틀그라운드 멸망전 시즌1'을 오는 7월 2일부터 나흘간...",
       "image": "https://img.ruliweb.com/data/news/tn/26/07/02/19f20494912_aluvki.webp",
@@ -43984,7 +45519,7 @@
         },
         {
           "t": "p",
-          "v": "조회수 191 | 루리웹 | 입력 2026.07.02 (09:45:27)"
+          "v": "조회수 193 | 루리웹 | 입력 2026.07.02 (09:45:27)"
         },
         {
           "t": "p",
@@ -44245,7 +45780,7 @@
       "source": "루리웹",
       "date": "2026.07.02",
       "time": "09:42:36",
-      "views": 76,
+      "views": 77,
       "comments": 0,
       "summary": "가트너는 에이전틱 ai 도입으로 인해 기존 saas 시장이 재편되며 '사스포칼립스' 현상이 본격화될 것이라 전망했다. 2030년까지 최대 362조 원 규모의 기업...",
       "image": "https://img.ruliweb.com/data/news/tn/26/07/02/19f20470893_wdoypg.webp",
@@ -44257,7 +45792,7 @@
         },
         {
           "t": "p",
-          "v": "조회수 76 | 루리웹 | 입력 2026.07.02 (09:42:36)"
+          "v": "조회수 77 | 루리웹 | 입력 2026.07.02 (09:42:36)"
         },
         {
           "t": "p",
@@ -44432,7 +45967,7 @@
       "source": "루리웹",
       "date": "2026.07.02",
       "time": "09:40:22",
-      "views": 138,
+      "views": 139,
       "comments": 0,
       "summary": "nhn두레이가 글로벌 임플란트 기업 오스템임플란트에 올인원 ai 협업 툴 '두레이'를 전면 공급하며 대규모 saas 전환 사례를 구축했다. 이번 도입으로 오스템임...",
       "image": "https://img.ruliweb.com/data/news/tn/26/07/02/19f2044f5ff_ohjtsu.webp",
@@ -44444,7 +45979,7 @@
         },
         {
           "t": "p",
-          "v": "조회수 138 | 루리웹 | 입력 2026.07.02 (09:40:22)"
+          "v": "조회수 139 | 루리웹 | 입력 2026.07.02 (09:40:22)"
         },
         {
           "t": "p",
@@ -44581,7 +46116,7 @@
       "source": "루리웹",
       "date": "2026.07.02",
       "time": "09:38:31",
-      "views": 89,
+      "views": 93,
       "comments": 0,
       "summary": "캐논코리아가 7월 2일부터 나흘간 열리는 'klpga 2026 롯데 오픈' 공식 후원사로 참여하며, 갤러리들을 위해 골프 거리측정기 '파워샷 골프' 체험 및 대여...",
       "image": "https://img.ruliweb.com/data/news/tn/26/07/02/19f2043464f_ahxfvk.webp",
@@ -44593,7 +46128,7 @@
         },
         {
           "t": "p",
-          "v": "조회수 89 | 루리웹 | 입력 2026.07.02 (09:38:31)"
+          "v": "조회수 93 | 루리웹 | 입력 2026.07.02 (09:38:31)"
         },
         {
           "t": "p",
@@ -44742,7 +46277,7 @@
       "source": "루리웹",
       "date": "2026.07.02",
       "time": "09:33:59",
-      "views": 622,
+      "views": 626,
       "comments": 0,
       "summary": "에이수스가 게이밍 브랜드 rog와 하이파이 헤드폰 전문 기업 하이파이맨과 협력하여 평판형 게이밍 헤드셋 'rog 키타라'를 출시했다. 이 제품은 커스텀 100mm...",
       "image": "https://img.ruliweb.com/data/news/tn/26/07/02/19f203f27e6_qzmikc.webp",
@@ -44754,7 +46289,7 @@
         },
         {
           "t": "p",
-          "v": "조회수 622 | 루리웹 | 입력 2026.07.02 (09:33:59)"
+          "v": "조회수 626 | 루리웹 | 입력 2026.07.02 (09:33:59)"
         },
         {
           "t": "p",
@@ -44977,7 +46512,7 @@
         {
           "nick": "모리한티",
           "text": "어차피 이번 세대 마음에 든 독점작도 별로없었고.. 다음 세대부턴 스팀으로 가련다..",
-          "like": 13
+          "like": 14
         },
         {
           "nick": "무지컬",
@@ -45102,7 +46637,7 @@
         {
           "nick": "에마신",
           "text": "이렇게 된거 gta6 30프렘으로 나오면 차라리 pc로 투자하고 프로 팔아버려야겠다",
-          "like": 3
+          "like": 4
         },
         {
           "nick": "동방제과",
@@ -45122,12 +46657,12 @@
         {
           "nick": "Van Darkholme",
           "text": "매력적인 독점 게임도 없으면서 게임판에 똥이나 뿌리고 다니네",
-          "like": 12
+          "like": 13
         },
         {
           "nick": "파프리카쌈무",
           "text": "어차피 디지털만 사서 영향은 없는데 이럴거면 가격이라도 낮춰야 하는거 아닌가",
-          "like": 8
+          "like": 9
         },
         {
           "nick": "동방제과",
@@ -45137,7 +46672,7 @@
         {
           "nick": "styner",
           "text": "게임 진열하고 특전때문에 예구했는데 코드쪼가리면 뭐하러 예구를 함 세일까지 기다렸다 사거나 상대적으로 안전한 스팀으로 사지",
-          "like": 7
+          "like": 8
         },
         {
           "nick": "파극폭마장",
@@ -45147,7 +46682,7 @@
         {
           "nick": "시스프리 메이커",
           "text": "요즘에는 다행스럽게도 콘솔 3사가 하위호환 때문에 스토어 시스템을 어느정도 통합한 거 같던데 이게 게이머에게 스팀 같은 믿음을 주려면 시간이 꽤나 필요할 거임",
-          "like": 5
+          "like": 6
         },
         {
           "nick": "왕윙",
@@ -45172,17 +46707,17 @@
         {
           "nick": "퇘끼",
           "text": "아이고 gta6 그냥 기다렸다 스팀발매때 즐겨야겠다",
-          "like": 7
+          "like": 8
         },
         {
           "nick": "라이트트윈스",
           "text": "그냥 지금 반발하는거 초요약하면 이겁니다 \"니들이 패키지를 안파는건 좋은데 구작 스토어도 같이 내리네? 이러면 스팀을 쓰고말지 PS 스토어를 왜 씀? 어차피 20년뒤에는 니들 겜 못돌리잖아. 나는 수십년뒤에도 돌릴 수 있는걸 원해\" 스팀 : 구세대 신세대 논란따위 없었음. 게임이 너무 오래되서 안돌아가도 게임들이 패치를 통해 어떻게든 최신 컴퓨터에서 게틀딱겜 돌아가게 만들어줌. 스팀은 갑자기 핵을 안고 CEO가 자폭하지 않는한 영원히 불변하다는 믿음이 깔려있음. 콘솔 : 과거에도 하위호환 안되지만 패키지 시장이 존재했기에 그 불편함이 전부 감수가 되었음. 근데 이제 콘솔도 100% 완전한 디지털화가 되어버리면서 오는 이점이 ONLY 플레이스테이숀 밖에 없어짐. 그돈씨 PC업글, 새로 맞추지가 되어버림.",
-          "like": 19
+          "like": 20
         },
         {
           "nick": "물키벨",
           "text": "온리 DL만 팔꺼면 플스로 안하고 PC로 가지 멀티할려면 무조건 PSN 구독도 덤인데 독점만 아니면 굳이 플스로 할 이유가 더더욱 없어지는거",
-          "like": 11
+          "like": 12
         },
         {
           "nick": "DragonOfDojima",
@@ -45276,7 +46811,7 @@
       "source": "루리웹",
       "date": "2026.07.02",
       "time": "09:30:55",
-      "views": 159,
+      "views": 160,
       "comments": 0,
       "summary": "웹젠이 pc mmorpg '뮤 온라인'에서 7월 2일부터 23일까지 '신비의 마스터리 이벤트'를 개최하며, 이 기간 동안 '신비의 돌' 사용 시 마스터리 및 레전...",
       "image": "https://img.ruliweb.com/data/news/tn/26/07/02/19f203c3518_lqavsj.webp",
@@ -45288,7 +46823,7 @@
         },
         {
           "t": "p",
-          "v": "조회수 159 | 루리웹 | 입력 2026.07.02 (09:30:55)"
+          "v": "조회수 160 | 루리웹 | 입력 2026.07.02 (09:30:55)"
         },
         {
           "t": "p",
@@ -45992,6 +47527,11 @@
           "nick": "슈퍼베지터",
           "text": "ㅉㅉ",
           "like": 0
+        },
+        {
+          "nick": "마이온",
+          "text": "쫄?",
+          "like": 0
         }
       ]
     },
@@ -46002,7 +47542,7 @@
       "source": "루리웹",
       "date": "2026.07.02",
       "time": "09:27:41",
-      "views": 1449,
+      "views": 1458,
       "comments": 0,
       "summary": "빌리빌리 게임이 2026년 기대작 삼국지 전략 게임 '삼국지: 천하결전'을 구글 플레이, 애플 앱스토어, pc에 동시 출시하며 사전예약 100만 명 돌파의 성과를...",
       "image": "https://img.ruliweb.com/data/news/tn/26/07/02/19f203927d9_cpbiqm.webp",
@@ -46014,7 +47554,7 @@
         },
         {
           "t": "p",
-          "v": "조회수 1449 | 루리웹 | 입력 2026.07.02 (09:27:41)"
+          "v": "조회수 1459 | 루리웹 | 입력 2026.07.02 (09:27:41)"
         },
         {
           "t": "p",
@@ -46207,7 +47747,7 @@
       "source": "루리웹",
       "date": "2026.07.02",
       "time": "09:22:15",
-      "views": 240,
+      "views": 242,
       "comments": 0,
       "summary": "킹넷이 신작 mmorpg '열혈강호: 넥스트'의 첫 ost 'rise again'을 공개하며 기대감을 높였다. 이 곡은 절제된 피아노와 록, 오케스트라가 결합된 ...",
       "image": "https://img.ruliweb.com/data/news/tn/26/07/02/19f20342864_drocpz.webp",
@@ -46219,7 +47759,7 @@
         },
         {
           "t": "p",
-          "v": "조회수 240 | 루리웹 | 입력 2026.07.02 (09:22:15)"
+          "v": "조회수 242 | 루리웹 | 입력 2026.07.02 (09:22:15)"
         },
         {
           "t": "p",
@@ -46366,7 +47906,7 @@
       "source": "루리웹",
       "date": "2026.07.02",
       "time": "09:17:52",
-      "views": 235,
+      "views": 236,
       "comments": 0,
       "summary": "아카츠키 게임즈는 '괴수 8호 the game'의 여름 시즌을 맞아 신규 ★5 캐릭터 [시원한 휴식] 시노미야 키코루와 전용 도끼 무기 'ax-아류크스'를 업데이...",
       "image": "https://img.ruliweb.com/data/news/tn/26/07/02/19f20306678_qydlwo.webp",
@@ -46378,7 +47918,7 @@
         },
         {
           "t": "p",
-          "v": "조회수 235 | 루리웹 | 입력 2026.07.02 (09:17:52)"
+          "v": "조회수 236 | 루리웹 | 입력 2026.07.02 (09:17:52)"
         },
         {
           "t": "p",
@@ -46994,7 +48534,7 @@
       "source": "루리웹",
       "date": "2026.07.02",
       "time": "09:09:34",
-      "views": 644,
+      "views": 648,
       "comments": 0,
       "summary": "네오위즈가 창사 이래 처음으로 '2025 지속가능경영 보고서'를 발간하며 esg 경영 의지를 강조했다. 이번 보고서는 회사의 비전 아래 2025년 주요 성과와 중...",
       "image": "https://img.ruliweb.com/data/news/tn/26/07/02/19f2028cd97_aqscgj.webp",
@@ -47006,7 +48546,7 @@
         },
         {
           "t": "p",
-          "v": "조회수 645 | 루리웹 | 입력 2026.07.02 (09:09:34)"
+          "v": "조회수 648 | 루리웹 | 입력 2026.07.02 (09:09:34)"
         },
         {
           "t": "p",
@@ -47149,7 +48689,7 @@
       "source": "루리웹",
       "date": "2026.07.02",
       "time": "09:06:51",
-      "views": 656,
+      "views": 664,
       "comments": 0,
       "summary": "조이시티가 애니플렉스와 공동 개발한 모바일 전략 게임 '바이오하자드 서바이벌 유닛'이 캡콤의 인기 ip '몬스터 헌터'와 콜라보 업데이트를 진행하며 원작 팬들의 ...",
       "image": "https://img.ruliweb.com/data/news/tn/26/07/02/19f2025d48d_qjskat.webp",
@@ -47161,7 +48701,7 @@
         },
         {
           "t": "p",
-          "v": "조회수 656 | 루리웹 | 입력 2026.07.02 (09:06:51)"
+          "v": "조회수 664 | 루리웹 | 입력 2026.07.02 (09:06:51)"
         },
         {
           "t": "p",
@@ -47300,7 +48840,7 @@
       "source": "루리웹",
       "date": "2026.07.02",
       "time": "09:00:58",
-      "views": 211,
+      "views": 215,
       "comments": 0,
       "summary": "글로벌 오픈형 이어폰 브랜드 샥즈가 출퇴근 등 일상 전반으로 확대되는 트렌드를 반영해 플래그십 모델 '오픈닷 2'와 데일리 모델 '오픈닷 에어'를 국내 출시했다....",
       "image": "https://img.ruliweb.com/data/news/tn/26/07/02/19f2020e9b0_oaybuj.webp",
@@ -47312,7 +48852,7 @@
         },
         {
           "t": "p",
-          "v": "조회수 211 | 루리웹 | 입력 2026.07.02 (09:00:58)"
+          "v": "조회수 215 | 루리웹 | 입력 2026.07.02 (09:00:58)"
         },
         {
           "t": "p",
@@ -47489,7 +49029,7 @@
       "source": "루리웹",
       "date": "2026.07.02",
       "time": "08:56:54",
-      "views": 296,
+      "views": 302,
       "comments": 0,
       "summary": "슈퍼셀의 '브롤스타즈'가 7월 '나노누들'부터 8월 '윈드스탁'까지 이어지는 대규모 스토리 이벤트 '라면 반란' 업데이트를 공개하며, 이용자들은 9주간 새로운 세...",
       "image": "https://img.ruliweb.com/data/news/tn/26/07/02/19f201cbdc6_gsaewy.webp",
@@ -47501,7 +49041,7 @@
         },
         {
           "t": "p",
-          "v": "조회수 296 | 루리웹 | 입력 2026.07.02 (08:56:54)"
+          "v": "조회수 302 | 루리웹 | 입력 2026.07.02 (08:56:54)"
         },
         {
           "t": "p",
@@ -47774,7 +49314,7 @@
       "source": "루리웹",
       "date": "2026.07.02",
       "time": "08:53:18",
-      "views": 102,
+      "views": 103,
       "comments": 0,
       "summary": "sk텔레콤이 국내 최대 글로벌 양자 산업 전시회 '퀀텀코리아 2026'에서 ai·6g 시대 대비를 위한 차세대 양자암호 기술을 공개하며, pic 기반 qkd, 무...",
       "image": "https://img.ruliweb.com/data/news/tn/26/07/02/19f2019e79f_xuiylm.webp",
@@ -47786,7 +49326,7 @@
         },
         {
           "t": "p",
-          "v": "조회수 102 | 루리웹 | 입력 2026.07.02 (08:53:18)"
+          "v": "조회수 103 | 루리웹 | 입력 2026.07.02 (08:53:18)"
         },
         {
           "t": "p",
