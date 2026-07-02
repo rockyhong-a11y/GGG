@@ -1,0 +1,23 @@
+# XcodeGen 프로젝트 정의 — `brew install xcodegen && cd ios && xcodegen` 으로
+# GGG.xcodeproj 를 생성한다. (XcodeGen 없이 수동 생성하는 방법은 ios/README.md 참고)
+name: GGG
+options:
+  bundleIdPrefix: io.github.rockyhong    # 본인 식별자로 변경 가능
+  deploymentTarget:
+    iOS: "16.0"
+targets:
+  GGG:
+    type: application
+    platform: iOS
+    sources: [GGG]
+    info:
+      path: GGG/Info.plist
+      properties:
+        CFBundleDisplayName: GGG
+        UILaunchScreen: {}                                  # 스토리보드 없는 런치 스크린
+        UISupportedInterfaceOrientations: [UIInterfaceOrientationPortrait]
+        ITSAppUsesNonExemptEncryption: false
+    settings:
+      base:
+        INFOPLIST_KEY_UIUserInterfaceStyle: Dark
+        TARGETED_DEVICE_FAMILY: "1"                         # iPhone
