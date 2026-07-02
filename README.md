@@ -160,13 +160,28 @@ https://<user>.github.io/<repo>/data/games.json
 
 ---
 
-## 📳 iOS 네이티브 래퍼 (햅틱)
+## 📳 iOS 햅틱 (웹 차단 → 래퍼 필요)
 
-iOS 사파리·크롬·홈화면 웹앱은 모두 동일한 WebKit이라 **웹에서 코드로 발생시키는
-진동이 차단**됩니다(실기기 확인). 드래그 '드르륵' 햅틱을 확실하게 쓰려면
-**[`ios/`](ios/) 폴더의 WKWebView 래퍼 앱**을 빌드해 설치하세요 — 웹의 `haptic()`
-호출을 네이티브 브리지로 받아 진짜 Taptic Engine을 울립니다. 앱은 배포된 웹을
-로드만 하므로 웹 업데이트가 자동 반영됩니다. 빌드 방법: [`ios/README.md`](ios/README.md)
+iOS 사파리·크롬·홈화면 웹앱은 모두 동일한 WebKit이며, **iOS 26.5부터는 웹에서
+코드로 발생시키는 진동이 완전히 차단**됩니다(실기기 확인 + 애플 패치). 웹 폴백은
+iOS 17.4~26.4 에서만 동작합니다. 드래그 '드르륵' 햅틱을 확실하게 쓰는 방법 두 가지:
+
+### 방법 1 — Median.co 호스팅 래퍼 (Xcode·Mac 불필요, 링크 하나로 설치) ★권장
+
+`haptic()` 이 Median 의 `median.haptics` 브리지를 자동 감지하므로 **코드 수정 없이** 동작합니다.
+
+1. [median.co](https://median.co) 가입 → **Create App** → URL 에 `https://rockyhong-a11y.github.io/GGG/` 입력
+2. App Studio 에서 iOS 빌드(클라우드에서 빌드되므로 Mac/Xcode 불필요)
+   - 브라우저 시뮬레이터로 즉시 미리보기 가능
+3. Apple Developer 계정을 연결하면 **OTA 설치 링크**가 생성됨
+   → 아이폰 사파리에서 그 **링크 하나**를 탭하면 설치 끝
+4. 설정 > Native Plugins 에서 **Haptics** 플러그인 활성화
+
+### 방법 2 — 자체 래퍼 빌드 (Mac + Xcode)
+
+[`ios/`](ios/) 폴더의 WKWebView 래퍼를 직접 빌드. 절차: [`ios/README.md`](ios/README.md)
+
+두 방법 모두 앱은 배포된 웹을 로드만 하므로 **웹 업데이트가 앱 재설치 없이 자동 반영**됩니다.
 
 ---
 

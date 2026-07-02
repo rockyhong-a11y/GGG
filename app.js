@@ -15,28 +15,35 @@
  * 한계: iOS 17.4 미만은 웹에서 햅틱 자체가 불가능. iOS 는 세기 조절도 불가(강함=2회). */
 const HAPTIC_KEY = "gnw-haptic";
 const hapticEnabled = () => { try { return localStorage.getItem(HAPTIC_KEY) !== "off"; } catch { return true; } };
-// 실기기 확인 결과: 눈에 보이는 네이티브 switch 는 울리지만 display:none(미렌더링)
-// switch 의 합성 클릭은 무시된다. → 실제로 렌더링되는(뷰포트 안, 사실상 안 보이는)
-// switch 를 body 에 상주시키고 그것을 클릭한다. 과도한 연타는 시스템이 무시하므로 간격 가드.
-let _hapticEl = null, _lastTick = 0;
-function _getHapticEl() {
-  if (_hapticEl && document.body.contains(_hapticEl)) return _hapticEl;
+// 웹 폴백(사파리 iOS 17.4~26.4): use-haptic 라이브러리로 검증된 패턴 —
+// display:none 인 input[switch] 와 htmlFor 로 연결한 별도 label 을 body 에 상주시키고
+// input 이 아니라 **label** 을 click() 한다(레이블 경유 활성화만 햅틱이 유지됨).
+// 주의: iOS 26.5+ 는 JS 트리거 햅틱 자체를 차단(애플 패치) — 이 경우 웹에서는 방법이 없고
+// 아래 haptic() 의 네이티브 브리지(Median/자체 래퍼)로만 가능하다.
+let _hapticLabel = null, _lastTick = 0;
+function _getHapticLabel() {
+  if (_hapticLabel && document.body.contains(_hapticLabel)) return _hapticLabel;
   const input = document.createElement("input");
   input.type = "checkbox";
+  input.id = "haptic-switch";
   input.setAttribute("switch", "");
   input.setAttribute("aria-hidden", "true");
   input.tabIndex = -1;
-  // display:none·visibility:hidden 금지(미렌더링 → 햅틱 무시). 렌더는 되되 보이지 않게.
-  input.style.cssText = "position:fixed;bottom:0;right:0;width:2px;height:2px;opacity:0.01;pointer-events:none;margin:0;z-index:0;";
+  input.style.display = "none";
   document.body.appendChild(input);
-  _hapticEl = input;
-  return input;
+  const label = document.createElement("label");
+  label.htmlFor = "haptic-switch";
+  label.setAttribute("aria-hidden", "true");
+  label.style.display = "none";
+  document.body.appendChild(label);
+  _hapticLabel = label;
+  return label;
 }
 function _hapticTick() {
   const now = Date.now();
   if (now - _lastTick < 50) return;
   _lastTick = now;
-  try { _getHapticEl().click(); } catch { /* 미지원 환경은 조용히 무시 */ }
+  try { _getHapticLabel().click(); } catch { /* 미지원 환경은 조용히 무시 */ }
 }
 // 네이티브 래퍼(ios/ 의 WKWebView 앱)가 주입하는 브리지. 있으면 UIKit 피드백
 // 제너레이터(진짜 Taptic Engine)를 직접 울린다 — 웹 쪽 차단과 무관하게 항상 동작.
@@ -44,8 +51,19 @@ const _hapticBridge = () => {
   try { return window.webkit && window.webkit.messageHandlers && window.webkit.messageHandlers.haptic; }
   catch { return null; }
 };
+// Median.co 호스팅 웹뷰 래퍼(Xcode 없이 클라우드 빌드 + OTA 링크 설치)의 햅틱 브리지.
+// median.co 에서 이 사이트 URL 로 앱을 만들면 window.median 이 자동 주입된다.
+const MEDIAN_STYLE = { light: "impactLight", medium: "impactMedium", strong: "impactHeavy" };
+const _medianHaptics = () => {
+  try {
+    const m = window.median || window.gonative; // gonative = Median 구버전 런타임 별칭
+    return m && m.haptics && typeof m.haptics.trigger === "function" ? m.haptics : null;
+  } catch { return null; }
+};
 const haptic = (intensity = "light") => {
   if (!hapticEnabled()) return;
+  const mh = _medianHaptics();
+  if (mh) { try { mh.trigger({ style: MEDIAN_STYLE[intensity] || "impactLight" }); return; } catch { /* 폴백 계속 */ } }
   const bridge = _hapticBridge();
   if (bridge) { try { bridge.postMessage(intensity); return; } catch { /* 폴백 계속 */ } }
   if (navigator.vibrate) navigator.vibrate({ light: 10, medium: 20, strong: 30 }[intensity] || 10);
