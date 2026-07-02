@@ -5,6 +5,12 @@
  * month list box. The same JSON is consumed by the iOS Scriptable widget. */
 
 // 인벤 발매 캘린더의 실제 분류와 일치 (카드 배지)
+/* ---------- 햅틱 피드백 (iOS/안드로이드) ---------- */
+const haptic = (intensity = "light") => {
+  if (!navigator.vibrate) return;
+  const durations = { light: 10, medium: 20, strong: 30 };
+  navigator.vibrate(durations[intensity] || 10);
+};
 const EVENT_META = {
   release: { label: "출시", color: "#3ddc84" },
   update:  { label: "업데이트", color: "#00c2cb" },
@@ -280,7 +286,10 @@ function bindTabs() {
   // 콘텐츠 좌우 스와이프로 탭 전환
   const main = document.querySelector("main");
   let x0 = null, y0 = null;
-  main.addEventListener("touchstart", (e) => { const t = e.changedTouches[0]; x0 = t.clientX; y0 = t.clientY; }, { passive: true });
+  main.addEventListener("touchstart", (e) => {
+    const t = e.changedTouches[0]; x0 = t.clientX; y0 = t.clientY;
+    haptic("light");
+  }, { passive: true });
   main.addEventListener("touchend", (e) => {
     if (x0 == null) return;
     const t = e.changedTouches[0];
@@ -289,7 +298,7 @@ function bindTabs() {
     if (Math.abs(dx) < 60 || Math.abs(dx) < Math.abs(dy) * 1.5) return; // 수평 스와이프만
     const i = TAB_ORDER.indexOf(STATE.platform);
     const ni = dx < 0 ? Math.min(TAB_ORDER.length - 1, i + 1) : Math.max(0, i - 1);
-    if (ni !== i) setTab(TAB_ORDER[ni]);
+    if (ni !== i) { haptic("medium"); setTab(TAB_ORDER[ni]); }
   }, { passive: true });
 }
 
@@ -381,24 +390,31 @@ function bindPullToRefresh() {
     if (window.scrollY > 0 || detailOpen() || isLoading) return;
     if (e.touches.length !== 1) return;
     startY = e.touches[0].clientY; pulling = true; dist = 0;
+    haptic("light");
   }, { passive: true });
 
+  let wasReady = false;
   document.addEventListener("touchmove", (e) => {
     if (!pulling) return;
     dist = e.touches[0].clientY - startY;
-    if (dist <= 0 || window.scrollY > 0) { reset(); pulling = false; return; }
+    if (dist <= 0 || window.scrollY > 0) { reset(); pulling = false; wasReady = false; return; }
     const pull = Math.min(MAX, dist * 0.5);
     ind.style.transform = `translateY(${pull}px)`;
     ind.classList.add("show");
-    ind.classList.toggle("ready", pull >= TRIGGER * 0.5);
+    const ready = pull >= TRIGGER * 0.5;
+    ind.classList.toggle("ready", ready);
+    // ready 상태 진입 시 햅틱 피드백
+    if (ready && !wasReady) { haptic("medium"); wasReady = true; }
+    if (!ready) wasReady = false;
     if (e.cancelable && dist > 8) e.preventDefault(); // 우리가 당김을 맡으면 네이티브 바운스 억제
   }, { passive: false });
 
   document.addEventListener("touchend", async () => {
     if (!pulling) return;
-    pulling = false;
+    pulling = false; wasReady = false;
     const fire = ind.classList.contains("ready");
     if (!fire) { reset(); return; }
+    haptic("strong"); // 새로고침 트리거 시 강한 피드백
     ind.classList.remove("ready");
     ind.classList.add("show");
     ind.style.transform = "translateY(54px)";
@@ -730,6 +746,7 @@ function bindDetailSwipe() {
     const t = e.touches[0];
     if (t.clientX > 44) return;            // 좌측 가장자리에서 시작한 제스처만(본문 스크롤과 분리)
     x0 = t.clientX; y0 = t.clientY; active = true;
+    haptic("light");
     sheet.classList.add("sliding"); sheet.classList.remove("closing");
   }, { passive: true });
   sheet.addEventListener("touchmove", (e) => {
@@ -746,6 +763,7 @@ function bindDetailSwipe() {
     const dx = e.changedTouches[0].clientX - x0;
     sheet.classList.remove("sliding"); sheet.classList.add("closing");
     if (dx > W() * 0.32 || dx > 110) {     // 충분히 밀면 닫기(밖으로 슬라이드 후 종료)
+      haptic("medium");
       sheet.style.transform = `translateX(${W()}px)`;
       setTimeout(closeDetail, 180);
     } else {
