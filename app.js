@@ -38,8 +38,16 @@ function _hapticTick() {
   _lastTick = now;
   try { _getHapticEl().click(); } catch { /* 미지원 환경은 조용히 무시 */ }
 }
+// 네이티브 래퍼(ios/ 의 WKWebView 앱)가 주입하는 브리지. 있으면 UIKit 피드백
+// 제너레이터(진짜 Taptic Engine)를 직접 울린다 — 웹 쪽 차단과 무관하게 항상 동작.
+const _hapticBridge = () => {
+  try { return window.webkit && window.webkit.messageHandlers && window.webkit.messageHandlers.haptic; }
+  catch { return null; }
+};
 const haptic = (intensity = "light") => {
   if (!hapticEnabled()) return;
+  const bridge = _hapticBridge();
+  if (bridge) { try { bridge.postMessage(intensity); return; } catch { /* 폴백 계속 */ } }
   if (navigator.vibrate) navigator.vibrate({ light: 10, medium: 20, strong: 30 }[intensity] || 10);
   _hapticTick();
   if (intensity === "strong") setTimeout(_hapticTick, 120); // iOS: 강한 피드백은 두 번 톡톡
@@ -619,11 +627,10 @@ function bindSettings() {
       if (ht.checked && navigator.vibrate) navigator.vibrate(20); // 안드로이드 확인 진동(iOS는 스위치 자체가 울림)
     });
   }
-  // 진동 테스트: 드래그 래칫과 완전히 동일한 합성 경로로 3연타 → 지원 여부 즉시 판별용
+  // 진동 테스트: 드래그와 완전히 동일한 haptic() 경로(네이티브 브리지 포함)로 약→중→강
   const htest = $("#hapticTest");
   if (htest) htest.addEventListener("click", () => {
-    _hapticTick(); setTimeout(_hapticTick, 150); setTimeout(_hapticTick, 300);
-    if (navigator.vibrate) navigator.vibrate([15, 100, 15, 100, 15]);
+    haptic("light"); setTimeout(() => haptic("medium"), 160); setTimeout(() => haptic("strong"), 340);
   });
   $("#settingsBtn").addEventListener("click", () => { haptic("light"); buildIconGrid(); overlay.hidden = false; });
   $("#settingsClose").addEventListener("click", () => { overlay.hidden = true; });

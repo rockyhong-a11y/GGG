@@ -160,6 +160,16 @@ https://<user>.github.io/<repo>/data/games.json
 
 ---
 
+## 📳 iOS 네이티브 래퍼 (햅틱)
+
+iOS 사파리·크롬·홈화면 웹앱은 모두 동일한 WebKit이라 **웹에서 코드로 발생시키는
+진동이 차단**됩니다(실기기 확인). 드래그 '드르륵' 햅틱을 확실하게 쓰려면
+**[`ios/`](ios/) 폴더의 WKWebView 래퍼 앱**을 빌드해 설치하세요 — 웹의 `haptic()`
+호출을 네이티브 브리지로 받아 진짜 Taptic Engine을 울립니다. 앱은 배포된 웹을
+로드만 하므로 웹 업데이트가 자동 반영됩니다. 빌드 방법: [`ios/README.md`](ios/README.md)
+
+---
+
 ## 🗂 데이터 추가/수정
 
 수동으로 항목을 추가/수정할 때는 **`data/curated.json`** 의 `games` 배열을 편집한 뒤
