@@ -100,7 +100,8 @@
         <span style="font-size:14px;color:var(--text-dim);font-weight:600">터치 진동 피드백</span>
         <input type="checkbox" switch id="hapticToggle" class="haptic-switch" checked aria-label="터치 진동 피드백" />
       </div>
-      <p class="sheet-note" style="margin-top:8px">이 스위치를 켜고 끌 때 진동이 없다면 iOS 17.4 이상인지, 설정 &gt; 소리 및 햅틱 &gt; <b>시스템 햅틱</b>이 켜져 있는지 확인하세요.</p>
+      <button id="hapticTest" class="haptic-test-btn" type="button">진동 테스트 (드래그와 같은 방식)</button>
+      <p class="sheet-note" style="margin-top:8px">위 스위치를 손으로 켜고 끌 때는 울리는데 테스트 버튼이 무반응이라면 이 iOS 버전이 앱에서 발생시키는 진동을 차단하는 것입니다. 스위치 조작조차 무반응이면 iOS 17.4 이상인지, 설정 &gt; 소리 및 햅틱 &gt; <b>시스템 햅틱</b>을 확인하세요.</p>
       <p class="sheet-subhead">앱 아이콘</p>
       <div class="icon-grid" id="iconGrid"></div>
       <button id="iconUploadBtn" class="icon-upload-btn" type="button">사진에서 선택…</button>

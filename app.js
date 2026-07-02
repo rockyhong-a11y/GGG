@@ -7,28 +7,36 @@
 // 인벤 발매 캘린더의 실제 분류와 일치 (카드 배지)
 /* ---------- 햅틱 피드백 ----------
  * iOS는 사파리·크롬·홈화면 웹앱 모두 동일한 WebKit 엔진이라 navigator.vibrate 가
- * 전부 미지원(애플 정책)이다. 실기기에서 검증된 유일한 방법은 iOS 17.4+ 의 네이티브
- * switch 컨트롤 토글 — 단, 호출 패턴이 정확해야 한다: 매 호출마다 display:none 인
- * <label><input type=checkbox switch></label> 를 새로 만들어 label.click() 후 제거
- * (ios-haptics 패키지와 동일 패턴; 화면 밖 고정 배치·요소 재사용 방식은 울리지 않는
- * 사례가 있어 폐기). 렌더링 여부와 무관하게 switch 상태 토글 자체가 Taptic 을 울린다.
+ * 전부 미지원(애플 정책)이다. 유일한 방법은 iOS 17.4+ 의 네이티브 switch 컨트롤
+ * 토글이 일으키는 시스템 햅틱. 사용자 실기기 확인: 눈에 보이는 switch 를 손으로
+ * 토글하면 울리지만, display:none 으로 숨긴(미렌더링) switch 의 합성 click() 은
+ * 무시된다. 따라서 '렌더링은 되지만 사실상 보이지 않는' switch 를 상주시켜 클릭한다.
  * 안드로이드 크롬 등 Vibration API 지원 브라우저는 navigator.vibrate 병행.
  * 한계: iOS 17.4 미만은 웹에서 햅틱 자체가 불가능. iOS 는 세기 조절도 불가(강함=2회). */
 const HAPTIC_KEY = "gnw-haptic";
 const hapticEnabled = () => { try { return localStorage.getItem(HAPTIC_KEY) !== "off"; } catch { return true; } };
+// 실기기 확인 결과: 눈에 보이는 네이티브 switch 는 울리지만 display:none(미렌더링)
+// switch 의 합성 클릭은 무시된다. → 실제로 렌더링되는(뷰포트 안, 사실상 안 보이는)
+// switch 를 body 에 상주시키고 그것을 클릭한다. 과도한 연타는 시스템이 무시하므로 간격 가드.
+let _hapticEl = null, _lastTick = 0;
+function _getHapticEl() {
+  if (_hapticEl && document.body.contains(_hapticEl)) return _hapticEl;
+  const input = document.createElement("input");
+  input.type = "checkbox";
+  input.setAttribute("switch", "");
+  input.setAttribute("aria-hidden", "true");
+  input.tabIndex = -1;
+  // display:none·visibility:hidden 금지(미렌더링 → 햅틱 무시). 렌더는 되되 보이지 않게.
+  input.style.cssText = "position:fixed;bottom:0;right:0;width:2px;height:2px;opacity:0.01;pointer-events:none;margin:0;z-index:0;";
+  document.body.appendChild(input);
+  _hapticEl = input;
+  return input;
+}
 function _hapticTick() {
-  try {
-    const label = document.createElement("label");
-    label.setAttribute("aria-hidden", "true");
-    label.style.display = "none";
-    const input = document.createElement("input");
-    input.type = "checkbox";
-    input.setAttribute("switch", "");
-    label.appendChild(input);
-    document.head.appendChild(label);
-    label.click();                      // switch 토글 → iOS Taptic Engine
-    document.head.removeChild(label);
-  } catch { /* 미지원 환경은 조용히 무시 */ }
+  const now = Date.now();
+  if (now - _lastTick < 50) return;
+  _lastTick = now;
+  try { _getHapticEl().click(); } catch { /* 미지원 환경은 조용히 무시 */ }
 }
 const haptic = (intensity = "light") => {
   if (!hapticEnabled()) return;
@@ -611,6 +619,12 @@ function bindSettings() {
       if (ht.checked && navigator.vibrate) navigator.vibrate(20); // 안드로이드 확인 진동(iOS는 스위치 자체가 울림)
     });
   }
+  // 진동 테스트: 드래그 래칫과 완전히 동일한 합성 경로로 3연타 → 지원 여부 즉시 판별용
+  const htest = $("#hapticTest");
+  if (htest) htest.addEventListener("click", () => {
+    _hapticTick(); setTimeout(_hapticTick, 150); setTimeout(_hapticTick, 300);
+    if (navigator.vibrate) navigator.vibrate([15, 100, 15, 100, 15]);
+  });
   $("#settingsBtn").addEventListener("click", () => { haptic("light"); buildIconGrid(); overlay.hidden = false; });
   $("#settingsClose").addEventListener("click", () => { overlay.hidden = true; });
   overlay.addEventListener("click", (e) => { if (e.target === overlay) overlay.hidden = true; });
