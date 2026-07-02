@@ -70,6 +70,65 @@ const haptic = (intensity = "light") => {
   _hapticTick();
   if (intensity === "strong") setTimeout(_hapticTick, 120); // iOS: 강한 피드백은 두 번 톡톡
 };
+
+/* ---------- 페이크(의사) 햅틱: 리스트 드래그 전용 ----------
+ * iOS 26.5+ 는 실제 진동을 전면 차단해 haptic()이 조용히 아무 일도 하지 않는다.
+ * 위·아래로 리스트를 끄는 동안만큼은 "드르륵" 감각이 핵심 요청이므로, 진짜 진동이
+ * 안 되는 기기에서도 아주 짧은 클릭음(Web Audio) + 화면 미세 펄스로 손끝 감각을
+ * 대체한다(의사 촉각·pseudo-haptic, 청각+시각 조합이 촉각 착각을 강화하는 원리).
+ * 무음 스위치가 켜져 있으면 iOS가 Web Audio도 함께 묵음 처리하므로 방해되지 않는다.
+ * 설정의 "터치 진동 피드백" 스위치(hapticEnabled)로 이 효과도 함께 켜고 끈다. */
+let _actx = null;
+function _audioCtx() {
+  if (_actx) return _actx;
+  const Ctx = window.AudioContext || window.webkitAudioContext;
+  if (!Ctx) return null;
+  try { _actx = new Ctx(); } catch { return null; }
+  return _actx;
+}
+function _fakeTickSound(intensity) {
+  const ctx = _audioCtx();
+  if (!ctx) return;
+  if (ctx.state === "suspended") ctx.resume().catch(() => {}); // 실제 사용자 제스처 안에서 호출되어야 언락됨
+  try {
+    const now = ctx.currentTime;
+    const freq = { light: 1900, medium: 1300, strong: 850 }[intensity] || 1900;
+    const peak = { light: 0.05, medium: 0.08, strong: 0.12 }[intensity] || 0.05;
+    const osc = ctx.createOscillator();
+    const gain = ctx.createGain();
+    osc.type = "square";
+    osc.frequency.value = freq;
+    gain.gain.setValueAtTime(0, now);
+    gain.gain.linearRampToValueAtTime(peak, now + 0.002);
+    gain.gain.exponentialRampToValueAtTime(0.0001, now + 0.02);
+    osc.connect(gain).connect(ctx.destination);
+    osc.start(now);
+    osc.stop(now + 0.025);
+  } catch { /* 미지원 환경은 조용히 무시 */ }
+}
+let _pulseEl = null;
+function _fakeTickPulse() {
+  if (!_pulseEl) {
+    _pulseEl = document.createElement("div");
+    _pulseEl.className = "fake-haptic-pulse";
+    document.body.appendChild(_pulseEl);
+  }
+  _pulseEl.classList.remove("go");
+  void _pulseEl.offsetWidth; // 강제 리플로우 → 연속 틱에서도 애니메이션 매번 재시작
+  _pulseEl.classList.add("go");
+}
+// 실제 진동(haptic)과 의사 햅틱(사운드+펄스)을 함께 울린다 — 진짜가 동작하는 기기(안드로이드,
+// Median 래퍼 등)에서는 둘 다 느껴지고, 웹 폴백만 가능한 기기에서는 의사 햅틱이 대신한다.
+let _lastDragTick = 0;
+const dragTick = (intensity = "light") => {
+  if (!hapticEnabled()) return;
+  const now = Date.now();
+  if (now - _lastDragTick < 35) return; // 빠른 플링에서 사운드가 겹쳐 뭉개지지 않도록
+  _lastDragTick = now;
+  haptic(intensity);
+  _fakeTickSound(intensity);
+  _fakeTickPulse();
+};
 const EVENT_META = {
   release: { label: "출시", color: "#3ddc84" },
   update:  { label: "업데이트", color: "#00c2cb" },
@@ -342,17 +401,17 @@ function bindTabs() {
   document.querySelectorAll("#platformTabs .tab").forEach((t) =>
     t.addEventListener("click", () => { haptic("light"); setTab(t.dataset.cat); })
   );
-  // 콘텐츠 좌우 스와이프로 탭 전환 + 드래그 중 래칫 햅틱(휠 돌리듯 일정 거리마다 톡톡)
+  // 콘텐츠 좌우 스와이프로 탭 전환 + 리스트 상하 드래그 중 래칫(휠 돌리듯 일정 거리마다 드르륵)
   const main = document.querySelector("main");
   let x0 = null, y0 = null, tickY = null;
-  const RATCHET = 56; // 세로 드래그 픽셀당 틱 간격
+  const RATCHET = 26; // 드래그 픽셀당 틱 간격(피커 휠 정도의 촘촘한 체감)
   main.addEventListener("touchstart", (e) => {
     const t = e.changedTouches[0]; x0 = t.clientX; y0 = t.clientY; tickY = t.clientY;
   }, { passive: true });
   main.addEventListener("touchmove", (e) => {
     if (tickY == null) return;
     const y = e.touches[0].clientY;
-    if (Math.abs(y - tickY) >= RATCHET) { haptic("light"); tickY = y; }
+    if (Math.abs(y - tickY) >= RATCHET) { dragTick("light"); tickY = y; }
   }, { passive: true });
   main.addEventListener("touchend", (e) => {
     tickY = null;
@@ -468,7 +527,7 @@ function bindPullToRefresh() {
     const ready = pull >= TRIGGER * 0.5;
     ind.classList.toggle("ready", ready);
     // ready 상태 진입 시 햅틱 피드백
-    if (ready && !wasReady) { haptic("medium"); wasReady = true; }
+    if (ready && !wasReady) { dragTick("medium"); wasReady = true; }
     if (!ready) wasReady = false;
     if (e.cancelable && dist > 8) e.preventDefault(); // 우리가 당김을 맡으면 네이티브 바운스 억제
   }, { passive: false });
@@ -478,7 +537,7 @@ function bindPullToRefresh() {
     pulling = false; wasReady = false;
     const fire = ind.classList.contains("ready");
     if (!fire) { reset(); return; }
-    haptic("strong"); // 새로고침 트리거 시 강한 피드백
+    dragTick("strong"); // 새로고침 트리거 시 강한 피드백
     ind.classList.remove("ready");
     ind.classList.add("show");
     ind.style.transform = "translateY(54px)";
