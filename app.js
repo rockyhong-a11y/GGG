@@ -251,28 +251,9 @@ function render() {
 }
 
 /* ---------- Platform tabs (bottom bar + swipe) ---------- */
-/* ---------- 진동 피드백: 하단 탭(뉴스·출시·이벤트) 이동 시에만 ----------
- * 안드로이드 Chrome 등은 navigator.vibrate, iOS 는 ios/ 래퍼 앱의 네이티브 브리지로 동작.
- * iOS Safari·홈화면 웹앱은 웹이 발생시키는 진동을 지원하지 않는 플랫폼 제약이라 무반응. */
-function haptic(intensity = "strong") {
-  try {
-    const bridge = window.webkit && window.webkit.messageHandlers && window.webkit.messageHandlers.haptic;
-    if (bridge) { bridge.postMessage(intensity); return; }
-  } catch {}
-  try {
-    const m = window.median || window.gonative;
-    if (m && m.haptics && typeof m.haptics.trigger === "function") {
-      m.haptics.trigger({ style: { light: "impactLight", medium: "impactMedium", strong: "impactHeavy" }[intensity] || "impactHeavy" });
-      return;
-    }
-  } catch {}
-  if (navigator.vibrate) navigator.vibrate({ light: 10, medium: 20, strong: 30 }[intensity] || 30);
-}
-
 function setTab(cat) {
   if (!TAB_ORDER.includes(cat)) return;
   if (cat !== STATE.platform) {            // 탭 전환
-    haptic("strong");
     STATE.platform = cat;
     document.querySelectorAll("#platformTabs .tab").forEach((t) => {
       const on = t.dataset.cat === cat;
@@ -574,6 +555,55 @@ function bindTheme() {
   applyTheme(savedTheme());
 }
 
+/* ---------- 폰트 선택 (게임 뉴스에 어울리는 공용 웹폰트 5종) ---------- */
+const FONT_PRESETS = [
+  { key: "pretendard", name: "프리텐다드", stack: `"Pretendard", "Noto Sans KR", sans-serif` },
+  { key: "noto",       name: "노토 산스",   stack: `"Noto Sans KR", sans-serif` },
+  { key: "nanum",      name: "나눔고딕",     stack: `"Nanum Gothic", sans-serif` },
+  { key: "blackhan",   name: "블랙한산스",   stack: `"Black Han Sans", sans-serif` },
+  { key: "dohyeon",    name: "도현체",       stack: `"Do Hyeon", sans-serif` },
+];
+function savedFontKey() {
+  try { return localStorage.getItem("gnw-font") || "pretendard"; } catch { return "pretendard"; }
+}
+function applyFont(key) {
+  const f = FONT_PRESETS.find((x) => x.key === key) || FONT_PRESETS[0];
+  if (f.key === "pretendard") {
+    document.documentElement.style.removeProperty("--font-title");
+    document.documentElement.style.removeProperty("--font-body");
+  } else {
+    document.documentElement.style.setProperty("--font-title", f.stack);
+    document.documentElement.style.setProperty("--font-body", f.stack);
+  }
+  try { localStorage.setItem("gnw-font", f.key); } catch {}
+  document.querySelectorAll(".font-option").forEach((b) => b.classList.toggle("sel", b.dataset.key === f.key));
+}
+function buildFontGrid() {
+  const grid = $("#fontGrid");
+  if (!grid) return;
+  const cur = savedFontKey();
+  grid.innerHTML = FONT_PRESETS.map((f) =>
+    `<button class="font-option ${f.key === cur ? "sel" : ""}" type="button" data-key="${f.key}" style="font-family:${f.stack}">${esc(f.name)}</button>`
+  ).join("");
+  grid.querySelectorAll(".font-option").forEach((b) => b.addEventListener("click", () => applyFont(b.dataset.key)));
+}
+
+/* ---------- 글자 크기 (세부 조절, 80~140%) ---------- */
+function savedFontScale() {
+  try { const v = parseInt(localStorage.getItem("gnw-font-scale"), 10); return Number.isFinite(v) && v >= 80 && v <= 140 ? v : 100; }
+  catch { return 100; }
+}
+function applyFontScale(pct) {
+  document.documentElement.style.setProperty("--font-scale", pct / 100);
+  $("#fontSizeValue").textContent = `${pct}%`;
+  $("#fontSizeSlider").value = pct;
+  try { localStorage.setItem("gnw-font-scale", String(pct)); } catch {}
+}
+function bindFontSize() {
+  applyFontScale(savedFontScale());
+  $("#fontSizeSlider").addEventListener("input", (e) => applyFontScale(parseInt(e.target.value, 10)));
+}
+
 function bindSettings() {
   const overlay = $("#settingsSheet");
   $("#settingsBtn").addEventListener("click", () => { buildIconGrid(); overlay.hidden = false; });
@@ -586,6 +616,9 @@ function bindSettings() {
     e.target.value = "";
   });
   bindCropper();
+  buildFontGrid();
+  applyFont(savedFontKey());
+  bindFontSize();
 }
 
 function bindCardClicks() {
