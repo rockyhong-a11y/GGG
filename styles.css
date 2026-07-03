@@ -140,34 +140,6 @@ a { color: inherit; }
 }
 .theme-opt svg { width: 15px; height: 15px; }
 .theme-opt.sel { background: var(--accent); color: #fff; }
-/* 햅틱 토글: iOS 17.4+ 는 네이티브 switch 로 렌더링(토글 시 시스템 햅틱), 그 외는 체크박스 */
-.haptic-switch { accent-color: var(--accent); transform: scale(1.25); margin-right: 4px; cursor: pointer; }
-.haptic-test-btn {
-  width: 100%; margin-top: 10px; padding: 10px; border-radius: 10px;
-  background: var(--bg-card); border: 1px solid var(--border); color: var(--text-dim);
-  font-size: 13px; font-weight: 600; cursor: pointer;
-}
-.haptic-test-btn:active { background: var(--bg-card-hover); color: var(--text); }
-/* 진짜 진동용 터치 오버레이: 기본 화면(탭바·컨트롤·리스트) 위, 시트(60)보다는 아래.
-   실제 탭이 이 안의 switch 를 직접 건드리게 하는 용도라 시각적으로는 완전히 투명. */
-.touch-overlay {
-  position: fixed; inset: 0; z-index: 46; margin: 0; display: block;
-}
-.touch-overlay input { position: absolute; inset: 0; width: 100%; height: 100%; opacity: 0; margin: 0; }
-/* 페이크 햅틱 시각 펄스: 터치하는 동안 일정 간격으로 화면 구석에서 아주 짧게 반짝 —
-   실제 진동을 못 느끼는 기기에서 시각으로 촉각 착각을 보강한다. */
-.fake-haptic-pulse {
-  position: fixed; right: 12px; bottom: calc(78px + var(--safe-bottom));
-  width: 7px; height: 7px; border-radius: 50%;
-  background: var(--accent); opacity: 0; transform: scale(0.4);
-  pointer-events: none; z-index: 45; will-change: opacity, transform;
-}
-.fake-haptic-pulse.go { animation: fakeHapticPulse 0.22s ease-out; }
-@keyframes fakeHapticPulse {
-  0%   { opacity: 0.6; transform: scale(0.5); }
-  55%  { opacity: 0.3; transform: scale(1.2); }
-  100% { opacity: 0;   transform: scale(1.35); }
-}
 .sheet-close {
   background: none; border: none; color: var(--text-dim);
   font-size: 18px; cursor: pointer; width: 32px; height: 32px; border-radius: 8px;
