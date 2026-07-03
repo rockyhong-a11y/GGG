@@ -5,95 +5,6 @@
  * month list box. The same JSON is consumed by the iOS Scriptable widget. */
 
 // 인벤 발매 캘린더의 실제 분류와 일치 (카드 배지)
-/* ---------- 햅틱 피드백 ----------
- * iOS는 사파리·크롬·홈화면 웹앱 모두 동일한 WebKit 엔진이라 navigator.vibrate 가
- * 전부 미지원(애플 정책)이다. 유일한 방법은 iOS 17.4+ 의 네이티브 switch 컨트롤
- * 토글이 일으키는 시스템 햅틱. 사용자 실기기 확인: 눈에 보이는 switch 를 손으로
- * 토글하면 울리지만, display:none 으로 숨긴(미렌더링) switch 의 합성 click() 은
- * 무시된다. 따라서 '렌더링은 되지만 사실상 보이지 않는' switch 를 상주시켜 클릭한다.
- * 안드로이드 크롬 등 Vibration API 지원 브라우저는 navigator.vibrate 병행.
- * 한계: iOS 17.4 미만은 웹에서 햅틱 자체가 불가능. iOS 는 세기 조절도 불가(강함=2회). */
-const HAPTIC_KEY = "gnw-haptic";
-const hapticEnabled = () => { try { return localStorage.getItem(HAPTIC_KEY) !== "off"; } catch { return true; } };
-// 웹 폴백(사파리 iOS 17.4~26.4): use-haptic 라이브러리로 검증된 패턴 —
-// display:none 인 input[switch] 와 htmlFor 로 연결한 별도 label 을 body 에 상주시키고
-// input 이 아니라 **label** 을 click() 한다(레이블 경유 활성화만 햅틱이 유지됨).
-// 주의: iOS 26.5+ 는 JS 트리거 햅틱 자체를 차단(애플 패치) — 이 경우 웹에서는 방법이 없고
-// 아래 haptic() 의 네이티브 브리지(Median/자체 래퍼)로만 가능하다.
-let _hapticLabel = null, _lastTick = 0;
-function _getHapticLabel() {
-  if (_hapticLabel && document.body.contains(_hapticLabel)) return _hapticLabel;
-  const input = document.createElement("input");
-  input.type = "checkbox";
-  input.id = "haptic-switch";
-  input.setAttribute("switch", "");
-  input.setAttribute("aria-hidden", "true");
-  input.tabIndex = -1;
-  input.style.display = "none";
-  document.body.appendChild(input);
-  const label = document.createElement("label");
-  label.htmlFor = "haptic-switch";
-  label.setAttribute("aria-hidden", "true");
-  label.style.display = "none";
-  document.body.appendChild(label);
-  _hapticLabel = label;
-  return label;
-}
-function _hapticTick() {
-  const now = Date.now();
-  if (now - _lastTick < 50) return;
-  _lastTick = now;
-  try { _getHapticLabel().click(); } catch { /* 미지원 환경은 조용히 무시 */ }
-}
-// 네이티브 래퍼(ios/ 의 WKWebView 앱)가 주입하는 브리지. 있으면 UIKit 피드백
-// 제너레이터(진짜 Taptic Engine)를 직접 울린다 — 웹 쪽 차단과 무관하게 항상 동작.
-const _hapticBridge = () => {
-  try { return window.webkit && window.webkit.messageHandlers && window.webkit.messageHandlers.haptic; }
-  catch { return null; }
-};
-// Median.co 호스팅 웹뷰 래퍼(Xcode 없이 클라우드 빌드 + OTA 링크 설치)의 햅틱 브리지.
-// median.co 에서 이 사이트 URL 로 앱을 만들면 window.median 이 자동 주입된다.
-const MEDIAN_STYLE = { light: "impactLight", medium: "impactMedium", strong: "impactHeavy" };
-const _medianHaptics = () => {
-  try {
-    const m = window.median || window.gonative; // gonative = Median 구버전 런타임 별칭
-    return m && m.haptics && typeof m.haptics.trigger === "function" ? m.haptics : null;
-  } catch { return null; }
-};
-const haptic = (intensity = "light") => {
-  if (!hapticEnabled()) return;
-  const mh = _medianHaptics();
-  if (mh) { try { mh.trigger({ style: MEDIAN_STYLE[intensity] || "impactLight" }); return; } catch { /* 폴백 계속 */ } }
-  const bridge = _hapticBridge();
-  if (bridge) { try { bridge.postMessage(intensity); return; } catch { /* 폴백 계속 */ } }
-  if (navigator.vibrate) navigator.vibrate({ light: 10, medium: 20, strong: 30 }[intensity] || 10);
-  _hapticTick();
-  if (intensity === "strong") setTimeout(_hapticTick, 120); // iOS: 강한 피드백은 두 번 톡톡
-};
-
-/* ---------- 페이크(의사) 햅틱: 리스트 드래그 전용 ----------
- * iOS 26.5+ 는 실제 진동을 전면 차단해 haptic()이 조용히 아무 일도 하지 않는다.
- * 위·아래로 리스트를 끄는 동안만큼은 "드르륵" 감각이 핵심 요청이므로, 손가락을 대고
- * 있는 동안 haptic()을 고정 간격으로 계속 호출한다(거리 기반이 아닌 시간 기반) —
- * 진짜 진동이 되는 기기(안드로이드, Median 래퍼 등)에서는 계속 진동이 느껴지고,
- * 그 외에는 화면 미세 펄스로 대신한다. 설정의 "터치 진동 피드백" 스위치(hapticEnabled)
- * 로 이 효과도 함께 켜고 끈다. */
-let _pulseEl = null;
-function _fakeTickPulse() {
-  if (!_pulseEl) {
-    _pulseEl = document.createElement("div");
-    _pulseEl.className = "fake-haptic-pulse";
-    document.body.appendChild(_pulseEl);
-  }
-  _pulseEl.classList.remove("go");
-  void _pulseEl.offsetWidth; // 강제 리플로우 → 연속 틱에서도 애니메이션 매번 재시작
-  _pulseEl.classList.add("go");
-}
-const dragTick = (intensity = "light") => {
-  if (!hapticEnabled()) return;
-  haptic(intensity);
-  _fakeTickPulse();
-};
 const EVENT_META = {
   release: { label: "출시", color: "#3ddc84" },
   update:  { label: "업데이트", color: "#00c2cb" },
@@ -293,12 +204,12 @@ function renderNews() {
     ].filter(Boolean).join("");
     return `
     <li class="news-item" data-ni="${i}">
-      ${n.image ? `<img class="news-thumb" src="${esc(n.image)}" alt="" loading="lazy" decoding="async" referrerpolicy="no-referrer" onerror="this.removeAttribute('src');this.classList.add('news-thumb--ph')">` : `<span class="news-thumb news-thumb--ph" aria-hidden="true"></span>`}
       <span class="news-body">
         <span class="news-title">${esc(n.title)}</span>
         ${n.summary ? `<span class="news-desc">${esc(n.summary)}</span>` : ""}
         ${meta ? `<span class="news-meta">${meta}</span>` : ""}
       </span>
+      ${n.image ? `<img class="news-thumb" src="${esc(n.image)}" alt="" loading="lazy" decoding="async" referrerpolicy="no-referrer" onerror="this.removeAttribute('src');this.classList.add('news-thumb--ph')">` : `<span class="news-thumb news-thumb--ph" aria-hidden="true"></span>`}
     </li>`;
   }).join("") + `</ul>`;
 }
@@ -340,9 +251,17 @@ function render() {
 }
 
 /* ---------- Platform tabs (bottom bar + swipe) ---------- */
+// 탭 이동 시 넘김(슬라이드) 효과 — 뒤로가기 스와이프 닫힘과 동일한 easing/시간(.18s ease)
+function playTabSlide(dir) {
+  const root = $("#gameRoot");
+  root.classList.remove("tab-slide-l", "tab-slide-r");
+  void root.offsetWidth; // 강제 리플로우 → 연속 전환에서도 애니메이션 매번 재시작
+  root.classList.add(dir < 0 ? "tab-slide-l" : "tab-slide-r");
+}
 function setTab(cat) {
   if (!TAB_ORDER.includes(cat)) return;
   if (cat !== STATE.platform) {            // 탭 전환
+    const dir = TAB_ORDER.indexOf(cat) - TAB_ORDER.indexOf(STATE.platform);
     STATE.platform = cat;
     document.querySelectorAll("#platformTabs .tab").forEach((t) => {
       const on = t.dataset.cat === cat;
@@ -354,6 +273,7 @@ function setTab(cat) {
     buildMonthSelect();   // 탭별로 기간 옵션이 다름(뉴스=뉴스 날짜, 그 외=일정 월)
     scrollAfterRender = (cat !== "news"); // 출시·이벤트 탭 전환 시 오늘 기준으로 포커싱
     render();
+    playTabSlide(dir);
     // 탭 전환 시 이전 탭의 스크롤 위치가 남아 어색하게 보이지 않도록 초기화.
     // 뉴스=최상단, 출시·이벤트=scrollToToday(오늘 기준)로 위치 잡음.
     if (cat === "news") requestAnimationFrame(() => window.scrollTo({ top: 0, behavior: "instant" }));
@@ -364,45 +284,15 @@ function setTab(cat) {
 
 function bindTabs() {
   document.querySelectorAll("#platformTabs .tab").forEach((t) =>
-    t.addEventListener("click", () => { haptic("medium"); setTab(t.dataset.cat); })
+    t.addEventListener("click", () => setTab(t.dataset.cat))
   );
-  // 콘텐츠 좌우 스와이프로 탭 전환 + 터치하는 동안 계속되는 드르륵은
-  // 터치 오버레이(#touchOverlay)로 이전 — bindTouchOverlay() 참고.
-}
-
-/* ---------- 터치 오버레이: 실제 탭으로 진짜 진동 얻기 ----------
- * 설정의 "터치 진동 피드백" 스위치를 손으로 누르면 실기기에서 real haptic 이 확인됨 —
- * 브라우저가 실제(trusted) 탭으로 판단하기 때문. 반대로 JS 가 만든 합성 클릭은
- * iOS 26.5+ 에서 차단된다. 이 간극을 메우기 위해 기본 화면(탭바·컨트롤·리스트, 시트
- * 보다는 아래) 전체를 덮는, 눈에 보이지 않는 실제 <input type=checkbox switch> 를 두고
- * 사용자의 모든 실제 탭이 이 스위치를 직접 건드리게 한다 → 진짜 시스템 햅틱 발생.
- * 그 직후 오버레이를 일시적으로 투명화해 실제 밑에 있던 요소를 찾아 그 요소의
- * .click() 을 호출해 원래 하려던 동작(탭 전환·카드 열기 등)을 그대로 수행시킨다.
- * .click() 은 (합성 dispatchEvent 와 달리) 트인 사용자 액티베이션 컨텍스트 안에서
- * 호출되면 <select>·<input type=file> 같은 네이티브 기본 동작도 함께 트리거된다.
- * 설정 스위치를 끄면 오버레이의 pointer-events 를 꺼서(=제거와 동일 효과) 완전히
- * 원래 동작으로 되돌린다(리스크 있는 간접 경로를 켰을 때만 사용). */
-function setTouchOverlayActive(active) {
-  const el = $("#touchOverlay");
-  if (el) el.style.pointerEvents = active ? "auto" : "none";
-}
-function bindTouchOverlay() {
-  const overlay = $("#touchOverlay");
-  if (!overlay) return;
-  setTouchOverlayActive(hapticEnabled());
-
-  let x0 = null, y0 = null, tickTimer = null;
-  const TICK_MS = 90; // 드래그 중 haptic 반복 간격
-  const stopTick = () => { if (tickTimer) { clearInterval(tickTimer); tickTimer = null; } };
-
-  overlay.addEventListener("touchstart", (e) => {
+  // 콘텐츠 좌우 스와이프로 탭 전환
+  const main = document.querySelector("main");
+  let x0 = null, y0 = null;
+  main.addEventListener("touchstart", (e) => {
     const t = e.changedTouches[0]; x0 = t.clientX; y0 = t.clientY;
-    stopTick();
-    tickTimer = setInterval(() => dragTick("light"), TICK_MS);
   }, { passive: true });
-
-  overlay.addEventListener("touchend", (e) => {
-    stopTick();
+  main.addEventListener("touchend", (e) => {
     if (x0 == null) return;
     const t = e.changedTouches[0];
     const dx = t.clientX - x0, dy = t.clientY - y0;
@@ -410,26 +300,8 @@ function bindTouchOverlay() {
     if (Math.abs(dx) < 60 || Math.abs(dx) < Math.abs(dy) * 1.5) return; // 수평 스와이프만
     const i = TAB_ORDER.indexOf(STATE.platform);
     const ni = dx < 0 ? Math.min(TAB_ORDER.length - 1, i + 1) : Math.max(0, i - 1);
-    if (ni !== i) { haptic("medium"); setTab(TAB_ORDER[ni]); }
+    if (ni !== i) setTab(TAB_ORDER[ni]);
   }, { passive: true });
-
-  overlay.addEventListener("touchcancel", stopTick, { passive: true });
-
-  // 드래그가 아닌 순수 탭에서만 브라우저가 'click'을 합성해 여기로 들어온다.
-  // 이 click 자체가 실제 switch 토글이므로 진짜 햅틱 — 그 다음 실제 대상에 전달.
-  overlay.addEventListener("click", (e) => {
-    const x = e.clientX, y = e.clientY;
-    overlay.style.pointerEvents = "none";
-    const target = document.elementFromPoint(x, y);
-    overlay.style.pointerEvents = "auto";
-    if (!target) return;
-    // .click() 은 트인 사용자 액티베이션 컨텍스트 안에서 호출되면 <select>·파일 입력
-    // 같은 네이티브 기본 동작까지 함께 트리거되므로 우선 사용. 다만 아이콘으로 흔히
-    // 쓰이는 <svg>(SVGElement)는 이 메서드가 없으므로, 그런 경우엔 버블링하는 합성
-    // click 이벤트를 직접 dispatch 해 상위(button 등)의 리스너가 받도록 한다.
-    if (typeof target.click === "function") target.click();
-    else target.dispatchEvent(new MouseEvent("click", { bubbles: true, cancelable: true, clientX: x, clientY: y }));
-  });
 }
 
 /* ---------- 기간 리스트박스 (탭별) ---------- */
@@ -522,28 +394,22 @@ function bindPullToRefresh() {
     startY = e.touches[0].clientY; pulling = true; dist = 0;
   }, { passive: true });
 
-  let wasReady = false;
   document.addEventListener("touchmove", (e) => {
     if (!pulling) return;
     dist = e.touches[0].clientY - startY;
-    if (dist <= 0 || window.scrollY > 0) { reset(); pulling = false; wasReady = false; return; }
+    if (dist <= 0 || window.scrollY > 0) { reset(); pulling = false; return; }
     const pull = Math.min(MAX, dist * 0.5);
     ind.style.transform = `translateY(${pull}px)`;
     ind.classList.add("show");
-    const ready = pull >= TRIGGER * 0.5;
-    ind.classList.toggle("ready", ready);
-    // ready 상태 진입 시 햅틱 피드백
-    if (ready && !wasReady) { dragTick("medium"); wasReady = true; }
-    if (!ready) wasReady = false;
+    ind.classList.toggle("ready", pull >= TRIGGER * 0.5);
     if (e.cancelable && dist > 8) e.preventDefault(); // 우리가 당김을 맡으면 네이티브 바운스 억제
   }, { passive: false });
 
   document.addEventListener("touchend", async () => {
     if (!pulling) return;
-    pulling = false; wasReady = false;
+    pulling = false;
     const fire = ind.classList.contains("ready");
     if (!fire) { reset(); return; }
-    dragTick("strong"); // 새로고침 트리거 시 강한 피드백
     ind.classList.remove("ready");
     ind.classList.add("show");
     ind.style.transform = "translateY(54px)";
@@ -673,7 +539,7 @@ function buildIconGrid() {
   );
 }
 /* ---------- Theme (다크/라이트 토글) ---------- */
-const THEME_COLOR = { dark: "#0d0f1a", light: "#eef1f8" };
+const THEME_COLOR = { dark: "#000000", light: "#eef1f8" };
 function savedTheme() {
   try { return localStorage.getItem("gnw-theme") === "light" ? "light" : "dark"; } catch { return "dark"; }
 }
@@ -698,25 +564,58 @@ function bindTheme() {
   applyTheme(savedTheme());
 }
 
+/* ---------- 폰트 선택 (게임 뉴스에 어울리는 공용 웹폰트 5종) ---------- */
+const FONT_PRESETS = [
+  { key: "pretendard", name: "프리텐다드", stack: `"Pretendard", "Noto Sans KR", sans-serif` },
+  { key: "noto",       name: "노토 산스",   stack: `"Noto Sans KR", sans-serif` },
+  { key: "nanum",      name: "나눔고딕",     stack: `"Nanum Gothic", sans-serif` },
+  { key: "blackhan",   name: "블랙한산스",   stack: `"Black Han Sans", sans-serif` },
+  { key: "dohyeon",    name: "도현체",       stack: `"Do Hyeon", sans-serif` },
+];
+function savedFontKey() {
+  try { return localStorage.getItem("gnw-font") || "pretendard"; } catch { return "pretendard"; }
+}
+function applyFont(key) {
+  const f = FONT_PRESETS.find((x) => x.key === key) || FONT_PRESETS[0];
+  if (f.key === "pretendard") {
+    document.documentElement.style.removeProperty("--font-title");
+    document.documentElement.style.removeProperty("--font-body");
+  } else {
+    document.documentElement.style.setProperty("--font-title", f.stack);
+    document.documentElement.style.setProperty("--font-body", f.stack);
+  }
+  try { localStorage.setItem("gnw-font", f.key); } catch {}
+  document.querySelectorAll(".font-option").forEach((b) => b.classList.toggle("sel", b.dataset.key === f.key));
+}
+function buildFontGrid() {
+  const grid = $("#fontGrid");
+  if (!grid) return;
+  const cur = savedFontKey();
+  grid.innerHTML = FONT_PRESETS.map((f) =>
+    `<button class="font-option ${f.key === cur ? "sel" : ""}" type="button" data-key="${f.key}" style="font-family:${f.stack}">${esc(f.name)}</button>`
+  ).join("");
+  grid.querySelectorAll(".font-option").forEach((b) => b.addEventListener("click", () => applyFont(b.dataset.key)));
+}
+
+/* ---------- 글자 크기 (세부 조절, 80~140%) ---------- */
+function savedFontScale() {
+  try { const v = parseInt(localStorage.getItem("gnw-font-scale"), 10); return Number.isFinite(v) && v >= 80 && v <= 140 ? v : 100; }
+  catch { return 100; }
+}
+function applyFontScale(pct) {
+  document.documentElement.style.setProperty("--font-scale", pct / 100);
+  $("#fontSizeValue").textContent = `${pct}%`;
+  $("#fontSizeSlider").value = pct;
+  try { localStorage.setItem("gnw-font-scale", String(pct)); } catch {}
+}
+function bindFontSize() {
+  applyFontScale(savedFontScale());
+  $("#fontSizeSlider").addEventListener("input", (e) => applyFontScale(parseInt(e.target.value, 10)));
+}
+
 function bindSettings() {
   const overlay = $("#settingsSheet");
-  // 햅틱 토글: 보이는 네이티브 switch. iOS 17.4+ 는 손으로 켜고 끄는 것만으로 시스템이
-  // 햅틱을 울리므로(합성 클릭 불필요), 기기가 웹 햅틱을 지원하는지 확인하는 진단도 겸한다.
-  const ht = $("#hapticToggle");
-  if (ht) {
-    ht.checked = hapticEnabled();
-    ht.addEventListener("change", () => {
-      try { localStorage.setItem(HAPTIC_KEY, ht.checked ? "on" : "off"); } catch {}
-      setTouchOverlayActive(ht.checked); // 꺼면 터치 오버레이도 즉시 비활성화(원래 동작으로 복귀)
-      if (ht.checked && navigator.vibrate) navigator.vibrate(20); // 안드로이드 확인 진동(iOS는 스위치 자체가 울림)
-    });
-  }
-  // 진동 테스트: 드래그와 완전히 동일한 haptic() 경로(네이티브 브리지 포함)로 약→중→강
-  const htest = $("#hapticTest");
-  if (htest) htest.addEventListener("click", () => {
-    haptic("light"); setTimeout(() => haptic("medium"), 160); setTimeout(() => haptic("strong"), 340);
-  });
-  $("#settingsBtn").addEventListener("click", () => { haptic("light"); buildIconGrid(); overlay.hidden = false; });
+  $("#settingsBtn").addEventListener("click", () => { buildIconGrid(); overlay.hidden = false; });
   $("#settingsClose").addEventListener("click", () => { overlay.hidden = true; });
   overlay.addEventListener("click", (e) => { if (e.target === overlay) overlay.hidden = true; });
   $("#iconUploadBtn").addEventListener("click", () => $("#iconFile").click());
@@ -726,6 +625,9 @@ function bindSettings() {
     e.target.value = "";
   });
   bindCropper();
+  buildFontGrid();
+  applyFont(savedFontKey());
+  bindFontSize();
 }
 
 function bindCardClicks() {
@@ -735,13 +637,13 @@ function bindCardClicks() {
     const card = e.target.closest(".card[data-gid]");
     if (card) {
       const g = STATE.games.find((x) => String(x.id) === card.dataset.gid);
-      if (g) { haptic("strong"); openGameDetail(g); }
+      if (g) openGameDetail(g);
       return;
     }
     const ni = e.target.closest(".news-item[data-ni]");
     if (ni && STATE._newsView) {
       const n = STATE._newsView[+ni.dataset.ni];
-      if (n) { haptic("strong"); openDetail(n); }
+      if (n) openDetail(n);
     }
   });
 }
@@ -918,7 +820,7 @@ function closeDetail() {
 }
 function bindDetail() {
   document.addEventListener("keydown", (e) => { if (e.key === "Escape" && !$("#detailSheet").hidden) closeDetail(); });
-  $("#detailBack").addEventListener("click", () => { haptic("light"); closeDetail(); });
+  $("#detailBack").addEventListener("click", closeDetail);
   bindDetailSwipe();
 }
 // 좌측 가장자리에서 오른쪽으로 슬라이드 → 목록으로 복귀(iOS 인터랙티브 백 제스처)
@@ -932,7 +834,6 @@ function bindDetailSwipe() {
     const t = e.touches[0];
     if (t.clientX > 44) return;            // 좌측 가장자리에서 시작한 제스처만(본문 스크롤과 분리)
     x0 = t.clientX; y0 = t.clientY; active = true;
-    haptic("light");
     sheet.classList.add("sliding"); sheet.classList.remove("closing");
   }, { passive: true });
   sheet.addEventListener("touchmove", (e) => {
@@ -949,7 +850,6 @@ function bindDetailSwipe() {
     const dx = e.changedTouches[0].clientX - x0;
     sheet.classList.remove("sliding"); sheet.classList.add("closing");
     if (dx > W() * 0.32 || dx > 110) {     // 충분히 밀면 닫기(밖으로 슬라이드 후 종료)
-      haptic("medium");
       sheet.style.transform = `translateX(${W()}px)`;
       setTimeout(closeDetail, 180);
     } else {
@@ -961,14 +861,12 @@ function bindDetailSwipe() {
 /* ---------- Init ---------- */
 async function init() {
   bindTabs();
-  bindTouchOverlay();
   bindSettings();
   bindTheme();
   bindCardClicks();
   bindDetail();
   applyIcon(savedIconKey());
   $("#monthSelect").addEventListener("change", (e) => {
-    haptic("light");
     STATE.month = e.target.value; render();
     requestAnimationFrame(() => window.scrollTo({ top: 0, behavior: "instant" })); // 기간 변경 시 최상단부터
   });

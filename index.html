@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover" />
-  <meta name="theme-color" content="#0d0f1a" />
+  <meta name="theme-color" content="#000000" />
   <meta name="description" content="PC · 콘솔 · 모바일 신작 출시 · 업데이트 · 행사 일정을 한눈에" />
   <meta property="og:type" content="website" />
   <meta property="og:site_name" content="GGG" />
@@ -27,10 +27,11 @@
   <meta name="apple-mobile-web-app-capable" content="yes" />
   <meta name="apple-mobile-web-app-title" content="GGG" />
   <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
-  <!-- 게임 뉴스용 서체: 제목=Gothic A1(헤드라인, Google), 본문=Pretendard(로컬 woff2) -->
+  <!-- 게임 뉴스용 서체: 제목=Gothic A1(헤드라인, Google), 본문=Pretendard(로컬 woff2).
+       설정의 폰트 선택지(노토 산스·나눔고딕·블랙한산스·도현체)도 한 번에 로드. -->
   <link rel="preconnect" href="https://fonts.googleapis.com" />
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
-  <link href="https://fonts.googleapis.com/css2?family=Gothic+A1:wght@600;700;800&display=swap" rel="stylesheet" />
+  <link href="https://fonts.googleapis.com/css2?family=Gothic+A1:wght@600;700;800&family=Noto+Sans+KR:wght@400;500;700;900&family=Nanum+Gothic:wght@400;700;800&family=Black+Han+Sans&family=Do+Hyeon&display=swap" rel="stylesheet" />
   <link rel="stylesheet" href="styles.css" />
 </head>
 <body>
@@ -74,13 +75,6 @@
     </button>
   </nav>
 
-  <!-- 진짜 진동용 터치 오버레이: 실제 사용자 탭이 눈에 보이지 않는 진짜 switch 를 직접
-       건드리게 해 진짜 시스템 햅틱을 얻고, 그 아래 실제 요소로 탭을 그대로 전달한다.
-       시트/모달(z-index 60)보다는 아래라 열려 있을 때는 관여하지 않는다. -->
-  <label id="touchOverlay" class="touch-overlay" aria-hidden="true">
-    <input type="checkbox" id="touchOverlaySwitch" switch tabindex="-1" aria-hidden="true">
-  </label>
-
   <!-- 설정: 앱 아이콘(테마) 변경 -->
   <div id="settingsSheet" class="sheet-overlay" hidden>
     <div class="sheet" role="dialog" aria-modal="true" aria-label="설정">
@@ -102,13 +96,13 @@
           </button>
         </div>
       </div>
-      <p class="sheet-subhead">햅틱</p>
-      <div class="setting-row">
-        <span style="font-size:14px;color:var(--text-dim);font-weight:600">터치 진동 피드백</span>
-        <input type="checkbox" switch id="hapticToggle" class="haptic-switch" checked aria-label="터치 진동 피드백" />
+      <p class="sheet-subhead">폰트</p>
+      <div class="font-grid" id="fontGrid" role="group" aria-label="폰트 선택"></div>
+      <div class="font-size-row">
+        <input id="fontSizeSlider" class="font-size-slider" type="range" min="80" max="140" step="2" value="100" aria-label="글자 크기" />
+        <span id="fontSizeValue" class="font-size-value">100%</span>
       </div>
-      <button id="hapticTest" class="haptic-test-btn" type="button">진동 테스트 (드래그와 같은 방식)</button>
-      <p class="sheet-note" style="margin-top:8px">iOS 26.5+ 사파리는 웹 진동을 차단합니다. <b>Median.co</b> 래퍼(링크 하나로 설치) 또는 저장소 <b>ios/</b> 앱으로 설치하면 네이티브 Taptic 엔진으로 확실하게 동작합니다. (README 참고)</p>
+      <p id="fontSizePreview" class="font-size-preview">가나다 ABC 신작 출시 정보</p>
       <p class="sheet-subhead">앱 아이콘</p>
       <div class="icon-grid" id="iconGrid"></div>
       <button id="iconUploadBtn" class="icon-upload-btn" type="button">사진에서 선택…</button>
