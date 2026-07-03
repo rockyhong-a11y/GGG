@@ -366,18 +366,42 @@ function bindTabs() {
   document.querySelectorAll("#platformTabs .tab").forEach((t) =>
     t.addEventListener("click", () => { haptic("medium"); setTab(t.dataset.cat); })
   );
-  // 콘텐츠 좌우 스와이프로 탭 전환 + 터치하는 동안 계속되는 드르륵(거리가 아닌
-  // 시간 기반 — 손가락을 대고 있는 내내 일정 간격으로 haptic 을 계속 호출)
-  const main = document.querySelector("main");
+  // 콘텐츠 좌우 스와이프로 탭 전환 + 터치하는 동안 계속되는 드르륵은
+  // 터치 오버레이(#touchOverlay)로 이전 — bindTouchOverlay() 참고.
+}
+
+/* ---------- 터치 오버레이: 실제 탭으로 진짜 진동 얻기 ----------
+ * 설정의 "터치 진동 피드백" 스위치를 손으로 누르면 실기기에서 real haptic 이 확인됨 —
+ * 브라우저가 실제(trusted) 탭으로 판단하기 때문. 반대로 JS 가 만든 합성 클릭은
+ * iOS 26.5+ 에서 차단된다. 이 간극을 메우기 위해 기본 화면(탭바·컨트롤·리스트, 시트
+ * 보다는 아래) 전체를 덮는, 눈에 보이지 않는 실제 <input type=checkbox switch> 를 두고
+ * 사용자의 모든 실제 탭이 이 스위치를 직접 건드리게 한다 → 진짜 시스템 햅틱 발생.
+ * 그 직후 오버레이를 일시적으로 투명화해 실제 밑에 있던 요소를 찾아 그 요소의
+ * .click() 을 호출해 원래 하려던 동작(탭 전환·카드 열기 등)을 그대로 수행시킨다.
+ * .click() 은 (합성 dispatchEvent 와 달리) 트인 사용자 액티베이션 컨텍스트 안에서
+ * 호출되면 <select>·<input type=file> 같은 네이티브 기본 동작도 함께 트리거된다.
+ * 설정 스위치를 끄면 오버레이의 pointer-events 를 꺼서(=제거와 동일 효과) 완전히
+ * 원래 동작으로 되돌린다(리스크 있는 간접 경로를 켰을 때만 사용). */
+function setTouchOverlayActive(active) {
+  const el = $("#touchOverlay");
+  if (el) el.style.pointerEvents = active ? "auto" : "none";
+}
+function bindTouchOverlay() {
+  const overlay = $("#touchOverlay");
+  if (!overlay) return;
+  setTouchOverlayActive(hapticEnabled());
+
   let x0 = null, y0 = null, tickTimer = null;
   const TICK_MS = 90; // 드래그 중 haptic 반복 간격
   const stopTick = () => { if (tickTimer) { clearInterval(tickTimer); tickTimer = null; } };
-  main.addEventListener("touchstart", (e) => {
+
+  overlay.addEventListener("touchstart", (e) => {
     const t = e.changedTouches[0]; x0 = t.clientX; y0 = t.clientY;
     stopTick();
     tickTimer = setInterval(() => dragTick("light"), TICK_MS);
   }, { passive: true });
-  main.addEventListener("touchend", (e) => {
+
+  overlay.addEventListener("touchend", (e) => {
     stopTick();
     if (x0 == null) return;
     const t = e.changedTouches[0];
@@ -388,7 +412,24 @@ function bindTabs() {
     const ni = dx < 0 ? Math.min(TAB_ORDER.length - 1, i + 1) : Math.max(0, i - 1);
     if (ni !== i) { haptic("medium"); setTab(TAB_ORDER[ni]); }
   }, { passive: true });
-  main.addEventListener("touchcancel", stopTick, { passive: true });
+
+  overlay.addEventListener("touchcancel", stopTick, { passive: true });
+
+  // 드래그가 아닌 순수 탭에서만 브라우저가 'click'을 합성해 여기로 들어온다.
+  // 이 click 자체가 실제 switch 토글이므로 진짜 햅틱 — 그 다음 실제 대상에 전달.
+  overlay.addEventListener("click", (e) => {
+    const x = e.clientX, y = e.clientY;
+    overlay.style.pointerEvents = "none";
+    const target = document.elementFromPoint(x, y);
+    overlay.style.pointerEvents = "auto";
+    if (!target) return;
+    // .click() 은 트인 사용자 액티베이션 컨텍스트 안에서 호출되면 <select>·파일 입력
+    // 같은 네이티브 기본 동작까지 함께 트리거되므로 우선 사용. 다만 아이콘으로 흔히
+    // 쓰이는 <svg>(SVGElement)는 이 메서드가 없으므로, 그런 경우엔 버블링하는 합성
+    // click 이벤트를 직접 dispatch 해 상위(button 등)의 리스너가 받도록 한다.
+    if (typeof target.click === "function") target.click();
+    else target.dispatchEvent(new MouseEvent("click", { bubbles: true, cancelable: true, clientX: x, clientY: y }));
+  });
 }
 
 /* ---------- 기간 리스트박스 (탭별) ---------- */
@@ -666,6 +707,7 @@ function bindSettings() {
     ht.checked = hapticEnabled();
     ht.addEventListener("change", () => {
       try { localStorage.setItem(HAPTIC_KEY, ht.checked ? "on" : "off"); } catch {}
+      setTouchOverlayActive(ht.checked); // 꺼면 터치 오버레이도 즉시 비활성화(원래 동작으로 복귀)
       if (ht.checked && navigator.vibrate) navigator.vibrate(20); // 안드로이드 확인 진동(iOS는 스위치 자체가 울림)
     });
   }
@@ -919,6 +961,7 @@ function bindDetailSwipe() {
 /* ---------- Init ---------- */
 async function init() {
   bindTabs();
+  bindTouchOverlay();
   bindSettings();
   bindTheme();
   bindCardClicks();

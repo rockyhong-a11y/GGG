@@ -74,6 +74,13 @@
     </button>
   </nav>
 
+  <!-- 진짜 진동용 터치 오버레이: 실제 사용자 탭이 눈에 보이지 않는 진짜 switch 를 직접
+       건드리게 해 진짜 시스템 햅틱을 얻고, 그 아래 실제 요소로 탭을 그대로 전달한다.
+       시트/모달(z-index 60)보다는 아래라 열려 있을 때는 관여하지 않는다. -->
+  <label id="touchOverlay" class="touch-overlay" aria-hidden="true">
+    <input type="checkbox" id="touchOverlaySwitch" switch tabindex="-1" aria-hidden="true">
+  </label>
+
   <!-- 설정: 앱 아이콘(테마) 변경 -->
   <div id="settingsSheet" class="sheet-overlay" hidden>
     <div class="sheet" role="dialog" aria-modal="true" aria-label="설정">
