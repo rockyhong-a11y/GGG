@@ -364,7 +364,7 @@ function setTab(cat) {
 
 function bindTabs() {
   document.querySelectorAll("#platformTabs .tab").forEach((t) =>
-    t.addEventListener("click", () => { haptic("light"); setTab(t.dataset.cat); })
+    t.addEventListener("click", () => { haptic("medium"); setTab(t.dataset.cat); })
   );
   // 콘텐츠 좌우 스와이프로 탭 전환 + 터치하는 동안 계속되는 드르륵은
   // 터치 오버레이(#touchOverlay)로 이전 — bindTouchOverlay() 참고.
@@ -735,13 +735,13 @@ function bindCardClicks() {
     const card = e.target.closest(".card[data-gid]");
     if (card) {
       const g = STATE.games.find((x) => String(x.id) === card.dataset.gid);
-      if (g) { haptic("light"); openGameDetail(g); }
+      if (g) { haptic("strong"); openGameDetail(g); }
       return;
     }
     const ni = e.target.closest(".news-item[data-ni]");
     if (ni && STATE._newsView) {
       const n = STATE._newsView[+ni.dataset.ni];
-      if (n) { haptic("light"); openDetail(n); }
+      if (n) { haptic("strong"); openDetail(n); }
     }
   });
 }
