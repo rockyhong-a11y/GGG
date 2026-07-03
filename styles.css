@@ -240,6 +240,11 @@ main { max-width: var(--maxw); margin: 0 auto; padding: 2px 16px 24px; }
 
 /* Timeline */
 .timeline { display: flex; flex-direction: column; gap: 22px; }
+/* 탭 이동 시 넘김(슬라이드) 효과 — 뒤로가기 스와이프(.detail-sheet.closing)와 동일한 .18s ease */
+@keyframes tabSlideFromRight { from { transform: translateX(28px); opacity: 0; } to { transform: translateX(0); opacity: 1; } }
+@keyframes tabSlideFromLeft  { from { transform: translateX(-28px); opacity: 0; } to { transform: translateX(0); opacity: 1; } }
+.tab-slide-r { animation: tabSlideFromRight .18s ease; }
+.tab-slide-l { animation: tabSlideFromLeft .18s ease; }
 .month-block { display: flex; flex-direction: column; gap: 12px; }
 .month-head {
   display: flex; align-items: center; justify-content: space-between;
@@ -327,7 +332,7 @@ main { max-width: var(--maxw); margin: 0 auto; padding: 2px 16px 24px; }
 
 /* 게임 뉴스 보드 (루리웹 형식) */
 .newsboard { list-style: none; margin: 4px 0 0; padding: 0; display: flex; flex-direction: column; }
-/* 썸네일(좌) → 제목(우) 가로 행. 모바일 터치 고려해 넓너한 간격 */
+/* 제목(좌) → 썸네일(우) 가로 행. 모바일 터치 고려해 넓너한 간격 */
 .news-item {
   display: flex; gap: 12px; align-items: flex-start;
   padding: 15px 4px; border-bottom: 1px solid var(--border); cursor: pointer;

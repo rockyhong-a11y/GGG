@@ -204,12 +204,12 @@ function renderNews() {
     ].filter(Boolean).join("");
     return `
     <li class="news-item" data-ni="${i}">
-      ${n.image ? `<img class="news-thumb" src="${esc(n.image)}" alt="" loading="lazy" decoding="async" referrerpolicy="no-referrer" onerror="this.removeAttribute('src');this.classList.add('news-thumb--ph')">` : `<span class="news-thumb news-thumb--ph" aria-hidden="true"></span>`}
       <span class="news-body">
         <span class="news-title">${esc(n.title)}</span>
         ${n.summary ? `<span class="news-desc">${esc(n.summary)}</span>` : ""}
         ${meta ? `<span class="news-meta">${meta}</span>` : ""}
       </span>
+      ${n.image ? `<img class="news-thumb" src="${esc(n.image)}" alt="" loading="lazy" decoding="async" referrerpolicy="no-referrer" onerror="this.removeAttribute('src');this.classList.add('news-thumb--ph')">` : `<span class="news-thumb news-thumb--ph" aria-hidden="true"></span>`}
     </li>`;
   }).join("") + `</ul>`;
 }
@@ -251,9 +251,17 @@ function render() {
 }
 
 /* ---------- Platform tabs (bottom bar + swipe) ---------- */
+// 탭 이동 시 넘김(슬라이드) 효과 — 뒤로가기 스와이프 닫힘과 동일한 easing/시간(.18s ease)
+function playTabSlide(dir) {
+  const root = $("#gameRoot");
+  root.classList.remove("tab-slide-l", "tab-slide-r");
+  void root.offsetWidth; // 강제 리플로우 → 연속 전환에서도 애니메이션 매번 재시작
+  root.classList.add(dir < 0 ? "tab-slide-l" : "tab-slide-r");
+}
 function setTab(cat) {
   if (!TAB_ORDER.includes(cat)) return;
   if (cat !== STATE.platform) {            // 탭 전환
+    const dir = TAB_ORDER.indexOf(cat) - TAB_ORDER.indexOf(STATE.platform);
     STATE.platform = cat;
     document.querySelectorAll("#platformTabs .tab").forEach((t) => {
       const on = t.dataset.cat === cat;
@@ -265,6 +273,7 @@ function setTab(cat) {
     buildMonthSelect();   // 탭별로 기간 옵션이 다름(뉴스=뉴스 날짜, 그 외=일정 월)
     scrollAfterRender = (cat !== "news"); // 출시·이벤트 탭 전환 시 오늘 기준으로 포커싱
     render();
+    playTabSlide(dir);
     // 탭 전환 시 이전 탭의 스크롤 위치가 남아 어색하게 보이지 않도록 초기화.
     // 뉴스=최상단, 출시·이벤트=scrollToToday(오늘 기준)로 위치 잡음.
     if (cat === "news") requestAnimationFrame(() => window.scrollTo({ top: 0, behavior: "instant" }));
