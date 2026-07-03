@@ -11,11 +11,11 @@
   font-display: swap;
 }
 :root {
-  --bg: #0d0f1a;
-  --bg-elev: #161a2c;
-  --bg-card: #1b2036;
-  --bg-card-hover: #222842;
-  --border: #2a3052;
+  --bg: #000000;
+  --bg-elev: #141414;
+  --bg-card: #1a1a1a;
+  --bg-card-hover: #232323;
+  --border: #2a2a2a;
   --text: #eef1ff;
   --text-dim: #9aa2c4;
   --text-faint: #6b7299;
@@ -27,9 +27,9 @@
   --radius-sm: 10px;
   --shadow: 0 8px 30px rgba(0, 0, 0, 0.35);
   /* 테마 의존 값(다크 기본). 라이트 테마에서 override */
-  --bg-grad: radial-gradient(1200px 600px at 80% -10%, #1a1f3a 0%, var(--bg) 55%);
-  --glass-bg: rgba(13, 15, 26, 0.92);
-  --theme-color: #0d0f1a;
+  --bg-grad: var(--bg);
+  --glass-bg: rgba(0, 0, 0, 0.92);
+  --theme-color: #000000;
   --safe-top: env(safe-area-inset-top, 0px);
   --safe-bottom: env(safe-area-inset-bottom, 0px);
   --maxw: 1100px;

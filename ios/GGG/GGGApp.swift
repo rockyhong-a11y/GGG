@@ -21,7 +21,7 @@ struct ContentView: View {
     var body: some View {
         WebView(url: appURL)
             .ignoresSafeArea()                       // 웹이 viewport-fit=cover 로 safe-area 를 직접 처리
-            .background(Color(red: 13/255, green: 15/255, blue: 26/255)) // 웹 다크 배경과 동일
+            .background(Color.black) // 웹 다크 배경과 동일
             .preferredColorScheme(.dark)
     }
 }

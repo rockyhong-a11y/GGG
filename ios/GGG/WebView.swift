@@ -24,7 +24,7 @@ struct WebView: UIViewRepresentable {
         webView.uiDelegate = context.coordinator
         webView.scrollView.contentInsetAdjustmentBehavior = .never // 웹의 safe-area 처리에 맡김
         webView.isOpaque = false
-        webView.backgroundColor = UIColor(red: 13/255, green: 15/255, blue: 26/255, alpha: 1)
+        webView.backgroundColor = .black
         webView.scrollView.backgroundColor = webView.backgroundColor
         webView.load(URLRequest(url: url))
         return webView
