@@ -28,10 +28,10 @@
   <meta name="apple-mobile-web-app-title" content="GGG" />
   <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
   <!-- 게임 뉴스용 서체: 제목=Gothic A1(헤드라인, Google), 본문=Pretendard(로컬 woff2).
-       설정의 폰트 선택지(노토 산스·나눔고딕·블랙한산스·도현체)도 한 번에 로드. -->
+       설정의 노토 산스도 한 번에 로드 — 넥슨/메이플스토리/넷마블 폰트는 선택 시 CDN에서 지연 로드(app.js _ensureFontCdn). -->
   <link rel="preconnect" href="https://fonts.googleapis.com" />
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
-  <link href="https://fonts.googleapis.com/css2?family=Gothic+A1:wght@600;700;800&family=Noto+Sans+KR:wght@400;500;700;900&family=Nanum+Gothic:wght@400;700;800&family=Black+Han+Sans&family=Do+Hyeon&display=swap" rel="stylesheet" />
+  <link href="https://fonts.googleapis.com/css2?family=Gothic+A1:wght@600;700;800&family=Noto+Sans+KR:wght@400;500;700;900&display=swap" rel="stylesheet" />
   <link rel="stylesheet" href="styles.css" />
 </head>
 <body>
@@ -84,7 +84,7 @@
       </div>
       <p class="sheet-subhead">테마</p>
       <div class="setting-row">
-        <span style="font-size:14px;color:var(--text-dim);font-weight:600">화면 색상</span>
+        <span class="setting-label">화면 색상</span>
         <div class="theme-toggle" role="group" aria-label="테마 선택">
           <button class="theme-opt" type="button" data-theme="dark" aria-pressed="true">
             <svg viewBox="0 0 24 24" aria-hidden="true" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 12.8A9 9 0 1 1 11.2 3a7 7 0 0 0 9.8 9.8z"/></svg>
