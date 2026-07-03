@@ -429,6 +429,10 @@ const ICON_PRESETS = [
   { key: "gem",     name: "보석",     src: _svg(`<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><rect width='100' height='100' rx='20' fill='#0f1123'/><polygon points='50,16 72,37 62,82 38,82 28,37' fill='#00bcd4'/><polygon points='50,16 72,37 50,50 28,37' fill='#80deea'/><polygon points='28,37 50,50 38,82' fill='#0097a7'/><polygon points='72,37 62,82 50,50' fill='#0097a7'/><polygon points='38,82 50,50 62,82' fill='#006064'/></svg>`) },
   { key: "sword",   name: "검",       src: _svg(`<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><rect width='100' height='100' rx='20' fill='#0f1123'/><g transform='rotate(45 50 50)'><rect x='47' y='12' width='6' height='44' rx='3' fill='#c8ccd8'/><rect x='46' y='11' width='8' height='7' rx='2' fill='#edf0f8'/><rect x='28' y='46' width='44' height='8' rx='4' fill='#ffcc00'/><rect x='47' y='56' width='6' height='14' rx='3' fill='#aa8800'/><circle cx='50' cy='75' r='5.5' fill='#ff85c0'/></g></svg>`) },
   { key: "dice",    name: "주사위",   src: _svg(`<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><rect width='100' height='100' rx='20' fill='#0f1123'/><rect x='18' y='18' width='64' height='64' rx='14' fill='#6c7aff'/><circle cx='34' cy='34' r='5.5' fill='#fff'/><circle cx='66' cy='34' r='5.5' fill='#fff'/><circle cx='50' cy='50' r='5.5' fill='#fff'/><circle cx='34' cy='66' r='5.5' fill='#fff'/><circle cx='66' cy='66' r='5.5' fill='#fff'/></svg>`) },
+  // 아래 2종은 특정 게임 캐릭터를 본뜬 것이 아닌 오리지널 8비트 픽셀 아트 디자인이다
+  // (저작권이 있는 캐릭터 이미지는 라이선스 없이 사용할 수 없어 배제).
+  { key: "pixel-knight", name: "픽셀 전사", src: _svg(`<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100' shape-rendering='crispEdges'><rect width='100' height='100' rx='20' fill='#0f1123'/><rect x='38' y='10' width='16' height='8' fill='#161a2c'/><rect x='30' y='18' width='32' height='8' fill='#6c7aff'/><rect x='30' y='26' width='8' height='8' fill='#6c7aff'/><rect x='38' y='26' width='16' height='8' fill='#161a2c'/><rect x='54' y='26' width='8' height='8' fill='#6c7aff'/><rect x='30' y='34' width='32' height='8' fill='#6c7aff'/><rect x='22' y='42' width='48' height='8' fill='#6c7aff'/><rect x='30' y='50' width='32' height='8' fill='#6c7aff'/><rect x='30' y='58' width='16' height='8' fill='#161a2c'/><rect x='46' y='58' width='16' height='8' fill='#6c7aff'/><rect x='30' y='66' width='16' height='16' fill='#161a2c'/><rect x='46' y='66' width='16' height='16' fill='#161a2c'/><rect x='70' y='24' width='7' height='38' fill='#e8ecf5'/><rect x='62' y='58' width='23' height='7' fill='#ffcc00'/><rect x='70' y='65' width='7' height='12' fill='#aa8800'/></svg>`) },
+  { key: "pixel-agent",  name: "픽셀 요원", src: _svg(`<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100' shape-rendering='crispEdges'><rect width='100' height='100' rx='20' fill='#0f1123'/><rect x='34' y='14' width='32' height='24' fill='#232842'/><rect x='34' y='22' width='32' height='8' fill='#ff85c0'/><rect x='66' y='14' width='8' height='20' fill='#00c2cb'/><rect x='26' y='42' width='48' height='8' fill='#232842'/><rect x='34' y='50' width='32' height='16' fill='#232842'/><rect x='30' y='66' width='16' height='16' fill='#161a2c'/><rect x='54' y='66' width='16' height='16' fill='#161a2c'/><rect x='68' y='48' width='24' height='7' fill='#c8ccd8'/><rect x='84' y='41' width='8' height='7' fill='#c8ccd8'/><rect x='72' y='55' width='7' height='10' fill='#8a94b8'/></svg>`) },
 ];
 function savedIconKey() {
   try { return localStorage.getItem("gnw-icon") || "gamepad"; } catch { return "gamepad"; }
@@ -565,18 +569,30 @@ function bindTheme() {
 }
 
 /* ---------- 폰트 선택 (게임 뉴스에 어울리는 공용 웹폰트 5종) ---------- */
+// 넥슨 Lv1 고딕·메이플스토리·넷마블B 는 실제 게임사가 배포한 무료 서체(webfontworld CDN,
+// jsDelivr 미러). 폰트 로드 실패 시에도 각 stack 끝의 sans-serif 로 자연스럽게 대체된다.
 const FONT_PRESETS = [
-  { key: "pretendard", name: "프리텐다드", stack: `"Pretendard", "Noto Sans KR", sans-serif` },
-  { key: "noto",       name: "노토 산스",   stack: `"Noto Sans KR", sans-serif` },
-  { key: "nanum",      name: "나눔고딕",     stack: `"Nanum Gothic", sans-serif` },
-  { key: "blackhan",   name: "블랙한산스",   stack: `"Black Han Sans", sans-serif` },
-  { key: "dohyeon",    name: "도현체",       stack: `"Do Hyeon", sans-serif` },
+  { key: "pretendard", name: "프리텐다드",     stack: `"Pretendard", "Noto Sans KR", sans-serif` },
+  { key: "noto",       name: "노토 산스",       stack: `"Noto Sans KR", sans-serif` },
+  { key: "nexon",      name: "넥슨 Lv1 고딕",   stack: `"NEXON Lv1 Gothic", "Noto Sans KR", sans-serif`, cdn: "https://cdn.jsdelivr.net/gh/webfontworld/nexon/NEXONLv1Gothic.css" },
+  { key: "maple",      name: "메이플스토리",     stack: `"Maplestory", "Noto Sans KR", sans-serif`, cdn: "https://cdn.jsdelivr.net/gh/webfontworld/nexon/Maplestory.css" },
+  { key: "netmarble",  name: "넷마블체",         stack: `"NetmarbleB", "Noto Sans KR", sans-serif`, cdn: "https://cdn.jsdelivr.net/gh/webfontworld/netmarble/NetmarbleB.css" },
 ];
+const _loadedFontCdn = new Set();
+function _ensureFontCdn(f) {
+  if (!f.cdn || _loadedFontCdn.has(f.key)) return;
+  const link = document.createElement("link");
+  link.rel = "stylesheet";
+  link.href = f.cdn;
+  document.head.appendChild(link);
+  _loadedFontCdn.add(f.key);
+}
 function savedFontKey() {
   try { return localStorage.getItem("gnw-font") || "pretendard"; } catch { return "pretendard"; }
 }
 function applyFont(key) {
   const f = FONT_PRESETS.find((x) => x.key === key) || FONT_PRESETS[0];
+  _ensureFontCdn(f);
   if (f.key === "pretendard") {
     document.documentElement.style.removeProperty("--font-title");
     document.documentElement.style.removeProperty("--font-body");
@@ -590,6 +606,7 @@ function applyFont(key) {
 function buildFontGrid() {
   const grid = $("#fontGrid");
   if (!grid) return;
+  FONT_PRESETS.forEach(_ensureFontCdn); // 버튼에서 바로 미리보기 되도록 전부 선로드
   const cur = savedFontKey();
   grid.innerHTML = FONT_PRESETS.map((f) =>
     `<button class="font-option ${f.key === cur ? "sel" : ""}" type="button" data-key="${f.key}" style="font-family:${f.stack}">${esc(f.name)}</button>`
