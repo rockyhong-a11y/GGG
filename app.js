@@ -251,9 +251,28 @@ function render() {
 }
 
 /* ---------- Platform tabs (bottom bar + swipe) ---------- */
+/* ---------- 진동 피드백: 하단 탭(뉴스·출시·이벤트) 이동 시에만 ----------
+ * 안드로이드 Chrome 등은 navigator.vibrate, iOS 는 ios/ 래퍼 앱의 네이티브 브리지로 동작.
+ * iOS Safari·홈화면 웹앱은 웹이 발생시키는 진동을 지원하지 않는 플랫폼 제약이라 무반응. */
+function haptic(intensity = "strong") {
+  try {
+    const bridge = window.webkit && window.webkit.messageHandlers && window.webkit.messageHandlers.haptic;
+    if (bridge) { bridge.postMessage(intensity); return; }
+  } catch {}
+  try {
+    const m = window.median || window.gonative;
+    if (m && m.haptics && typeof m.haptics.trigger === "function") {
+      m.haptics.trigger({ style: { light: "impactLight", medium: "impactMedium", strong: "impactHeavy" }[intensity] || "impactHeavy" });
+      return;
+    }
+  } catch {}
+  if (navigator.vibrate) navigator.vibrate({ light: 10, medium: 20, strong: 30 }[intensity] || 30);
+}
+
 function setTab(cat) {
   if (!TAB_ORDER.includes(cat)) return;
   if (cat !== STATE.platform) {            // 탭 전환
+    haptic("strong");
     STATE.platform = cat;
     document.querySelectorAll("#platformTabs .tab").forEach((t) => {
       const on = t.dataset.cat === cat;
