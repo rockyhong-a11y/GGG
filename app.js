@@ -568,31 +568,23 @@ function bindTheme() {
   applyTheme(savedTheme());
 }
 
-/* ---------- 폰트 선택 (게임 뉴스에 어울리는 공용 웹폰트 5종) ---------- */
-// 넥슨 Lv1 고딕·메이플스토리·넷마블B 는 실제 게임사가 배포한 무료 서체(webfontworld CDN,
-// jsDelivr 미러). 폰트 로드 실패 시에도 각 stack 끝의 sans-serif 로 자연스럽게 대체된다.
+/* ---------- 폰트 선택 (게임 뉴스에 어울리는 공용 웹폰트 5종) ----------
+ * 이전에 썼던 넥슨/메이플스토리/넷마블 폰트는 jsDelivr(webfontworld) 개인 미러 CDN이라
+ * 경로 검증이 안 됐고 실제로 적용되지 않는 문제가 있었다. Google Fonts 는 index.html 에서
+ * 이미 확인된 안정적 경로이므로, 게임 배너·타이틀에 자주 쓰이는 굵고 개성 있는 무료
+ * 한글 웹폰트 중 Google Fonts 에 있는 것으로 교체(모두 index.html 에서 미리 로드). */
 const FONT_PRESETS = [
-  { key: "pretendard", name: "프리텐다드",     stack: `"Pretendard", "Noto Sans KR", sans-serif` },
-  { key: "noto",       name: "노토 산스",       stack: `"Noto Sans KR", sans-serif` },
-  { key: "nexon",      name: "넥슨 Lv1 고딕",   stack: `"NEXON Lv1 Gothic", "Noto Sans KR", sans-serif`, cdn: "https://cdn.jsdelivr.net/gh/webfontworld/nexon/NEXONLv1Gothic.css" },
-  { key: "maple",      name: "메이플스토리",     stack: `"Maplestory", "Noto Sans KR", sans-serif`, cdn: "https://cdn.jsdelivr.net/gh/webfontworld/nexon/Maplestory.css" },
-  { key: "netmarble",  name: "넷마블체",         stack: `"NetmarbleB", "Noto Sans KR", sans-serif`, cdn: "https://cdn.jsdelivr.net/gh/webfontworld/netmarble/NetmarbleB.css" },
+  { key: "pretendard", name: "프리텐다드",   stack: `"Pretendard", "Noto Sans KR", sans-serif` },
+  { key: "noto",       name: "노토 산스",     stack: `"Noto Sans KR", sans-serif` },
+  { key: "blackhan",   name: "블랙한산스",     stack: `"Black Han Sans", "Noto Sans KR", sans-serif` },
+  { key: "dohyeon",    name: "도현체",         stack: `"Do Hyeon", "Noto Sans KR", sans-serif` },
+  { key: "jua",        name: "주아체",         stack: `"Jua", "Noto Sans KR", sans-serif` },
 ];
-const _loadedFontCdn = new Set();
-function _ensureFontCdn(f) {
-  if (!f.cdn || _loadedFontCdn.has(f.key)) return;
-  const link = document.createElement("link");
-  link.rel = "stylesheet";
-  link.href = f.cdn;
-  document.head.appendChild(link);
-  _loadedFontCdn.add(f.key);
-}
 function savedFontKey() {
   try { return localStorage.getItem("gnw-font") || "pretendard"; } catch { return "pretendard"; }
 }
 function applyFont(key) {
   const f = FONT_PRESETS.find((x) => x.key === key) || FONT_PRESETS[0];
-  _ensureFontCdn(f);
   if (f.key === "pretendard") {
     document.documentElement.style.removeProperty("--font-title");
     document.documentElement.style.removeProperty("--font-body");
@@ -606,7 +598,6 @@ function applyFont(key) {
 function buildFontGrid() {
   const grid = $("#fontGrid");
   if (!grid) return;
-  FONT_PRESETS.forEach(_ensureFontCdn); // 버튼에서 바로 미리보기 되도록 전부 선로드
   const cur = savedFontKey();
   grid.innerHTML = FONT_PRESETS.map((f) =>
     `<button class="font-option ${f.key === cur ? "sel" : ""}" type="button" data-key="${f.key}" style="font-family:${f.stack}">${esc(f.name)}</button>`
