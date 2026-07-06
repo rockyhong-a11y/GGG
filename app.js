@@ -621,6 +621,22 @@ function bindFontSize() {
   $("#fontSizeSlider").addEventListener("input", (e) => applyFontScale(parseInt(e.target.value, 10)));
 }
 
+/* ---------- 줄간격 (세부 조절, 80~160%) ---------- */
+function savedLineScale() {
+  try { const v = parseInt(localStorage.getItem("gnw-line-scale"), 10); return Number.isFinite(v) && v >= 80 && v <= 160 ? v : 100; }
+  catch { return 100; }
+}
+function applyLineScale(pct) {
+  document.documentElement.style.setProperty("--line-scale", pct / 100);
+  $("#lineSpacingValue").textContent = `${pct}%`;
+  $("#lineSpacingSlider").value = pct;
+  try { localStorage.setItem("gnw-line-scale", String(pct)); } catch {}
+}
+function bindLineSpacing() {
+  applyLineScale(savedLineScale());
+  $("#lineSpacingSlider").addEventListener("input", (e) => applyLineScale(parseInt(e.target.value, 10)));
+}
+
 function bindSettings() {
   const overlay = $("#settingsSheet");
   $("#settingsBtn").addEventListener("click", () => { buildIconGrid(); overlay.hidden = false; });
@@ -636,6 +652,7 @@ function bindSettings() {
   buildFontGrid();
   applyFont(savedFontKey());
   bindFontSize();
+  bindLineSpacing();
 }
 
 function bindCardClicks() {

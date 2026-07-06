@@ -100,10 +100,16 @@
       <p class="sheet-subhead">폰트</p>
       <div class="font-grid" id="fontGrid" role="group" aria-label="폰트 선택"></div>
       <div class="font-size-row">
+        <span class="setting-label slider-label">글자 크기</span>
         <input id="fontSizeSlider" class="font-size-slider" type="range" min="80" max="140" step="2" value="100" aria-label="글자 크기" />
         <span id="fontSizeValue" class="font-size-value">100%</span>
       </div>
-      <p id="fontSizePreview" class="font-size-preview">가나다 ABC 신작 출시 정보</p>
+      <div class="font-size-row">
+        <span class="setting-label slider-label">줄간격</span>
+        <input id="lineSpacingSlider" class="font-size-slider" type="range" min="80" max="160" step="5" value="100" aria-label="줄간격" />
+        <span id="lineSpacingValue" class="font-size-value">100%</span>
+      </div>
+      <p id="fontSizePreview" class="font-size-preview">가나다 ABC 신작 출시 정보<br>두 줄로 표시된 미리보기 문장입니다.</p>
       <p class="sheet-subhead">앱 아이콘</p>
       <div class="icon-grid" id="iconGrid"></div>
       <button id="iconUploadBtn" class="icon-upload-btn" type="button">사진에서 선택…</button>
