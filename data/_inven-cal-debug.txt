@@ -1,13 +1,13 @@
-fetched_at=2026-07-11T02:26:15.829Z
+fetched_at=2026-07-11T08:03:55.955Z
 url=https://www.inven.co.kr/webzine/calendar/
-status=200
-error=
-html_length=337477
-calendar_game_links=42
-news_links=5
-upload_imgs=86
-calendar_items(strict)=44
-calendar_items(loose)=44
-has_calendar__=true
-class_calendar_samples=class="calendar__tab calendar__tab--webzine calendar__tab--active" | class="calendar" | class="calendar-content" | class="calendar__header" | class="calendar-filter-actions" | class="calendar-year" | class="calendar-year__controls" | class="calendar-year__btn calendar-year__btn--prev" | class="calendar-year__current" | class="calendar-year__btn calendar-year__btn--next" | class="calendar-year__actions" | class="calendar-year__action calendar-year__action--request" | class="calendar-year__action calendar-year__action--recent" | class="calendar-month" | class="calendar-month__swiper swiper" | class="calendar-month__btn" | class="calendar-month__btn calendar-month__btn--active" | class="calendar-platform" | class="calendar-platform__swiper swiper"
+status=0
+error=fetch failed
+html_length=0
+calendar_game_links=0
+news_links=0
+upload_imgs=0
+calendar_items(strict)=0
+calendar_items(loose)=0
+has_calendar__=false
+class_calendar_samples=
 is_spa_signals=
