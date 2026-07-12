@@ -467,9 +467,12 @@ body.sheet-open { overflow: hidden; }
 .dc-like { font-size: calc(14px * var(--font-scale)); color: var(--text-faint); }
 .dc-best { font-size: calc(11px * var(--font-scale)); font-weight: 800; color: var(--ink, #0b0d16); background: var(--amber); padding: 1px 6px; border-radius: 5px; letter-spacing: .04em; }
 .dc-text { font-size: calc(16px * var(--font-scale)); line-height: calc(1.6 * var(--line-scale)); color: var(--text); white-space: pre-wrap; word-break: break-word; }
-.dc-imgs { display: flex; flex-wrap: wrap; gap: 6px; margin-top: 7px; }
-.dc-imgs img { max-width: 100%; max-height: 240px; border-radius: 8px; display: block; }
+.dc-imgs { display: flex; flex-wrap: wrap; gap: 6px; margin: 4px 0 6px; }
+.dc-imgs img { max-width: 100%; max-height: 320px; border-radius: 8px; display: block; }
 .dc-item.best { background: rgba(255,180,84,.06); border-radius: 8px; padding: 10px 10px; }
+/* 원문처럼 BEST 댓글을 상단 블록으로 묶어 전체 댓글과 구분 */
+.dc-best-block { margin-bottom: 12px; padding-bottom: 4px; border-bottom: 2px solid var(--amber); }
+.dc-best-block .dc-item { border-bottom: 1px solid var(--border); margin-bottom: 6px; }
 .dc-more { display: inline-block; margin-top: 12px; color: var(--accent); font-weight: 700; text-decoration: none; }
 .dc-more.dc-only { margin-top: 18px; padding: 10px 16px; background: var(--accent-soft); border-radius: var(--radius-sm); }
 .detail-orig {
