@@ -607,15 +607,15 @@ function extractCommentCount(html) {
   return m ? +m[1].replace(/,/g, "") : null;
 }
 // 기사 페이지에서 댓글 추출(작성자·내용·추천·베스트 여부). 미리보기에 전체 인라인 노출.
-function extractComments(html, max = 100) {
+function extractComments(html, max = 1000) {
   let s = html.search(/class=["'][^"']*comment_(?:view|table|wrapper)|id=["']cmt["']/i);
   if (s < 0) return [];
-  const region = html.slice(s, s + 500000);
+  const region = html.slice(s, s + 2000000);
   const out = [];
   const seenText = new Set();
   const parts = region.split(/class="comment_element/);
   for (let i = 1; i < parts.length && out.length < max; i++) {
-    const blk = parts[i].slice(0, 6000);
+    const blk = parts[i].slice(0, 12000);
     const head = parts[i].slice(0, 120);
     const isBest = /\bbest\b/i.test(head) || /icon_best|best_icon|comment_best/i.test(blk.slice(0, 600));
     const nick = rwText((blk.match(/class="[^"]*\bnick\b[^"]*"[^>]*>([\s\S]*?)<\/(?:strong|span|a)>/i) || [])[1]) || null;
@@ -644,13 +644,13 @@ function extractComments(html, max = 100) {
       if (!/^https?:/i.test(u)) continue;
       u = u.replace(/&amp;/g, "&");
       if (!imgs.includes(u)) imgs.push(u);
-      if (imgs.length >= 4) break;
+      if (imgs.length >= 8) break;
     }
     if (!text && !imgs.length) continue;             // 내용·이미지 모두 없으면 스킵
     const likeM = blk.match(/class="[^"]*\b(?:like|recomd|num)\b[^"]*"[^>]*>\s*(\d+)/i);
     out.push({
       nick: nick ? nick.slice(0, 24) : null,
-      text: text.slice(0, 400),
+      text: text.slice(0, 1200),
       like: likeM ? +likeM[1] : null,
       ...(isBest ? { best: true } : {}),
       ...(imgs.length ? { imgs } : {}),
@@ -836,7 +836,7 @@ async function fromRuliwebNews(news) {
         else if (yt) n.image = `https://img.youtube.com/vi/${yt.v}/hqdefault.jpg`;
       }
       if (n.comments == null) { const c = extractCommentCount(h); if (c != null) n.comments = c; } // 댓글 수 보강
-      if (!n.topComments) { const cs = extractComments(h, 100); if (cs.length) n.topComments = cs; } // 전체 댓글
+      if (!n.topComments) { const cs = extractComments(h); if (cs.length) n.topComments = cs; } // 전체 댓글
     } catch { /* 개별 실패 무시 */ }
   };
   let withDate = 0, withBody = 0, withCmt = 0, withCmtList = 0, withLink = 0, withCmtImg = 0;

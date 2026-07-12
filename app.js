@@ -36,7 +36,7 @@ const EVENT_TYPES = ["update", "event", "test"]; // 이벤트 탭에 표시할 �
 
 const TODAY = new Date();
 TODAY.setHours(0, 0, 0, 0);
-const CUR_MONTH = `${TODAY.getFullYear()}-${String(TODAY.getMonth() + 1).padStart(2, "0")}`; // 출시·이벤트 기본 월
+const CUR_MONTH = `${TODAY.getFullYear()}-${String(TODAY.getMonth() + 1).padStart(2, "0")}`; // "이번 달" 라벨 표시용
 
 const $ = (sel) => document.querySelector(sel);
 const esc = (s) => String(s).replace(/[&<>"]/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" }[c]));
@@ -268,8 +268,9 @@ function setTab(cat) {
       t.classList.toggle("active", on);
       t.setAttribute("aria-selected", on ? "true" : "false");
     });
-    // 뉴스=전체 기간(날짜순), 출시·이벤트=현재 월 기준이 디폴트
-    STATE.month = cat === "news" ? "all" : CUR_MONTH;
+    // 뉴스·출시·이벤트 모두 기본=전체 기간 — 원본(인벤 캘린더)처럼 모든 월 + 출시 미정까지
+    // 한 번에 노출하고, 아래 scrollAfterRender 로 오늘 위치에 자동 포커싱한다.
+    STATE.month = "all";
     buildMonthSelect();   // 탭별로 기간 옵션이 다름(뉴스=뉴스 날짜, 그 외=일정 월)
     scrollAfterRender = (cat !== "news"); // 출시·이벤트 탭 전환 시 오늘 기준으로 포커싱
     render();
@@ -804,19 +805,24 @@ function openDetail(n) {
   } else {
     body = `<p class="detail-empty">본문을 불러오지 못했습니다. 아래 '원문 보기'에서 확인하세요.</p>`;
   }
-  // 댓글: 상위 댓글이 있으면 인라인 노출, 없으면 댓글 수 + 원문 링크
+  // 댓글: 원문(루리웹)과 동일한 구성으로 전체 인라인 노출 —
+  // BEST 댓글 블록이 맨 위, 이어서 전체 댓글을 수집된 원문 순서(시간순) 그대로.
+  // 댓글 속 스샷/이미지도 원문처럼 본문 텍스트 위에 배치.
   let comments = "";
   if (n.topComments && n.topComments.length) {
-    // 베스트 댓글을 위로, 추천수 높은 순
-    const cs = [...n.topComments].sort((a, b) => (b.best ? 1 : 0) - (a.best ? 1 : 0) || (b.like || 0) - (a.like || 0));
+    const best = n.topComments.filter((c) => c.best);
+    const rest = n.topComments.filter((c) => !c.best);
+    const item = (c) => `<div class="dc-item${c.best ? " best" : ""}">
+        <div class="dc-top">${c.best ? `<span class="dc-best">BEST</span>` : ""}${c.nick ? `<span class="dc-nick">${esc(c.nick)}</span>` : ""}${c.like ? `<span class="dc-like">👍 ${c.like}</span>` : ""}</div>
+        ${(c.imgs && c.imgs.length) ? `<div class="dc-imgs">${c.imgs.map((u) => `<img src="${esc(u)}" alt="" loading="lazy" referrerpolicy="no-referrer" onerror="this.remove()">`).join("")}</div>` : ""}
+        ${c.text ? `<div class="dc-text">${esc(c.text)}</div>` : ""}
+      </div>`;
+    const shown = Math.max(n.comments || 0, n.topComments.length);
     comments = `<section class="detail-comments">
-        <h2 class="dc-head">댓글${n.comments != null ? ` ${Number(n.comments).toLocaleString()}` : ""}</h2>
-        ${cs.map((c) => `<div class="dc-item${c.best ? " best" : ""}">
-          <div class="dc-top">${c.best ? `<span class="dc-best">BEST</span>` : ""}${c.nick ? `<span class="dc-nick">${esc(c.nick)}</span>` : ""}${c.like ? `<span class="dc-like">👍 ${c.like}</span>` : ""}</div>
-          ${c.text ? `<div class="dc-text">${esc(c.text)}</div>` : ""}
-          ${(c.imgs && c.imgs.length) ? `<div class="dc-imgs">${c.imgs.map((u) => `<img src="${esc(u)}" alt="" loading="lazy" referrerpolicy="no-referrer" onerror="this.remove()">`).join("")}</div>` : ""}
-        </div>`).join("")}
-        ${n.url ? `<a class="dc-more" href="${esc(n.url)}" target="_blank" rel="noopener">원문에서 댓글 더 보기 ↗</a>` : ""}
+        <h2 class="dc-head">댓글 ${shown.toLocaleString()}</h2>
+        ${best.length ? `<div class="dc-best-block">${best.map(item).join("")}</div>` : ""}
+        ${rest.map(item).join("")}
+        ${n.url ? `<a class="dc-more" href="${esc(n.url)}" target="_blank" rel="noopener">원문에서 보기 ↗</a>` : ""}
       </section>`;
   } else if (n.comments != null && n.url) {
     comments = `<a class="dc-more dc-only" href="${esc(n.url)}" target="_blank" rel="noopener">💬 댓글 ${Number(n.comments).toLocaleString()}개 · 원문에서 보기 ↗</a>`;
