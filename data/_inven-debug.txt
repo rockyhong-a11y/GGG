@@ -1,17 +1,17 @@
-diag_at=2026-07-13T12:07:38.504Z
-game_targets=140
-game inven-13653 https://www.inven.co.kr/webzine/calendar/game/13653 status=200 len=113468
-  title=스톤마키아 - 게임 캘린더 - 인벤
-  og=PC·콘솔·모바일 신작 게임 출시 일정을 한눈에. CBT, OBT, DLC, 업데이트 일정까지 빠짐없이 정리한 인벤 게임 캘린더로 다가올 게임을 미리 확인하세요.
-  signals=application/ld+json
-game inven-13527 https://www.inven.co.kr/webzine/calendar/game/13527 status=200 len=115468
-  title=예르바 부에나 - 게임 캘린더 - 인벤
-  og=PC·콘솔·모바일 신작 게임 출시 일정을 한눈에. CBT, OBT, DLC, 업데이트 일정까지 빠짐없이 정리한 인벤 게임 캘린더로 다가올 게임을 미리 확인하세요.
-  signals=application/ld+json
-game inven-13697 https://www.inven.co.kr/webzine/calendar/game/13697 status=200 len=116584
-  title=TBH: 태스크바 히어로 - 게임 캘린더 - 인벤
-  og=PC·콘솔·모바일 신작 게임 출시 일정을 한눈에. CBT, OBT, DLC, 업데이트 일정까지 빠짐없이 정리한 인벤 게임 캘린더로 다가올 게임을 미리 확인하세요.
-  signals=application/ld+json
+diag_at=2026-07-13T21:46:36.035Z
+game_targets=79
+game inven-12616 https://www.inven.co.kr/webzine/calendar/game/12616 status=404 len=7638
+  title=인벤 | 종합 게임 커뮤니티 INVEN
+  og=
+  signals=
+game inven-13618 https://www.inven.co.kr/webzine/calendar/game/13618 status=404 len=7638
+  title=인벤 | 종합 게임 커뮤니티 INVEN
+  og=
+  signals=
+game inven-13804 https://www.inven.co.kr/webzine/calendar/game/13804 status=404 len=7638
+  title=인벤 | 종합 게임 커뮤니티 INVEN
+  og=
+  signals=
 img noref status=200 type=image/jpeg .../column/webzine3/gamelogo/2025/i1988746358.jpg
 img invenref status=200 type=image/jpeg .../column/webzine3/gamelogo/2025/i1988746358.jpg
 img noref status=200 type=image/jpeg .../column/webzine3/gamelogo/2026/i1834235244.jpg
