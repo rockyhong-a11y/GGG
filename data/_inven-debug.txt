@@ -1,15 +1,15 @@
-diag_at=2026-07-16T02:23:37.743Z
+diag_at=2026-07-16T08:22:16.105Z
 game_targets=140
-game inven-13839 https://www.inven.co.kr/webzine/calendar/game/13839 status=200 len=116368
-  title=70년대풍 로봇 만화 영화 겟피-X - 게임 캘린더 - 인벤
+game inven-13843 https://www.inven.co.kr/webzine/calendar/game/13843 status=200 len=114665
+  title=라그나로크M: Classic - 게임 캘린더 - 인벤
   og=PC·콘솔·모바일 신작 게임 출시 일정을 한눈에. CBT, OBT, DLC, 업데이트 일정까지 빠짐없이 정리한 인벤 게임 캘린더로 다가올 게임을 미리 확인하세요.
   signals=application/ld+json
-game inven-13681 https://www.inven.co.kr/webzine/calendar/game/13681 status=200 len=114196
-  title=컬드셉트 비긴즈 - 게임 캘린더 - 인벤
+game inven-13173 https://www.inven.co.kr/webzine/calendar/game/13173 status=200 len=123649
+  title=몬스터헌터 스토리즈 3 엇갈린 운명 - 게임 캘린더 - 인벤
   og=PC·콘솔·모바일 신작 게임 출시 일정을 한눈에. CBT, OBT, DLC, 업데이트 일정까지 빠짐없이 정리한 인벤 게임 캘린더로 다가올 게임을 미리 확인하세요.
   signals=application/ld+json
-game inven-12925 https://www.inven.co.kr/webzine/calendar/game/12925 status=200 len=118555
-  title=알케론 - 게임 캘린더 - 인벤
+game inven-13521 https://www.inven.co.kr/webzine/calendar/game/13521 status=200 len=113116
+  title=환상향: 유죄추정 - 게임 캘린더 - 인벤
   og=PC·콘솔·모바일 신작 게임 출시 일정을 한눈에. CBT, OBT, DLC, 업데이트 일정까지 빠짐없이 정리한 인벤 게임 캘린더로 다가올 게임을 미리 확인하세요.
   signals=application/ld+json
 img noref status=200 type=image/jpeg .../column/webzine3/gamelogo/2025/i1988746358.jpg
