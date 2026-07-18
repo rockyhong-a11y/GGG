@@ -1,4 +1,4 @@
-diag_at=2026-07-18T02:11:19.678Z
+diag_at=2026-07-18T08:00:13.631Z
 game_targets=0
 img noref status=200 type=image/jpeg ...en.co.kr/upload/2026/05/29/bbs/i1444044475.jpg
 img invenref status=200 type=image/jpeg ...en.co.kr/upload/2026/05/29/bbs/i1444044475.jpg
