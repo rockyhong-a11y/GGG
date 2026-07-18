@@ -1,4 +1,11 @@
-diag_at=2026-07-18T08:00:13.631Z
-game_targets=0
-img noref status=200 type=image/jpeg ...en.co.kr/upload/2026/05/29/bbs/i1444044475.jpg
-img invenref status=200 type=image/jpeg ...en.co.kr/upload/2026/05/29/bbs/i1444044475.jpg
+diag_at=2026-07-18T10:19:17.283Z
+game_targets=140
+game inven-13791 ERR fetch failed
+game inven-13601 ERR fetch failed
+game inven-13151 ERR fetch failed
+img noref status=200 type=image/jpeg .../column/webzine3/gamelogo/2025/i1988746358.jpg
+img invenref status=200 type=image/jpeg .../column/webzine3/gamelogo/2025/i1988746358.jpg
+img noref status=200 type=image/jpeg .../column/webzine3/gamelogo/2026/i1834235244.jpg
+img invenref status=200 type=image/jpeg .../column/webzine3/gamelogo/2026/i1834235244.jpg
+img noref status=200 type=image/jpeg .../column/webzine3/gamelogo/2026/i1279300326.jpg
+img invenref status=200 type=image/jpeg .../column/webzine3/gamelogo/2026/i1279300326.jpg
