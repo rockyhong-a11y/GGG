@@ -1,4 +1,20 @@
-diag_at=2026-07-20T09:24:32.049Z
-game_targets=0
-img noref status=200 type=image/jpeg ...en.co.kr/upload/2026/05/29/bbs/i1444044475.jpg
-img invenref status=200 type=image/jpeg ...en.co.kr/upload/2026/05/29/bbs/i1444044475.jpg
+diag_at=2026-07-20T11:46:19.999Z
+game_targets=140
+game inven-13791 https://www.inven.co.kr/webzine/calendar/game/13791 status=200 len=115275
+  title=루비나이트 - 게임 캘린더 - 인벤
+  og=PC·콘솔·모바일 신작 게임 출시 일정을 한눈에. CBT, OBT, DLC, 업데이트 일정까지 빠짐없이 정리한 인벤 게임 캘린더로 다가올 게임을 미리 확인하세요.
+  signals=application/ld+json
+game inven-13601 https://www.inven.co.kr/webzine/calendar/game/13601 status=200 len=120961
+  title=드래곤소드 : 어웨이크닝 - 게임 캘린더 - 인벤
+  og=PC·콘솔·모바일 신작 게임 출시 일정을 한눈에. CBT, OBT, DLC, 업데이트 일정까지 빠짐없이 정리한 인벤 게임 캘린더로 다가올 게임을 미리 확인하세요.
+  signals=application/ld+json
+game inven-13151 https://www.inven.co.kr/webzine/calendar/game/13151 status=200 len=120855
+  title=스테퍼 레트로: 초능력 추리 퀘스트 - 게임 캘린더 - 인벤
+  og=PC·콘솔·모바일 신작 게임 출시 일정을 한눈에. CBT, OBT, DLC, 업데이트 일정까지 빠짐없이 정리한 인벤 게임 캘린더로 다가올 게임을 미리 확인하세요.
+  signals=application/ld+json
+img noref status=200 type=image/jpeg .../column/webzine3/gamelogo/2025/i1988746358.jpg
+img invenref status=200 type=image/jpeg .../column/webzine3/gamelogo/2025/i1988746358.jpg
+img noref status=200 type=image/jpeg .../column/webzine3/gamelogo/2026/i1834235244.jpg
+img invenref status=200 type=image/jpeg .../column/webzine3/gamelogo/2026/i1834235244.jpg
+img noref status=200 type=image/jpeg .../column/webzine3/gamelogo/2026/i1279300326.jpg
+img invenref status=200 type=image/jpeg .../column/webzine3/gamelogo/2026/i1279300326.jpg
