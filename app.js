@@ -4,13 +4,13 @@
  * UI: a bottom platform tab bar (전체 · 모바일 · PC · 콘솔, swipeable) and a
  * month list box. The same JSON is consumed by the iOS Scriptable widget. */
 
-// 인벤 발매 캘린더의 실제 분류와 일치 (카드 배지)
+// 인벤 발매 캘린더의 실제 분류와 일치 (카드 배지) — iOS 시스템 팔레트
 const EVENT_META = {
-  release: { label: "출시", color: "#3ddc84" },
-  update:  { label: "업데이트", color: "#00c2cb" },
-  ea:      { label: "얼리액세스", color: "#6c7aff" },
-  test:    { label: "테스트", color: "#ffb454" },
-  event:   { label: "행사", color: "#ff85c0" },
+  release: { label: "출시",       color: "#30d158" },  // iOS Green
+  update:  { label: "업데이트",   color: "#64d2ff" },  // iOS Light Blue
+  ea:      { label: "얼리액세스", color: "#ff9f0a" },  // iOS Orange (이전 purple 제거)
+  test:    { label: "테스트",     color: "#ffd60a" },  // iOS Yellow
+  event:   { label: "행사",       color: "#ff6961" },  // iOS Soft Red (이전 hot pink 제거)
 };
 
 // 플랫폼을 묶음으로 분류 (모바일 · PC · 콘솔)
@@ -162,14 +162,14 @@ function renderCard(g) {
             ? `<p class="card-orig">${esc([g.title !== g.titleKr ? g.title : "", g.developer].filter(Boolean).join(" · "))}</p>`
             : ""}
         </div>
-        ${g.update ? `<p class="card-update">📌 ${esc(g.update)}</p>` : ""}
+        ${g.update ? `<p class="card-update">${esc(g.update)}</p>` : ""}
         ${g.description ? `<p class="card-desc">${esc(g.description)}</p>` : ""}
         ${(platforms || genres) ? `<div class="badges">${platforms}${genres}</div>` : ""}
         ${(g.tags && g.tags.length) ? `<div class="badges">${g.tags.map((t) => `<span class="badge tag">#${esc(t)}</span>`).join("")}</div>` : ""}
         <div class="card-meta">
           <span class="meta-date">${formatDate(g.releaseDate)}${g.endDate ? ` ~ ${formatDate(g.endDate).slice(5)}` : ""}</span>
           <span class="meta-right">
-            ${g.rating ? `<span class="rating">★ ${g.rating.toFixed(1)}</span>` : (g.hypeScore ? `<span class="hype">🔥 ${g.hypeScore}</span>` : "")}
+            ${g.rating ? `<span class="rating">★ ${g.rating.toFixed(1)}</span>` : (g.hypeScore ? `<span class="hype">▲ ${g.hypeScore}</span>` : "")}
             ${price.text ? `<span class="price ${price.free ? "free" : ""}">${price.text}</span>` : ""}
           </span>
         </div>

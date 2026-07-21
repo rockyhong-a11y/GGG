@@ -45,12 +45,18 @@
   --safe-top: env(safe-area-inset-top, 0px);
   --safe-bottom: env(safe-area-inset-bottom, 0px);
   --maxw: 1100px;
-  /* 게임 뉴스 서체: 제목(헤드라인, 너무 굵지 않게)과 본문(가독)을 분리. 설정에서 폰트 선택 시 override */
-  --font-title: "Gothic A1", "Noto Sans KR", "Apple SD Gothic Neo", sans-serif;
+  /* 게임 뉴스 서체: 시스템 폰트 우선(iPhone Metal 네이티브 느낌), 설정에서 폰트 선택 시 override */
+  --font-title: -apple-system, BlinkMacSystemFont, "Apple SD Gothic Neo", "SF Pro Display", "Pretendard", "Noto Sans KR", "Gothic A1", sans-serif;
   --font-body: "Pretendard", "Noto Sans KR", -apple-system, BlinkMacSystemFont, "Apple SD Gothic Neo",
     "Malgun Gothic", Roboto, sans-serif;
   --font-scale: 1;   /* 설정의 글자 크기 슬라이더가 조정하는 배율 */
   --line-scale: 1;   /* 설정의 줄간격 슬라이더가 조정하는 배율 */
+}
+
+/* 라이트 테마에서 이번 달 헤더: 더 진한 스틸블루 그라디언트 */
+:root[data-theme="light"] .month-head.current span:first-child {
+  background: linear-gradient(100deg, #1a5fc8 0%, #2f74e0 55%, #5a94f0 100%);
+  -webkit-background-clip: text; background-clip: text; -webkit-text-fill-color: transparent;
 }
 
 /* 라이트 테마 — 폴리시드 알루미늄(맥북/아이폰 실버) 질감 */
@@ -253,9 +259,9 @@ a { color: inherit; }
   padding: 9px 4px 8px; transition: color .12s;
 }
 .tabbar .tab svg { width: 23px; height: 23px; display: block; transition: filter .12s; }
-.tabbar .tab.active { color: var(--accent); }
-/* 활성 탭 아이콘에 은은한 발광(빛나는 금속 각인) */
-.tabbar .tab.active svg { filter: drop-shadow(0 0 6px var(--accent-soft)); }
+.tabbar .tab.active { color: var(--accent); font-weight: 700; }
+/* 활성 탭: 광택 아이콘(발광 제거, iOS 네이티브 탭바처럼 색상만으로 구분) */
+.tabbar .tab.active svg { opacity: 1; }
 .tabbar .tab:active { opacity: .7; }
 
 /* Result bar */
@@ -292,7 +298,8 @@ main { max-width: var(--maxw); margin: 0 auto; padding: 2px 16px 24px; }
 .month-head.current { color: var(--text); }
 .month-head.tbd { color: var(--text-faint); font-style: italic; }
 .month-head.current span:first-child {
-  background: linear-gradient(90deg, var(--accent), #b14aed);
+  /* 티타늄 하이라이트: 차가운 아이스블루→스틸블루, 퍼플 제거 */
+  background: linear-gradient(100deg, #c8daff 0%, var(--accent) 55%, #8ab4ff 100%);
   -webkit-background-clip: text; background-clip: text; -webkit-text-fill-color: transparent;
 }
 .month-count {
@@ -343,8 +350,9 @@ main { max-width: var(--maxw); margin: 0 auto; padding: 2px 16px 24px; }
 .card-title { font-size: calc(16px * var(--font-scale)); font-weight: 700; margin: 0; line-height: calc(1.3 * var(--line-scale)); }
 .card-orig { font-size: calc(12px * var(--font-scale)); color: var(--text-faint); margin: 2px 0 0; }
 .card-update {
-  font-size: calc(13px * var(--font-scale)); color: var(--text); margin: 0;
-  background: var(--accent-soft); border-left: 3px solid var(--accent);
+  font-size: calc(13px * var(--font-scale)); color: var(--text-dim); margin: 0;
+  background: linear-gradient(180deg, rgba(255,255,255,0.05) 0%, rgba(0,0,0,0.15) 100%);
+  border: 1px solid var(--border); border-left: 2px solid var(--border);
   padding: 7px 10px; border-radius: 6px; line-height: calc(1.45 * var(--line-scale));
 }
 .card-desc { font-size: calc(13px * var(--font-scale)); color: var(--text-dim); margin: 0; flex: 1; }
@@ -386,7 +394,7 @@ main { max-width: var(--maxw); margin: 0 auto; padding: 2px 16px 24px; }
   display: flex; align-items: center; justify-content: center;
   background: linear-gradient(160deg, #2b2f36, #14161a);
 }
-.news-thumb--ph::after { content: "\1F4F0"; font-size: calc(26px * var(--font-scale)); opacity: .9; }
+.news-thumb--ph::after { content: ""; }
 .news-body { display: flex; flex-direction: column; gap: 5px; min-width: 0; flex: 1; }
 .news-title {
   color: var(--text); font-size: calc(15px * var(--font-scale)); font-weight: 700; line-height: calc(1.4 * var(--line-scale));
