@@ -544,7 +544,7 @@ function buildIconGrid() {
   );
 }
 /* ---------- Theme (다크/라이트 토글) ---------- */
-const THEME_COLOR = { dark: "#000000", light: "#eef1f8" };
+const THEME_COLOR = { dark: "#0a0b0d", light: "#dfe3ec" };
 function savedTheme() {
   try { return localStorage.getItem("gnw-theme") === "light" ? "light" : "dark"; } catch { return "dark"; }
 }
