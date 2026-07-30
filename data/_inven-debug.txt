@@ -1,4 +1,20 @@
-diag_at=2026-07-30T02:07:01.499Z
-game_targets=0
-img noref status=200 type=image/jpeg ...en.co.kr/upload/2026/05/29/bbs/i1444044475.jpg
-img invenref status=200 type=image/jpeg ...en.co.kr/upload/2026/05/29/bbs/i1444044475.jpg
+diag_at=2026-07-30T08:35:43.217Z
+game_targets=140
+game inven-13875 https://www.inven.co.kr/webzine/calendar/game/13875 status=200 len=115101
+  title=새나라: 더 새크라멘트 - 게임 캘린더 - 인벤
+  og=PC·콘솔·모바일 신작 게임 출시 일정을 한눈에. CBT, OBT, DLC, 업데이트 일정까지 빠짐없이 정리한 인벤 게임 캘린더로 다가올 게임을 미리 확인하세요.
+  signals=application/ld+json
+game inven-13502 https://www.inven.co.kr/webzine/calendar/game/13502 status=200 len=117186
+  title=미스트폴 헌터 - 게임 캘린더 - 인벤
+  og=PC·콘솔·모바일 신작 게임 출시 일정을 한눈에. CBT, OBT, DLC, 업데이트 일정까지 빠짐없이 정리한 인벤 게임 캘린더로 다가올 게임을 미리 확인하세요.
+  signals=application/ld+json
+game inven-13679 https://www.inven.co.kr/webzine/calendar/game/13679 status=200 len=120272
+  title=쿠산: 늑대들의 도시 - 게임 캘린더 - 인벤
+  og=PC·콘솔·모바일 신작 게임 출시 일정을 한눈에. CBT, OBT, DLC, 업데이트 일정까지 빠짐없이 정리한 인벤 게임 캘린더로 다가올 게임을 미리 확인하세요.
+  signals=application/ld+json
+img noref status=200 type=image/jpeg .../column/webzine3/gamelogo/2026/i1409545369.jpg
+img invenref status=200 type=image/jpeg .../column/webzine3/gamelogo/2026/i1409545369.jpg
+img noref status=200 type=image/jpeg .../column/webzine3/gamelogo/2025/i1988746358.jpg
+img invenref status=200 type=image/jpeg .../column/webzine3/gamelogo/2025/i1988746358.jpg
+img noref status=200 type=image/jpeg .../column/webzine3/gamelogo/2026/i1834235244.jpg
+img invenref status=200 type=image/jpeg .../column/webzine3/gamelogo/2026/i1834235244.jpg
