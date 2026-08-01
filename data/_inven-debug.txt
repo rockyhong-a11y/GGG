@@ -1,4 +1,4 @@
-diag_at=2026-08-01T10:41:20.872Z
+diag_at=2026-08-01T21:45:13.080Z
 game_targets=11
 game inven-12616 https://www.inven.co.kr/webzine/calendar/game/12616 status=404 len=7638
   title=인벤 | 종합 게임 커뮤니티 INVEN
