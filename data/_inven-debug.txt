@@ -1,15 +1,15 @@
-diag_at=2026-07-31T21:58:13.416Z
-game_targets=11
-game inven-13618 https://www.inven.co.kr/webzine/calendar/game/13618 status=404 len=7638
-  title=인벤 | 종합 게임 커뮤니티 INVEN
-  og=
-  signals=
-game inven-13868 https://www.inven.co.kr/webzine/calendar/game/13868 status=404 len=7638
-  title=인벤 | 종합 게임 커뮤니티 INVEN
-  og=
-  signals=
-game inven-13841 https://www.inven.co.kr/webzine/calendar/game/13841 status=200 len=112210
-  title=애로우즈 – 퍼즐 이스케이프 - 게임 캘린더 - 인벤
+diag_at=2026-08-01T02:33:18.794Z
+game_targets=53
+game inven-13331 https://www.inven.co.kr/webzine/calendar/game/13331 status=200 len=119998
+  title=삼국지: 천하결전 - 게임 캘린더 - 인벤
+  og=PC·콘솔·모바일 신작 게임 출시 일정을 한눈에. CBT, OBT, DLC, 업데이트 일정까지 빠짐없이 정리한 인벤 게임 캘린더로 다가올 게임을 미리 확인하세요.
+  signals=application/ld+json
+game inven-13819 https://www.inven.co.kr/webzine/calendar/game/13819 status=200 len=114079
+  title=컬러스위퍼 - 게임 캘린더 - 인벤
+  og=PC·콘솔·모바일 신작 게임 출시 일정을 한눈에. CBT, OBT, DLC, 업데이트 일정까지 빠짐없이 정리한 인벤 게임 캘린더로 다가올 게임을 미리 확인하세요.
+  signals=application/ld+json
+game inven-13590 https://www.inven.co.kr/webzine/calendar/game/13590 status=200 len=119263
+  title=리듬 천국 미라클 스타즈 - 게임 캘린더 - 인벤
   og=PC·콘솔·모바일 신작 게임 출시 일정을 한눈에. CBT, OBT, DLC, 업데이트 일정까지 빠짐없이 정리한 인벤 게임 캘린더로 다가올 게임을 미리 확인하세요.
   signals=application/ld+json
 img noref status=200 type=image/jpeg .../column/webzine3/gamelogo/2026/i1409545369.jpg
