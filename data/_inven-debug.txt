@@ -1,15 +1,15 @@
-diag_at=2026-08-02T21:45:45.905Z
+diag_at=2026-08-03T02:34:16.419Z
 game_targets=140
-game inven-13533 https://www.inven.co.kr/webzine/calendar/game/13533 status=200 len=113395
-  title=어노말리 프레지던트 - 게임 캘린더 - 인벤
+game inven-13136 https://www.inven.co.kr/webzine/calendar/game/13136 status=200 len=119342
+  title=포켓몬 포코피아 - 게임 캘린더 - 인벤
   og=PC·콘솔·모바일 신작 게임 출시 일정을 한눈에. CBT, OBT, DLC, 업데이트 일정까지 빠짐없이 정리한 인벤 게임 캘린더로 다가올 게임을 미리 확인하세요.
   signals=application/ld+json
-game inven-13890 https://www.inven.co.kr/webzine/calendar/game/13890 status=200 len=117354
-  title=빅 워크 - 게임 캘린더 - 인벤
+game inven-11678 https://www.inven.co.kr/webzine/calendar/game/11678 status=200 len=121108
+  title=마라톤 - 게임 캘린더 - 인벤
   og=PC·콘솔·모바일 신작 게임 출시 일정을 한눈에. CBT, OBT, DLC, 업데이트 일정까지 빠짐없이 정리한 인벤 게임 캘린더로 다가올 게임을 미리 확인하세요.
   signals=application/ld+json
-game inven-12808 https://www.inven.co.kr/webzine/calendar/game/12808 status=200 len=122616
-  title=비스트 오브 리인카네이션 - 게임 캘린더 - 인벤
+game inven-12089 https://www.inven.co.kr/webzine/calendar/game/12089 status=200 len=119199
+  title=슬레이 더 스파이어2 - 게임 캘린더 - 인벤
   og=PC·콘솔·모바일 신작 게임 출시 일정을 한눈에. CBT, OBT, DLC, 업데이트 일정까지 빠짐없이 정리한 인벤 게임 캘린더로 다가올 게임을 미리 확인하세요.
   signals=application/ld+json
 img noref status=200 type=image/jpeg .../column/webzine3/gamelogo/2026/i1409545369.jpg
