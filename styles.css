@@ -114,8 +114,8 @@ a { color: inherit; }
   position: sticky; top: 0; z-index: 20;
   display: flex; align-items: center; justify-content: flex-end; gap: 10px;
   background: var(--glass-bg);
-  backdrop-filter: saturate(180%) blur(20px);
-  -webkit-backdrop-filter: saturate(180%) blur(20px);
+  backdrop-filter: saturate(160%) blur(14px);
+  -webkit-backdrop-filter: saturate(160%) blur(14px);
   box-shadow: inset 0 -1px 0 rgba(0,0,0,0.4), 0 1px 0 var(--glass-hairline);
 }
 .month-select {
@@ -246,8 +246,8 @@ a { color: inherit; }
   position: fixed; left: 0; right: 0; bottom: 0; z-index: 40;
   display: flex; max-width: var(--maxw); margin: 0 auto;
   background: var(--glass-bg);
-  backdrop-filter: saturate(180%) blur(22px);
-  -webkit-backdrop-filter: saturate(180%) blur(22px);
+  backdrop-filter: saturate(160%) blur(16px);
+  -webkit-backdrop-filter: saturate(160%) blur(16px);
   box-shadow: inset 0 1px 0 var(--glass-hairline), 0 -1px 0 rgba(0,0,0,0.4);
   padding-bottom: var(--safe-bottom);
 }
@@ -318,6 +318,10 @@ main { max-width: var(--maxw); margin: 0 auto; padding: 2px 16px 24px; }
   display: flex; flex-direction: column; position: relative;
   box-shadow: var(--bezel-lg);
   transition: transform .15s, box-shadow .15s;
+  /* 긴 리스트(출시 543장 등) 스크롤 부드럽게 — 화면 밖 카드는 페인트/레이아웃 스킵.
+     contain-intrinsic-size 로 스크롤바 높이를 안정적으로 예약(점프 방지). */
+  content-visibility: auto;
+  contain-intrinsic-size: auto 260px;
 }
 .card:hover { transform: translateY(-3px); box-shadow: inset 0 1px 0 rgba(255,255,255,0.12), 0 10px 26px rgba(0,0,0,0.55); }
 .card[data-detail] { cursor: pointer; }
@@ -330,17 +334,19 @@ main { max-width: var(--maxw); margin: 0 auto; padding: 2px 16px 24px; }
   font-size: calc(11px * var(--font-scale)); font-weight: 700; color: #06121a;
   padding: 3px 9px; border-radius: 999px;
 }
+/* 스크롤 성능: 카드가 수백 장이라 per-card backdrop-filter 는 프레임마다 재계산돼
+   심한 잰크를 유발 → 반투명 단색 배경으로 대체(가독성 위해 불투명도만 상향). */
 .countdown {
   position: relative; z-index: 2; font-size: calc(12px * var(--font-scale)); font-weight: 700;
-  background: rgba(0,0,0,.4); backdrop-filter: blur(4px);
+  background: rgba(0,0,0,.55);
   padding: 4px 10px; border-radius: 999px; color: #fff;
 }
 .countdown.released { background: rgba(61,220,132,.22); color: var(--green); }
-.countdown.tbd { background: rgba(107,114,128,.22); color: var(--text-faint); }
+.countdown.tbd { background: rgba(107,114,128,.28); color: var(--text-faint); }
 .play-btn {
   position: absolute; z-index: 2; top: 8px; right: 10px;
   width: 32px; height: 32px; display: grid; place-items: center;
-  border-radius: 50%; background: rgba(0,0,0,.45); backdrop-filter: blur(4px);
+  border-radius: 50%; background: rgba(0,0,0,.6);
   color: #fff; font-size: calc(12px * var(--font-scale)); text-decoration: none;
   border: 1px solid rgba(255,255,255,.25); transition: transform .12s, background .12s;
 }
@@ -383,6 +389,7 @@ main { max-width: var(--maxw); margin: 0 auto; padding: 2px 16px 24px; }
 .news-item {
   display: flex; gap: 12px; align-items: flex-start;
   padding: 15px 4px; border-bottom: 1px solid var(--border); cursor: pointer;
+  content-visibility: auto; contain-intrinsic-size: auto 106px;  /* 오프스크린 항목 페인트 스킵 */
 }
 .news-item:active { opacity: .6; }
 .news-thumb {
@@ -504,7 +511,7 @@ body.sheet-open { overflow: hidden; }
 /* 댓글 */
 .detail-comments { margin-top: 22px; padding-top: 16px; border-top: 1px solid var(--border); }
 .dc-head { font-size: calc(18px * var(--font-scale)); margin: 0 0 10px; color: var(--text); }
-.dc-item { padding: 10px 0; border-bottom: 1px solid var(--border); }
+.dc-item { padding: 10px 0; border-bottom: 1px solid var(--border); content-visibility: auto; contain-intrinsic-size: auto 72px; }
 .dc-top { display: flex; align-items: center; gap: 8px; margin-bottom: 3px; }
 .dc-nick { font-size: calc(14.5px * var(--font-scale)); font-weight: 700; color: var(--accent); }
 .dc-like { font-size: calc(14px * var(--font-scale)); color: var(--text-faint); }
