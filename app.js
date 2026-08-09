@@ -109,33 +109,21 @@ function applyFilters() {
 }
 
 /* ---------- Rendering ---------- */
-// content-visibility 로 화면 밖 카드는 예상 높이(contain-intrinsic-size)만 잡히므로,
-// 목표 카드까지의 누적 오프셋이 첫 프레임엔 부정확할 수 있다. 몇 프레임에 걸쳐
-// 반복 스크롤하면 경로상의 카드가 실제 높이로 렌더되며 위치가 수렴한다.
-function scrollToToday(pass = 0) {
+function scrollToToday() {
+  // 오늘 이상(오늘·미래)의 첫 카드를 화면 최상단으로 → 지난 카드는 위로 스크롤해야 보임
   const ctrl = document.querySelector(".controls");
   const offset = ctrl ? ctrl.getBoundingClientRect().height : 0; // sticky 상단 바 높이만큼 보정
   const scrollTo = (el) => {
     const y = el.getBoundingClientRect().top + window.scrollY - offset;
     window.scrollTo({ top: Math.max(0, y), behavior: "instant" });
   };
-  let target = null;
   for (const card of document.querySelectorAll(".card")) {
     const g = STATE.games.find((x) => String(x.id) === card.dataset.gid);
-    if (g && daysBetween(g.releaseDate) >= 0) { target = card; break; }
+    if (g && daysBetween(g.releaseDate) >= 0) { scrollTo(card); return; }
   }
   // 모두 지난 일정이면 현재 월 블록으로
-  if (!target) { const cur = document.querySelector(".month-head.current"); target = cur && (cur.closest(".month-block") || cur); }
-  if (!target) return;
-  scrollTo(target);
-  // 최대 4패스까지 수렴 보정(값이 안정되면 조기 종료)
-  if (pass < 4) {
-    const before = window.scrollY;
-    requestAnimationFrame(() => {
-      scrollTo(target);
-      if (Math.abs(window.scrollY - before) > 2) scrollToToday(pass + 1);
-    });
-  }
+  const cur = document.querySelector(".month-head.current");
+  if (cur) scrollTo(cur.closest(".month-block") || cur);
 }
 
 function renderCard(g) {
@@ -221,7 +209,7 @@ function renderNews() {
         ${n.summary ? `<span class="news-desc">${esc(n.summary)}</span>` : ""}
         ${meta ? `<span class="news-meta">${meta}</span>` : ""}
       </span>
-      ${n.image ? `<img class="news-thumb" src="${esc(n.image)}" alt="" loading="lazy" decoding="async" referrerpolicy="no-referrer" onerror="this.removeAttribute('src');this.classList.add('news-thumb--ph')">` : `<span class="news-thumb news-thumb--ph" aria-hidden="true"></span>`}
+      ${n.image ? `<img class="news-thumb" src="${esc(n.image)}" alt="" loading="eager" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.removeAttribute('src');this.classList.add('news-thumb--ph')">` : `<span class="news-thumb news-thumb--ph" aria-hidden="true"></span>`}
     </li>`;
   }).join("") + `</ul>`;
 }

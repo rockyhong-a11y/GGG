@@ -318,10 +318,10 @@ main { max-width: var(--maxw); margin: 0 auto; padding: 2px 16px 24px; }
   display: flex; flex-direction: column; position: relative;
   box-shadow: var(--bezel-lg);
   transition: transform .15s, box-shadow .15s;
-  /* 긴 리스트(출시 543장 등) 스크롤 부드럽게 — 화면 밖 카드는 페인트/레이아웃 스킵.
-     contain-intrinsic-size 로 스크롤바 높이를 안정적으로 예약(점프 방지). */
-  content-visibility: auto;
-  contain-intrinsic-size: auto 260px;
+  /* WebKit(아이폰 사파리)은 화면 밖은 타일 단위로만 래스터화하므로 content-visibility 없이도
+     스크롤은 가볍고, 썸네일/본문이 항상 렌더돼 스크롤 중 빈 칸 없이 보인다.
+     paint 컨테인만 걸어 카드 내부 리페인트가 밖으로 새지 않게 한다. */
+  contain: paint;
 }
 .card:hover { transform: translateY(-3px); box-shadow: inset 0 1px 0 rgba(255,255,255,0.12), 0 10px 26px rgba(0,0,0,0.55); }
 .card[data-detail] { cursor: pointer; }
@@ -389,7 +389,6 @@ main { max-width: var(--maxw); margin: 0 auto; padding: 2px 16px 24px; }
 .news-item {
   display: flex; gap: 12px; align-items: flex-start;
   padding: 15px 4px; border-bottom: 1px solid var(--border); cursor: pointer;
-  content-visibility: auto; contain-intrinsic-size: auto 106px;  /* 오프스크린 항목 페인트 스킵 */
 }
 .news-item:active { opacity: .6; }
 .news-thumb {
@@ -511,7 +510,7 @@ body.sheet-open { overflow: hidden; }
 /* 댓글 */
 .detail-comments { margin-top: 22px; padding-top: 16px; border-top: 1px solid var(--border); }
 .dc-head { font-size: calc(18px * var(--font-scale)); margin: 0 0 10px; color: var(--text); }
-.dc-item { padding: 10px 0; border-bottom: 1px solid var(--border); content-visibility: auto; contain-intrinsic-size: auto 72px; }
+.dc-item { padding: 10px 0; border-bottom: 1px solid var(--border); }
 .dc-top { display: flex; align-items: center; gap: 8px; margin-bottom: 3px; }
 .dc-nick { font-size: calc(14.5px * var(--font-scale)); font-weight: 700; color: var(--accent); }
 .dc-like { font-size: calc(14px * var(--font-scale)); color: var(--text-faint); }
