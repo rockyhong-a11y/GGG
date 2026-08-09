@@ -1,4 +1,20 @@
-diag_at=2026-08-08T21:21:12.451Z
-game_targets=0
-img noref status=200 type=image/jpeg ...en.co.kr/upload/2026/05/29/bbs/i1444044475.jpg
-img invenref status=200 type=image/jpeg ...en.co.kr/upload/2026/05/29/bbs/i1444044475.jpg
+diag_at=2026-08-09T01:02:12.168Z
+game_targets=140
+game inven-13909 https://www.inven.co.kr/webzine/calendar/game/13909 status=200 len=115183
+  title=홀 이즈 마인 - 게임 캘린더 - 인벤
+  og=PC·콘솔·모바일 신작 게임 출시 일정을 한눈에. CBT, OBT, DLC, 업데이트 일정까지 빠짐없이 정리한 인벤 게임 캘린더로 다가올 게임을 미리 확인하세요.
+  signals=application/ld+json
+game inven-13891 https://www.inven.co.kr/webzine/calendar/game/13891 status=200 len=114261
+  title=아카토리 - 게임 캘린더 - 인벤
+  og=PC·콘솔·모바일 신작 게임 출시 일정을 한눈에. CBT, OBT, DLC, 업데이트 일정까지 빠짐없이 정리한 인벤 게임 캘린더로 다가올 게임을 미리 확인하세요.
+  signals=application/ld+json
+game inven-13877 https://www.inven.co.kr/webzine/calendar/game/13877 status=200 len=113480
+  title=클로드 - 게임 캘린더 - 인벤
+  og=PC·콘솔·모바일 신작 게임 출시 일정을 한눈에. CBT, OBT, DLC, 업데이트 일정까지 빠짐없이 정리한 인벤 게임 캘린더로 다가올 게임을 미리 확인하세요.
+  signals=application/ld+json
+img noref status=200 type=image/jpeg .../column/webzine3/gamelogo/2026/i1409545369.jpg
+img invenref status=200 type=image/jpeg .../column/webzine3/gamelogo/2026/i1409545369.jpg
+img noref status=200 type=image/jpeg .../column/webzine3/gamelogo/2025/i1988746358.jpg
+img invenref status=200 type=image/jpeg .../column/webzine3/gamelogo/2025/i1988746358.jpg
+img noref status=200 type=image/jpeg .../column/webzine3/gamelogo/2026/i1834235244.jpg
+img invenref status=200 type=image/jpeg .../column/webzine3/gamelogo/2026/i1834235244.jpg
