@@ -1,20 +1,4 @@
-diag_at=2026-08-09T21:22:44.066Z
-game_targets=140
-game inven-13457 https://www.inven.co.kr/webzine/calendar/game/13457 status=200 len=112333
-  title=레인저스 패스: 내셔널 파크 시뮬레이터 - 게임 캘린더 - 인벤
-  og=PC·콘솔·모바일 신작 게임 출시 일정을 한눈에. CBT, OBT, DLC, 업데이트 일정까지 빠짐없이 정리한 인벤 게임 캘린더로 다가올 게임을 미리 확인하세요.
-  signals=application/ld+json
-game inven-13524 https://www.inven.co.kr/webzine/calendar/game/13524 status=200 len=115062
-  title=햄스터와 태양의 마을 - 게임 캘린더 - 인벤
-  og=PC·콘솔·모바일 신작 게임 출시 일정을 한눈에. CBT, OBT, DLC, 업데이트 일정까지 빠짐없이 정리한 인벤 게임 캘린더로 다가올 게임을 미리 확인하세요.
-  signals=application/ld+json
-game inven-13374 https://www.inven.co.kr/webzine/calendar/game/13374 status=200 len=114557
-  title=존 카펜터의 톡식 코만도 - 게임 캘린더 - 인벤
-  og=PC·콘솔·모바일 신작 게임 출시 일정을 한눈에. CBT, OBT, DLC, 업데이트 일정까지 빠짐없이 정리한 인벤 게임 캘린더로 다가올 게임을 미리 확인하세요.
-  signals=application/ld+json
-img noref status=200 type=image/jpeg .../column/webzine3/gamelogo/2026/i1409545369.jpg
-img invenref status=200 type=image/jpeg .../column/webzine3/gamelogo/2026/i1409545369.jpg
-img noref status=200 type=image/jpeg .../column/webzine3/gamelogo/2025/i1988746358.jpg
-img invenref status=200 type=image/jpeg .../column/webzine3/gamelogo/2025/i1988746358.jpg
-img noref status=200 type=image/jpeg .../column/webzine3/gamelogo/2026/i1834235244.jpg
-img invenref status=200 type=image/jpeg .../column/webzine3/gamelogo/2026/i1834235244.jpg
+diag_at=2026-08-10T01:28:03.274Z
+game_targets=0
+img noref status=200 type=image/jpeg ...en.co.kr/upload/2026/05/29/bbs/i1444044475.jpg
+img invenref status=200 type=image/jpeg ...en.co.kr/upload/2026/05/29/bbs/i1444044475.jpg
