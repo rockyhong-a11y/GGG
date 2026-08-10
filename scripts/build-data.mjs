@@ -153,9 +153,21 @@ async function fromRAWG(out) {
 
 // 인벤 발매 캘린더(주요 일정) 파서. HTML 구조 의존이라 best-effort 이며,
 // 실제 페이지 마크업에 맞춰 SEL/정규식 조정이 필요할 수 있다. INVEN=1 일 때만 동작.
-async function invenFetch(url) {
-  try { const res = await fetch(url, { headers: HEADERS }); return { html: await res.text(), status: res.status, err: "" }; }
-  catch (e) { return { html: "", status: 0, err: String(e && e.message || e) }; }
+const sleep = (ms) => new Promise((r) => setTimeout(r, ms));
+// status=0(fetch() 자체 예외 — 타임아웃/DNS/ECONNRESET 등 일시적 네트워크 오류)만 재시도.
+// 실제 HTTP 오류 상태(4xx/5xx)는 재시도해도 즉시 동일하게 실패하므로 바로 반환한다.
+async function invenFetch(url, retries = 3) {
+  let last;
+  for (let i = 0; i <= retries; i++) {
+    try {
+      const res = await fetch(url, { headers: HEADERS, signal: AbortSignal.timeout(15000) });
+      return { html: await res.text(), status: res.status, err: "" };
+    } catch (e) {
+      last = { html: "", status: 0, err: String(e && e.message || e) };
+      if (i < retries) await sleep(1000 * (i + 1)); // 1s, 2s, 3s 백오프
+    }
+  }
+  return last;
 }
 // HTML 에 들어있는 일정들의 YYYYMM 집합(월 파라미터 탐지용)
 function invenMonths(html) {
@@ -966,7 +978,7 @@ async function main() {
   for (const c of collected) if (!usedCollected.has(c)) byKey.set("i|" + normTitle(c.titleKr || c.title), c); // 새 일정만
   for (const g of byKey.values()) if (!g.detailUrl) g.detailUrl = detailFor(g.titleKr || g.title); // 폴백: 본 제목 검색
 
-  const games = [...byKey.values()]
+  let games = [...byKey.values()]
     .filter((g) => g.releaseDate === "TBD" || (g.releaseDate && !isNaN(new Date(g.releaseDate))))
     .sort((a, b) => {
       // TBD 항목은 항상 맨 뒤
@@ -975,6 +987,16 @@ async function main() {
       if (b.releaseDate === "TBD") return -1;
       return new Date(a.releaseDate) - new Date(b.releaseDate);
     });
+
+  // 비파괴 안전장치: 인벤 fetch 가 완전히 실패(네트워크 오류 등)하면 collected=0 이라
+  // games 가 큐레이션 32건으로 주저앉는다. 뉴스와 동일한 원칙(수집 실패 시 직전 값 유지)을
+  // 적용해, 이번 회차가 완전 실패고 직전 games.json 이 더 풍부하면 그걸 그대로 이월한다.
+  // (큐레이션 수정은 다음 성공 회차에 자연히 반영되므로 최신성보다 무중단이 우선.)
+  const invenReport = report.find((r) => r.name === "Inven");
+  const invenFailed = invenReport && invenReport.error && !invenReport.skipped;
+  if (invenFailed && prev && Array.isArray(prev.games) && prev.games.length > games.length) {
+    games = prev.games;
+  }
 
   // 게임 상세 본문 보강(앱 내 미리보기용). 직전 games.json 캐시 + 회당 점진 수집.
   try { report.push(await enrichGameDetails(games, prev)); }
