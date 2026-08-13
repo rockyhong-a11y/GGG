@@ -1,17 +1,8 @@
-diag_at=2026-08-13T10:07:30.757Z
+diag_at=2026-08-13T21:36:21.888Z
 game_targets=13
-game inven-13920 https://www.inven.co.kr/webzine/calendar/game/13920 status=404 len=7638
-  title=인벤 | 종합 게임 커뮤니티 INVEN
-  og=
-  signals=
-game inven-13874 https://www.inven.co.kr/webzine/calendar/game/13874 status=404 len=7638
-  title=인벤 | 종합 게임 커뮤니티 INVEN
-  og=
-  signals=
-game inven-12616 https://www.inven.co.kr/webzine/calendar/game/12616 status=404 len=7638
-  title=인벤 | 종합 게임 커뮤니티 INVEN
-  og=
-  signals=
+game inven-13920 ERR fetch failed
+game inven-13874 ERR fetch failed
+game inven-12616 ERR fetch failed
 img noref status=200 type=image/jpeg .../column/webzine3/gamelogo/2026/i1409545369.jpg
 img invenref status=200 type=image/jpeg .../column/webzine3/gamelogo/2026/i1409545369.jpg
 img noref status=200 type=image/jpeg .../column/webzine3/gamelogo/2025/i1988746358.jpg
