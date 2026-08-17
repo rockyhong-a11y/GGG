@@ -1,14 +1,14 @@
-diag_at=2026-08-17T01:05:50.693Z
-game_targets=13
+diag_at=2026-08-17T07:04:22.777Z
+game_targets=14
+game inven-12503 https://www.inven.co.kr/webzine/calendar/game/12503 status=200 len=120889
+  title=블러드 오브 던워커 - 게임 캘린더 - 인벤
+  og=PC·콘솔·모바일 신작 게임 출시 일정을 한눈에. CBT, OBT, DLC, 업데이트 일정까지 빠짐없이 정리한 인벤 게임 캘린더로 다가올 게임을 미리 확인하세요.
+  signals=application/ld+json
 game inven-13920 https://www.inven.co.kr/webzine/calendar/game/13920 status=404 len=7638
   title=인벤 | 종합 게임 커뮤니티 INVEN
   og=
   signals=
 game inven-13874 https://www.inven.co.kr/webzine/calendar/game/13874 status=404 len=7638
-  title=인벤 | 종합 게임 커뮤니티 INVEN
-  og=
-  signals=
-game inven-12616 https://www.inven.co.kr/webzine/calendar/game/12616 status=404 len=7638
   title=인벤 | 종합 게임 커뮤니티 INVEN
   og=
   signals=
