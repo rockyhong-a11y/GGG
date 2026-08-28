@@ -1,4 +1,4 @@
-diag_at=2026-08-27T19:39:29.287Z
+diag_at=2026-08-28T05:02:14.542Z
 game_targets=12
 game inven-13920 https://www.inven.co.kr/webzine/calendar/game/13920 status=404 len=7638
   title=인벤 | 종합 게임 커뮤니티 INVEN
