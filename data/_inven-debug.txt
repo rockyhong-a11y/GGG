@@ -1,14 +1,14 @@
-diag_at=2026-09-02T22:55:11.511Z
-game_targets=12
+diag_at=2026-09-03T02:53:13.568Z
+game_targets=13
 game inven-13920 https://www.inven.co.kr/webzine/calendar/game/13920 status=404 len=7638
   title=인벤 | 종합 게임 커뮤니티 INVEN
   og=
   signals=
-game inven-12616 https://www.inven.co.kr/webzine/calendar/game/12616 status=404 len=7638
+game inven-14040 https://www.inven.co.kr/webzine/calendar/game/14040 status=404 len=7638
   title=인벤 | 종합 게임 커뮤니티 INVEN
   og=
   signals=
-game inven-13874 https://www.inven.co.kr/webzine/calendar/game/13874 status=404 len=7638
+game inven-12616 https://www.inven.co.kr/webzine/calendar/game/12616 status=404 len=7638
   title=인벤 | 종합 게임 커뮤니티 INVEN
   og=
   signals=
