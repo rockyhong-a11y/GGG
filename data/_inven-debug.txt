@@ -1,6 +1,6 @@
-diag_at=2026-09-15T03:20:50.568Z
+diag_at=2026-09-15T11:27:15.959Z
 game_targets=15
-game inven-14080 https://www.inven.co.kr/webzine/calendar/game/14080 status=200 len=114144
+game inven-14080 https://www.inven.co.kr/webzine/calendar/game/14080 status=200 len=114131
   title=나이트메어: 더 루나틱 - 게임 캘린더 - 인벤
   og=PC·콘솔·모바일 신작 게임 출시 일정을 한눈에. CBT, OBT, DLC, 업데이트 일정까지 빠짐없이 정리한 인벤 게임 캘린더로 다가올 게임을 미리 확인하세요.
   signals=application/ld+json
