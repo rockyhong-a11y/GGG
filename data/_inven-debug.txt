@@ -1,7 +1,7 @@
-diag_at=2026-09-17T23:17:23.093Z
-game_targets=19
-game inven-14085 https://www.inven.co.kr/webzine/calendar/game/14085 status=200 len=114836
-  title=호프 인 더 시티 - 게임 캘린더 - 인벤
+diag_at=2026-09-18T03:08:49.558Z
+game_targets=17
+game inven-12372 https://www.inven.co.kr/webzine/calendar/game/12372 status=200 len=120806
+  title=워프레임 - 게임 캘린더 - 인벤
   og=PC·콘솔·모바일 신작 게임 출시 일정을 한눈에. CBT, OBT, DLC, 업데이트 일정까지 빠짐없이 정리한 인벤 게임 캘린더로 다가올 게임을 미리 확인하세요.
   signals=application/ld+json
 game inven-13920 https://www.inven.co.kr/webzine/calendar/game/13920 status=404 len=7638
