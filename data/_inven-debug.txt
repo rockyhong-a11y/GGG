@@ -1,17 +1,17 @@
-diag_at=2026-09-21T03:16:15.699Z
-game_targets=15
-game inven-13920 https://www.inven.co.kr/webzine/calendar/game/13920 status=404 len=7638
-  title=인벤 | 종합 게임 커뮤니티 INVEN
-  og=
-  signals=
-game inven-13164 https://www.inven.co.kr/webzine/calendar/game/13164 status=200 len=118107
-  title=쁘띠플래닛 - 게임 캘린더 - 인벤
+diag_at=2026-09-21T12:27:52.444Z
+game_targets=21
+game inven-12359 https://www.inven.co.kr/webzine/calendar/game/12359 status=200 len=116292
+  title=디즈니 에픽 미키: 리브러쉬드 - 게임 캘린더 - 인벤
   og=PC·콘솔·모바일 신작 게임 출시 일정을 한눈에. CBT, OBT, DLC, 업데이트 일정까지 빠짐없이 정리한 인벤 게임 캘린더로 다가올 게임을 미리 확인하세요.
   signals=application/ld+json
-game inven-12616 https://www.inven.co.kr/webzine/calendar/game/12616 status=404 len=7638
-  title=인벤 | 종합 게임 커뮤니티 INVEN
-  og=
-  signals=
+game inven-14097 https://www.inven.co.kr/webzine/calendar/game/14097 status=200 len=119876
+  title=킹덤 하츠 컬렉션 [I~III] - 게임 캘린더 - 인벤
+  og=PC·콘솔·모바일 신작 게임 출시 일정을 한눈에. CBT, OBT, DLC, 업데이트 일정까지 빠짐없이 정리한 인벤 게임 캘린더로 다가올 게임을 미리 확인하세요.
+  signals=application/ld+json
+game inven-4046 https://www.inven.co.kr/webzine/calendar/game/4046 status=200 len=125101
+  title=드래곤즈 도그마: 다크 어리즌 - 게임 캘린더 - 인벤
+  og=PC·콘솔·모바일 신작 게임 출시 일정을 한눈에. CBT, OBT, DLC, 업데이트 일정까지 빠짐없이 정리한 인벤 게임 캘린더로 다가올 게임을 미리 확인하세요.
+  signals=application/ld+json
 img noref status=200 type=image/jpeg .../column/webzine3/gamelogo/2026/i1409545369.jpg
 img invenref status=200 type=image/jpeg .../column/webzine3/gamelogo/2026/i1409545369.jpg
 img noref status=200 type=image/jpeg .../column/webzine3/gamelogo/2025/i1988746358.jpg
