@@ -1,17 +1,17 @@
-diag_at=2026-10-14T03:29:25.687Z
-game_targets=17
-game inven-14143 https://www.inven.co.kr/webzine/calendar/game/14143 status=200 len=116101
-  title=드래곤 레이드: 어나더 월드 - 게임 캘린더 - 인벤
+diag_at=2026-10-14T11:31:35.856Z
+game_targets=22
+game inven-14148 https://www.inven.co.kr/webzine/calendar/game/14148 status=200 len=117110
+  title=아노말리스 - 게임 캘린더 - 인벤
   og=PC·콘솔·모바일 신작 게임 출시 일정을 한눈에. CBT, OBT, DLC, 업데이트 일정까지 빠짐없이 정리한 인벤 게임 캘린더로 다가올 게임을 미리 확인하세요.
   signals=application/ld+json
-game inven-13920 https://www.inven.co.kr/webzine/calendar/game/13920 status=404 len=7638
-  title=인벤 | 종합 게임 커뮤니티 INVEN
-  og=
-  signals=
-game inven-12616 https://www.inven.co.kr/webzine/calendar/game/12616 status=404 len=7638
-  title=인벤 | 종합 게임 커뮤니티 INVEN
-  og=
-  signals=
+game inven-14149 https://www.inven.co.kr/webzine/calendar/game/14149 status=200 len=119481
+  title=톰 클랜시의 더 디비전 2: 센트럴 파크의 메아리 - 게임 캘린더 - 인벤
+  og=PC·콘솔·모바일 신작 게임 출시 일정을 한눈에. CBT, OBT, DLC, 업데이트 일정까지 빠짐없이 정리한 인벤 게임 캘린더로 다가올 게임을 미리 확인하세요.
+  signals=application/ld+json
+game inven-14147 https://www.inven.co.kr/webzine/calendar/game/14147 status=200 len=113634
+  title=풀 킹 - 게임 캘린더 - 인벤
+  og=PC·콘솔·모바일 신작 게임 출시 일정을 한눈에. CBT, OBT, DLC, 업데이트 일정까지 빠짐없이 정리한 인벤 게임 캘린더로 다가올 게임을 미리 확인하세요.
+  signals=application/ld+json
 img noref status=200 type=image/jpeg .../column/webzine3/gamelogo/2026/i1409545369.jpg
 img invenref status=200 type=image/jpeg .../column/webzine3/gamelogo/2026/i1409545369.jpg
 img noref status=200 type=image/jpeg .../column/webzine3/gamelogo/2025/i1988746358.jpg
