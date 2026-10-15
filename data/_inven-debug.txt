@@ -1,11 +1,11 @@
-diag_at=2026-10-15T03:08:58.789Z
-game_targets=19
-game inven-14151 https://www.inven.co.kr/webzine/calendar/game/14151 status=200 len=117405
-  title=말드할라 - 게임 캘린더 - 인벤
+diag_at=2026-10-15T11:09:37.069Z
+game_targets=21
+game inven-14154 https://www.inven.co.kr/webzine/calendar/game/14154 status=200 len=117886
+  title=테이블탑 TD: 랜덤 디펜스 - 게임 캘린더 - 인벤
   og=PC·콘솔·모바일 신작 게임 출시 일정을 한눈에. CBT, OBT, DLC, 업데이트 일정까지 빠짐없이 정리한 인벤 게임 캘린더로 다가올 게임을 미리 확인하세요.
   signals=application/ld+json
-game inven-14116 https://www.inven.co.kr/webzine/calendar/game/14116 status=200 len=116082
-  title=탕탕에이스 - 게임 캘린더 - 인벤
+game inven-14157 https://www.inven.co.kr/webzine/calendar/game/14157 status=200 len=116758
+  title=아텔란 배틀그라운즈 - 게임 캘린더 - 인벤
   og=PC·콘솔·모바일 신작 게임 출시 일정을 한눈에. CBT, OBT, DLC, 업데이트 일정까지 빠짐없이 정리한 인벤 게임 캘린더로 다가올 게임을 미리 확인하세요.
   signals=application/ld+json
 game inven-13920 https://www.inven.co.kr/webzine/calendar/game/13920 status=404 len=7638
