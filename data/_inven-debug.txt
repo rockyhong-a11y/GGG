@@ -1,4 +1,4 @@
-diag_at=2026-10-18T13:01:42.704Z
+diag_at=2026-10-18T22:40:58.062Z
 game_targets=16
 game inven-13920 https://www.inven.co.kr/webzine/calendar/game/13920 status=404 len=7638
   title=인벤 | 종합 게임 커뮤니티 INVEN
@@ -13,7 +13,7 @@ game inven-13874 https://www.inven.co.kr/webzine/calendar/game/13874 status=404 
   og=
   signals=
 img noref status=200 type=image/jpeg .../column/webzine3/gamelogo/2026/i1409545369.jpg
-img invenref ERR The operation was aborted due to timeout
+img invenref status=200 type=image/jpeg .../column/webzine3/gamelogo/2026/i1409545369.jpg
 img noref status=200 type=image/jpeg .../column/webzine3/gamelogo/2025/i1988746358.jpg
 img invenref status=200 type=image/jpeg .../column/webzine3/gamelogo/2025/i1988746358.jpg
 img noref status=200 type=image/jpeg .../column/webzine3/gamelogo/2026/i1834235244.jpg
