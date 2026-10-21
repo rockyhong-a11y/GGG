@@ -95,20 +95,38 @@ calendar__header">
 
     <!-- 카운트 다운 -->
     <section class="countdown">
-        <a href="https://store.steampowered.com/sale/nextfest?l=koreana" target="_blank" class="game-countdown__panel">
+        <a href="https://www.inven.co.kr/webzine/calendar/game/13692" target="_blank" class="game-countdown__panel">
     <div class="game-countdown__game">
-                <img class="game-countdown__icon" src="https://upload3.inven.co.kr/upload/2026/10/16/bbs/i1870475367662952.jpg" alt="스팀 넥스트 페스트">
+                <img class="game-countdown__icon" src="https://upload3.inven.co.kr/upload/2026/10/21/bbs/i1735007106938895.jpg" alt="모던 워페어 사">
                 <div class="game-countdown__meta">
             <p class="game-countdown__period">
-                <span class="game-countdown__status game-countdown__status--lg game-countdown__status--4">행사</span>
-                <span>10.20</span>
+                <span class="game-countdown__status game-countdown__status--lg game-countdown__status--1">출시</span>
+                <span>10.23</span>
             </p>
-            <strong class="game-countdown__gname">스팀 넥스트 페스트</strong>
+            <strong class="game-countdown__gname">모던 워페어 사</strong>
         </div>
     </div>
-    <p class="game-countdown__timer-label">행사 시작까지 남은 시간</p>
-        <div class="game-countdown__timer" data-end="2026-10-20T02:00:00">
-                    <strong class="game-countdown__timer-available">AVAILABLE TODAY</strong>
+    <p class="game-countdown__timer-label">출시까지 남은 시간</p>
+        <div class="game-countdown__timer" data-end="2026-10-23T00:00:00">
+                <div class="game-countdown__timer-item">
+            <strong class="game-countdown__timer-num" data-unit="days">00</strong>
+            <span class="game-countdown__timer-unit">Days</span>
+        </div>
+        <span class="game-countdown__timer-sep" aria-hidden="true"></span>
+        <div class="game-countdown__timer-item">
+            <strong class="game-countdown__timer-num" data-unit="hours">00</strong>
+            <span class="game-countdown__timer-unit">Hours</span>
+        </div>
+        <span class="game-countdown__timer-sep" aria-hidden="true"></span>
+        <div class="game-countdown__timer-item">
+            <strong class="game-countdown__timer-num" data-unit="min">00</strong>
+            <span class="game-countdown__timer-unit">Min</span>
+        </div>
+        <span class="game-countdown__timer-sep" aria-hidden="true"></span>
+        <div class="game-countdown__timer-item">
+            <strong class="game-countdown__timer-num" data-unit="sec">00</strong>
+            <span class="game-countdown__timer-unit">Sec</span>
+        </div>
             </div>
     </a>
 
@@ -152,17 +170,18 @@ calendar__header">
     <!-- 인벤 게임즈 -->
         <section class="inven-games">
         <figure class="inven-games__figure">
-                            <img src="https://upload3.inven.co.kr/upload/2026/10/16/bbs/i1335646935473175.jpg" alt="젤다의 전설 시간의 오카리나">
+                            <img src="https://upload3.inven.co.kr/upload/2026/08/12/bbs/i1725132308018446.jpg" alt="팬텀 블레이드 제로">
                         <span class="inven-games__logo" aria-hidden="true"></span>
         </figure>
-        <a href="https://mkt.shopping.naver.com/link/6ad1de67b8ba063dc6cec012" target="_blank" class="inven-games__info">
+        <a href="https://mkt.shopping.naver.com/link/6ad1dde33fe94f788d43ab26" target="_blank" class="inven-games__info">
             <div class="inven-games__txt">
                 <div class="inven-games__title">
-                    <span class="inven-games__badge">예약구매</span>                    <p class="inven-games__name">젤다의 전설 시간의 오카리나</p>
+                    <span class="inven-games__badge">예약구매</span>                    <p class="inven-games__name">팬텀 블레이드 제로</p>
                 </div>
                 <div class="inven-games__price">
-                                                            <div class="inven-games__final">
-                                                <strong class="inven-games__amount">88,000<span class="inven-games__unit">원</span>
+                                                                <div class="naver-pay">1,000</div>
+                                        <div class="inven-games__final">
+                                                <strong class="inven-games__amount">69,800<span class="inven-games__unit">원</span>
                         </strong>
                     </div>
                 </div>
@@ -776,15 +795,4 @@ calendar__header">
                             data-youtube="UTVVw9fsHVA"
                             data-google-calendar="https://calendar.google.com/calendar/render?action=TEMPLATE&text=%EC%A7%84%EC%82%BC%EA%B5%AD%EB%AC%B4%EC%8C%8D2%3A+%EC%BB%B4%ED%94%8C%EB%A6%AC%ED%8A%B8+%EC%97%90%EB%94%94%EC%85%98+%EB%A6%AC%EB%A7%88%EC%8A%A4%ED%84%B0&dates=20261001/20261002&details=%EC%A7%84%EC%82%BC%EA%B5%AD%EB%AC%B4%EC%8C%8D2%3A+%EC%BB%B4%ED%94%8C%EB%A6%AC%ED%8A%B8+%EC%97%90%EB%94%94%EC%85%98+%EB%A6%AC%EB%A7%88%EC%8A%A4%ED%84%B0+%3A+https%3A%2F%2Fwww.inven.co.kr%2Fwebzine%2Fcalendar%2Fgame%2F13161&sf=true&output=xml"
                             _="on click
-                            put `<div class='video-modal__skeleton'><div class='spinner'></div></div>` into .video-modal__video-wrapper
-                            put `<iframe id='video-modal-iframe' src='https://www.youtube.com/embed/` + @data-youtube + `?autoplay=1&mute=1&playsinline=1&rel=0&origin=https://www.inven.co.kr' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share' referrerpolicy='strict-origin-when-cross-origin' allowfullscreen></iframe>` at end of .video-modal__video-wrapper
-                            if @data-google-calendar is not empty
-                                set .video-modal__btn--calendar@href to @data-google-calendar
-                                remove .hidden from .video-modal__btn--calendar
-                            else
-                                add .hidden to .video-modal__btn--calendar
-                            end
-                            add .is-active to #video-modal
-                            wait for load from #video-modal-iframe
-                            remove the first .video-modal__skeleton"
-      
+                            put `<div class='video-modal__skeleton'><div class='spinner'></div></div>`
