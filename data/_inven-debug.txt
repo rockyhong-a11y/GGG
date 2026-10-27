@@ -1,14 +1,14 @@
-diag_at=2026-10-27T03:40:07.129Z
+diag_at=2026-10-27T11:52:51.304Z
 game_targets=18
+game inven-14183 https://www.inven.co.kr/webzine/calendar/game/14183 status=200 len=119080
+  title=나인 킹즈 - 게임 캘린더 - 인벤
+  og=PC·콘솔·모바일 신작 게임 출시 일정을 한눈에. CBT, OBT, DLC, 업데이트 일정까지 빠짐없이 정리한 인벤 게임 캘린더로 다가올 게임을 미리 확인하세요.
+  signals=application/ld+json
 game inven-13920 https://www.inven.co.kr/webzine/calendar/game/13920 status=404 len=7638
   title=인벤 | 종합 게임 커뮤니티 INVEN
   og=
   signals=
 game inven-12616 https://www.inven.co.kr/webzine/calendar/game/12616 status=404 len=7638
-  title=인벤 | 종합 게임 커뮤니티 INVEN
-  og=
-  signals=
-game inven-13874 https://www.inven.co.kr/webzine/calendar/game/13874 status=404 len=7638
   title=인벤 | 종합 게임 커뮤니티 INVEN
   og=
   signals=
