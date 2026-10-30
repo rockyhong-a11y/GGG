@@ -1,17 +1,17 @@
-diag_at=2026-10-30T04:19:42.826Z
-game_targets=16
-game inven-14208 https://www.inven.co.kr/webzine/calendar/game/14208 status=200 len=118152
-  title=툼워터 - 게임 캘린더 - 인벤
+diag_at=2026-10-30T12:29:27.678Z
+game_targets=39
+game inven-14225 https://www.inven.co.kr/webzine/calendar/game/14225 status=200 len=120301
+  title=그라브하운즈 - 게임 캘린더 - 인벤
   og=PC·콘솔·모바일 신작 게임 출시 일정을 한눈에. CBT, OBT, DLC, 업데이트 일정까지 빠짐없이 정리한 인벤 게임 캘린더로 다가올 게임을 미리 확인하세요.
   signals=application/ld+json
-game inven-13920 https://www.inven.co.kr/webzine/calendar/game/13920 status=404 len=7638
-  title=인벤 | 종합 게임 커뮤니티 INVEN
-  og=
-  signals=
-game inven-14020 https://www.inven.co.kr/webzine/calendar/game/14020 status=404 len=7638
-  title=인벤 | 종합 게임 커뮤니티 INVEN
-  og=
-  signals=
+game inven-14227 https://www.inven.co.kr/webzine/calendar/game/14227 status=200 len=119076
+  title=로프티아 - 게임 캘린더 - 인벤
+  og=PC·콘솔·모바일 신작 게임 출시 일정을 한눈에. CBT, OBT, DLC, 업데이트 일정까지 빠짐없이 정리한 인벤 게임 캘린더로 다가올 게임을 미리 확인하세요.
+  signals=application/ld+json
+game inven-14229 https://www.inven.co.kr/webzine/calendar/game/14229 status=200 len=119931
+  title=고질라: 디스트로이 올 몬스터즈 멜레 리마스터드 - 게임 캘린더 - 인벤
+  og=PC·콘솔·모바일 신작 게임 출시 일정을 한눈에. CBT, OBT, DLC, 업데이트 일정까지 빠짐없이 정리한 인벤 게임 캘린더로 다가올 게임을 미리 확인하세요.
+  signals=application/ld+json
 img noref status=200 type=image/jpeg .../column/webzine3/gamelogo/2026/i1409545369.jpg
 img invenref status=200 type=image/jpeg .../column/webzine3/gamelogo/2026/i1409545369.jpg
 img noref status=200 type=image/jpeg .../column/webzine3/gamelogo/2025/i1988746358.jpg
