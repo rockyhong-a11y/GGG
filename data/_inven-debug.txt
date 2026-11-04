@@ -1,15 +1,15 @@
-diag_at=2026-11-04T04:47:50.651Z
-game_targets=19
-game inven-14245 https://www.inven.co.kr/webzine/calendar/game/14245 status=200 len=121733
-  title=카운티 오브 포춘 - 게임 캘린더 - 인벤
+diag_at=2026-11-04T14:04:48.692Z
+game_targets=22
+game inven-14246 https://www.inven.co.kr/webzine/calendar/game/14246 status=200 len=121789
+  title=같이 옮기자! - 게임 캘린더 - 인벤
   og=PC·콘솔·모바일 신작 게임 출시 일정을 한눈에. CBT, OBT, DLC, 업데이트 일정까지 빠짐없이 정리한 인벤 게임 캘린더로 다가올 게임을 미리 확인하세요.
   signals=application/ld+json
-game inven-14243 https://www.inven.co.kr/webzine/calendar/game/14243 status=200 len=121844
-  title=애쉬즈 오브 더 싱귤래리티 2 - 게임 캘린더 - 인벤
+game inven-14248 https://www.inven.co.kr/webzine/calendar/game/14248 status=200 len=122050
+  title=부스터 팩 히어로즈 - 게임 캘린더 - 인벤
   og=PC·콘솔·모바일 신작 게임 출시 일정을 한눈에. CBT, OBT, DLC, 업데이트 일정까지 빠짐없이 정리한 인벤 게임 캘린더로 다가올 게임을 미리 확인하세요.
   signals=application/ld+json
-game inven-14244 https://www.inven.co.kr/webzine/calendar/game/14244 status=200 len=121357
-  title=스톰포지 - 게임 캘린더 - 인벤
+game inven-14250 https://www.inven.co.kr/webzine/calendar/game/14250 status=200 len=122063
+  title=월 월드 스트래티지 - 게임 캘린더 - 인벤
   og=PC·콘솔·모바일 신작 게임 출시 일정을 한눈에. CBT, OBT, DLC, 업데이트 일정까지 빠짐없이 정리한 인벤 게임 캘린더로 다가올 게임을 미리 확인하세요.
   signals=application/ld+json
 img noref status=200 type=image/jpeg .../column/webzine3/gamelogo/2026/i1409545369.jpg
