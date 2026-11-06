@@ -1,8 +1,8 @@
-fetched_at=2026-11-05T17:08:59.276Z
+fetched_at=2026-11-06T01:16:31.729Z
 url=https://www.inven.co.kr/webzine/calendar/
 status=200
 error=
-html_length=458014
+html_length=457868
 calendar_game_links=75
 news_links=3
 upload_imgs=93
