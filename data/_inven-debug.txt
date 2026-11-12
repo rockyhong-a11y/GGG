@@ -1,14 +1,14 @@
-diag_at=2026-11-12T05:42:44.383Z
-game_targets=18
-game inven-9562 https://www.inven.co.kr/webzine/calendar/game/9562 status=200 len=126207
-  title=스트레이 - 게임 캘린더 - 인벤
-  og=PC·콘솔·모바일 신작 게임 출시 일정을 한눈에. CBT, OBT, DLC, 업데이트 일정까지 빠짐없이 정리한 인벤 게임 캘린더로 다가올 게임을 미리 확인하세요.
-  signals=application/ld+json
-game inven-14262 https://www.inven.co.kr/webzine/calendar/game/14262 status=200 len=121891
-  title=엔젤리안 트리거 - 게임 캘린더 - 인벤
-  og=PC·콘솔·모바일 신작 게임 출시 일정을 한눈에. CBT, OBT, DLC, 업데이트 일정까지 빠짐없이 정리한 인벤 게임 캘린더로 다가올 게임을 미리 확인하세요.
-  signals=application/ld+json
+diag_at=2026-11-12T14:54:46.337Z
+game_targets=14
 game inven-14020 https://www.inven.co.kr/webzine/calendar/game/14020 status=404 len=7638
+  title=인벤 | 종합 게임 커뮤니티 INVEN
+  og=
+  signals=
+game inven-12616 https://www.inven.co.kr/webzine/calendar/game/12616 status=404 len=7638
+  title=인벤 | 종합 게임 커뮤니티 INVEN
+  og=
+  signals=
+game inven-13874 https://www.inven.co.kr/webzine/calendar/game/13874 status=404 len=7638
   title=인벤 | 종합 게임 커뮤니티 INVEN
   og=
   signals=
