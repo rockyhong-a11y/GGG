@@ -2,7 +2,7 @@
   "meta": {
     "title": "GNW — Game New Watch",
     "description": "인벤 발매 캘린더 기반 주요 게임 일정",
-    "updated": "2026-11-15",
+    "updated": "2026-11-16",
     "version": 10,
     "sources": [
       {
@@ -29,7 +29,7 @@
       "total": 1170,
       "curated": 32,
       "collected": 1204,
-      "news": 103
+      "news": 102
     }
   },
   "games": [
@@ -52860,6 +52860,775 @@
   ],
   "news": [
     {
+      "id": "ruliweb-231945",
+      "title": "한미마이크로닉스, APNX PC 케이스 세일 페스티벌 오늘(16일) 시작",
+      "url": "https://bbs.ruliweb.com/news/read/231945",
+      "source": "루리웹",
+      "date": "2026.11.16",
+      "time": "09:30:14",
+      "views": 4,
+      "comments": 0,
+      "summary": "한미마이크로닉스는 11월 16일부터 하이엔드 pc 케이스 브랜드 apnx의 v1, v2, v2-f 시리즈를 대상으로 한정 수량 세일 페스티벌을 진행한다. 이번 행...",
+      "image": "https://img.ruliweb.com/data/news/tn/26/11/16/1a1e1c25742_itbdgs.webp",
+      "author": "이명규 기자"
+    },
+    {
+      "id": "ruliweb-2366490",
+      "title": "CDPR 사이버펑크 2 부디렉터가 시프트업을 방문",
+      "url": "https://bbs.ruliweb.com/news/board/1001/read/2366490?",
+      "source": "루리웹",
+      "date": "2026.11.16",
+      "image": "https://i2.ruliweb.com/ori/26/11/16/1a1e1be60d8242da.webp",
+      "summary": "더 위쳐 3 와일드 헌트 퀘스트 디자이너 사이버펑크 2077 리드 퀘스트 디자이너 현재 사이버펑크 2 어소시에이트 게임 디렉터인 파베우 사스코 Paweł Sasko 씨가 시프트업을 방문했습니다 시프트업의 CEO이자 저명한 아티스트 그리고 스텔라 블레이드 를 탄생시킨 창의적 비전의 주역인",
+      "time": "09:30",
+      "author": "nokcha",
+      "content": [
+        {
+          "t": "img",
+          "v": "https://i2.ruliweb.com/img/26/11/16/1a1e1be60d8242da.webp"
+        },
+        {
+          "t": "img",
+          "v": "https://i2.ruliweb.com/img/26/11/16/1a1e1be62b6242da.webp"
+        },
+        {
+          "t": "p",
+          "v": "더 위쳐 3: 와일드 헌트 퀘스트 디자이너, 사이버펑크 2077 리드 퀘스트 디자이너, 현재 사이버펑크 2 어소시에이트 게임 디렉터인"
+        },
+        {
+          "t": "p",
+          "v": "파베우 사스코 (Paweł Sasko) 씨가 시프트업을 방문했습니다. 시프트업의 CEO이자 저명한 아티스트, 그리고 『스텔라 블레이드』를 탄생시킨 창의적 비전의 주역인 전설적인 김형태 대표와 함께. 사무실이 정말 멋지네요. 진정으로 크리에이터들이 만든 공간이었고, 방문하는 내내 정말 좋았습니다!"
+        }
+      ],
+      "comments": 0
+    },
+    {
+      "id": "ruliweb-231944",
+      "title": "요거트월드, 해태제과 저당 브랜드 로슈와 협업 ‘저당 디저트 페어링’ 프...",
+      "url": "https://bbs.ruliweb.com/news/read/231944",
+      "source": "루리웹",
+      "date": "2026.11.16",
+      "time": "09:26:45",
+      "views": 11,
+      "comments": 0,
+      "summary": "요거트월드가 해태제과와 협업해 11월 16일부터 저당 디저트 페어링 프로모션을 진행한다. 이번 협업은 헬시 플레저 트렌드에 맞춰 당 함량을 대폭 낮춘 요거트월드의...",
+      "image": "https://img.ruliweb.com/data/news/tn/26/11/16/1a1e1c0bf2a_rdgnqc.webp",
+      "author": "이장원 기자"
+    },
+    {
+      "id": "ruliweb-231943",
+      "title": "애피어(Appier), 지난주 12일(목) ‘마케터의 밤’서 24시간 A...",
+      "url": "https://bbs.ruliweb.com/news/read/231943",
+      "source": "루리웹",
+      "date": "2026.11.16",
+      "time": "09:24:05",
+      "views": 14,
+      "comments": 0,
+      "summary": "ai 네이티브 aaas 기업 애피어는 모비데이즈 ‘마케터의 밤’에서 에이전틱 ai 기반 대화형 플랫폼 ‘봇보니’를 공개했습니다. 봇보니는 노코드 기반의 ai 스토...",
+      "image": "https://img.ruliweb.com/data/news/tn/26/11/16/1a1e1bd50a9_kiqmyd.webp",
+      "author": "이장원 기자"
+    },
+    {
+      "id": "ruliweb-231942",
+      "title": "㈜스푼랩스 비글루, '클링 AI'와 AI 숏드라마 공모전 '2026 제 ...",
+      "url": "https://bbs.ruliweb.com/news/read/231942",
+      "source": "루리웹",
+      "date": "2026.11.16",
+      "time": "09:21:56",
+      "views": 17,
+      "comments": 0,
+      "summary": "ai 엔터테인먼트 기업 스푼랩스의 숏드라마 플랫폼 비글루가 총상금 2만 달러 규모의 '2026 제2회 숏드라마 페스티벌'을 개최한다. 이번 공모전은 클링 ai를 ...",
+      "image": "https://img.ruliweb.com/data/news/tn/26/11/16/1a1e1bb58a6_mjdbgo.webp",
+      "author": "이장원 기자"
+    },
+    {
+      "id": "ruliweb-2366489",
+      "title": "용과 같이 스튜디오 신작, 스트레인저 댄 헤븐 스샷 모음",
+      "url": "https://bbs.ruliweb.com/news/board/1001/read/2366489?",
+      "source": "루리웹",
+      "date": "2026.11.16",
+      "image": "https://i3.ruliweb.com/ori/26/11/16/1a1e1b9a9e52af81.webp",
+      "summary": "용과 같이 스튜디오 신작 스트레인저 댄 헤븐 스샷 모음",
+      "time": "09:20",
+      "author": "Winter Love",
+      "content": [
+        {
+          "t": "img",
+          "v": "https://i3.ruliweb.com/img/26/11/16/1a1e1b94eda2af81.webp"
+        },
+        {
+          "t": "img",
+          "v": "https://i3.ruliweb.com/img/26/11/16/1a1e1b95e8d2af81.webp"
+        },
+        {
+          "t": "img",
+          "v": "https://i1.ruliweb.com/img/26/11/16/1a1e1b9783e2af81.webp"
+        },
+        {
+          "t": "img",
+          "v": "https://i1.ruliweb.com/img/26/11/16/1a1e1b97a032af81.webp"
+        },
+        {
+          "t": "img",
+          "v": "https://i1.ruliweb.com/img/26/11/16/1a1e1b97bfd2af81.webp"
+        },
+        {
+          "t": "img",
+          "v": "https://i1.ruliweb.com/img/26/11/16/1a1e1b97e042af81.webp"
+        },
+        {
+          "t": "img",
+          "v": "https://i3.ruliweb.com/img/26/11/16/1a1e1b99c8c2af81.webp"
+        },
+        {
+          "t": "img",
+          "v": "https://i3.ruliweb.com/img/26/11/16/1a1e1b9a9e52af81.webp"
+        }
+      ],
+      "comments": 0
+    },
+    {
+      "id": "ruliweb-231941",
+      "title": "라이엇 게임즈, 리그 오브 레전드 ‘차세대 업데이트’ 14일(토) 공개",
+      "url": "https://bbs.ruliweb.com/news/read/231941",
+      "source": "루리웹",
+      "date": "2026.11.16",
+      "time": "09:17:59",
+      "views": 40,
+      "comments": 0,
+      "summary": "라이엇 게임즈는 14일 리그 오브 레전드의 출시 이후 최대 규모인 '차세대 업데이트'를 최초 공개했습니다. 이번 프로젝트는 후속작이 아닌 기존 게임의 클라이언트,...",
+      "image": "https://img.ruliweb.com/data/news/tn/26/11/16/1a1e1b65e4f_xktyhw.webp",
+      "author": "이명규 기자"
+    },
+    {
+      "id": "ruliweb-2366488",
+      "title": "록맨: 듀얼 오버라이드 신규 보스 '클렌저 맨' 공개 및 영상",
+      "url": "https://bbs.ruliweb.com/news/board/1001/read/2366488?",
+      "source": "루리웹",
+      "date": "2026.11.16",
+      "image": "https://i2.ruliweb.com/ori/26/11/16/1a1e1b63b9c242da.webp",
+      "summary": "새로운 8대 보스 클렌저맨 오염 센서가 지나치게 예민한 나머지 과잉된 미의식을 가지게 된 청소 로봇 티끌 하나 없이 아름다운 세상을 이상향으로 삼고 있으나 주변에서 자신의 미의식을 이해해 주지 않는 것에 대한 분노로 대폭주",
+      "time": "09:15",
+      "author": "nokcha",
+      "content": [
+        {
+          "t": "img",
+          "v": "https://i2.ruliweb.com/img/26/11/16/1a1e1b63b9c242da.webp"
+        },
+        {
+          "t": "img",
+          "v": "https://i3.ruliweb.com/img/26/11/16/1a1e1b39cbf242da.webp"
+        },
+        {
+          "t": "p",
+          "v": "【새로운 8대 보스: 클렌저맨】"
+        },
+        {
+          "t": "p",
+          "v": "오염 센서가 지나치게 예민한 나머지, 과잉된 미의식을 가지게 된 청소 로봇."
+        },
+        {
+          "t": "p",
+          "v": "티끌 하나 없이 아름다운 세상을 이상향으로 삼고 있으나,"
+        },
+        {
+          "t": "p",
+          "v": "주변에서 자신의 미의식을 이해해 주지 않는 것에 대한 분노로 대폭주!"
+        },
+        {
+          "t": "yt",
+          "v": "lfOSvGwvT18"
+        }
+      ],
+      "comments": 0
+    },
+    {
+      "id": "ruliweb-231940",
+      "title": "‘포트나이트’ 트윈드릴 디바 ‘카사네 테토’ 신규 의상, 잼 트랙 포함한...",
+      "url": "https://bbs.ruliweb.com/news/read/231940",
+      "source": "루리웹",
+      "date": "2026.11.16",
+      "time": "09:13:49",
+      "views": 44,
+      "comments": 0,
+      "summary": "포트나이트가 일본 가상 가수 카사네 테토를 주인공으로 한 '트윈드릴 디바' 뮤직 미니 패스를 공개했습니다. 1,000 v-bucks로 구매 가능한 이번 패스는 테...",
+      "image": "https://img.ruliweb.com/data/news/tn/26/11/16/1a1e1b3ebb0_kdywpz.webp",
+      "author": "김영훈 기자"
+    },
+    {
+      "id": "ruliweb-231938",
+      "title": "㈜엔씨 ‘신더시티’, 지난주 12일(목)부터 ‘스팀 글로벌 알파테스트’ ...",
+      "url": "https://bbs.ruliweb.com/news/read/231938",
+      "source": "루리웹",
+      "date": "2026.11.16",
+      "time": "09:04:36",
+      "views": 55,
+      "comments": 0,
+      "summary": "엔씨는 오픈월드 택티컬 슈터 신작 '신더시티'의 글로벌 알파테스트를 오는 12월 4일부터 3일간 진행하며 북미, 유럽, 아시아 권역 참가자를 모집한다. 아시아 권...",
+      "image": "https://img.ruliweb.com/data/news/tn/26/11/16/1a1e1ab641e_weytxm.webp",
+      "author": "이명규 기자"
+    },
+    {
+      "id": "ruliweb-231937",
+      "title": "㈜크래프톤, 개발자 교류 행사 ‘KDC WEEK 2026’ 지난 12일과...",
+      "url": "https://bbs.ruliweb.com/news/read/231937",
+      "source": "루리웹",
+      "date": "2026.11.16",
+      "time": "08:58:32",
+      "views": 100,
+      "comments": 0,
+      "summary": "크래프톤은 지난 11월 12일부터 13일까지 서울 성수동에서 연례 개발자 교류 행사인 ‘kdc week 2026’을 성황리에 개최했다. 이번 행사에는 전 세계 구...",
+      "image": "https://img.ruliweb.com/data/news/tn/26/11/16/1a1e1a5ec40_odcgfi.webp",
+      "author": "이명규 기자"
+    },
+    {
+      "id": "ruliweb-231936",
+      "title": "소니코리아 ‘겨울엔 언제나, 소니 노캔’ 캠페인 및 정품등록 프로모션 오...",
+      "url": "https://bbs.ruliweb.com/news/read/231936",
+      "source": "루리웹",
+      "date": "2026.11.16",
+      "time": "08:51:33",
+      "views": 102,
+      "comments": 0,
+      "summary": "소니코리아는 겨울철 일상 속 몰입과 스타일링을 강조하는 ‘겨울엔 언제나, 소니 노캔’ 캠페인을 전개한다. 이에 따라 11월 16일부터 내년 1월 31일까지 무선 ...",
+      "image": "https://img.ruliweb.com/data/news/tn/26/11/16/1a1e19c215b_uhrcae.webp",
+      "author": "이장원 기자"
+    },
+    {
+      "id": "ruliweb-2366487",
+      "title": "Newzoo GTA 6 발매 첫주에 30억 달러 매출 전망",
+      "url": "https://bbs.ruliweb.com/news/board/1001/read/2366487?",
+      "source": "루리웹",
+      "date": "2026.11.16",
+      "image": "https://i2.ruliweb.com/ori/26/11/16/1a1e19312c2a4882.webp",
+      "summary": "CNBC가 11월 15일 공개한 녹취록에 따르면 게임 리서치 업체 뉴주 Newzoo 는 그랜드 테프트 오토 VI 가 출시 첫 주에 30억 달러 약 4조 이상의 매출을 올릴 것으로 전망했다 이는 2013년 출시 후 첫 3일 동안 10억 달러 이상의 매출을 올렸던 전작의 출시 초기 매출을 ",
+      "time": "08:43",
+      "author": "아마존슨",
+      "content": [
+        {
+          "t": "img",
+          "v": "https://i2.ruliweb.com/img/26/11/16/1a1e19312c2a4882.webp"
+        },
+        {
+          "t": "p",
+          "v": "CNBC가 11월 15일 공개한 녹취록에 따르면, 게임 리서치 업체 뉴주(Newzoo)는 ‘그랜드 테프트 오토 VI’가 출시 첫 주에 30억 달러(약 4조) 이상의 매출을 올릴 것으로 전망했다."
+        },
+        {
+          "t": "p",
+          "v": "이는 2013년 출시 후 첫 3일 동안 10억 달러 이상의 매출을 올렸던 전작의 출시 초기 매출을 넘어서는 수치다. CNBC 텔레비전의 ‘GTA 6의 10억 달러급 열풍’이라는 제목의 방송에서는 이번 게임의 출시 초기 매출 전망과 더불어 장기적인 수익 잠재력에 대해서도 다뤘다."
+        },
+        {
+          "t": "p",
+          "v": "개발사인 락스타 게임즈와 모회사인 테이크투 인터랙티브는 전작 출시 이후 10년 넘게 쌓여온 기대에 직면해 있다. 이 신작은 출시가 두 차례나 연기되었다."
+        },
+        {
+          "t": "p",
+          "v": "모건 스탠리의 애널리스트들은 2027년 3월까지 판매량이 4,000만 장에 달할 것으로 전망했다. 이 추정치에는 약 1,000만 건의 사전 예약이 포함되어 있으며, 이는 출시 전 매출로만 거의 10억 달러에 달하는 규모다."
+        }
+      ],
+      "comments": 7,
+      "topComments": [
+        {
+          "nick": "찢어버린다",
+          "text": "개발비 몇배를 벌까 궁금하다",
+          "like": 2
+        },
+        {
+          "nick": "stuckybam",
+          "text": "개발비 루머가 대략 20억 달러 내외였는데 저 예상대로면 첫 주에 회수 하겠네요",
+          "like": 1
+        },
+        {
+          "nick": "리버휘닉스",
+          "text": "stuckybam",
+          "like": 0
+        },
+        {
+          "nick": "lIlIllllIIIIIIl",
+          "text": "스파이더맨2가 3억달러 호포웨 3억달러 울버린 3억달러 이거 3개 만들고도 남아돌 매출이네..",
+          "like": 1
+        },
+        {
+          "nick": "myung wall",
+          "text": "첫주에 본전 뽑는다고??? 대박이네 ㄷㄷㄷ",
+          "like": 0
+        },
+        {
+          "nick": "거짓부렁",
+          "text": "myung wall",
+          "like": 0
+        }
+      ]
+    },
+    {
+      "id": "ruliweb-231935",
+      "title": "온세미, 피지컬 AI 시대 이끌 지능형 산업용 센서 기술 제시",
+      "url": "https://bbs.ruliweb.com/news/read/231935",
+      "source": "루리웹",
+      "date": "2026.11.16",
+      "time": "08:42:22",
+      "views": 57,
+      "comments": 0,
+      "summary": "온세미는 피지컬 ai와 스마트 제조 확산에 대응해 산업용 센서가 현장에서 직접 의사결정을 수행하는 지능형 시스템으로 진화하는 기술을 제시했다. 온세미는 트레오 플...",
+      "image": "https://img.ruliweb.com/data/news/tn/26/11/16/1a1e1971965_uentvy.webp",
+      "author": "이장원 기자"
+    },
+    {
+      "id": "ruliweb-231934",
+      "title": "광주정보문화산업진흥원 ‘2026 이스포츠 드림스쿨 캠프’ 참가자 모집 오...",
+      "url": "https://bbs.ruliweb.com/news/read/231934",
+      "source": "루리웹",
+      "date": "2026.11.16",
+      "time": "08:36:28",
+      "views": 82,
+      "comments": 0,
+      "summary": "광주정보문화산업진흥원은 발로란트 프로게이머를 꿈꾸는 만 15세 이상을 대상으로 오는 11월 16일부터 '2026 이스포츠 드림스쿨 캠프' 참가자를 모집한다. 이번...",
+      "image": "https://img.ruliweb.com/data/news/tn/26/11/16/1a1e191b93d_fsoehc.webp",
+      "author": "이명규 기자"
+    },
+    {
+      "id": "ruliweb-231933",
+      "title": "스틸시리즈(SteelSeries), 최초 공식 콜라보 ‘T1 한정판’ 사...",
+      "url": "https://bbs.ruliweb.com/news/read/231933",
+      "source": "루리웹",
+      "date": "2026.11.16",
+      "time": "08:32:57",
+      "views": 91,
+      "comments": 0,
+      "summary": "스틸시리즈가 창립 25주년과 t1의 lol 월드 챔피언십 6회 우승을 기념해 't1 한정판' 게이밍 기어 컬렉션을 출시한다. 이번 한정판은 선수들의 실루엣과 사인...",
+      "image": "https://img.ruliweb.com/data/news/tn/26/11/16/1a1e18e781b_ynhwrk.webp",
+      "author": "이명규 기자"
+    },
+    {
+      "id": "ruliweb-231932",
+      "title": "㈜알파스캔디스플레이, 5세대 펜타 탠덤 QD-OLED RGB V-Stri...",
+      "url": "https://bbs.ruliweb.com/news/read/231932",
+      "source": "루리웹",
+      "date": "2026.11.16",
+      "time": "08:08:08",
+      "views": 111,
+      "comments": 0,
+      "summary": "㈜알파스캔디스플레이가 삼성디스플레이의 5세대 펜타 탠덤 qd-oled와 rgb v-stripe 구조를 탑재한 필립스 게이밍 모니터 '34m2c8600pc'를 출시...",
+      "image": "https://img.ruliweb.com/data/news/tn/26/11/16/1a1e177cc30_scvipg.webp",
+      "author": "이명규 기자"
+    },
+    {
+      "id": "ruliweb-231931",
+      "title": "㈜알파스캔디스플레이, LG 4세대 탠덤 WOLED 280Hz 화이트 게이...",
+      "url": "https://bbs.ruliweb.com/news/read/231931",
+      "source": "루리웹",
+      "date": "2026.11.16",
+      "time": "08:05:38",
+      "views": 101,
+      "comments": 0,
+      "summary": "알파스캔디스플레이가 lg디스플레이의 4세대 탠덤 woled 패널을 탑재한 280hz 화이트 게이밍 모니터 ‘aoc q27g4zdp’를 출시했다. 이 제품은 최대 ...",
+      "image": "https://img.ruliweb.com/data/news/tn/26/11/16/1a1e1756a31_rfbwiz.webp",
+      "author": "이명규 기자"
+    },
+    {
+      "id": "ruliweb-231930",
+      "title": "경기콘텐츠진흥원, 체험형 콘텐츠 전시 ‘조강, 두루미를 띄우다’ 17일(...",
+      "url": "https://bbs.ruliweb.com/news/read/231930",
+      "source": "루리웹",
+      "date": "2026.11.16",
+      "time": "08:01:20",
+      "views": 59,
+      "comments": 0,
+      "summary": "경기콘텐츠진흥원은 11월 17일부터 김포미디어아트센터에서 체험형 미디어아트 ‘조강, 두루미를 띄우다’ 상설 전시를 개최한다. 이번 전시는 ‘2026 북부 특화 콘...",
+      "image": "https://img.ruliweb.com/data/news/tn/26/11/16/1a1e1715516_mtdzls.webp",
+      "author": "이장원 기자"
+    },
+    {
+      "id": "ruliweb-2366486",
+      "title": "인사이더 shinobi602 GTA 6 메타 점수 97~98 나올 것",
+      "url": "https://bbs.ruliweb.com/news/board/1001/read/2366486",
+      "source": "루리웹",
+      "date": "2026.11.16",
+      "image": "https://i3.ruliweb.com/ori/26/11/16/1a1e14abd58a4882.webp",
+      "summary": "게임 업계 유명 인사이더인 Shinobi602는 GTA 6 메타크리틱 점수가 97 98 나올 것이라고 예측",
+      "time": "07:46",
+      "author": "아마존슨",
+      "content": [
+        {
+          "t": "img",
+          "v": "https://i3.ruliweb.com/img/26/11/16/1a1e14abd58a4882.webp"
+        },
+        {
+          "t": "p",
+          "v": "게임 업계 유명 인사이더인 Shinobi602는 GTA 6 메타크리틱 점수가 97~98 나올 것이라고 예측"
+        }
+      ],
+      "comments": 12,
+      "topComments": [
+        {
+          "nick": "리오넬메시a",
+          "text": "늙크크",
+          "like": 1
+        },
+        {
+          "nick": "똥겜안함",
+          "text": "폭풍전야 수요일 저녁 8시 기대해 주세요",
+          "like": 3
+        },
+        {
+          "nick": "sksjhhsa",
+          "text": "최소 99점 예상",
+          "like": 5
+        },
+        {
+          "nick": "메타는과학",
+          "text": "sksjhhsa",
+          "like": 1
+        },
+        {
+          "nick": "석가여래",
+          "text": "점수가 문제랴....",
+          "like": 0
+        },
+        {
+          "nick": "Falchion",
+          "text": "gta5도 97점이니 초기 사펑같은 수준만 아니면 6도 98점으로 시작했다가 트롤러 웹진한테 당해서 97점 정도로 마무리 하지 않을려나요.",
+          "like": 2
+        },
+        {
+          "nick": "AMiLUMi",
+          "text": "어제 플스 켜니까 다운받은거 뭔가 열심히 업댓하고 있던데 사펑때 같은 버그만 없었으면 좋겠네...",
+          "like": 0
+        },
+        {
+          "nick": "마이동숲-",
+          "text": "시노비말고도 다른 인사이더들도 다 똑같이 예상했네요 반응 엄청 좋은가봐요",
+          "like": 0
+        }
+      ]
+    },
+    {
+      "id": "ruliweb-2366485",
+      "title": "젤다의 전설 시간의 오카리나 리메이크 신규 만점 리뷰 등록, 리뷰 내용",
+      "url": "https://bbs.ruliweb.com/news/board/1001/read/2366485",
+      "source": "루리웹",
+      "date": "2026.11.16",
+      "image": "https://i3.ruliweb.com/ori/26/11/16/1a1e15e2eb22af81.webp",
+      "summary": "Carole Quintaine Nov 15 2026 100점 메타크리틱 등록 리뷰 리뷰 요약 번역기 닌텐도 스위치 2용으로 제작된 젤다의 전설 시간의 오카리나 리메이크는 그야말로 걸작입니다 숨이 멎을 듯한 아트 디렉션 원작의 본질을 유지하면서도 현대적으로 다듬어진 게임플레이 훌륭하게 설",
+      "time": "07:41",
+      "author": "Winter Love",
+      "content": [
+        {
+          "t": "img",
+          "v": "https://i3.ruliweb.com/img/26/11/16/1a1e15e2eb22af81.webp"
+        },
+        {
+          "t": "p",
+          "v": "Carole Quintaine Nov 15, 2026 (100점), 메타크리틱 등록 리뷰"
+        },
+        {
+          "t": "p",
+          "v": "리뷰 요약 (번역기)"
+        },
+        {
+          "t": "p",
+          "v": "닌텐도 스위치 2용으로 제작된 젤다의 전설 시간의 오카리나 리메이크는 그야말로 걸작입니다."
+        },
+        {
+          "t": "p",
+          "v": "숨이 멎을 듯한 아트 디렉션, 원작의 본질을 유지하면서도 현대적으로 다듬어진 게임플레이, 훌륭하게 설계된 던전, 인상적인 보스들, 그리고 아름답게 재편곡된 음악까지 제가 가장 좋아하는 모험이 지닌 마법 같은 매력을 다시금 발견했고, 완전히 새로운 시각으로 이를 경험하는 기쁨을 누렸습니다."
+        },
+        {
+          "t": "p",
+          "v": "젤다의 전설 시간의 오카리나는 시대를 초월한 걸작입니다."
+        },
+        {
+          "t": "p",
+          "v": "장점"
+        },
+        {
+          "t": "p",
+          "v": "아트 디렉션, 게임플레이, 던전, 음악, 모험, 감동까지 정말 걸작입니다."
+        },
+        {
+          "t": "p",
+          "v": "단점"
+        },
+        {
+          "t": "p",
+          "v": "사소한 부분이지만 일부 이름과 대사가 1998년 프랑스어 번역판의 매력을 다소 잃어버린 듯합니다."
+        },
+        {
+          "t": "p",
+          "v": "Carole Quintaine 2026년 만점 게임 목록"
+        },
+        {
+          "t": "p",
+          "v": "젤다의 전설 시간의 오카리나 리메이크"
+        },
+        {
+          "t": "p",
+          "v": "바이오하자드 레퀴엠"
+        },
+        {
+          "t": "p",
+          "v": "---------"
+        },
+        {
+          "t": "p",
+          "v": "Carole Quintaine 만점 리뷰 등록으로 메타크리틱 리뷰 120개 중에서 만점 리뷰 59개"
+        },
+        {
+          "t": "p",
+          "v": "메타크리틱 리뷰 120개 중에서 90점 이상 리뷰 107개"
+        },
+        {
+          "t": "p",
+          "v": "현재 점수 미등록 tbd 리뷰 4개 제외하면 메타크리틱 리뷰 116개 중에서 절반 이상 만점"
+        }
+      ],
+      "comments": 4,
+      "topComments": [
+        {
+          "nick": "코코너겟",
+          "text": "어제 엔딩보고 마무리 하였습니다. 원작도 3ds판도 엔딩을 보아서 그런지 게임 자체가 결국 그들과 똑같은거라 크게 새롭게 다가오진 않았습니다. 너무 잘 만든 리메이크라는 점도 공감하지만 '올해 최고의 게임'이라고 하기엔 결국 원판의 재미 공식을 그대로 가져가 쓴 안전한 배팅이었다는 점은 지우기 어려웠습니다. 95점 100점 게임은 절대 아닌거 같고 90점 정도면 좋았을거 같습니다. 젤다 시리즈의 팬으로 다음에는 더 신선하고 재밌는 진짜 '신작'이 나왔으면 좋겠습니다",
+          "like": 15
+        },
+        {
+          "nick": "루리웹-7841204824",
+          "text": "@마늘빵@",
+          "like": 0
+        },
+        {
+          "nick": "게임살이",
+          "text": "닌64때부터 큐브(우라젤다), 3DS, 닌텐도 클래식 몇번씩 클리어하는 팬으로서 이번 리메이크는 더도말고 덜도 말고 딱 잘만든 표본 같습니다 리메이크에서 보존과 진화엔 정답이 없는 선택이고 어떤 방향이든 의도를 살려 잘 만드느냐가 중요한거 같습니다 이번엔 보존하는 방향에서 원작 유저를 신경써서 고려한게 곳곳에서 느껴져서 팬으로서 존중 받고 있다는 기분이었습니다 리메이크에서 원작 느낌이 깨져버린 경우도 있어서 시오 리메이크는 다행이었어요 한가지 아쉬운건 우라젤다 (마스터모드)가 나중이라도 추가되면 좋겠다는 점",
+          "like": 1
+        }
+      ]
+    },
+    {
+      "id": "ruliweb-2366484",
+      "title": "월희 리메이크 한국어 버전이 아마존 셀러를 통해 아마존에서도 이용 가능!",
+      "url": "https://bbs.ruliweb.com/news/board/1001/read/2366484?",
+      "source": "루리웹",
+      "date": "2026.11.16",
+      "image": "https://i2.ruliweb.com/ori/26/11/16/1a1e14b1a8c4d4df1.webp",
+      "summary": "월희 A Piece of Blue Glass Moon 한국어 버전이 인증사를 통해 Amazon에서 이용 가능합니다 이 버전은 또한 영어 일본어 중국어 텍스트 지원을 포함합니다",
+      "time": "07:21",
+      "author": "로메오카이",
+      "content": [
+        {
+          "t": "p",
+          "v": "\"월희 -A Piece of Blue Glass Moon-\" 한국어 버전이 인증사를 통해 Amazon에서 이용 가능합니다."
+        },
+        {
+          "t": "p",
+          "v": "이 버전은 또한 영어, 일본어, 중국어 텍스트 지원을 포함합니다."
+        },
+        {
+          "t": "img",
+          "v": "https://i2.ruliweb.com/img/26/11/16/1a1e14b1a8c4d4df1.webp"
+        },
+        {
+          "t": "img",
+          "v": "https://i2.ruliweb.com/img/26/11/16/1a1e14b27484d4df1.webp"
+        }
+      ],
+      "comments": 6,
+      "topComments": [
+        {
+          "nick": "작성자",
+          "text": "circumscribe",
+          "like": 0
+        },
+        {
+          "nick": "와사비맛쌈무",
+          "text": "아마존에서 판매한다는걸 이용가능한걸로 번역한거임?",
+          "like": 2
+        },
+        {
+          "nick": "irwin",
+          "text": "미국 아마존에서 수입상을 통해서 한글판을 구입할 수 있다는 소리군요. 지금은 수량이 떨어졌나 없네요.",
+          "like": 2
+        },
+        {
+          "nick": "루리웹-2432223941",
+          "text": "영문판 품절이 되어서 한국어판 사면 영문판으로 가능하다는 내용이네요",
+          "like": 0
+        }
+      ]
+    },
+    {
+      "id": "ruliweb-2366483",
+      "title": "XBOX 25주년 기념 오리지널과 360 부팅 애니메이션 제공",
+      "url": "https://bbs.ruliweb.com/news/board/1001/read/2366483?",
+      "source": "루리웹",
+      "date": "2026.11.16",
+      "image": null,
+      "summary": "하루 종일 배포라고 해서 오늘만 제공인지 불분명하니 다운로드 받아두기를 권장합니다 https x com XBOX status 2122043347078672876 a rw C SSLwkdy42oeXuY s 19",
+      "time": "07:17",
+      "author": "Nucker",
+      "content": [
+        {
+          "t": "p",
+          "v": "하루 종일 배포라고 해서 오늘만 제공인지 불분명하니 다운로드 받아두기를 권장합니다."
+        },
+        {
+          "t": "p",
+          "seg": [
+            {
+              "t": "a",
+              "v": "https://x.com/XBOX/status/2122043347078672876?a=rw-C_SSLwkdy42oeXuY&s=19",
+              "l": "https://x.com/XBOX/status/2122043347078672876?a=rw-C_SSLwkdy42oeXuY&s=19"
+            }
+          ]
+        }
+      ],
+      "comments": 6,
+      "topComments": [
+        {
+          "nick": "ㅇㅇㅇㅈㅎ",
+          "text": "와 구엑박 버전 오랜만이네&hellip; 바꿔봐야겠다",
+          "like": 1
+        },
+        {
+          "nick": "로얄폴리스",
+          "text": "게임을 360시절 처럼 내줘야지ㅋ",
+          "like": 0
+        },
+        {
+          "nick": "칙쇼 밴드",
+          "text": "엑박 켜면 받을 수 있는건가요? 앱으로는 안되는거죠?",
+          "like": 1
+        },
+        {
+          "nick": "미희♡",
+          "text": "칙쇼 밴드",
+          "like": 0
+        },
+        {
+          "nick": "미희♡",
+          "text": "오리지널 XBOX로 설정",
+          "like": 0
+        },
+        {
+          "nick": "TOYHOUSE",
+          "text": "오~ 이건 좋다 360테마도 올려줘요 ~",
+          "like": 0
+        }
+      ]
+    },
+    {
+      "id": "ruliweb-2366482",
+      "title": "XBOX 부사장 : 차세대 헬릭스는 PC가 아니라 콘솔입니다",
+      "url": "https://bbs.ruliweb.com/news/board/1001/read/2366482",
+      "source": "루리웹",
+      "date": "2026.11.16",
+      "image": null,
+      "summary": "헬릭스는 피시가 아니라 피시 게임을 즐길 수 있는 콘솔입니다 https x com tomwarren status 2122018722185367739 a CMRZ l1DiRu8UVP25f8 s 19",
+      "time": "04:03",
+      "author": "Nucker",
+      "content": [
+        {
+          "t": "p",
+          "v": "\"헬릭스는 피시가 아니라 피시 게임을 즐길 수 있는 콘솔입니다\""
+        },
+        {
+          "t": "p",
+          "seg": [
+            {
+              "t": "a",
+              "v": "https://x.com/tomwarren/status/2122018722185367739?a=CMRZ_l1DiRu8UVP25f8&s=19",
+              "l": "https://x.com/tomwarren/status/2122018722185367739?a=CMRZ_l1DiRu8UVP25f8&s=19"
+            }
+          ]
+        }
+      ],
+      "comments": 24,
+      "topComments": [
+        {
+          "nick": "죽습니진짜",
+          "text": "콘솔게임 스팀게임 모두 가능하면 좋겠네",
+          "like": 5
+        },
+        {
+          "nick": "levelup",
+          "text": "스팀지원하면 필구 ㅎ",
+          "like": 7
+        },
+        {
+          "nick": "루리웹-7972236768",
+          "text": "PC기능 은 있겠지",
+          "like": 1
+        },
+        {
+          "nick": "게임멀티유저",
+          "text": "판매 시작한지 얼마 안 돼서 단종",
+          "like": 27
+        },
+        {
+          "nick": "루리웹-7972236768",
+          "text": "게임멀티유저",
+          "like": 8
+        },
+        {
+          "nick": "게임멀티유저",
+          "text": "왕당구리",
+          "like": 19
+        },
+        {
+          "nick": "백갈리",
+          "text": "저게 가능한 이유는 어차피 윈도우가 마소 콘솔임 ㄷㄷㄷㄷ pc겜은 모두 윈도우로 돌아가니깐 ㅎㅎㅎ",
+          "like": 4
+        },
+        {
+          "nick": "언송",
+          "text": "울트라와이드에 60고정만 지원해주면 피씨 말고 콘솔쓸건데 아쉬웡. 울와 익숙해지니 16:9 로 못하겠음 흑흑",
+          "like": 1
+        },
+        {
+          "nick": "천마개후토치파",
+          "text": "뭔소리를 하는지 모르겠다",
+          "like": 6
+        },
+        {
+          "nick": "게임멀티유저",
+          "text": "울동네지킴이",
+          "like": 9
+        },
+        {
+          "nick": "미시",
+          "text": "유저모드는 지원 안한다는 거 같은데",
+          "like": 2
+        },
+        {
+          "nick": "로얄폴리스",
+          "text": "개밥잡탕?",
+          "like": 3
+        },
+        {
+          "nick": "stuckybam",
+          "text": "자체 os와 자체 스토어를 쓰는 pc호환기기라는 말 같네요",
+          "like": 1
+        },
+        {
+          "nick": "동방제과",
+          "text": "근데 콘솔이라는거 ps3가 약간 반면교사이지 않나요. 기능 많이넣어서 고장 잘 나고 원가높아 망하는 트리.....",
+          "like": 3
+        },
+        {
+          "nick": "헌터스",
+          "text": "몇년째 엑박 말고 다 까고 다니는 비취빛한테는 한마디도 못하면서 최대업적, 정신병 운운하는 거 웃기다 ㅋㅋ",
+          "like": 6
+        },
+        {
+          "nick": "작성자",
+          "text": "헌터스",
+          "like": 0
+        },
+        {
+          "nick": "평화가뭔가요",
+          "text": "Nucker",
+          "like": 0
+        }
+      ]
+    },
+    {
       "id": "ruliweb-2366481",
       "title": "GTA 6 공식적으로 골드행(제작 완료) 확정",
       "url": "https://bbs.ruliweb.com/news/board/1001/read/2366481",
@@ -52887,52 +53656,61 @@
           "v": "즉 이것은 GTA 6의 개발이 사실상 완전히 마무리되었음을 의미하며 11월 19일 정식 출시된다"
         }
       ],
-      "comments": 18,
+      "comments": 37,
       "topComments": [
         {
           "nick": "Elder",
           "text": "",
-          "like": 28,
+          "like": 96,
           "best": true,
           "imgs": [
             "https://i3.ruliweb.com/cmt/26/11/16/1a1dfc666484e7fa3.png"
           ]
         },
         {
-          "nick": "Pathetique6",
-          "text": "",
-          "like": 16,
-          "best": true,
-          "imgs": [
-            "https://i2.ruliweb.com/cmt/26/11/16/1a1dfc720fb5a6f87.png"
-          ]
-        },
-        {
           "nick": "Younha-Loveholic",
           "text": "",
-          "like": 15,
+          "like": 67,
           "best": true,
           "imgs": [
             "https://i1.ruliweb.com/cmt/26/11/16/1a1dfcd6bd957f7ee.png"
           ]
         },
         {
+          "nick": "꼴잘알",
+          "text": "",
+          "like": 54,
+          "best": true,
+          "imgs": [
+            "https://i1.ruliweb.com/cmt/26/11/16/1a1dfeede7d132330.png"
+          ]
+        },
+        {
+          "nick": "Pathetique6",
+          "text": "",
+          "like": 49,
+          "best": true,
+          "imgs": [
+            "https://i2.ruliweb.com/cmt/26/11/16/1a1dfc720fb5a6f87.png"
+          ]
+        },
+        {
+          "nick": "루리웹-6632178466",
+          "text": "olofmeister",
+          "like": 7
+        },
+        {
           "nick": "Elder",
           "text": "",
-          "like": 28,
+          "like": 96,
           "imgs": [
             "https://i3.ruliweb.com/cmt/26/11/16/1a1dfc666484e7fa3.png"
           ]
         },
         {
-          "nick": "레이저zip",
-          "text": "olofmeister",
-          "like": 2
-        },
-        {
           "nick": "Pathetique6",
           "text": "",
-          "like": 16,
+          "like": 49,
           "imgs": [
             "https://i2.ruliweb.com/cmt/26/11/16/1a1dfc720fb5a6f87.png"
           ]
@@ -52940,12 +53718,12 @@
         {
           "nick": "오리킹조리퐁",
           "text": "Pathetique6",
-          "like": 1
+          "like": 7
         },
         {
           "nick": "Younha-Loveholic",
           "text": "",
-          "like": 15,
+          "like": 67,
           "imgs": [
             "https://i1.ruliweb.com/cmt/26/11/16/1a1dfcd6bd957f7ee.png"
           ]
@@ -52953,17 +53731,17 @@
         {
           "nick": "루리웹-1916880500",
           "text": "디스크가 아예 없는데 뭔 골드행이야.... 아무리 GTA라지만 사람을 기만하고 있어",
-          "like": 7
+          "like": 16
         },
         {
           "nick": "새루리당총수",
           "text": "자그마치 13년 기다린 게이머들을 위해 더미로다가 플라스틱 쪼가리 하나 넣어주는게 그리 어려운 일이었나.",
-          "like": 3
+          "like": 11
         },
         {
           "nick": "루리웹-2378418937",
           "text": "",
-          "like": 0,
+          "like": 7,
           "imgs": [
             "https://i1.ruliweb.com/cmt/26/11/16/1a1dfe1e9fd59389c.png"
           ]
@@ -52971,12 +53749,12 @@
         {
           "nick": "先愛治患🗽비취빛에뮬레이또",
           "text": "이제 완료면 패치 또 있겠군",
-          "like": 0
+          "like": 1
         },
         {
           "nick": "꼴잘알",
           "text": "",
-          "like": 1,
+          "like": 54,
           "imgs": [
             "https://i1.ruliweb.com/cmt/26/11/16/1a1dfeede7d132330.png"
           ]
@@ -52984,24 +53762,89 @@
         {
           "nick": "불멸의 용병",
           "text": "디스크가 없는데 무슨 골드행",
-          "like": 0
+          "like": 13
         },
         {
           "nick": "아덴시아",
           "text": "확실히 패키지를 찍지않으니까 골드행도 임박해서 하는구나.",
-          "like": 0
+          "like": 12
         },
         {
           "nick": "어디서못된것만배워가지고",
           "text": "자꾸 단어에 집착하는 분들이 보이는데, 그냥 옛날부터 이어진 관용적인 용어라고 생각하면 되는 거 아닌가... 되게 빡빡하게 구네",
-          "like": 0
+          "like": 32
+        },
+        {
+          "nick": "봇치더록!",
+          "text": "어디서못된것만배워가지고",
+          "like": 18
+        },
+        {
+          "nick": "어디서못된것만배워가지고",
+          "text": "봇치더록!",
+          "like": 16
+        },
+        {
+          "nick": "GBT군",
+          "text": "투명행~",
+          "like": 7
+        },
+        {
+          "nick": "다이애나☆",
+          "text": "골드행은 얼어죽을.. 한국패키지 욌는데 그냥 플라스틱 껌데기에다가 게임 코드 박아놓음",
+          "like": 8
+        },
+        {
+          "nick": "루리웹-9529797701",
+          "text": "큰거온다",
+          "like": 3
+        },
+        {
+          "nick": "루리웹-1979462300",
+          "text": "목요일 새벽부터 달릴꺼라 월 화 수 3일 남았네요",
+          "like": 2
+        },
+        {
+          "nick": "Nucker",
+          "text": "지티에이라는 거대한 게임을 개발 후 그 팀을 어떻게 유지할지. 어느 정도 쳐낼 인원은 쳐내야 할 텐데. 게임 개발 스튜디오에 지속성 의문은 항상 따르는 듯. 돈 버는 거 걱정하는 게 아님.",
+          "like": 1
+        },
+        {
+          "nick": "Prophe12t",
+          "text": "Nucker",
+          "like": 11
+        },
+        {
+          "nick": "Nucker",
+          "text": "Prophe12t",
+          "like": 1
+        },
+        {
+          "nick": "리센노 도시노",
+          "text": "저것들도 골드행이 성립될 수 없는거 뻔히 알면서 맥일라고 일부러 저 워딩 쓰는 듯",
+          "like": 2
+        },
+        {
+          "nick": "익명.",
+          "text": "붕어빵에는 붕어가 없고 골든행에는 디스크가 없다...",
+          "like": 1
+        },
+        {
+          "nick": "O-techs",
+          "text": "그냥 이런 온리 디지털일거면 릴리즈라고 해 뭘 골드라고.",
+          "like": 1
+        },
+        {
+          "nick": "알폰소",
+          "text": "페이퍼 코드 행이 맞지...",
+          "like": 1
         }
       ]
     },
     {
       "id": "ruliweb-2366480",
       "title": "드래곤볼 파이터즈 - 밸런스 업데이트 트레일러",
-      "url": "https://bbs.ruliweb.com/news/board/1001/read/2366480?",
+      "url": "https://bbs.ruliweb.com/news/board/1001/read/2366480",
       "source": "루리웹",
       "date": "2026.11.16",
       "image": "https://img.youtube.com/vi/b-pleG_iIMg/hqdefault.jpg",
@@ -53038,23 +53881,8 @@
           "v": "「드래곤볼 파이터즈」 절찬 발매 중!!"
         }
       ],
-      "comments": 5,
+      "comments": 11,
       "topComments": [
-        {
-          "nick": "라일페네스",
-          "text": "크로스 플레이 좀 해 달라고오오오오오오오오오오오!!!!",
-          "like": 0
-        },
-        {
-          "nick": "Redemptionnn",
-          "text": "그래픽은 드볼게임중 최고",
-          "like": 0
-        },
-        {
-          "nick": "¡_¡",
-          "text": "그래픽은 깔게 없다 진심 아크가 카카로트나 다른 무언가도 만들어줬으면 싶을 정도로 퀄리티 하나만큼은 최고다",
-          "like": 0
-        },
         {
           "nick": "SSG김광현",
           "text": "벌써 이 작품도 내년이면 10년인데 2 나올만하지 않나... 천 만장 넘게 팔았고",
@@ -53063,6 +53891,36 @@
         {
           "nick": "루리웹-1451125040",
           "text": "매칭만 잘잡히면 좋을텐데 진짜 안잡힘 국내에선 ㅠ",
+          "like": 2
+        },
+        {
+          "nick": "루리웹-2494278137",
+          "text": "비스트 언제 나오냐",
+          "like": 1
+        },
+        {
+          "nick": "라이덴-7",
+          "text": "발매전 공개 할때가 어그제 같은데 슬슬 10년차가 되어가는 지금 봐도 잘만들어진 게임과 그래픽! 속편좀 보고 싶은",
+          "like": 2
+        },
+        {
+          "nick": "{■■■■■■■}",
+          "text": "라이덴-7",
+          "like": 0
+        },
+        {
+          "nick": "콧물쟁이",
+          "text": "벌써10년 ㄷ ㄷ ㄷ ㄷ",
+          "like": 1
+        },
+        {
+          "nick": "로메오카이",
+          "text": "크로스플레이 지원 좀",
+          "like": 0
+        },
+        {
+          "nick": "Frozen_K",
+          "text": "스위치2 업데이트는 안해주려나",
           "like": 0
         }
       ]
@@ -53105,7 +53963,7 @@
           "v": "4. 플래티넘 까지 약 200시간 소요가 예상되며 랜덤, 운에 작용한 요소때문에 변동될수 있음"
         }
       ],
-      "comments": 31,
+      "comments": 48,
       "topComments": [
         {
           "nick": "4kinian",
@@ -53113,14 +53971,9 @@
           "like": 0
         },
         {
-          "nick": "Cirrus",
-          "text": "락스타 트로피는 예전부터 토나오는게 많아서 온라인 빠진것만으로도 다행이라면 다행일지도..",
-          "like": 2
-        },
-        {
           "nick": "루리웹-2411941396",
           "text": "Cirrus",
-          "like": 0
+          "like": 3
         },
         {
           "nick": "Redemptionnn",
@@ -53155,42 +54008,52 @@
         {
           "nick": "先愛治患🗽비취빛에뮬레이또",
           "text": "트로피같은 업적에 관심 없는터라 이것 저것 하다보면 최소 70~100시간은 하려나?",
-          "like": 3
+          "like": 4
+        },
+        {
+          "nick": "ArchAngelx",
+          "text": "麻友",
+          "like": 1
         },
         {
           "nick": "empty_0711",
           "text": "얼마 안걸리네. 파판7 리버스는 300시간 넘는데 ㅋㅋㅋㅋ",
-          "like": 2
+          "like": 4
+        },
+        {
+          "nick": "CrazyBoyWolf",
+          "text": "empty_0711",
+          "like": 1
         },
         {
           "nick": "거짓부렁",
           "text": "메인 퀘 서브퀘 랜덤인카운터 수중컨텐츠 동물사냥 1000 시간 ㄱㄱ",
-          "like": 2
+          "like": 3
         },
         {
           "nick": "마이동숲-",
           "text": "레데리2때처럼 상호작용하면서 놀다보면 플탐 엄청 늘어나겠네요",
-          "like": 0
-        },
-        {
-          "nick": "오그레이트",
-          "text": "레데리2가 필수 미션이 94개였으니 엔딩까지 비슷한 분량인 듯 합니다",
-          "like": 2
+          "like": 1
         },
         {
           "nick": "루리웹-6632178466",
           "text": "13년을 기다렸는데 레데리2급 볼륨은 좀 아쉬운데",
-          "like": 3
+          "like": 5
         },
         {
           "nick": "쿠쿠폰",
           "text": "ㅋㅋㅋ 하루 2시간 해도 3달 넘게 걸리네 직장인들은 플랫 따기 쉽지 않겠다.",
+          "like": 3
+        },
+        {
+          "nick": "SlamDunk™",
+          "text": "쿠쿠폰",
           "like": 1
         },
         {
           "nick": "풍운",
           "text": "개인적으로 스토리 볼륨 보다 게임이 얼마나 밀도가 있고 다양한 상황을 경험 할수 있냐를 기대하고 있어서 플탐은 이정도면 낫배드지",
-          "like": 2
+          "like": 3
         },
         {
           "nick": "Владимир Ленин",
@@ -53210,116 +54073,71 @@
         {
           "nick": "삼성겜보이",
           "text": "온라인 트로피 있으면 아얘 플레티넘 딸 생각이 없어짐 ㅜㅜ",
-          "like": 0
+          "like": 1
         },
         {
           "nick": "휴먼메이더",
           "text": "즐기자!",
-          "like": 0
+          "like": 1
         },
         {
           "nick": "takejun",
           "text": "개 억지 같은 트로피는 좀 안 넣어주면 좋겠는데...",
-          "like": 0
+          "like": 4
         },
         {
           "nick": "루리웹-5172504113",
           "text": "기사 원문 보니 다 그냥 출처 없는 예상이네요",
-          "like": 0
+          "like": 4
         },
         {
           "nick": "국내산드워프",
           "text": "온라인 트로피만 없다면 해볼만 할거같은데 솔직히 5도 온라인때문에 포기한거라서요 ....",
           "like": 0
-        }
-      ]
-    },
-    {
-      "id": "ruliweb-2366478",
-      "title": "GTA6 사전예약 보너스 GTA+ 1개월 구독방법",
-      "url": "https://bbs.ruliweb.com/news/board/1001/read/2366478",
-      "source": "루리웹",
-      "date": "2026.11.15",
-      "image": "https://i1.ruliweb.com/ori/26/11/15/1a1df96eaf25a6f87.webp",
-      "summary": "GTA 6 디지털 버전을 예약주문하거나 구매한 경우 제공되는 보너스 GTA 1개월 무료 이용 혜택은 별도의 바우처 코드를 입력할 필요 없이 스토어 내 GTA 제품 페이지에서 직접 등록할 수 있습니다 1 구매 계정 확인 및 PS Store 접속2026년 11월 19일까지 GTA 6 디지털",
-      "time": "23:19",
-      "author": "Pathetique6",
-      "content": [
-        {
-          "t": "img",
-          "v": "https://i1.ruliweb.com/img/26/11/15/1a1df96eaf25a6f87.webp"
         },
         {
-          "t": "p",
-          "v": "GTA 6 디지털 버전을 예약주문하거나 구매한 경우 제공되는 보너스 GTA+ 1개월 무료 이용 혜택은 별도의 바우처 코드를 입력할 필요 없이 스토어 내 GTA+ 제품 페이지에서 직접 등록할 수 있습니다."
-        },
-        {
-          "t": "p",
-          "v": "1. 구매 계정 확인 및 PS Store 접속"
-        },
-        {
-          "t": "p",
-          "v": "2026년 11월 19일까지 GTA 6 디지털 버전(스탠다드 또는 얼티밋 에디션)을 구매한 동일한 PSN 계정으로 로그인한 뒤 PlayStation Store에 접속합니다."
-        },
-        {
-          "t": "p",
-          "v": "Verification: 스토어 상단 프로필 아이콘이 게임을 구매한 계정과 일치하는지 확인합니다."
-        },
-        {
-          "t": "p",
-          "v": "2. GTA+ 제품 페이지 이동"
-        },
-        {
-          "t": "p",
-          "v": "PS Store 검색창에서 GTA+를 검색하여 공식 멤버십 제품 페이지로 이동합니다."
-        },
-        {
-          "t": "p",
-          "v": "Verification: GTA+ 멤버십 안내 화면에 무료(또는 예약구매 혜택 적용) 1개월 이용권 옵션이 표시됩니다."
-        },
-        {
-          "t": "p",
-          "v": "3. 0원 결제 진행 및 멤버십 활성화"
-        },
-        {
-          "t": "p",
-          "v": "1개월 GTA+ 혜택을 선택하고 화면 안내에 따라 추가 비용(0원)으로 주문 및 결제를 완료합니다."
-        },
-        {
-          "t": "p",
-          "v": "Verification: 결제 완료 후 PS5 홈 화면의 [설정] > [사용자 및 계정] > [계정] > [결제 및 정기 구독 서비스] > [정기 구독 서비스] 목록에서 GTA+가 활성화된 것을 확인할 수 있습니다."
-        },
-        {
-          "t": "p",
-          "v": "** 등록 및 이용 시 주의사항 **"
-        },
-        {
-          "t": "p",
-          "v": "등록 기한: 구매 후 원하는 시점에 자유롭게 등록할 수 있으나, 반드시 2027년 3월 31일까지는 등록을 마쳐야 혜택이 소멸되지 않습니다."
-        },
-        {
-          "t": "p",
-          "v": "기존 구독자 연장: 현재 GTA+를 구독 중인 계정이라도 혜택을 등록하면 기존 만료일에서 1개월이 추가로 자동 연장됩니다."
-        },
-        {
-          "t": "p",
-          "v": "자동 갱신 해지: 무료 1개월 혜택이 종료되면 다음 달부터 정상가로 자동 정기 결제됩니다. 추가 결제를 원치 않으시면 등록 직후 PS5의 [정기 구독 서비스] 메뉴에서 GTA+를 선택해 구독 취소(자동 갱신 끄기)를 미리 해두셔도 남은 1개월 혜택은 그대로 유지됩니다."
-        },
-        {
-          "t": "p",
-          "v": "양도 불가: 구매한 계정당 1회만 등록 가능하며, 다른 계정으로 양도할 수 없습니다."
-        }
-      ],
-      "comments": 3,
-      "topComments": [
-        {
-          "nick": "레이저zip",
-          "text": "그타 온라인하면서 플러스에서 주는 차고 궁금하긴 했는데 이참에 구경이나 해봐야 겠네",
+          "nick": "스폰지초밥",
+          "text": "레데리2 무스의 악몽이 떠오르네 ㅠㅠ",
           "like": 0
         },
         {
-          "nick": "후카다쿄코",
-          "text": "궁금한게 GTA+ 1개월 무료가 psn가입이 안되 있어도 한달 가능한건가요 아니면 psn도 가입되어 있어야 하나요",
+          "nick": "112 R/T",
+          "text": "붉은사막보단 낫겠네요",
+          "like": 4
+        },
+        {
+          "nick": "풋볼 매니저",
+          "text": "어차피 온라인 추가되면 온라인 트로피도 생길거 아냐? 온라인 트로피 개짜증나는데",
+          "like": 1
+        },
+        {
+          "nick": "그래안그래",
+          "text": "여즉껏 가지고 놀기만해서 놀랍게도 아직까지 GTA5 플래도 못(안)딴 나다 하하~",
+          "like": 0
+        },
+        {
+          "nick": "Barack Obama",
+          "text": "500시간은 더 걸릴듯..교도소 시스템 탈출하는법도 발견하려고 다들 달려들듯 ㅋㅋ",
+          "like": 0
+        },
+        {
+          "nick": "타락한마왕",
+          "text": "챕터3까지만 밀면 왠만한건 다 해볼수 있을려나..동영상에서 보였던 루시아 전자발찌때문에 초반엔 많이 못돌아다닐거 같던데..",
+          "like": 0
+        },
+        {
+          "nick": "네모난물",
+          "text": "6 엔딩 크레딧 시간도 궁금해지네. 5 엔딩 크레딧 진짜 길었는데",
+          "like": 0
+        },
+        {
+          "nick": "실명†확인",
+          "text": "온라인 트로피 포함인지 아닌지가 중요하다",
+          "like": 1
+        },
+        {
+          "nick": "로켓님",
+          "text": "\"게임 실력에 따라 좌우\"된다니 한국게이머들 자존심을 건드는구나 ㅋㅋㅋ",
           "like": 0
         }
       ]
@@ -53350,17 +54168,17 @@
           ]
         }
       ],
-      "comments": 8,
+      "comments": 18,
       "topComments": [
         {
           "nick": "시티즈은",
           "text": "쿠쿠폰",
-          "like": 2
+          "like": 6
         },
         {
           "nick": "오덕살맨",
           "text": "",
-          "like": 5,
+          "like": 11,
           "imgs": [
             "https://i2.ruliweb.com/cmt/26/11/15/1a1df86dc153d7de9.jpeg"
           ]
@@ -53368,12 +54186,42 @@
         {
           "nick": "先愛治患🗽비취빛에뮬레이또",
           "text": "현세대 기기들 초기에 사서 PC포팅 게임들 소식 듣고 불필요한 기기는 처분해버리고 퀵리줌으로 게임은 잘 즐겼는데, 구매한 게임이 몇개 없네;;; 되려 구독제 게임들이 밀려서 하지도 못하고 내려가버림;;",
-          "like": 1
+          "like": 5
+        },
+        {
+          "nick": "울동네지킴이",
+          "text": "先愛治患🗽비취빛에뮬레이또",
+          "like": 9
         },
         {
           "nick": "4kinian",
           "text": "그래도 4천만대까지는 도달하겠네요",
+          "like": 3
+        },
+        {
+          "nick": "루리웹-2432223941",
+          "text": "이번 세대 최악의 기기 XSS 사실상 이 기기 때문에 XSX 는 발목 잡혀 더 고성능의 게임을 만들기가 불가능해짐 나중에 가서는 XSX는 플스의 PRO 개념이라는 뻔뻔한 거짓말까지하며 초반에 얘기한 목표는 제대로 달성도 못함. XSS가 없었으면 이번 세대 게임은 좀더 개발이 수월해졌을거고 XSX의 모든 성능을 발휘한 게임이 나올수도 있었음..",
+          "like": 13
+        },
+        {
+          "nick": "작성자",
+          "text": "동방제과",
           "like": 2
+        },
+        {
+          "nick": "게임멀티유저",
+          "text": "Nucker",
+          "like": 8
+        },
+        {
+          "nick": "리센노 도시노",
+          "text": "닌텐도 대단하네",
+          "like": 0
+        },
+        {
+          "nick": "루리웹-2584749669",
+          "text": "진짜 개쳐망했네",
+          "like": 1
         }
       ]
     },
@@ -54059,12 +54907,17 @@
           "v": "・발동중에는 히트식 병장의 오버히트시간을 단축한다."
         }
       ],
-      "comments": 3,
+      "comments": 5,
       "topComments": [
         {
           "nick": "닭솔",
           "text": "3나온다해서 간만에 2들어가봤는데 무슨 아머드코어가 되어 있더군요.. 다들 날라댕겨..",
           "like": 1
+        },
+        {
+          "nick": "바위군",
+          "text": "닭솔",
+          "like": 0
         },
         {
           "nick": "lastshou",
@@ -54088,12 +54941,17 @@
       "summary": "글로벌 줍줍 GTA6 하라고 모두 쉬라는 회사 어디",
       "time": "21:48",
       "author": "Saminet",
-      "comments": 10,
+      "comments": 14,
       "topComments": [
         {
           "nick": "백갈리",
           "text": "회사서 지티에이6 예구 했다고 하니깐 그냥 못 들은척하던데.. 좀 어색해지더군요 ..",
           "like": 2
+        },
+        {
+          "nick": "카요디HG",
+          "text": "백갈리",
+          "like": 0
         },
         {
           "nick": "라이센",
@@ -54108,12 +54966,27 @@
         {
           "nick": "모근할짝주르릅",
           "text": "자영업 하는 사람은 그저 웁니다. ㅜㅜ 수요일 12넘기면 시작 할려고 준비 했것만 화요일 부터 금요일까지 한일도요 일본 출장 가야해. 이런 나마시바 ㄹ ㅜㅜ",
-          "like": 3
+          "like": 5
         },
         {
           "nick": "예숫님",
           "text": "모근할짝주르릅",
+          "like": 1
+        },
+        {
+          "nick": "빠오왕",
+          "text": "와.. 내가 이 날인줄 모르고 노조가 저녁사준대서 신청했다. ㅠㅠ 젝일. 궁디가 들썩들썩하것네...",
           "like": 0
+        },
+        {
+          "nick": "세츠다",
+          "text": "연차 썼다가 일 터져서 취소.... 6월부터 써둔거였는데....",
+          "like": 1
+        },
+        {
+          "nick": "위켄즈 정총무",
+          "text": "19~20일 연차",
+          "like": 2
         }
       ]
     },
@@ -54137,42 +55010,52 @@
           "v": "https://i3.ruliweb.com/img/26/11/15/1a1df1c08925a6f87.webp"
         }
       ],
-      "comments": 48,
+      "comments": 57,
       "topComments": [
         {
           "nick": "거짓부렁",
           "text": "예숫님",
-          "like": 2
+          "like": 3
         },
         {
           "nick": "라이센",
           "text": "엄청나게 디테일하게 바뀌었네 ㄷㄷㄷ 진짜 조심해야할지도",
-          "like": 6
+          "like": 7
         },
         {
           "nick": "SensitiveOne",
           "text": "리버티시티 유의미한 범죄율 감소. 길가다 NPC가 시비걸면 정당방위 할 생각에 싱글벙글 해지는 미래가 그려지네요",
-          "like": 2
+          "like": 3
         },
         {
           "nick": "휴먼메이더",
           "text": "사람은 적응의 동물.. 익숙해지면 바로 테크트리 타서 재빠르게 피해갈듯요",
-          "like": 6
+          "like": 8
         },
         {
           "nick": "루리웹-6632178466",
           "text": "WeissBlut",
-          "like": 6
+          "like": 9
         },
         {
           "nick": "노노7",
           "text": "착하게 플레이 하면 되겠군",
-          "like": 0
+          "like": 2
         },
         {
           "nick": "꿈보다무서운환상",
           "text": "노노7",
-          "like": 3
+          "like": 4
+        },
+        {
+          "nick": "Dark Knight",
+          "text": "꿈보다무서운환상",
+          "like": 1
+        },
+        {
+          "nick": "꿈보다무서운환상",
+          "text": "Dark Knight",
+          "like": 0
         },
         {
           "nick": "던전슬라임",
@@ -54180,44 +55063,54 @@
           "like": 0
         },
         {
+          "nick": "타락한마왕",
+          "text": "자폐쌔끼",
+          "like": 0
+        },
+        {
+          "nick": "날라리아",
+          "text": "팬스가",
+          "like": 0
+        },
+        {
           "nick": "왜날뾁에올인",
           "text": "palice 는 뭐여?",
-          "like": 0
+          "like": 1
         },
         {
           "nick": "game-man",
           "text": "경찰차를 타고 경찰복장으로..",
-          "like": 0
+          "like": 2
         },
         {
           "nick": "러로디",
           "text": "실제로 레데리2도 꽤 힘들었음",
-          "like": 4
+          "like": 6
         },
         {
           "nick": "루리웹-1092802801",
           "text": "레데리2 보면 락스타는 되도록 현실적인 구현을 중시하는거같음 캐주얼하게하려는 사람들에겐 안맞겠지만 이쪽이 몰입감들어서 난 호",
-          "like": 7
+          "like": 9
         },
         {
           "nick": "해물이에요",
           "text": "나중에 캐쥬얼하게 바뀌지 않으려나 첨에 레데디2도 동물가죽 그대로 다 벗겨서 보여주는 장면 넣다가 그냥 쓱싹하는 장면으로 바뀐것처럼.,..",
-          "like": 0
+          "like": 1
         },
         {
           "nick": "루리웹-6632178466",
           "text": "해물이에요",
-          "like": 4
+          "like": 7
         },
         {
           "nick": "ukari",
           "text": "gta는 깽판치는 맛으로 하는것도 있는데 이걸 이리 빡빡하면 좀 그렇지 않나...?",
-          "like": 5
+          "like": 7
         },
         {
           "nick": "왜날뾁에올인",
           "text": "ukari",
-          "like": 2
+          "like": 4
         },
         {
           "nick": "슈퍼샷건",
@@ -54227,7 +55120,7 @@
         {
           "nick": "루리웹-6632178466",
           "text": "gta5만 하다가 6 유명하다고하니까 했다가 귀찮다고할사람 겁나 보일거같음ㅋㅋㅋㅋ 레데리2라도 했으면 좀 적응할텐데 캐쥬얼하게하는 사람들은 백퍼 저거 ㅈ같다고 말 나올듯ㅋㅋ",
-          "like": 8
+          "like": 10
         },
         {
           "nick": "先愛治患🗽비취빛에뮬레이또",
@@ -54237,32 +55130,32 @@
         {
           "nick": "루리웹-5924911255",
           "text": "先愛治患🗽비취빛에뮬레이또",
-          "like": 9
+          "like": 13
         },
         {
           "nick": "루리웹-2379959984",
           "text": "그냥 뇌비우고 다 쓸어버리고 다니는 플레이는 세이브 불러오기 할 거 아니면 할 엄두도 안나겠네 ㅋㅋㅋ",
-          "like": 1
+          "like": 2
         },
         {
           "nick": "제주흑돼지",
           "text": "이런건 세부적으로 온오프기능 있으면 좋겠음",
-          "like": 2
+          "like": 3
         },
         {
           "nick": "루리웹-6317208818",
           "text": "AI 인식이 너무 안 좋으면 똥게임으로 불리지만 너무 인식 범위가 뛰어나도 빡치게 함. 오히려 게임 플레이 방해 요소가 될 수 있음.",
-          "like": 4
+          "like": 6
         },
         {
           "nick": "46374636",
           "text": "게임은 어느정도 게임다워야 피로도 없고 재밌는법",
-          "like": 0
+          "like": 2
         },
         {
           "nick": "암바들어가",
           "text": "이러면 겜이 너무 피곤하지않나? 좀 과장되게 표현하는건지 실제겜도 그런지는 봐야겠네",
-          "like": 0
+          "like": 2
         },
         {
           "nick": "Sonata Rain",
@@ -54282,7 +55175,7 @@
         {
           "nick": "clubhouselover",
           "text": "레데리2 처럼 사체 유기 후 부패되다가 백골화 되는지 궁금한데 한밤 중에 은밀하게 해야겠군...",
-          "like": 1
+          "like": 2
         },
         {
           "nick": "만달로리안",
@@ -54290,14 +55183,19 @@
           "like": 0
         },
         {
+          "nick": "소중한날의꿈",
+          "text": "만달로리안",
+          "like": 0
+        },
+        {
           "nick": "현지아들 아빠누구?",
           "text": "편의점 털기전.후 저장은 필수겠군",
-          "like": 0
+          "like": 1
         },
         {
           "nick": "이스타트",
           "text": "저게 현실적이긴 한데 이건 게임이잖아 너무 심하면 귀찮아져서 오히려 독이 될지도",
-          "like": 0
+          "like": 1
         },
         {
           "nick": "서쿠쿠_",
@@ -54312,16 +55210,31 @@
         {
           "nick": "알파베타감마델타",
           "text": "say0_0",
-          "like": 0
+          "like": 5
         },
         {
           "nick": "vigintile",
           "text": "조작법만 레데리2처럼 이상하지 않으면 좋겠네요. 사소한 불법으로도 수배자 되는 시스템인데 조작법이 거지같아서 갑자기 총겨누기 같은게 되서 시비털리고 평판 떨어지고 이러면 재미는 커녕 귀찮기만 할거같음.",
-          "like": 0
+          "like": 2
         },
         {
           "nick": "헤밍KIOl",
           "text": "갠적으로 저런 기능은 호인데 그타5처럼 전화로 딸깍은 있었으면 좋겠음 갠적으로 아예 돈으로 별 없애는 느낌으로 말이죠 그래서 별 없애려고 돈을 대거투입 돈이 없으니 다시 범죄에 손대고 또 별 뜨면 돈 투입 ㅋ 무한 플레이 ㅋㅋㅋ 갠적으로 리얼해진건 맘에들지만 진짜로 귀찮은거 싫어하는 사람들을 위한 편의방법 같은건 존재했으면 하네요",
+          "like": 2
+        },
+        {
+          "nick": "멜론머핀",
+          "text": "현실적이라 재밌을것 같기도한데 많이 번거로울것도 같고.. 밸런스를 잘 잡아놨길 믿어야할듯",
+          "like": 1
+        },
+        {
+          "nick": "아기수박",
+          "text": "잡혀도 돈내고 석방 ㅋ 경찰에 구속되면 빡치는 요소를 넣어 나야지 재밌는데 그래야 도망가는데 전력을 다하지",
+          "like": 0
+        },
+        {
+          "nick": "루리웹-0681264366",
+          "text": "저렇게 깐깐하게 할거면 주변에 목격자 없을때 범죄 저지르면 별붙는건 당연히 없어졌겠지? 목격자 없는데 별 붙을때마다 개짜증났었는데",
           "like": 0
         }
       ]
@@ -54366,12 +55279,12 @@
           "v": "https://i1.ruliweb.com/img/26/11/15/1a1df16d69a3d7de9.webp"
         }
       ],
-      "comments": 75,
+      "comments": 90,
       "topComments": [
         {
           "nick": "지우갱",
           "text": "락스타 판매 전략 모르나 ps6으로 60프레임 팔고 pc로 팔고 팔고 팔고 빌드업 판매 전략",
-          "like": 15
+          "like": 18
         },
         {
           "nick": "先愛治患🗽비취빛에뮬레이또",
@@ -54381,12 +55294,12 @@
         {
           "nick": "게임멀티유저",
           "text": "先愛治患🗽비취빛에뮬레이또",
-          "like": 12
+          "like": 16
         },
         {
           "nick": "당신말이 맞습니다",
           "text": "40프레임 까지는 기대했었는데.. ㅠ",
-          "like": 11
+          "like": 12
         },
         {
           "nick": "Nucker",
@@ -54396,17 +55309,17 @@
         {
           "nick": "MPAX",
           "text": "여태 게임 내온것들 보고도? 락스타도 아무말이 없었는데...",
-          "like": 4
+          "like": 6
         },
         {
           "nick": "루리웹-1911331",
           "text": "락스타는 계속 60프레임 없다고 말해오지 않았음?",
-          "like": 11
+          "like": 16
         },
         {
           "nick": "리버휘닉스",
           "text": "오레노피코",
-          "like": 12
+          "like": 16
         },
         {
           "nick": "자그레우스",
@@ -54416,17 +55329,27 @@
         {
           "nick": "빠세호",
           "text": "다 30 프레임이라고 못 박지 않음?",
-          "like": 7
+          "like": 8
+        },
+        {
+          "nick": "R.R.RicoTyrell",
+          "text": "빠세호",
+          "like": 1
         },
         {
           "nick": "xboxpswitch",
           "text": "60프렘 꿈은 꾸지도 않았습니다 40프렘의 꿈을 망쳐버렸습니다",
-          "like": 7
+          "like": 8
         },
         {
           "nick": "기무치관종",
           "text": "15프레임로 하자",
-          "like": 2
+          "like": 3
+        },
+        {
+          "nick": "수수화염",
+          "text": "시스프리 메이커",
+          "like": 0
         },
         {
           "nick": "crusian",
@@ -54441,27 +55364,27 @@
         {
           "nick": "초코송이맛있다",
           "text": "억까네....",
-          "like": 3
+          "like": 4
         },
         {
           "nick": "루덴스맨",
           "text": "뭐 그래도 노멀보단 좋겠지",
-          "like": 7
+          "like": 9
         },
         {
           "nick": "루리웹-0572900143",
           "text": "플스7 에서는 가능할지도...",
-          "like": 4
+          "like": 5
         },
         {
           "nick": "Starlike",
           "text": "애초에 지원한다고 말도 안한 프레임가지고 엄청나게 징징거리네 ㅋㅋ",
-          "like": 9
+          "like": 10
         },
         {
           "nick": "건빵에식혜",
           "text": "어차피 똑같은 30프레임이면 좀더 좋은 그래픽로 해야지해서 프로 샀는데..",
-          "like": 1
+          "like": 3
         },
         {
           "nick": "Silian Rail",
@@ -54471,7 +55394,7 @@
         {
           "nick": "루리웹-2607462119",
           "text": "프로에거 60프레임 안될거라고 했더니 모지리냐고 하던 분 어디가셨나. 누가 모지리인지 이제 알게 되셨겠네요.",
-          "like": 4
+          "like": 7
         },
         {
           "nick": "타협불가법칙",
@@ -54481,17 +55404,17 @@
         {
           "nick": "gacty",
           "text": "프로 없어서 pc판기다릴라다 미련없이 질럿다",
-          "like": 2
+          "like": 3
         },
         {
           "nick": "빠오왕",
           "text": "솔직히 저 그래픽을 플스5프로로 60프레임 돌린다 했으면 못믿었을거 같은데.",
-          "like": 3
+          "like": 4
         },
         {
           "nick": "미르피아",
           "text": "글 내용을보면 ps5pro에서 60프레임 꼭 원했다기보다는 Ps5도 30프레임인데 ps5pro도 30프레임이니 차별을 원한다. 라는 보상심리가 아닐까싶네요 그러므로 ps5pro는 40프레임이라도 좀 해달라~ 라는...",
-          "like": 6
+          "like": 7
         },
         {
           "nick": "키료",
@@ -54506,22 +55429,22 @@
         {
           "nick": "루리웹-9825191275",
           "text": "이양반 자꾸 이런글만 퍼오네 ㅋㅋㅋㅋㅋ",
-          "like": 9
+          "like": 13
         },
         {
           "nick": "루리웹-4643147156",
           "text": "딴건 모르겠고 30프레임 확정나니깐 60프레임 안 될거라고 하는 사람들한테 조롱이랑 반말을 일삼던 한자닉 그분 현재 몇일째 잠수중이네요",
-          "like": 3
+          "like": 4
         },
         {
           "nick": "Redemptionnn",
           "text": "프로가 무슨 4080급 되는줄 알겠네",
-          "like": 6
+          "like": 9
         },
         {
           "nick": "뿌움",
           "text": "오타쿠들은 적당히를 모르는구만",
-          "like": 1
+          "like": 3
         },
         {
           "nick": "coco멍멍",
@@ -54531,27 +55454,27 @@
         {
           "nick": "Nucker",
           "text": "프로 시피유는 생각만큼 고성능이 아님. 60 업데이트도 어려운 이유.",
-          "like": 10
+          "like": 14
         },
         {
           "nick": "게임멀티유저",
           "text": "Nucker",
-          "like": 7
+          "like": 9
         },
         {
           "nick": "파이널화딱지",
           "text": "60프레임은 커녕 안정적인 30프레임으로 유지하느냐가 관건이지 콘솔판 gta시리즈 거의 다 해봤지만 말이 30프레임이지 20프레임대에서 노는게 대부분이였음 gta5도 ps4에와서야 비교적 안정적인 30프레임으로 구동됐으니까... 이번작은 제작기간도 기간이니 상당히 공들여서 최적화 작업하긴 했을건데 트레일러 봐선 모르고 결국 게임이 나와봐야 알 수 있음",
-          "like": 5
+          "like": 9
         },
         {
           "nick": "영영가는개불",
           "text": "파이널화딱지",
-          "like": 1
+          "like": 4
         },
         {
           "nick": "사이안",
           "text": "원망하려면 플스 엑박탓을 해야지 ㅋㅋ",
-          "like": 3
+          "like": 4
         },
         {
           "nick": "𝓝𝓸𝓮𝓵",
@@ -54561,12 +55484,12 @@
         {
           "nick": "18HO",
           "text": "사실 이제 30프레임은 좀 힘들긴함",
-          "like": 4
+          "like": 5
         },
         {
           "nick": "Nucker",
           "text": "PS6 나오면 60 되긴 할 거임. PS5 세대는 PRO도 60 버거움.",
-          "like": 1
+          "like": 2
         },
         {
           "nick": "Dream Walker.",
@@ -54576,17 +55499,17 @@
         {
           "nick": "레이저zip",
           "text": "Dream Walker.",
-          "like": 3
+          "like": 4
         },
         {
           "nick": "다이애나",
           "text": "안해주면 안해주는거지 뭐. 하기 싫으면 안하면 됨.",
-          "like": 1
+          "like": 2
         },
         {
           "nick": "레이저zip",
           "text": "뭐라는 거야 락스타가 프로에서 60프레임 된다고 오피셜로 말한것도 아닌데 누가 프로 사라고 했나...",
-          "like": 4
+          "like": 5
         },
         {
           "nick": "miyrt",
@@ -54596,7 +55519,7 @@
         {
           "nick": "호덕",
           "text": "",
-          "like": 3,
+          "like": 4,
           "imgs": [
             "https://i1.ruliweb.com/cmt/26/11/15/1a1df693b22f78d.jpeg"
           ]
@@ -54604,7 +55527,7 @@
         {
           "nick": "동네청년1",
           "text": "개같은 헛소리를 길게도 짓걸여놨네",
-          "like": 3
+          "like": 4
         },
         {
           "nick": "Sophia Monard",
@@ -54619,12 +55542,12 @@
         {
           "nick": "시노비노",
           "text": "맘에 안들면 하지마 ㅅㄲ야",
-          "like": 3
+          "like": 4
         },
         {
           "nick": "나에겐♧너뿐",
           "text": "이제 프로 시세 떨어지나요? 가격 내려가면 구매한다는 사람들 많던데요",
-          "like": 2
+          "like": 3
         },
         {
           "nick": "환불했어요",
@@ -54634,7 +55557,7 @@
         {
           "nick": "대충만든닉네임",
           "text": "꿈은 꿈으로 즐겨 노멀이랑 씨피유가 같은데",
-          "like": 1
+          "like": 2
         },
         {
           "nick": "닉네임을뭘로하냐고",
@@ -54649,12 +55572,12 @@
         {
           "nick": "킹짱탑간지",
           "text": "공식으로 전기종 30프레임 목표로한다고 말했는데 프로에서 40프레임 60프레임 바라는건 그냥 징징이지",
-          "like": 0
+          "like": 1
         },
         {
           "nick": "아시꿈",
           "text": "근데 공식이 60프레임으로 내준다는 말을 한적이 없는데.... 이 무슨....",
-          "like": 1
+          "like": 2
         },
         {
           "nick": "파란쓸개",
@@ -54664,7 +55587,7 @@
         {
           "nick": "하이랄의Link",
           "text": "파란쓸개",
-          "like": 0
+          "like": 1
         },
         {
           "nick": "쿠쿠폰",
@@ -54674,12 +55597,12 @@
         {
           "nick": "Ainhart",
           "text": "VRR + 40FPS, 해상도 조금 낮추고 60FPS 충분히 가능하겠지만 안해줄걸 PC로 또 팔아야되니까",
-          "like": 0
+          "like": 1
         },
         {
           "nick": "Fruto fruta",
           "text": "인생 업적 플스 보유라서 pc. 또는 엑스박스 보다 성능 높아야 하는 징징 유저들. 현실은 pc. 엑스박스 유저 보다 못한 . 레드 데드 리셉션2만 봐도 알수있는",
-          "like": 0
+          "like": 2
         },
         {
           "nick": "클스",
@@ -54689,7 +55612,7 @@
         {
           "nick": "루리웹-5852496603",
           "text": "오덕살맨 애쓴다 ㅋㅋ",
-          "like": 4
+          "like": 8
         },
         {
           "nick": "뺧뛣푧뾃쏿",
@@ -54704,6 +55627,51 @@
         {
           "nick": "헤밍KIOl",
           "text": "걍 저번에 루머로는 60프레임 할려면 npc수랑 뭐 효과 줄여야해서 타협 안했다고 하지 않았나요 어차피 그타 같은 게임은 몇년을 계속 판매하고 몇년뒤에도 할 게임이라 하드웨어 사양은 차근차근 좋아질거니 60프레임 최적화는 갈수록 퀄리티 타협없이 할수 있고 말이죠",
+          "like": 0
+        },
+        {
+          "nick": "피아노팔아줘",
+          "text": "PS4 PRO 시절 처럼 노멀은 프레임 30 유지도 힘들고 PRO는 30프레임 고정 되는 개적화 되던 시대 생각나서 이번 GTA 노멀 PS5에서 30프레임 완벽 고정이라도 되었으면 만족함. 이렇케 많은 차량 NPC 밀도가 높은 게임인데 PS5 PRO라고 노멀 PS5 30프레임 게임이 60프레임으로 뻥튀기 될꺼라고 기대한건 너무 큰 욕심.",
+          "like": 3
+        },
+        {
+          "nick": "멸콩",
+          "text": "적응 못하면 PC버전 기다리면됨",
+          "like": 1
+        },
+        {
+          "nick": "리센노 도시노",
+          "text": "ㅋㅋㅋ",
+          "like": 0
+        },
+        {
+          "nick": "리오넬메시a",
+          "text": "꼬우면 락스타가서 항의해 임마",
+          "like": 1
+        },
+        {
+          "nick": "아기수박",
+          "text": "프로 필요없네요",
+          "like": 0
+        },
+        {
+          "nick": "Castletiger",
+          "text": "거 더럽게 징징거리네",
+          "like": 0
+        },
+        {
+          "nick": "알폰소",
+          "text": "엔비디아 API 썼으면 가능 했는데... 하필 구린 라데온 재규어를 썼으니...",
+          "like": 0
+        },
+        {
+          "nick": "네지하",
+          "text": "결국엔 엘가토 4k x",
+          "like": 0
+        },
+        {
+          "nick": "오색용",
+          "text": "히히 피씨로 할거다 지금 젤다 시오도 있고 그동안 쌓인 안한 게임이 너무나도 많음",
           "like": 0
         }
       ]
@@ -55033,12 +56001,12 @@
           ]
         }
       ],
-      "comments": 8,
+      "comments": 9,
       "topComments": [
         {
           "nick": "루리웹-4795184391",
           "text": "쯔아아아앗 이자나기",
-          "like": 1
+          "like": 2
         },
         {
           "nick": "비타민보드",
@@ -55053,7 +56021,7 @@
         {
           "nick": "린파나파나",
           "text": "갑자기 P12 주인공이...? 진짜 리메이크 나오나",
-          "like": 1
+          "like": 2
         },
         {
           "nick": "파이널 판타지",
@@ -55066,13 +56034,13 @@
           "like": 1
         },
         {
-          "nick": "루리웹-1971604839",
-          "text": "빨리 1,2 리메이크 내놔!!",
-          "like": 1
-        },
-        {
           "nick": "국내산드워프",
           "text": "리메이크 되면 저 하트 가슴은 변경될런지.....",
+          "like": 0
+        },
+        {
+          "nick": "천개산",
+          "text": "오오",
           "like": 0
         }
       ]
@@ -55345,17 +56313,12 @@
           "v": "앞으로도 이러한 도전을 계속해 나갈 것입니다."
         }
       ],
-      "comments": 2,
+      "comments": 3,
       "topComments": [
         {
-          "nick": "머리크기지구",
-          "text": "과거에는 세계관 공유, 설정 구축 방식, 일정 관리, 그리고 애니메이션과 게임 간의 제작 속도 차이 등으로 인해 만족스러운 성과를 거두지 못한 사례도 있었습니다. 이거 완전 신듀얼리티.... 그런데 결국 잘만들어야 흥하지...",
-          "like": 2
-        },
-        {
-          "nick": "니나가라군대",
-          "text": "건담 게임으로 어떻게든 흥행을 하고 싶어하는대 게임을 너무 못만듬...",
-          "like": 2
+          "nick": "전략",
+          "text": "코나미 여론이 반남보다 좋아질 줄이야",
+          "like": 0
         }
       ]
     },
@@ -55387,12 +56350,12 @@
           "v": "저희는 각 게임의 개발사 및 배급사와 긴밀히 협력하여 각 게임의 정신에 부합하는 업적을 설계했습니다. 앞으로 더 많은 오리지널 Xbox 게임에 업적 시스템을 추가할 계획입니다."
         }
       ],
-      "comments": 11,
+      "comments": 10,
       "topComments": [
         {
           "nick": "魂",
           "text": "",
-          "like": 3,
+          "like": 5,
           "best": true,
           "imgs": [
             "https://i2.ruliweb.com/cmt/26/11/15/1a1df72dd4c8c85.png"
@@ -55411,7 +56374,7 @@
         {
           "nick": "작성자",
           "text": "헌터스",
-          "like": 4
+          "like": 6
         },
         {
           "nick": "헌터스",
@@ -55421,7 +56384,7 @@
         {
           "nick": "魂",
           "text": "",
-          "like": 3,
+          "like": 5,
           "imgs": [
             "https://i2.ruliweb.com/cmt/26/11/15/1a1df72dd4c8c85.png"
           ]
@@ -55476,11 +56439,6 @@
           "like": 5
         },
         {
-          "nick": "루리웹-1916880500",
-          "text": "니나가라군대",
-          "like": 4
-        },
-        {
           "nick": "20센치소년",
           "text": "금 돈수로 차등해서 주는게 더 나은데",
           "like": 6
@@ -55488,22 +56446,27 @@
         {
           "nick": "레데리3",
           "text": "플래티넘 트로피 안주나",
-          "like": 2
+          "like": 3
         },
         {
           "nick": "뭉치면 이상해지는것들!!?",
           "text": "레데리3",
-          "like": 3
+          "like": 4
         },
         {
           "nick": "단열했니",
           "text": "우와 첫번째껀 진짜 만들기 힘든건데 ㄷㄷ",
-          "like": 2
+          "like": 3
         },
         {
           "nick": "-베르단디-",
           "text": "뭐야? 나도 줘요.",
-          "like": 3
+          "like": 4
+        },
+        {
+          "nick": "White Koala",
+          "text": "그러고보니 제가 1996년부터 플스1 입문했는데 벌써 30년이네... 세월아...",
+          "like": 7
         }
       ]
     },
@@ -55579,12 +56542,12 @@
           "v": "이번 추측은 근거 없는 억측은 아니며 꽤 합리적인 수준이지만, 여전히 추측의 영역에 머물러 있습니다."
         }
       ],
-      "comments": 53,
+      "comments": 58,
       "topComments": [
         {
           "nick": "오덕살맨",
           "text": "",
-          "like": 101,
+          "like": 113,
           "best": true,
           "imgs": [
             "https://i2.ruliweb.com/cmt/26/11/15/1a1de3a85db3d7de9.jpg"
@@ -55593,7 +56556,7 @@
         {
           "nick": "이비노프란",
           "text": "",
-          "like": 18,
+          "like": 20,
           "best": true,
           "imgs": [
             "https://i3.ruliweb.com/cmt/26/11/15/1a1de77b53a1476af.jpg"
@@ -55602,7 +56565,7 @@
         {
           "nick": "오덕살맨",
           "text": "",
-          "like": 101,
+          "like": 113,
           "imgs": [
             "https://i2.ruliweb.com/cmt/26/11/15/1a1de3a85db3d7de9.jpg"
           ]
@@ -55610,12 +56573,12 @@
         {
           "nick": "콘솔짱",
           "text": "오덕살맨",
-          "like": 7
+          "like": 8
         },
         {
           "nick": "이비노프란",
           "text": "",
-          "like": 18,
+          "like": 20,
           "imgs": [
             "https://i3.ruliweb.com/cmt/26/11/15/1a1de77b53a1476af.jpg"
           ]
@@ -55623,7 +56586,7 @@
         {
           "nick": "루리웹-4190978970",
           "text": "이비노프란",
-          "like": 5
+          "like": 6
         },
         {
           "nick": "이비노프란",
@@ -55643,7 +56606,7 @@
         {
           "nick": "루리웹-6329129218",
           "text": "전 마지막 디스크 라서 살 생각 완전판은 dlc로 사면 그만ㅋㅋ",
-          "like": 3
+          "like": 4
         },
         {
           "nick": "하시다 스즈",
@@ -55668,7 +56631,7 @@
         {
           "nick": "헤르져",
           "text": "출시일 기준 3년정도 뒤에 사면 얼추 되겠네ㅋㅋ",
-          "like": 14
+          "like": 15
         },
         {
           "nick": "노쎌",
@@ -55688,7 +56651,7 @@
         {
           "nick": "핀포인트",
           "text": "아틀라스도 지나친 확장팩 팔이 때문에 초판 발매량 떨어진 건 인지하고 있던데 포기 못하겠지 십새들",
-          "like": 3
+          "like": 4
         },
         {
           "nick": "냥집사~🌙",
@@ -55718,7 +56681,7 @@
         {
           "nick": "슈비빅맨",
           "text": "자기네 회의에서도 메타포 박살난거 완전판 전략때문이라고 알고 있더만 제작비 대비 가장 탐욕스런 회사가 인간의 욕망을 개심 시키는 스토리의 게임을 만드는거 아이러니 아님",
-          "like": 4
+          "like": 6
         },
         {
           "nick": "와일드바디",
@@ -55728,7 +56691,7 @@
         {
           "nick": "Khalif",
           "text": "페르소나는 백퍼 완전판 나옴",
-          "like": 2
+          "like": 3
         },
         {
           "nick": "Starlike",
@@ -55738,7 +56701,7 @@
         {
           "nick": "유리장미",
           "text": "메타포는 몰라도 페6는 완전판 무조건 나오긴할듯",
-          "like": 3
+          "like": 4
         },
         {
           "nick": "9987392663983",
@@ -55753,7 +56716,7 @@
         {
           "nick": "솅닭",
           "text": "여긴 완전 신뢰를 잃었구나ㅋㅋㅋ 대작 시리즈면 발매일을 기다리는게 보통인데 잠수가 기본이 되니ㅋㅋ",
-          "like": 3
+          "like": 4
         },
         {
           "nick": "Ragazuel",
@@ -55773,7 +56736,7 @@
         {
           "nick": "더럽고비열한 닌자",
           "text": "뿌우!",
-          "like": 1
+          "like": 2
         },
         {
           "nick": "돌배나무",
@@ -55783,12 +56746,22 @@
         {
           "nick": "더럽고비열한 닌자",
           "text": "설마 완전판 장사 안하겠지 싶다가도 얘들이라면 완전판 내놓을거 같다는 합리적인 의심이 들어",
-          "like": 1
+          "like": 2
         },
         {
           "nick": "Zenn Vouber",
           "text": "아틀라스 확장판 진여신4 말곤 다 해본거 같은데 난 걍 무인판이 젤 할만햇음 진여신3 단테 추가랑 추가 엔딩 말곤 뭐 없기도 해서 별 불만 없엇고 페345는 스토리 추가긴 한데 사실 오리지널이 더 맘에들엇음 특히 로열은 추가 스토리 왜 넣엇나 싶던뎅 그래서 앞으로 무인판만 하려구용",
           "like": 1
+        },
+        {
+          "nick": "WeissBlut",
+          "text": "Zenn Vouber",
+          "like": 1
+        },
+        {
+          "nick": "Zenn Vouber",
+          "text": "WeissBlut",
+          "like": 0
         },
         {
           "nick": "DeathCrus",
@@ -55808,6 +56781,21 @@
         {
           "nick": "세기말의쎄자",
           "text": "TGA에서 신규 정보가 나오지 않을까싶음",
+          "like": 0
+        },
+        {
+          "nick": "루리웹-6329129218",
+          "text": "더 게임 어워즈 기대한다",
+          "like": 0
+        },
+        {
+          "nick": "사용할수없는닉네임",
+          "text": "오케 2030년에 완전판 할게요",
+          "like": 0
+        },
+        {
+          "nick": "영영가는개불",
+          "text": "페르소나같은게임 언좋아해서 다행이다 (드퀘애당하며)",
           "like": 0
         }
       ]
@@ -55848,12 +56836,12 @@
           "v": "넬슨은 제이슨과 루시아를 \"벼랑 끝에 몰린 젊은 커플\"이라고 묘사하며, 이들이 \"밖으로 나가 최대한 많은 살육을 저지르고 소란을 피우는 것은(기존 방식대로 날뛰는 것은) 이치에 맞지 않을 것\"이라고 덧붙였다."
         }
       ],
-      "comments": 64,
+      "comments": 66,
       "topComments": [
         {
           "nick": "백갈리",
           "text": "범죄 안일으키고 막기만 해도 엔딩 볼수 있게 해줬음 좋겠네요.. 뭐 가벼운 범죄는 어쩔수 없지만 살인이라던지 이런건 선택 상황으로 ....",
-          "like": 11
+          "like": 12
         },
         {
           "nick": "L.Bobos",
@@ -55868,7 +56856,7 @@
         {
           "nick": "先愛治患🗽비취빛에뮬레이또",
           "text": "시스템 복잡한만큼 패치 오랫동안 많이 나오겠군 안정화 되면 천천히 해야겠다",
-          "like": 3
+          "like": 4
         },
         {
           "nick": "BusanOdaeng",
@@ -55878,7 +56866,7 @@
         {
           "nick": "先愛治患🗽비취빛에뮬레이또",
           "text": "ACIII",
-          "like": 1
+          "like": 2
         },
         {
           "nick": "꿈보다무서운환상",
@@ -55888,12 +56876,12 @@
         {
           "nick": "先愛治患🗽비취빛에뮬레이또",
           "text": "꿈보다무서운환상",
-          "like": 2
+          "like": 3
         },
         {
           "nick": "꿈보다무서운환상",
           "text": "Prophe12t",
-          "like": 0
+          "like": 1
         },
         {
           "nick": "xboxpswitch",
@@ -55913,7 +56901,7 @@
         {
           "nick": "say0_0",
           "text": "인퍼머스란 게임에서 악성향 가면 길가다 돌맞을때가 있는데 내가 20m짜리 괴물과 싸울때도 나한테 돌을 던지드라 Gta에서도 악명 높아지면 미션하다 지나가던 시민한테 총맞는거 아닌가 몰라 ㅋㅋ",
-          "like": 10
+          "like": 11
         },
         {
           "nick": "툰트라",
@@ -55943,7 +56931,7 @@
         {
           "nick": "vigintile",
           "text": "'밖으로 나가 최대한 많은 살육을 저지르고 소란을 피우는 것'은 트레버 정도를 제외하면 기존 주인공 서사를 고려했을 때 대부분 안어울렸는데. 이제 막 출소해서 부패한 경찰의 감시를 받는 CJ나 가난한 이민자인 니코가 최대한 많은 살육을 저지르고 소란을 피우는게 서사적으로 어울렸을리가 없잖아.",
-          "like": 5
+          "like": 6
         },
         {
           "nick": "할리와 아이비",
@@ -55958,7 +56946,7 @@
         {
           "nick": "특허출헌중",
           "text": "사랑이뭐길래",
-          "like": 0,
+          "like": 1,
           "imgs": [
             "https://i2.ruliweb.com/cmt/26/11/15/1a1df0241bf11bd64.jpg"
           ]
@@ -55981,7 +56969,7 @@
         {
           "nick": "루리웹-6632178466",
           "text": "딱봐도 서로 챙겨주면서 플레이하고 범죄 프로필 지수 낮아야 해피엔딩 나올듯 걍 그동안 하던대로 날라다니면 범죄프로필 최악 찍고 연애 관계도 소홀히하면 배드엔딩 뭐 딱 보이구만",
-          "like": 2
+          "like": 3
         },
         {
           "nick": "별내남",
@@ -55997,6 +56985,11 @@
           "nick": "비타민보드",
           "text": "레데리 같은 느낌에서 더 발전한건가?? 선행으로 엔딩 갈리고 막",
           "like": 1
+        },
+        {
+          "nick": "v꿀잼v",
+          "text": "개망나니짓거리만 하고 살려거든 그만둬라는 뜻이네요.ㅎㅎ",
+          "like": 0
         }
       ]
     },
@@ -56096,12 +57089,12 @@
           "v": "다시 한번 말씀드리지만, 저는 Fable이 결국 좋은 게임이 될 거라고 생각합니다. 지금까지 공개된 모든 게임플레이 영상은 훌륭했거든요. 열렬한 팬입니다. 다만 이번 영상은 좀 어색하고, 마치 급하게 만든 것처럼 느껴집니다. 2027년 2월 23일 Xbox Series X|S, PC, PS5로 출시되는 Fable을 구매하도록 사람들을 설득해야 하는 상황에서 이런 느낌은 이상적이지 않죠."
         }
       ],
-      "comments": 108,
+      "comments": 115,
       "topComments": [
         {
           "nick": "빠세호",
           "text": "",
-          "like": 56,
+          "like": 57,
           "best": true,
           "imgs": [
             "https://i3.ruliweb.com/cmt/26/11/15/1a1ddf8cb26508794.png"
@@ -56110,12 +57103,12 @@
         {
           "nick": "작성자",
           "text": "쿰칸",
-          "like": 38
+          "like": 39
         },
         {
           "nick": "빠세호",
           "text": "",
-          "like": 56,
+          "like": 57,
           "imgs": [
             "https://i3.ruliweb.com/cmt/26/11/15/1a1ddf8cb26508794.png"
           ]
@@ -56128,37 +57121,37 @@
         {
           "nick": "루리웹-6317208818",
           "text": "인터갤러틱VS라우페이",
-          "like": 9
+          "like": 10
         },
         {
           "nick": "simpsons012",
           "text": "아마존슨",
-          "like": 12
+          "like": 14
         },
         {
           "nick": "serqvb",
           "text": "아샤 잘하네 ㅋㅋ 사업정리 ㅋㅋㅋ",
-          "like": 13
+          "like": 15
         },
         {
           "nick": "루리웹-6632178466",
           "text": "저거 보고 아직도 배부르구나싶더라..ㅋㅋ 글고 저걸 엑박 새로운 대표가 올렸던데 일부러 욕하라고 올린건가 싶을 정도....ㅋㅋㅋㅋ 그냥 게임 만듦새가 진짜 개노잼으로 보이더라....ㅋㅋㅋ",
-          "like": 22
+          "like": 24
         },
         {
           "nick": "R.R",
           "text": "베일가드 시즌2",
-          "like": 20
+          "like": 22
         },
         {
           "nick": "전능하신뿔난쥐의신",
           "text": "왜 서양 게임사들은 항상 DEI를 추구하고 항상 개쳐망할까? 콩코드 마라톤 울버린의 사례에서 배운게 없나?",
-          "like": 17
+          "like": 18
         },
         {
           "nick": "Pathetique6",
           "text": "페이블이 무슨 뜻인지 모르는거 같은 영상이었음 -.-",
-          "like": 9
+          "like": 10
         },
         {
           "nick": "루리웹-4325259844",
@@ -56173,7 +57166,7 @@
         {
           "nick": "sksjhhsa",
           "text": "pc주의자들이 사줄거니까 걱정 ㄴㄴ",
-          "like": 15
+          "like": 16
         },
         {
           "nick": "5060Ti",
@@ -56193,7 +57186,7 @@
         {
           "nick": "써누~",
           "text": "아니 근데 사업가들 아님? 자기들 돈 들여서 상품 만드는데 안 불안한가? 있는거 없는거 다 끌고와서 최선을 다해도 모자랄텐데 왜 자꾸 이런식으로 만드는건지 이해가 안됨",
-          "like": 22
+          "like": 23
         },
         {
           "nick": "전능하신뿔난쥐의신",
@@ -56213,7 +57206,7 @@
         {
           "nick": "BusanOdaeng",
           "text": "Pathetique6",
-          "like": 12
+          "like": 14
         },
         {
           "nick": "BusanOdaeng",
@@ -56223,12 +57216,12 @@
         {
           "nick": "카우킹",
           "text": "BusanOdaeng",
-          "like": 17
+          "like": 19
         },
         {
           "nick": "랜서팬더",
           "text": "지금 레전드 스튜디오조차 게임 재미보다, PC질 중시 하다가 망하는거 줄줄히 나오는데, 아직도 분위기 파악 안되나?????",
-          "like": 16
+          "like": 17
         },
         {
           "nick": "GyangSal",
@@ -56243,7 +57236,7 @@
         {
           "nick": "루리웹-6317208818",
           "text": "마이동숲-",
-          "like": 6
+          "like": 7
         },
         {
           "nick": "루리웹-5586048412",
@@ -56273,7 +57266,7 @@
         {
           "nick": "동방제과",
           "text": "그나저나 이건 유튜브 댓글창이 더 가관이네요 ㅋㅋㅋㅋ 진짜 자비없이 비꼬네.",
-          "like": 7
+          "like": 8
         },
         {
           "nick": "오빠거기헉",
@@ -56283,7 +57276,7 @@
         {
           "nick": "xboxpswitch",
           "text": "또 수천억 날리는거 확정인데 언제까지 이러나 함 보자 결국 돈이 승리하게 될테니 ㅋㅋㅋㅋㅋㅋㅋㅋ",
-          "like": 15
+          "like": 18
         },
         {
           "nick": "동방제과",
@@ -56298,7 +57291,7 @@
         {
           "nick": "동방제과",
           "text": "백갈리",
-          "like": 17
+          "like": 19
         },
         {
           "nick": "先愛治患🗽비취빛에뮬레이또",
@@ -56308,12 +57301,12 @@
         {
           "nick": "동방제과",
           "text": "先愛治患🗽비취빛에뮬레이또",
-          "like": 15
+          "like": 17
         },
         {
           "nick": "동방제과",
           "text": "초코송이맛있다",
-          "like": 19
+          "like": 21
         },
         {
           "nick": "저글링 긔엽긔",
@@ -56328,7 +57321,7 @@
         {
           "nick": "라이센",
           "text": "얘넨 한글 노한글 떠나서 답이 안보임",
-          "like": 12
+          "like": 13
         },
         {
           "nick": "히로유키",
@@ -56358,12 +57351,12 @@
         {
           "nick": "투투와사이",
           "text": "그냥 한국에는 출시하지마라... 할 게임도 많다...저런게임을 하는것도 고욕이다",
-          "like": 11
+          "like": 12
         },
         {
           "nick": "동방제과",
           "text": "투투와사이",
-          "like": 7
+          "like": 8
         },
         {
           "nick": "루리웹-21613594",
@@ -56373,17 +57366,17 @@
         {
           "nick": "써니.",
           "text": "개 X 같이 생겼내",
-          "like": 8
+          "like": 9
         },
         {
           "nick": "shrvl",
           "text": "여자 많은 게임사치고 똑바로 돌아가는 꼴을 못봄",
-          "like": 13
+          "like": 14
         },
         {
           "nick": "42",
           "text": "&ldquo; Xbox RPG가 우리를 실망시킨 건 이번이 처음입니다.&rdquo; 시작부터 구라를",
-          "like": 9
+          "like": 10
         },
         {
           "nick": "머스크잼",
@@ -56393,7 +57386,7 @@
         {
           "nick": "루리웹-7820913786",
           "text": "",
-          "like": 0,
+          "like": 1,
           "imgs": [
             "https://i3.ruliweb.com/cmt/26/11/15/1a1de7992f7552eed.jpg"
           ]
@@ -56401,7 +57394,7 @@
         {
           "nick": "행동하는양심사람사는세상",
           "text": "조ㅈ같은 레게머리 ㅗ",
-          "like": 2
+          "like": 4
         },
         {
           "nick": "Sonata Rain",
@@ -56416,7 +57409,7 @@
         {
           "nick": "루리웹-1092802801",
           "text": "어떻게 지들이 공개하는 보여주는 부분에조차 노잼인게 느껴질정도로 성의가 없는지 전투도 이상하고 그렇다고 플레이 시간도 짧다니 뭘만들고싶어하는지 모르겠음",
-          "like": 3
+          "like": 4
         },
         {
           "nick": "son-gys22",
@@ -56431,7 +57424,7 @@
         {
           "nick": "ru-98265",
           "text": "벌써부터 대량 해고가 예상된다.",
-          "like": 3
+          "like": 4
         },
         {
           "nick": "VVIGP",
@@ -56441,7 +57434,7 @@
         {
           "nick": "울동네지킴이",
           "text": "게임멀티유저",
-          "like": 5
+          "like": 7
         },
         {
           "nick": "VVIGP",
@@ -56456,17 +57449,7 @@
         {
           "nick": "Onyx117",
           "text": "다라이 한번 살벌하네 ;;",
-          "like": 1
-        },
-        {
-          "nick": "BookLayout",
-          "text": "개발기간이 8~9년임 ㅋㅋㅋ진짜 최소 5억달러라는 소리임 그런데 저딴 얼굴을?ㅋㅋㅋ",
-          "like": 1
-        },
-        {
-          "nick": "안녕하세요",
-          "text": "외형은 커마니까 상관 없다치는데 저 박진감 없는 모션과 전투는 뭐냐",
-          "like": 0
+          "like": 2
         }
       ]
     },
@@ -56495,7 +57478,7 @@
         {
           "nick": "고릴라의눈물",
           "text": "치즈너구리",
-          "like": 12
+          "like": 14
         },
         {
           "nick": "납작복숭아",
@@ -56555,12 +57538,12 @@
         {
           "nick": "루리웹-6632178466",
           "text": "8분도아니고 80분은 장난하나 ㅋㅋㅋㅋㅋ",
-          "like": 13
+          "like": 15
         },
         {
           "nick": "Supercell",
           "text": "숨겨진 업적 : 엔딩 크레딧 보기",
-          "like": 6
+          "like": 7
         },
         {
           "nick": "TOYHOUSE",
@@ -56585,7 +57568,7 @@
         {
           "nick": "블랙다이아",
           "text": "플래 조건이면 웃기겠다",
-          "like": 2
+          "like": 3
         },
         {
           "nick": "가보트",
@@ -56630,7 +57613,7 @@
         {
           "nick": "죄수번호-5183621312",
           "text": "콘페키플라자",
-          "like": 4
+          "like": 6
         },
         {
           "nick": "콘페키플라자",
@@ -56751,24 +57734,24 @@
       "comments": 15,
       "topComments": [
         {
-          "nick": "G・리모어",
-          "text": "밀 우",
-          "like": 2
-        },
-        {
-          "nick": "Project Pt",
-          "text": "이즈모 텐카",
-          "like": 3
-        },
-        {
           "nick": "chocobee",
           "text": "Project Pt",
           "like": 2
         },
         {
+          "nick": "chocobee",
+          "text": "밀 우",
+          "like": 0
+        },
+        {
+          "nick": "Steel_Haze",
+          "text": "이즈모 텐카",
+          "like": 2
+        },
+        {
           "nick": "Ka-ye",
           "text": "chocobee",
-          "like": 0
+          "like": 2
         },
         {
           "nick": "아르카디아",
@@ -56800,7 +57783,7 @@
     {
       "id": "ruliweb-2366460",
       "title": "더 게임 어워드 고티 후보, 한국 시간 11월 18일 새벽 1시 30분 ...",
-      "url": "https://bbs.ruliweb.com/news/board/1001/read/2366460?",
+      "url": "https://bbs.ruliweb.com/news/board/1001/read/2366460?page=2",
       "source": "루리웹",
       "date": "2026.11.15",
       "image": "https://img.youtube.com/vi/_e0oJSfmIFU/hqdefault.jpg",
@@ -56828,7 +57811,7 @@
         {
           "nick": "게임레이드",
           "text": "똥망겜",
-          "like": 1
+          "like": 2
         },
         {
           "nick": "Khalif",
@@ -56840,7 +57823,7 @@
     {
       "id": "ruliweb-2366458",
       "title": "[AC]금일 더 킹 오브 파이터즈 2001 발매 25주년 맞이",
-      "url": "https://bbs.ruliweb.com/news/board/1001/read/2366458",
+      "url": "https://bbs.ruliweb.com/news/board/1001/read/2366458?page=2",
       "source": "루리웹",
       "date": "2026.11.15",
       "image": "https://i1.ruliweb.com/ori/26/11/15/1a1dd8c58fc4d4df1.webp",
@@ -56900,11 +57883,6 @@
           ]
         },
         {
-          "nick": "리무루 템페스트",
-          "text": "goodkey",
-          "like": 2
-        },
-        {
           "nick": "TVtobi",
           "text": "앙헬 첫출전작이라서 좋아함",
           "like": 1
@@ -56948,6 +57926,11 @@
           "nick": "빌렘스타트",
           "text": "이진주 개사기캐",
           "like": 1
+        },
+        {
+          "nick": "작성자",
+          "text": "빌렘스타트",
+          "like": 3
         },
         {
           "nick": "lean28",
@@ -57062,148 +58045,9 @@
       ]
     },
     {
-      "id": "ruliweb-2366457",
-      "title": "GTA6 출시일 11/19는 세계 남성의 날",
-      "url": "https://bbs.ruliweb.com/news/board/1001/read/2366457",
-      "source": "루리웹",
-      "date": "2026.11.15",
-      "image": "https://i1.ruliweb.com/ori/26/11/15/1a1dd87e1365a6f87.webp",
-      "summary": "GTA6 출시일 11 19는 세계 남성의 날",
-      "time": "13:48",
-      "author": "Pathetique6",
-      "content": [
-        {
-          "t": "img",
-          "v": "https://i1.ruliweb.com/img/26/11/15/1a1dd87e1365a6f87.webp"
-        },
-        {
-          "t": "img",
-          "v": "https://i2.ruliweb.com/img/26/11/15/1a1dd87e2bb5a6f87.webp"
-        }
-      ],
-      "comments": 31,
-      "topComments": [
-        {
-          "nick": "미희♡",
-          "text": "석가여래",
-          "like": 3
-        },
-        {
-          "nick": "당신을 위해",
-          "text": "미희♡",
-          "like": 1
-        },
-        {
-          "nick": "미희♡",
-          "text": "당신을 위해",
-          "like": 1
-        },
-        {
-          "nick": "지랄시나이데",
-          "text": "수능",
-          "like": 3
-        },
-        {
-          "nick": "先愛治患🗽비취빛에뮬레이또",
-          "text": "남성의 날???? 애매한 성별(?)도 있을건데",
-          "like": 4
-        },
-        {
-          "nick": "더블슬로우블로우",
-          "text": "혼자걷는아이",
-          "like": 4
-        },
-        {
-          "nick": "피스 메이커",
-          "text": "더블슬로우블로우",
-          "like": 0
-        },
-        {
-          "nick": "죄수번호 75347734864",
-          "text": "여성의 날, 게이의 날은 없냐",
-          "like": 3
-        },
-        {
-          "nick": "하트를노렸었다",
-          "text": "죄수번호 75347734864",
-          "like": 10
-        },
-        {
-          "nick": "게임왕",
-          "text": "11/10~11/18 남은 연차 소진 기간. ㅅㅂ 연차가 끝나고 출근하는 날이 발매 날 ㅜㅜ",
-          "like": 1
-        },
-        {
-          "nick": "알로에",
-          "text": "게임왕",
-          "like": 0
-        },
-        {
-          "nick": "늙크크",
-          "text": "11월 19일 지구가 멈추는 날",
-          "like": 5
-        },
-        {
-          "nick": "몽환",
-          "text": "Quadratum",
-          "like": 3
-        },
-        {
-          "nick": "호덕",
-          "text": "저날 게임 유튜버들 다 GTA6 할듯",
-          "like": 1
-        },
-        {
-          "nick": "코난77",
-          "text": "호덕",
-          "like": 3
-        },
-        {
-          "nick": "5060Ti",
-          "text": "이거 때문에 플스 삿다 ㄹㅇ",
-          "like": 2
-        },
-        {
-          "nick": "빌마르크",
-          "text": "해피 남성의날",
-          "like": 2
-        },
-        {
-          "nick": "루리웹-3708230679",
-          "text": "회식이에요..",
-          "like": 1
-        },
-        {
-          "nick": "쟈밀",
-          "text": "개인적으론 남성의 날이고, 여성의 날이고, 한인의 날이고, OO의 날 같은 건 죄다 그만 기념했면 좋겠어... 가면 갈수록 정체성 정치가 전세계적으로 심해지는 데 이런 기념일들이 한 몫 하는 것 같아",
-          "like": 4
-        },
-        {
-          "nick": "DAkZerO",
-          "text": "ㅋㅋㅋㅋ 그냥 TGA가 11월 20일 이전 출시 게임까지 후보라 그런거 아닌가",
-          "like": 0
-        },
-        {
-          "nick": "그린키스",
-          "text": "출처한정으로... 이게 게임 정보가 맞나... 분란정보 아니고?",
-          "like": 1
-        },
-        {
-          "nick": "건스테이크",
-          "text": "이 날 하루라도 게임할수있게 아내(혹 여친)은 자유를 달라&hellip;",
-          "like": 0
-        },
-        {
-          "nick": "아레아레",
-          "text": "수능 시험치는 날..",
-          "like": 0
-        }
-      ]
-    },
-    {
       "id": "ruliweb-2366456",
       "title": "XBOX용 GTA VI에 FSR 4.1.2 포함되었지만 출시시점 비활성상...",
-      "url": "https://bbs.ruliweb.com/news/board/1001/read/2366456",
+      "url": "https://bbs.ruliweb.com/news/board/1001/read/2366456?page=2",
       "source": "루리웹",
       "date": "2026.11.15",
       "image": null,
@@ -57329,12 +58173,12 @@
         {
           "nick": "어쌔신크리드코리아",
           "text": "Fruto fruta",
-          "like": 14
+          "like": 15
         },
         {
           "nick": "동방제과",
           "text": "솔직히 결국 기기성능에서 크게 벗어나지 않을 퍼포먼스일 거 뻔히 보이는데 왜 일기장에나 쓸 거 정보게에 올리나 몰라요. 진짜 클라우드 요금제 망상글 부터 최근 여기 열등감 폭발인 듯 ㅋ",
-          "like": 9
+          "like": 10
         },
         {
           "nick": "동방제과",
@@ -57370,13 +58214,18 @@
           "nick": "아덴시아",
           "text": "DF에서 나오자마자 심층분석하겠지.",
           "like": 0
+        },
+        {
+          "nick": "네모둘리",
+          "text": "뭔말인지 모르겠고 일단 빨리 좀 나와라",
+          "like": 0
         }
       ]
     },
     {
       "id": "ruliweb-2366455",
       "title": "원신 | 애니메이션 컷신-「하늘의 문」, 바레사 생일 일러스트",
-      "url": "https://bbs.ruliweb.com/news/board/1001/read/2366455?",
+      "url": "https://bbs.ruliweb.com/news/board/1001/read/2366455?page=2",
       "source": "루리웹",
       "date": "2026.11.15",
       "image": "https://i3.ruliweb.com/ori/26/11/15/1a1dd5da8e4137dbd.webp",
@@ -57434,7 +58283,7 @@
         {
           "nick": "루리웹-6287836687",
           "text": "대충 통속뇌라는 느낌일거 같긴했는데",
-          "like": 2
+          "like": 3
         },
         {
           "nick": "피리아™",
@@ -57446,7 +58295,7 @@
     {
       "id": "ruliweb-2366453",
       "title": "인엑자일 사옥에 총기 난사 발생, 인명피해는 없음",
-      "url": "https://bbs.ruliweb.com/news/board/1001/read/2366453?",
+      "url": "https://bbs.ruliweb.com/news/board/1001/read/2366453?page=2",
       "source": "루리웹",
       "date": "2026.11.15",
       "image": null,
@@ -57475,16 +58324,21 @@
           "v": "inXile의 클록워크 레볼루션은 2027년에 출시될 예정입니다."
         }
       ],
-      "comments": 5,
+      "comments": 6,
       "topComments": [
         {
           "nick": "백갈리",
           "text": "게임 중독이 위험 하긴 하네요... 물론 게임 보다는 잘못된 사람이 게임 중독이라 일어난 일이지만 ..",
-          "like": 0
+          "like": 2
         },
         {
           "nick": "죄수번호 75347734864",
           "text": "정상인들이 게임하면 모방 범죄 가능성 낮음. 정신병자들이 게임하면 모방 범죄 가능성 높음. 정신병자들은 게임뿐만 아니라 영화,드라마,소설도 모방함. 학창시절 레슬링 흉내낸다고 약한애 이유없이 패고 트레버 흉내낸다고 이유없이 패고 이종격투기 흉내낸다고 이유없이 패고 그런 정신적으로 문제있는 애들 본사람 있을거다. 그런 애들이 사회나가면 잠재적 범죄가능성이 높지. 루리웹만해도 추천,비추천 만들고 타임라인 보게 하고 그런걸 제공하고 논쟁가능성을 열어둔채 논쟁발생되면 제제하는 운영진들만 보더라도 정상이라고 보긴 어렵고 인신공격 악플러, 인신공격 물타기 악플러들 죄다 비정상임. 국내 최근 뉴스만 보니까 아들은 성폭행, 그 애비는 성폭행 피해자 살해.. 그 밖에 묻지마 강력범죄가 계속 나오는데 나라가 예방도 못하는 그런 범죄자들이나 해결해주는 자경단 같은거나 생겼으면 좋겠네 해외에 그런 너튜버 같은 사람들도 있던거 같은데 한국은 없냐",
+          "like": 2
+        },
+        {
+          "nick": "루리웹-8934329389",
+          "text": "ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ",
           "like": 0
         }
       ]
@@ -57496,7 +58350,7 @@
       "source": "루리웹",
       "date": "2026.11.15",
       "time": "12:04:33",
-      "views": 3421,
+      "views": 4419,
       "comments": 12,
       "summary": "유비소프트는 'r6s 오사카 메이저 2026'에서 신작 턴제 전략 게임 '레인보우 식스 택틱스'의 데모와 쇼케이스를 진행했다. 유비소프트 파리가 개발 중인 이 게...",
       "image": "https://img.ruliweb.com/data/news/tn/26/11/15/1a1dd29de31_bmspaz.webp",
@@ -57505,16 +58359,11 @@
         {
           "nick": "캡틴코만도",
           "text": "와 이건 좀 기대된다",
-          "like": 1
+          "like": 2
         },
         {
           "nick": "Doto:Re",
           "text": "와! 엑스컴 레식 모드!",
-          "like": 2
-        },
-        {
-          "nick": "루리웹-0265536517",
-          "text": "턴제의 시대는 온다",
           "like": 2
         },
         {
@@ -57535,7 +58384,7 @@
         {
           "nick": "StrangeTango",
           "text": "레식 컨셉 생각하면 ㄹㅇ 턴제전술게임이 어울릴거같긴하네 기대해봄",
-          "like": 1
+          "like": 2
         },
         {
           "nick": "멍멍아 물어!",
@@ -57557,7 +58406,7 @@
     {
       "id": "ruliweb-2366452",
       "title": "[AC] 일본 아케이드 게임 서비스 ALL.Net 일부 기능 복구",
-      "url": "https://bbs.ruliweb.com/news/board/1001/read/2366452?",
+      "url": "https://bbs.ruliweb.com/news/board/1001/read/2366452?page=2",
       "source": "루리웹",
       "date": "2026.11.15",
       "image": null,
@@ -57717,8 +58566,8 @@
       "source": "루리웹",
       "date": "2026.11.15",
       "time": "12:00:00",
-      "views": 1351,
-      "comments": 1,
+      "views": 1737,
+      "comments": 2,
       "summary": "유비소프트는 ‘레인보우 식스 시즈 x’의 y11s4 업데이트를 공개하며 랭크 3.0 시스템 개편과 소셜 허브 신설을 발표했다. 이번 업데이트는 4인 스쿼드 삭제 ...",
       "image": "https://img.ruliweb.com/data/news/tn/26/11/15/1a1dd13fa0b_mrtaeu.webp",
       "author": "이명규 기자",
@@ -57727,6 +58576,11 @@
           "nick": "일주일에한번고추바사삭치킨",
           "text": "진짜 허벌창 어서오세요 보안ㅋㅋ 이거 게임 일주일 이상 쉬면 계정 바로 해킹 당함(진짜임)",
           "like": 2
+        },
+        {
+          "nick": "즈만딴따",
+          "text": "이러니 저러니 해도 사후지원 하나는 인정 아직도 업데이트 해주네",
+          "like": 0
         }
       ]
     },
@@ -57774,9 +58628,9 @@
       "url": "https://bbs.ruliweb.com/news/read/231928",
       "source": "루리웹",
       "date": "2026.11.15",
-      "time": "11:30:00",
-      "views": 1417,
-      "comments": 9,
+      "time": "11:20:00",
+      "views": 2068,
+      "comments": 10,
       "summary": "라이엇 게임즈의 '리그 오브 레전드' 월드 챔피언십 2026 결승전에서 비리비리 게이밍(blg)이 젠지 e스포츠를 3대 1로 꺾고 창단 첫 우승을 차지했다. bl...",
       "image": "https://img.ruliweb.com/data/news/tn/26/11/15/1a1dd0713ec_qhtyvi.webp",
       "author": "이명규 기자",
@@ -57799,12 +58653,17 @@
         {
           "nick": "미래소년옹박",
           "text": "기인 쵸비가 2세트 지니까 새가슴돼면서 너무 소극적으로 변하더라",
-          "like": 0
+          "like": 1
         },
         {
           "nick": "DeathCrus",
           "text": "개인적으로는 서구권도 우승 함 나와야 좋을텐데",
           "like": 2
+        },
+        {
+          "nick": "루리웹-520293118",
+          "text": "Lck 올킬 레전드",
+          "like": 0
         }
       ]
     },
@@ -57921,7 +58780,7 @@
         {
           "nick": "_ 루리Ai",
           "text": "던전슬라임",
-          "like": 1
+          "like": 2
         },
         {
           "nick": "던전슬라임",
@@ -57956,7 +58815,7 @@
         {
           "nick": "게임멀티유저",
           "text": "先愛治患🗽비취빛에뮬레이또",
-          "like": 6
+          "like": 7
         },
         {
           "nick": "흉켈",
@@ -58011,7 +58870,7 @@
         {
           "nick": "역대가를 보면짖는개",
           "text": "쿠쿠폰",
-          "like": 10
+          "like": 11
         },
         {
           "nick": "마이동숲-",
@@ -58021,7 +58880,7 @@
         {
           "nick": "MB_Go prison",
           "text": "예구만으로 이렇게 까지 팔리는 게임 있었나 ㄷㄷㄷㄷ",
-          "like": 2
+          "like": 3
         },
         {
           "nick": "던전슬라임",
@@ -58031,7 +58890,7 @@
         {
           "nick": "설정안내입니다",
           "text": "락스타니까 이정도 하는구나.. 예고편을 돈받고 팔고 대딘하다",
-          "like": 0
+          "like": 1
         },
         {
           "nick": "先愛治患🗽비취빛에뮬레이또",
@@ -58041,22 +58900,22 @@
         {
           "nick": "단신슴규",
           "text": "저중에 한장이내거임",
-          "like": 1
+          "like": 2
         },
         {
           "nick": "떡계아인슈타인",
           "text": "으아 이제 4일남았네",
-          "like": 0
+          "like": 1
         },
         {
           "nick": "불0웅이0곰",
           "text": "다운로드 끝내놓고 카운트다운(3일 10시간 52분) 보면서 기다리고 있네요 플스로 먼저하고 나중에 PC로 나오면 또 사야죠",
-          "like": 0
+          "like": 1
         },
         {
           "nick": "팩트 폭격기",
           "text": "플스5 프로 버전도 얄짤없이 30프레임 확정인건가?",
-          "like": 1
+          "like": 2
         },
         {
           "nick": "カラス",
@@ -58076,17 +58935,17 @@
         {
           "nick": "명희",
           "text": "예판이 이정도라니ㄷㄷ",
-          "like": 2
+          "like": 3
         },
         {
           "nick": "10받네",
           "text": "발매주에 3천만장 넘을꺼같은데 예구분위기가 심상치않다. 리뷰점수나오면 더 난리일꺼같고",
-          "like": 0
+          "like": 1
         },
         {
           "nick": "연사시",
           "text": "출시도 전에 대략 1500만장이라 미쳤네 진짜",
-          "like": 1
+          "like": 2
         },
         {
           "nick": "밟힐 자신있죠?",
@@ -58106,7 +58965,7 @@
         {
           "nick": "가보트",
           "text": "",
-          "like": 3,
+          "like": 5,
           "imgs": [
             "https://i2.ruliweb.com/cmt/26/11/15/1a1de2178142660a8.jpg"
           ]
@@ -58119,7 +58978,7 @@
         {
           "nick": "완전꽃미남",
           "text": "ㅎㅎ 내가 안샀으면 12,129,999장 일뻔했군.",
-          "like": 0
+          "like": 1
         }
       ]
     },
@@ -58130,7 +58989,7 @@
       "source": "루리웹",
       "date": "2026.11.15",
       "time": "11:02:52",
-      "views": 431,
+      "views": 554,
       "comments": 0,
       "summary": "spaghetti cat의 valeria가 개발한 pc용 1인칭 퍼즐 게임 'piece and quiet: a stained glass restoration'이 ...",
       "image": "https://img.ruliweb.com/data/news/tn/26/11/15/1a1dcf16a9e_ajrdqg.webp",
@@ -58244,7 +59103,7 @@
           "v": "젤다의 전설 시간의 오카리나 리메이크 3.5 / 5 (70점)"
         }
       ],
-      "comments": 56,
+      "comments": 57,
       "topComments": [
         {
           "nick": "루리웹-9888367597",
@@ -58254,12 +59113,12 @@
         {
           "nick": "역습의 신지",
           "text": "개인과개인이개입된게임",
-          "like": 9
+          "like": 10
         },
         {
           "nick": "i넘버원",
           "text": "역습의 신지",
-          "like": 12
+          "like": 13
         },
         {
           "nick": "레렐",
@@ -58289,7 +59148,7 @@
         {
           "nick": "배움의 자세",
           "text": "게임이라는 매체가 사실은 아직 성숙하지 못했다는 점을 보여주는, 우려스러운 징후들의 긴 목록에 추가될 또 하나의 사례일 뿐입니다. 이게 너무 화가 나는게, 게임 자체가 미성숙한 컨텐츠라면 이걸 리뷰하는 니들은 뭘까? \"우리는 지적으로 성숙한 사람들인데, 게이머 니들이 말하는 역대급 게임이 겨우 이정도냐?\" 뭐 이런 뜻으로 읽히는데.. 이건 리메이크고, 원작에 대한 존중을 최대한 담아낸 Classic Classics 이다. 너흰 리뷰할 자격도 없어보인다.",
-          "like": 21
+          "like": 22
         },
         {
           "nick": "인천상륙작전",
@@ -58349,7 +59208,7 @@
         {
           "nick": "9kyu",
           "text": "매체 모든 평균이 59점인데 60/60/70준거 보면 나름(?) 젤다시리즈를 평균이상으론 본다는 거지만, 그냥 이 매체는 분탕이 목적인듯",
-          "like": 18
+          "like": 19
         },
         {
           "nick": "루2지",
@@ -58364,7 +59223,7 @@
         {
           "nick": "White Koala",
           "text": "2000년대부터 이런 어그로성 리뷰 및 점수가 생겨서 98점이나 99점은 정말 받기 힘든 점수가 되어버림. 1990년대까지만 해도 리뷰수가 적었지만 리뷰 내용이나 점수가 납득이 가능했는데. 젤다 시오 99점, 소울칼리버 98점 등 젤다 시오가 다시 96점으로 올라가기 위해선 100점 리뷰가 몇 개 더 나와야하는데 어떻게 될지 모르겠네요. 70점 하나 들어왔는데 95점 유지할 수 있는 것 자체가 대단한 거지만요.",
-          "like": 11
+          "like": 12
         },
         {
           "nick": "아구몬학습",
@@ -58404,7 +59263,7 @@
         {
           "nick": "jklzzz",
           "text": "",
-          "like": 20,
+          "like": 21,
           "imgs": [
             "https://i3.ruliweb.com/cmt/26/11/15/1a1dde1c5ec138059.jpg"
           ]
@@ -58447,27 +59306,27 @@
         {
           "nick": "파이널 판타지",
           "text": "이런 분탕 리뷰도 인정 해주는거냐 ㅋㅋㅋ",
-          "like": 3
+          "like": 4
         },
         {
           "nick": "잭스클",
           "text": "킹덤컴 리뷰도 그따위로 한 놈들",
-          "like": 2
+          "like": 4
         },
         {
           "nick": "게임살이",
           "text": "상하위 몇%는 집계에서 뺄 필요가 있는거 같음 체조 점수 처럼",
-          "like": 4
+          "like": 5
         },
         {
           "nick": "redcoin83",
           "text": "슬랜트 매거진 리뷰는 오늘부터 걸러야지!",
-          "like": 3
+          "like": 4
         },
         {
           "nick": "스퀘어에닉스",
           "text": "야숨하고 왕눈보다 낫다고 평가했네 개웃김",
-          "like": 1
+          "like": 2
         },
         {
           "nick": "루리웹-0326429484",
@@ -58477,6 +59336,11 @@
         {
           "nick": "크라이브™",
           "text": "젤다만 나오면 관종짓 하는 찐따 새끼들...",
+          "like": 1
+        },
+        {
+          "nick": "im_not_sure",
+          "text": "종합 점수가 충격적인데 리메이크라서 원작 점수는 못 따라가서 점수 훨씬 낮을 줄 알았는데 95점일 줄이야 그것도 저렇게 한 리뷰에서 크게 깠는데도 요즘은 90점만 넘어도 대작인데",
           "like": 0
         }
       ]
@@ -58488,7 +59352,7 @@
       "source": "루리웹",
       "date": "2026.11.15",
       "time": "10:52:42",
-      "views": 181,
+      "views": 217,
       "comments": 0,
       "summary": "경기콘텐츠진흥원은 오는 12월 교육, 제작, 투자 등 ai 관련 지원 사업 성과를 집대성한 ‘ai 성과 자료집’을 발간한다. 진흥원은 올해 ai 거버넌스 정립과 ...",
       "image": "https://img.ruliweb.com/data/news/tn/26/11/15/1a1dce7b1ed_majxpe.webp",
@@ -58518,12 +59382,12 @@
           "v": "“이게 게임이라고?”…실사 같은 'GTA 6' 영상"
         }
       ],
-      "comments": 43,
+      "comments": 46,
       "topComments": [
         {
           "nick": "가마솟",
           "text": "",
-          "like": 11,
+          "like": 12,
           "best": true,
           "imgs": [
             "https://i1.ruliweb.com/cmt/26/11/15/1a1dcea74f947fc84.jpg"
@@ -58538,6 +59402,11 @@
           "nick": "메타는과학",
           "text": "[삭제된 댓글의 댓글입니다.]",
           "like": 23
+        },
+        {
+          "nick": "im_not_sure",
+          "text": "davidhockney",
+          "like": 0
         },
         {
           "nick": "꿈보다무서운환상",
@@ -58602,7 +59471,7 @@
         {
           "nick": "가마솟",
           "text": "",
-          "like": 11,
+          "like": 12,
           "imgs": [
             "https://i1.ruliweb.com/cmt/26/11/15/1a1dcea74f947fc84.jpg"
           ]
@@ -58620,7 +59489,7 @@
         {
           "nick": "백갈리",
           "text": "아마존슨",
-          "like": 1
+          "like": 2
         },
         {
           "nick": "루리웹-5872248316",
@@ -58630,7 +59499,7 @@
         {
           "nick": "곶아라니",
           "text": "gta를 능가하는 게임은 앞으로 나올수가없을듯 영원히",
-          "like": 3
+          "like": 4
         },
         {
           "nick": "멍멍아 물어!",
@@ -58673,11 +59542,21 @@
         {
           "nick": "수수화염",
           "text": "누가봐도 게임 화면인데..",
-          "like": 1
+          "like": 2
         },
         {
           "nick": "암바들어가",
           "text": "근데 뭔 콘솔이 신의 겜기도 아니고 스펙 대부분 알지않나? 플스 엑박 성능 한계가있을텐데 요즘 대부분 오픈월드겜 30프렘인것만봐도 그래픽을 많이 올리면 당연 프렘이 깍일껀데",
+          "like": 0
+        },
+        {
+          "nick": "쩜상99",
+          "text": "내니이 53인데 그타7 나올때까지 살아있을까? ㅠㅠ",
+          "like": 0
+        },
+        {
+          "nick": "옹뽀",
+          "text": "쩜상99",
           "like": 0
         }
       ]
@@ -58689,7 +59568,7 @@
       "source": "루리웹",
       "date": "2026.11.15",
       "time": "10:00:00",
-      "views": 2842,
+      "views": 3503,
       "comments": 1,
       "summary": "스코플리익스플로어와 캡콤은 14일부터 양일간 일본 오사카 난바 일대에서 대규모 오프라인 이벤트 '몬스터헌터 나우 카니발 2026'을 개최했다. 이번 행사는 지역 ...",
       "image": "https://img.ruliweb.com/data/news/tn/26/11/15/1a1dcb611f0_jisoqr.webp",
@@ -58783,7 +59662,7 @@
         {
           "nick": "늘항상감사합니다",
           "text": "플스5 프로 쓰면서부터 감사하게도 용량이 부족해서 지운적은 한번도 없네요. 걍 다 깨고 아니면 재미가 없어서 지우거나 그랬거든요.",
-          "like": 1
+          "like": 3
         },
         {
           "nick": "슈비빅맨",
@@ -58853,7 +59732,7 @@
           "v": "https://i2.ruliweb.com/img/26/11/15/1a1dca60fd9a4882.webp"
         }
       ],
-      "comments": 47,
+      "comments": 48,
       "topComments": [
         {
           "nick": "메타는과학",
@@ -59008,7 +59887,7 @@
         {
           "nick": "루리웹-7095299304",
           "text": "",
-          "like": 58,
+          "like": 59,
           "best": true,
           "imgs": [
             "https://i2.ruliweb.com/cmt/26/11/15/1a1dc9db91957c838.jpg"
@@ -59017,7 +59896,7 @@
         {
           "nick": "MPAX",
           "text": "",
-          "like": 37,
+          "like": 39,
           "best": true,
           "imgs": [
             "https://i1.ruliweb.com/cmt/26/11/15/1a1dce8638c4d5874.jpg"
@@ -59031,17 +59910,17 @@
         {
           "nick": "티모센코",
           "text": "나는야 멀티유저",
-          "like": 16
+          "like": 17
         },
         {
           "nick": "삶은치킨",
           "text": "게임 통으로 유출 될까봐 안준거라니..ㄷㄷ",
-          "like": 27
+          "like": 28
         },
         {
           "nick": "sksjhhsa",
           "text": "걍 븅신들임",
-          "like": 14
+          "like": 15
         },
         {
           "nick": "야한마음섹구",
@@ -59051,7 +59930,7 @@
         {
           "nick": "루리웹-7095299304",
           "text": "",
-          "like": 58,
+          "like": 59,
           "imgs": [
             "https://i2.ruliweb.com/cmt/26/11/15/1a1dc9db91957c838.jpg"
           ]
@@ -59059,27 +59938,27 @@
         {
           "nick": "serqvb",
           "text": "이게 마소 수준이다 ㅋㅋㅋ 근데 유명인들 조용하네 ㅋㅋ",
-          "like": 30
+          "like": 31
         },
         {
           "nick": "캐미화이트",
           "text": "serqvb",
-          "like": 8
+          "like": 9
         },
         {
           "nick": "serqvb",
           "text": "캐미화이트",
-          "like": 6
+          "like": 7
         },
         {
           "nick": "난전태영난",
           "text": "ㅋㅋㅋㅋㅋ유명인들 등판해주세요",
-          "like": 31
+          "like": 32
         },
         {
           "nick": "루리웹-5924911255",
           "text": "난전태영난",
-          "like": 26
+          "like": 27
         },
         {
           "nick": "테스형!",
@@ -59094,7 +59973,7 @@
         {
           "nick": "울동네지킴이",
           "text": "엑박 철통 보안이라 안뚫리는거다 ㅎㅎㅋㅋㅋ",
-          "like": 7
+          "like": 8
         },
         {
           "nick": "Nucker",
@@ -59104,12 +59983,12 @@
         {
           "nick": "불고양이",
           "text": "Nucker",
-          "like": 16
+          "like": 17
         },
         {
           "nick": "헌터스",
           "text": "이래서 마소엑박 일처리하는 거 보면 다들 치를 떨지... ㅉㅉ",
-          "like": 19
+          "like": 20
         },
         {
           "nick": "놋힝",
@@ -59124,7 +60003,7 @@
         {
           "nick": "시티즈은",
           "text": "뭐야 걍 평소의 마소잖아",
-          "like": 11
+          "like": 12
         },
         {
           "nick": "러로디",
@@ -59134,7 +60013,7 @@
         {
           "nick": "MPAX",
           "text": "",
-          "like": 37,
+          "like": 39,
           "imgs": [
             "https://i1.ruliweb.com/cmt/26/11/15/1a1dce8638c4d5874.jpg"
           ]
@@ -59142,12 +60021,12 @@
         {
           "nick": "게임멀티유저",
           "text": "MPAX",
-          "like": 5
+          "like": 6
         },
         {
           "nick": "루리웹-1092802801",
           "text": "또또 그쪽 녹색정신병동에서 소니 음모론 내세우겠네 ㅋㅋㅋ",
-          "like": 22
+          "like": 23
         },
         {
           "nick": "니모센드",
@@ -59167,22 +60046,22 @@
         {
           "nick": "동방제과",
           "text": "先愛治患🗽비취빛에뮬레이또",
-          "like": 15
+          "like": 16
         },
         {
           "nick": "티모센코",
           "text": "윈도우센트럴이나 엑스박스 에라 얘네들 리뷰 못하나?",
-          "like": 9
+          "like": 10
         },
         {
           "nick": "동방제과",
           "text": "리뷰어의 노출도 일종의 마케팅의 연장인데 엑박은 또 ㅂㅅ짓 하네요. 지들도 역대 최대 예약주문이라고 언플했는데 루머이기만을 바랍니다. 이게 사실이면 그냥 난 바보고 ㅂㅅ입니다 스스로 인정하는 꼴.",
-          "like": 11
+          "like": 12
         },
         {
           "nick": "루리웹-21613594",
           "text": "진짜 존나 조용하네 이런 게시글은 댓글 100개이상 달려야 정상일텐데 ㅎㅎ",
-          "like": 5
+          "like": 6
         }
       ]
     },
@@ -59327,7 +60206,7 @@
         {
           "nick": "서머님",
           "text": "아틀러스의 ㅇ만 보여도 이제는 어그로가 만선이네 팔콤에서 여기로 옮겨갔나 ㅋㅋㅋㅋㅋㅋ",
-          "like": 2
+          "like": 4
         }
       ]
     },
@@ -60191,7 +61070,7 @@
       "source": "루리웹",
       "date": "2026.11.14",
       "time": "23:37:16",
-      "views": 600,
+      "views": 700,
       "comments": 0,
       "summary": "컴투스의 글로벌 e스포츠 대회 'swc2026' 월드 파이널이 14일 서울 kbs아레나에서 성황리에 개최되었습니다. 중국 지역 선발전 1위로 출전한 tars는 4...",
       "image": "https://img.ruliweb.com/data/news/tn/26/11/14/1a1da7d464f_ipmgjq.webp",
@@ -60204,7 +61083,7 @@
       "source": "루리웹",
       "date": "2026.11.14",
       "time": "23:37:13",
-      "views": 546,
+      "views": 636,
       "comments": 0,
       "summary": "컴투스는 14일 서울 kbs아레나에서 글로벌 e스포츠 대회 ‘서머너즈 워 월드 아레나 챔피언십 2026(swc2026)’ 월드 파이널을 개최한다. 지난 8월부터 ...",
       "image": "https://img.ruliweb.com/data/news/tn/26/11/14/1a1da788cc3_sgvlxe.webp",
@@ -60720,7 +61599,7 @@
         {
           "nick": "역대가를 보면짖는개",
           "text": "와 제니 대단하네",
-          "like": 5
+          "like": 6
         },
         {
           "nick": "RoK TENMASP",
@@ -60730,7 +61609,7 @@
         {
           "nick": "세기말의쎄자",
           "text": "진짜 제니는 월클이구나",
-          "like": 2
+          "like": 4
         },
         {
           "nick": "로피카",
@@ -60835,7 +61714,7 @@
           ]
         }
       ],
-      "comments": 66,
+      "comments": 67,
       "topComments": [
         {
           "nick": "라이센",
@@ -61180,321 +62059,13 @@
       ]
     },
     {
-      "id": "ruliweb-2366427",
-      "title": "다크 소울 시리즈 판매량 4180만장 돌파",
-      "url": "https://bbs.ruliweb.com/news/board/1001/read/2366427?page=2",
-      "source": "루리웹",
-      "date": "2026.11.14",
-      "image": "https://i2.ruliweb.com/ori/26/11/14/1a1d8d1ae21a4882.webp",
-      "summary": "반다이 남코는 투자자들에게 주요 경제 및 사업 실적을 요약한 연례 보고서인 2026년 팩트북 을 발표했습니다 이 보고서에는 주요 비디오 게임 시리즈의 누적 판매량이 업데이트되어 2026년 3월 31일 기준 현황을 보여줍니다 주요 수치 중 다크 소울 시리즈는 4 180만 장 판매되었습니다",
-      "time": "15:51",
-      "author": "아마존슨",
-      "content": [
-        {
-          "t": "img",
-          "v": "https://i2.ruliweb.com/img/26/11/14/1a1d8d1ae21a4882.webp"
-        },
-        {
-          "t": "p",
-          "v": "반다이 남코는 투자자들에게 주요 경제 및 사업 실적을 요약한 연례 보고서인 '2026년 팩트북'을 발표했습니다. 이 보고서에는 주요 비디오 게임 시리즈의 누적 판매량이 업데이트되어 2026년 3월 31일 기준 현황을 보여줍니다. 주요 수치 중 다크 소울 시리즈는 4,180만 장 판매되었습니다."
-        }
-      ],
-      "comments": 37,
-      "topComments": [
-        {
-          "nick": "루리웹-0202659184",
-          "text": "데몬즈 소울이나 엘든링은 소울 시리즈에 안속하나",
-          "like": 3
-        },
-        {
-          "nick": "루리웹-0202659184",
-          "text": "역습의 신지",
-          "like": 0
-        },
-        {
-          "nick": "하늘천사",
-          "text": "엘든링 5천만장에 비하면 적군.",
-          "like": 3
-        },
-        {
-          "nick": "바건부",
-          "text": "아무리 명작이든 잘 만들고 평점 높은 게임이라도 개인차에 따라 호불호가 갈리는 데, 소울본가나 소울류라고 하면 이 악물고 악평 개댓글 달고 추천 몇개 받으면 미쳐 날 뛰는걸 몇번 봤는데, 취향에 안 맞고 어려우면 안하면 그만인것을... 그 사람들은 판매량이나 인기보면 아직도 개거품 물것인가?",
-          "like": 10
-        },
-        {
-          "nick": "바건부",
-          "text": "똥겜안함",
-          "like": 8
-        },
-        {
-          "nick": "KOR-HERMES",
-          "text": "바건부",
-          "like": 3
-        },
-        {
-          "nick": "바건부",
-          "text": "KOR-HERMES",
-          "like": 11
-        },
-        {
-          "nick": "바건부",
-          "text": "Ro&Green",
-          "like": 4
-        },
-        {
-          "nick": "바건부",
-          "text": "알레폰드",
-          "like": 2
-        },
-        {
-          "nick": "기암성",
-          "text": "1편은 정말 재밌게했는데 2,3은 조금하다 그만둠... 왜이리 어색한지 모르겠음",
-          "like": 3
-        },
-        {
-          "nick": "새콤달콤쥬스2",
-          "text": "태양만세 \\[+]/",
-          "like": 5
-        },
-        {
-          "nick": "Bzzzz",
-          "text": "개인적으로 1,3 정말 재밌게했습니다 2는 너무 더러워서 그만....ㅠ",
-          "like": 7
-        },
-        {
-          "nick": "korea nina",
-          "text": "다크소울 1, 2, 3 블로드본 , 엘든링 세키로 까지 프롬겜은 너무 잼슴",
-          "like": 5
-        },
-        {
-          "nick": "사악한곰",
-          "text": "특히 다크소울3 는 재밌는 모드들도 많아서 할께 엄청 많아서 좋음",
-          "like": 5
-        },
-        {
-          "nick": "고질라의마음",
-          "text": "4는 언제 나오나요??",
-          "like": 2
-        },
-        {
-          "nick": "치석케어",
-          "text": "프롬아 세키로 후속작도 신경좀 써주라",
-          "like": 3
-        },
-        {
-          "nick": "Sheryl.Nome",
-          "text": "스위치2 버전 소울2랑 소울3 내줘잉",
-          "like": 2
-        },
-        {
-          "nick": "잿빛 늑대",
-          "text": "1편을 최고로 치고 3편도 정말 좋아하긴 하지만 2편도 엑박판 PC판 스콜라까지 몇 번을 사서 했었죠. 이름값은 충분히 하는 게임이라 시리즈 전체가 저에겐 인생게임 중 하나입니다.",
-          "like": 4
-        },
-        {
-          "nick": "테스형!",
-          "text": "다크소울 3 너무 좋았다 갠적으론 엘든링보다 좋았음",
-          "like": 3
-        },
-        {
-          "nick": "아이멋져",
-          "text": "테스형!",
-          "like": 0
-        },
-        {
-          "nick": "RTX6080",
-          "text": "진짜 다크소울 1편할때 이게뭔게임이냐 쓰레기겜이네 하면서 방치하다가 이제 어떻게 돌아가는지 알고나서부턴 나오는 족족다했고 너무재밌었음 엘든링은 진짜 처음나왔을때 잠도줄여가며 했음.. 제발 싱글 신작좀 내주세요 ㅠ",
-          "like": 0
-        },
-        {
-          "nick": "역습의 신지",
-          "text": "리틀나이트메어 2500만장이 더 놀랍네 3편에서 조졌는데 후속작 가능할려나",
-          "like": 0
-        }
-      ]
-    },
-    {
-      "id": "ruliweb-2366426",
-      "title": "그랑블루 판타지 버서스 라이징 산달폰 테마 각종 음원 스트리밍 서비스 시...",
-      "url": "https://bbs.ruliweb.com/news/board/1001/read/2366426?page=2",
-      "source": "루리웹",
-      "date": "2026.11.14",
-      "image": null,
-      "summary": "GBVSR 배틀 BGM 소개 모든 재앙에 종지부를 산달폰의 배틀 테마 Primarch of Promises 를 확인해 보세요 각종 음원 스트리밍 서비스에서도 감상하실 수 있습니다 https nex tone link A00178470",
-      "time": "14:35",
-      "author": "로메오카이",
-      "content": [
-        {
-          "t": "p",
-          "v": "【GBVSR 배틀 BGM 소개】"
-        },
-        {
-          "t": "p",
-          "v": "「모든 재앙에, 종지부를!」"
-        },
-        {
-          "t": "p",
-          "v": "산달폰의 배틀 테마 『Primarch of Promises』를 확인해 보세요!🎧"
-        },
-        {
-          "t": "p",
-          "v": "💿각종 음원 스트리밍 서비스에서도 감상하실 수 있습니다!"
-        },
-        {
-          "t": "p",
-          "seg": [
-            {
-              "t": "a",
-              "v": "https://nex-tone.link/A00178470",
-              "l": "https://nex-tone.link/A00178470"
-            }
-          ]
-        }
-      ],
-      "comments": 0
-    },
-    {
-      "id": "ruliweb-2366425",
-      "title": "메탈슬러그 얼티밋 컬렉션 되감기,퀵 세이브/로드 기능 지원!",
-      "url": "https://bbs.ruliweb.com/news/board/1001/read/2366425?page=2",
-      "source": "루리웹",
-      "date": "2026.11.14",
-      "image": null,
-      "summary": "메탈슬러그 METAL SLUG 30주년 기념 메탈슬러그 얼티밋 컬렉션 METAL SLUG ULTIMATE COLLECTION 이 2027년 출시됩니다 리와인드 되감기 기능은 물론 퀵 세이브 로드 기능까지 지원하여 더욱 자유롭게 게임을 즐길 수 있습니다 초보자부터 베테랑까지 누구나 부담 ",
-      "time": "14:17",
-      "author": "로메오카이",
-      "content": [
-        {
-          "t": "p",
-          "v": "메탈슬러그(METAL SLUG) 30주년 기념! 🎉"
-        },
-        {
-          "t": "p",
-          "v": "'메탈슬러그 얼티밋 컬렉션(METAL SLUG ULTIMATE COLLECTION)'이 2027년 출시됩니다!"
-        },
-        {
-          "t": "p",
-          "v": "'리와인드(되감기)' 기능은 물론, '퀵 세이브/로드' 기능까지 지원하여 더욱 자유롭게 게임을 즐길 수 있습니다! 🔥"
-        },
-        {
-          "t": "p",
-          "v": "초보자부터 베테랑까지, 누구나 부담 없이 액션의 세계로 뛰어들어 보세요!"
-        },
-        {
-          "t": "p",
-          "v": "패키지(실물) 버전도 출시될 예정입니다! 위시리스트에 추가해 두시고, 앞으로 전해질 새로운 소식을 기대해 주세요! 🪖"
-        }
-      ],
-      "comments": 22,
-      "topComments": [
-        {
-          "nick": "가마솟",
-          "text": "스위치2 나눔통신 좀",
-          "like": 4
-        },
-        {
-          "nick": "하야야하",
-          "text": "발매일좀...",
-          "like": 1
-        },
-        {
-          "nick": "에이다웡",
-          "text": "미희♡",
-          "like": 0
-        },
-        {
-          "nick": "기역니은디귿",
-          "text": "더블x까지 포함이면 진짜 고려한다.",
-          "like": 3
-        },
-        {
-          "nick": "안경은 멋져",
-          "text": "메탈슬러그 쌓여있는 스프라이트 그대로 활용해서, 메탈슬러그 디펜스 만들듯이 메탈슬러그 메이커 같은거 안만들어 주려나 스테이지 직접 만들어서 상대한테 시켜볼수 있으면 재밌을텐데",
-          "like": 3
-        },
-        {
-          "nick": "뿌움",
-          "text": "꼭 뭐하나 빼서 애매하게 내는건 종특인가.. xx 내놔",
-          "like": 1
-        },
-        {
-          "nick": "리무루 템페스트",
-          "text": "되감기로 원코인 가능하겠군 ㅎ",
-          "like": 1
-        },
-        {
-          "nick": "무조건 한큐",
-          "text": "리무루 템페스트",
-          "like": 0
-        },
-        {
-          "nick": "루리웹-7058242701",
-          "text": "",
-          "like": 0,
-          "imgs": [
-            "https://i1.ruliweb.com/cmt/26/11/14/1a1d91f0f944ac742.jpg"
-          ]
-        },
-        {
-          "nick": "정인사랑",
-          "text": "패키지 기대가 됩니다. 제대로 해본건 1,2 뿐이라 하나씩 다 클리어 해봐야겠어요.",
-          "like": 0
-        },
-        {
-          "nick": "♥아이스아메리카노♥",
-          "text": "패키지는 무조건 사야지!",
-          "like": 1
-        },
-        {
-          "nick": "키카드",
-          "text": "여캐 산성 피해 입고 죽는구간에서 앞으로 더 안가집니다",
-          "like": 0
-        },
-        {
-          "nick": "골든딜리셔스보로트펀치",
-          "text": "M2가 이식하니까 제대로 이식하겠네 스위치 발켄 이식한 회사",
-          "like": 0
-        },
-        {
-          "nick": "결정적",
-          "text": "엔솔로지도 재밌는데 뭔가 약간 딜레이가 느껴짐",
-          "like": 0
-        },
-        {
-          "nick": "치석케어",
-          "text": "xx 빠진게 아쉽지만 이건 뭐 스팀에 따로 있긴하니까",
-          "like": 0
-        },
-        {
-          "nick": "터프한넘",
-          "text": "키카드 아니면 사고 ㅋㅋㅋㅋ",
-          "like": 0
-        },
-        {
-          "nick": "BluEMooN™",
-          "text": "KOF 컬렉션도 내줘",
-          "like": 1
-        },
-        {
-          "nick": "nazawa0101",
-          "text": "고등학교 1학년 때 PS1으로 메탈 슬러그1 깼는데 엔딩곡이 너무 좋아서 테이프로 녹음하고 들었던 기억이 난다..",
-          "like": 1
-        },
-        {
-          "nick": "너프 매니아",
-          "text": "기존 스팀 이식판은 원작 오락실 고증이라는 컨셉으로 렉 많이 걸렸는데 이번엔 렉 없는 버전이면 좋겠네. 옛날 플스2 버전들은 렉 없었던 거 같은데",
-          "like": 0
-        }
-      ]
-    },
-    {
       "id": "ruliweb-231921",
       "title": "어느덧 10년, 서머너즈 워 세계 최강자를 가린다 - SWC 2026 풍...",
       "url": "https://bbs.ruliweb.com/news/read/231921",
       "source": "루리웹",
       "date": "2026.11.14",
       "time": "13:30:00",
-      "views": 1534,
+      "views": 1699,
       "comments": 1,
       "summary": "컴투스는 14일 서울 kbs 아레나에서 모바일 게임 '서머너즈 워'의 글로벌 e스포츠 대회 'swc 2026'을 개최했다. 대회 10주년을 맞이한 이번 월드 파이...",
       "image": "https://img.ruliweb.com/data/news/tn/26/11/14/1a1d83ef686_nstiro.webp",
@@ -61508,649 +62079,13 @@
       ]
     },
     {
-      "id": "ruliweb-2366424",
-      "title": "GTA 6 내년초까지 5500만장 판매예측",
-      "url": "https://bbs.ruliweb.com/news/board/1001/read/2366424?page=2",
-      "source": "루리웹",
-      "date": "2026.11.14",
-      "image": "https://i3.ruliweb.com/ori/26/11/14/1a1d84822f9a4882.webp",
-      "summary": "GTA 6 내년초까지 5500만장 판매예측",
-      "time": "13:19",
-      "author": "아마존슨",
-      "content": [
-        {
-          "t": "img",
-          "v": "https://i3.ruliweb.com/img/26/11/14/1a1d84822f9a4882.webp"
-        }
-      ],
-      "comments": 75,
-      "topComments": [
-        {
-          "nick": "똥겜안함",
-          "text": "이번달 최대 2500잡아도 내년 초까지 5천5백만은 힘들것같은데",
-          "like": 3
-        },
-        {
-          "nick": "Supercell",
-          "text": "PC판...없잔아 못해",
-          "like": 12
-        },
-        {
-          "nick": "루리웹-1092802801",
-          "text": "Supercell",
-          "like": 37
-        },
-        {
-          "nick": "쿨나잇",
-          "text": "물고기고물",
-          "like": 12
-        },
-        {
-          "nick": "설정안내입니다",
-          "text": "초코송이맛있다",
-          "like": 8
-        },
-        {
-          "nick": "KINgame",
-          "text": "468434675435",
-          "like": 4
-        },
-        {
-          "nick": "468434675435",
-          "text": "KINgame",
-          "like": 4
-        },
-        {
-          "nick": "468434675435",
-          "text": "티모센코",
-          "like": 2
-        },
-        {
-          "nick": "468434675435",
-          "text": "키보드12개",
-          "like": 2
-        },
-        {
-          "nick": "castitatis",
-          "text": "너무 크게잡은거 아닌가..? 내년 상반기까지 잡아도 5천만은 빡셀거같은데",
-          "like": 8
-        },
-        {
-          "nick": "빵꾸난박",
-          "text": "길게보면 당연히 5000만장은 팔꺼같은데 내년초요,,?",
-          "like": 6
-        },
-        {
-          "nick": "성난개복치",
-          "text": "GTA 5 는 1년 6개월만에 5200 만장이 넘어갔는데 GTA 6 는 1분기 안에 달성 할거같네요",
-          "like": 20
-        },
-        {
-          "nick": "개구라비티",
-          "text": "내년 초가 아니라 올해 끝나기 전에 달성하지 않을까",
-          "like": 6
-        },
-        {
-          "nick": "곶아라니",
-          "text": "메타랑 하는사람들 입소문 더 타면야",
-          "like": 1
-        },
-        {
-          "nick": "I안개비I",
-          "text": "지금 플스5 깔린 대수가 1억대 얼마전에 넘겼는데 그중 반 이상이 GTA6를 산다는 소린데 보통 다른 게임이면 개소리로 넘길텐데 GTA6라서 그럴수도 있으려나 싶은 생각도 드네",
-          "like": 8
-        },
-        {
-          "nick": "xboxpswitch",
-          "text": "I안개비I",
-          "like": 0
-        },
-        {
-          "nick": "인후",
-          "text": "99점 나올듯",
-          "like": 9
-        },
-        {
-          "nick": "제이콥디그롬",
-          "text": "이번달안에 예구합쳐서4천만장은 팔리지 않을까요? 가능할거같은데 gta6면ㅋ",
-          "like": 4
-        },
-        {
-          "nick": "휴먼메이더",
-          "text": "무적 PC 군단의 낙관론 1. 응 PC도 금방 출시해 2. 응 PC는 하이 옵션에 60프레임이야 3. 응 PC는 온갖 MOD도 가능이야 4. 응 PC는 나중에 나오니까 콘텐츠 뭔가가 더 추가되어서 나올거야 팩트 : 락스타는 저 네개중 단 하나도 오피셜로 발표한적 없다.",
-          "like": 24
-        },
-        {
-          "nick": "NCR_레인저",
-          "text": "휴먼메이더",
-          "like": 7
-        },
-        {
-          "nick": "468434675435",
-          "text": "어쌔신크리드코리아",
-          "like": 4
-        },
-        {
-          "nick": "akd13",
-          "text": "지금 AI때문에 PC판이 빨리 나올지도 모른다는 루머가 있으니 반년만 기다려 볼 예정임. 4K 울트라옵으로 즐기고 싶다고 나는.",
-          "like": 8
-        },
-        {
-          "nick": "루리웹-5924911255",
-          "text": "akd13",
-          "like": 13
-        },
-        {
-          "nick": "데습",
-          "text": "저 수치를 내놨단건 저 수치나오기전까지 pc판은 발매안한단 소리 아님?",
-          "like": 1
-        },
-        {
-          "nick": "castitatis",
-          "text": "데습",
-          "like": 5
-        },
-        {
-          "nick": "비타민보드",
-          "text": "아 너무 하고 싶다",
-          "like": 3
-        },
-        {
-          "nick": "강남판교40억대아파트와꽃돌이",
-          "text": "추잡하게 열폭하는놈들 왜이리 많냐 ㅋㅋㅋㅋㅋ",
-          "like": 7
-        },
-        {
-          "nick": "블랙다이아",
-          "text": "콘솔도 DL전용이라 PC판 나오기전엔 쉽진 않을듯",
-          "like": 0
-        },
-        {
-          "nick": "guesttask",
-          "text": "pc판 빼고 플스 엑박 가진 사람들 1/3 넘게 사야 가능한데 저게 가능한가. 그것도 단 몇개월만에?",
-          "like": 1
-        },
-        {
-          "nick": "오도방정식",
-          "text": "어치피 10년짜리게임이라 그냥 오늘구입함",
-          "like": 5
-        },
-        {
-          "nick": "Nucker",
-          "text": "PS5 3,850만 장 XBOX 1,650만 장 판매 예측. 양대 플랫폼 모두 어마어마한 수치.",
-          "like": 0
-        },
-        {
-          "nick": "캐미화이트",
-          "text": "Nucker",
-          "like": 3
-        },
-        {
-          "nick": "닉네임을뭘로하냐고",
-          "text": "넷플로 더시 봤는데 그래픽 말이 안되네",
-          "like": 2
-        },
-        {
-          "nick": "더블슬로우블로우",
-          "text": "5090오우너이자 플스5프로 오우너인데 어차피 둘다 살꺼라 아무나 이겨라임 근데 플빠들은 개똥스펙가지고 안나댔으면함 솔직히 눈썩음",
-          "like": 3
-        },
-        {
-          "nick": "내가좀못생겨서킄킄",
-          "text": "gta6 하려면 컴터가 좀 좋아야함... 그래픽포기하고 프레임포기하면 gta6의 메리트가;;; 심지어 컴터업글하고 싶어도 최악인 상황",
-          "like": 2
-        }
-      ]
-    },
-    {
-      "id": "ruliweb-2366423",
-      "title": "원신 | 스토리 PV-「온 땅에 내려진 자애」",
-      "url": "https://bbs.ruliweb.com/news/board/1001/read/2366423?page=2",
-      "source": "루리웹",
-      "date": "2026.11.14",
-      "image": "https://img.youtube.com/vi/-dpOHSACmvE/hqdefault.jpg",
-      "summary": "신은 자신이 줄 수 있는 자애를 내려 중생들이 겪고 있는 무수한 고통을 덜어주었다 누군가 이렇게 묻기 전까지는 자애는 어디에서 비롯되며 고통은 또 어째서 생겨나는가 CV 아나스타샤 표도로브나 스네즈나야 오은수",
-      "time": "13:00",
-      "author": "이토 시즈카",
-      "content": [
-        {
-          "t": "yt",
-          "v": "-dpOHSACmvE"
-        },
-        {
-          "t": "p",
-          "v": "신은 자신이 줄 수 있는 자애를 내려 중생들이 겪고 있는 무수한 고통을 덜어주었다."
-        },
-        {
-          "t": "p",
-          "v": "누군가 이렇게 묻기 전까지는. 「자애는 어디에서 비롯되며, 고통은 또 어째서 생겨나는가?」"
-        },
-        {
-          "t": "p",
-          "v": "CV:"
-        },
-        {
-          "t": "p",
-          "v": "아나스타샤·표도로브나·스네즈나야——오은수"
-        },
-        {
-          "t": "yt",
-          "v": "1wrP3MnkeRY"
-        },
-        {
-          "t": "yt",
-          "v": "YtQhSfoC_SE"
-        }
-      ],
-      "comments": 1,
-      "topComments": [
-        {
-          "nick": "기자양반",
-          "text": "마망",
-          "like": 1
-        }
-      ]
-    },
-    {
-      "id": "ruliweb-2366422",
-      "title": "더 가디언) \"GTA6의 디테일은 지금까지 경험한 어떤 게임보다 뛰어났다...",
-      "url": "https://bbs.ruliweb.com/news/board/1001/read/2366422?page=2",
-      "source": "루리웹",
-      "date": "2026.11.14",
-      "image": null,
-      "summary": "기자의 실제 게임플레이 체험이번 시연은 미리 준비된 연출 장면을 보여주는 일반적인 사전 시연과 달랐다고 합니다 기자가 직접 원하는 행동을 제안하면 상당 부분 실제 게임에서 실행할 수 있었으며 인구 밀도가 높은 바이스 시티를 자유롭게 돌아다니며 다양한 상호작용을 체험했습니다 직접 체험한 ",
-      "time": "12:43",
-      "author": "마이동숲-",
-      "content": [
-        {
-          "t": "p",
-          "v": "기자의 실제 게임플레이 체험"
-        },
-        {
-          "t": "p",
-          "v": "이번 시연은 미리 준비된 연출 장면을 보여주는 일반적인 사전 시연과 달랐다고 합니다."
-        },
-        {
-          "t": "p",
-          "v": "기자가 직접 원하는 행동을 제안하면 상당 부분 실제 게임에서 실행할 수 있었으며, 인구 밀도가 높은 바이스 시티를 자유롭게 돌아다니며 다양한 상호작용을 체험했습니다."
-        },
-        {
-          "t": "p",
-          "v": "직접 체험한 내용"
-        },
-        {
-          "t": "p",
-          "v": "아파트에서 나와 바이스 시티 거리를 자유롭게 돌아다님"
-        },
-        {
-          "t": "p",
-          "v": "개를 산책시키는 NPC에게 말을 걸고 개를 쓰다듬음"
-        },
-        {
-          "t": "p",
-          "v": "지나가는 NPC들의 대화를 엿들음"
-        },
-        {
-          "t": "p",
-          "v": "NPC에게 말을 걸면 \"우리 만난 적 있나요?\"라고 반응하거나 욕설을 하기도 함"
-        },
-        {
-          "t": "p",
-          "v": "해변가에 앉아 있는 갈매기를 쌍안경으로 관찰"
-        },
-        {
-          "t": "p",
-          "v": "관찰한 새를 야생동물 도감에 기록"
-        },
-        {
-          "t": "p",
-          "v": "개발진은 게임 내에서 관찰할 수 있는 새가 총 62종이라고 설명했습니다."
-        },
-        {
-          "t": "p",
-          "v": "기자는 처음에는 단순히 장난스럽게 새의 종류를 물어봤지만, 실제로 제이슨이 쌍안경을 꺼내 관찰하고 도감에 기록하는 모습을 확인했습니다."
-        },
-        {
-          "t": "p",
-          "v": "캐릭터와 NPC의 세부 묘사"
-        },
-        {
-          "t": "p",
-          "v": "기자는 GTA6의 세부적인 표현 수준이 자신이 지금까지 게임에서 경험한 어떤 것보다도 뛰어났다고 평가했습니다."
-        },
-        {
-          "t": "p",
-          "v": "이러한 디테일들이 기존 락스타 작품인 레드 데드 리뎀션 2보다도 뛰어난 수준이라고 평가했습니다."
-        },
-        {
-          "t": "p",
-          "v": "기사에서 소개된 구체적인 장면은 다음과 같습니다."
-        },
-        {
-          "t": "p",
-          "v": "제이슨이 한 손에는 도넛, 다른 손에는 맥주 6캔 묶음을 들고 이동"
-        },
-        {
-          "t": "p",
-          "v": "이동할 때 병 안의 액체가 자연스럽게 출렁이는 모습"
-        },
-        {
-          "t": "p",
-          "v": "상점 진열대에 놓인 잡지를 처음부터 끝까지 읽을 수 있음"
-        },
-        {
-          "t": "p",
-          "v": "잡지에는 삽화까지 포함되어 있음"
-        },
-        {
-          "t": "p",
-          "v": "거리의 보행자 한 명 한 명이 각기 다른 의상으로 세밀하게 디자인됨"
-        },
-        {
-          "t": "p",
-          "v": "범죄 및 강도 플레이 직접 체험"
-        },
-        {
-          "t": "p",
-          "v": "기자는 제이슨과 루시아를 조작해 경비가 삼엄한 보석상을 털어보는 장면도 체험했습니다."
-        },
-        {
-          "t": "p",
-          "v": "시연 과정"
-        },
-        {
-          "t": "p",
-          "v": "루시아가 경비원들에게 권총을 겨눔."
-        },
-        {
-          "t": "p",
-          "v": "긴장감 있는 대치 끝에 경비원들이 항복함."
-        },
-        {
-          "t": "p",
-          "v": "제이슨이 위층 금고에서 돈을 가방에 담음."
-        },
-        {
-          "t": "p",
-          "v": "다른 경비원이 항복하지 않고 총격을 가함."
-        },
-        {
-          "t": "p",
-          "v": "제이슨이 총개머리판으로 경비원을 제압함."
-        },
-        {
-          "t": "p",
-          "v": "소란이 발생하고 경찰이 출동함."
-        },
-        {
-          "t": "p",
-          "v": "두 사람은 오토바이를 훔쳐 도주함."
-        },
-        {
-          "t": "p",
-          "v": "경찰차와 헬리콥터의 추격이 이어짐."
-        },
-        {
-          "t": "p",
-          "v": "자신들의 차량으로 돌아온 뒤 현금을 숨기고 옷을 갈아입음."
-        },
-        {
-          "t": "p",
-          "v": "경찰의 감시가 잠잠해질 때까지 도시 외곽에 은신함."
-        },
-        {
-          "t": "p",
-          "v": "Q. 왜 범죄를 무작정 저지르는 방식에서 벗어났나?"
-        },
-        {
-          "t": "p",
-          "v": "넬슨은 제이슨과 루시아가 궁지에 몰린 젊은 커플이라는 점을 강조했습니다."
-        },
-        {
-          "t": "p",
-          "v": "\"이 친구들은 벽을 등진 채 코너에 몰린 젊은 커플입니다. 서사적으로 볼 때, 이들이 붐비는 거리 한복판에서 돌격소총을 꺼내 들어 사람들을 혼비백산하게 만드는 건 전혀 앞뒤가 맞지 않죠.\""
-        },
-        {
-          "t": "p",
-          "v": "이에 따라 범죄를 저지르기 전 정찰하고, 보안 카메라를 무력화하거나 금고 비밀번호를 알아내는 등 신중하게 접근하는 방식이 소개됐습니다."
-        },
-        {
-          "t": "p",
-          "v": "Q. GTA 6는 플레이어의 공감을 유도하는 게임인가?"
-        },
-        {
-          "t": "p",
-          "v": "기자가 시리즈 최초로 공감 능력을 유도하는 게임인지 질문하자 넬슨은 그렇다고 답했습니다."
-        },
-        {
-          "t": "p",
-          "v": "\"우리가 들려주고자 하는 이야기의 산물이라고 할 수 있죠. 우리는 GTA 시리즈 사상 처음으로, 공감을 원하는 플레이어들을 위해 이를 장려하는 메커니즘을 제공하려고 노력했습니다.\""
-        }
-      ],
-      "comments": 51,
-      "topComments": [
-        {
-          "nick": "InThisMoment",
-          "text": "-해변가에 앉아 있는 갈매기를 쌍안경으로 관찰 -관찰한 새를 야생동물 도감에 기록 아... 레데리2에서 제일 하기 싫었던 도감작인데",
-          "like": 22
-        },
-        {
-          "nick": "예숫님",
-          "text": "InThisMoment",
-          "like": 10
-        },
-        {
-          "nick": "hidra22",
-          "text": "프레임 언급은 입틀어 막았네,,,,ㅋㅋ",
-          "like": 11
-        },
-        {
-          "nick": "불라이언",
-          "text": "hidra22",
-          "like": 4
-        },
-        {
-          "nick": "후카다쿄코",
-          "text": "지나가다 npc가 기분 나쁘게 생겨서 도로 막고 로켓런쳐 날리는 건 어렵다는거군",
-          "like": 3
-        },
-        {
-          "nick": "피시는신의겜기",
-          "text": "기............승......................전.............30.. 프레이무",
-          "like": 9
-        },
-        {
-          "nick": "JooRUN",
-          "text": "프로 프레임 30 확정인가요?",
-          "like": 7
-        },
-        {
-          "nick": "한숨나오네",
-          "text": "JooRUN",
-          "like": 3
-        },
-        {
-          "nick": "루리웹-6335058389",
-          "text": "월요일 연차(월차)내는 사람 많겠네요",
-          "like": 4
-        },
-        {
-          "nick": "데미안™",
-          "text": "제이콥디그롬",
-          "like": 10
-        },
-        {
-          "nick": "메타는과학",
-          "text": "한숨나오네",
-          "like": 4
-        },
-        {
-          "nick": "한숨나오네",
-          "text": "메타는과학",
-          "like": 3
-        },
-        {
-          "nick": "한숨나오네",
-          "text": "거짓부렁",
-          "like": 2
-        },
-        {
-          "nick": "lIlIllllIIIIIIl",
-          "text": "그 어느 게임보다도 제작기간과 제작비가 몇배로 들어갔으니 어찌보면 당연한 결과",
-          "like": 7
-        },
-        {
-          "nick": "루리웹-3228832709",
-          "text": "lIlIllllIIIIIIl",
-          "like": 0
-        },
-        {
-          "nick": "ACE1234",
-          "text": "축제구나 진짜 오픈월드중의 오픈월드 이것저것 다 해봐야지",
-          "like": 9
-        },
-        {
-          "nick": "Lunamoon",
-          "text": "돈만 많이 쓴다고 이런 퀄리티 안나오죠. 돈 많이 써놓고 망한 게임이 한둘이 아니어서... 돈, 시간, 개발능력을 10년 넘게 최대한 쏟아부어야 나오는 퀄리티.",
-          "like": 10
-        },
-        {
-          "nick": "hustler",
-          "text": "Lunamoon",
-          "like": 1
-        },
-        {
-          "nick": "던전슬라임",
-          "text": "hustler",
-          "like": 2
-        },
-        {
-          "nick": "Silian Rail",
-          "text": "npc들 대화도 한글자막 넣어주려나",
-          "like": 3
-        },
-        {
-          "nick": "블랙페이지",
-          "text": "근데 뭔가 시연하거나 그런거에서 대부분 제이슨으로 플레이를 하네 ㅋ 루시아는 뭔가 더 비밀스럽게 잘 안 보여주는거 같은데 왜 그럴까? 그냥 시리즈 최초 여주라서 최대한 아껴 보여주려는 거려나?",
-          "like": 1
-        },
-        {
-          "nick": "Younha-Loveholic",
-          "text": "Npc 대사들 전부다 자막좀 나왔으면 좋겠음 그타5에선 길거리 npc들 대사 번역을 안해줘서 궁금했음",
-          "like": 6
-        },
-        {
-          "nick": "루리웹게임남",
-          "text": "Younha-Loveholic",
-          "like": 6
-        },
-        {
-          "nick": "xboxpswitch",
-          "text": "주변 npc들 대화내용은 킹덤컴2 이상으로 디테일 하려나 킹덤컴은 옆에서 듣고 있으면 별의별 일상 신변잡기 대화를 다 하는데",
-          "like": 2
-        },
-        {
-          "nick": "역습의 신지",
-          "text": "아 게임코드 받고 아직 엠바고는 걸려있으니 웹진들도 입이 근질근질 한가보네 ㅈㄴ 궁금하다 진짜",
-          "like": 1
-        },
-        {
-          "nick": "핑도리",
-          "text": "걍 100점줍시다 웹진들 힙스터질 하지말고 인류역사상 또이런겜이 언제 나오겠습니까 그타아니면 그어떤겜이 백점을 맞을수가 있갰습니까",
-          "like": 9
-        },
-        {
-          "nick": "[피젯트레이닝] 토범태영",
-          "text": "레데리 사냥이 너무 재미있었는데 비슷한 컨텐츠 있겠죠 ㅎㅎ",
-          "like": 2
-        },
-        {
-          "nick": "리라",
-          "text": "[피젯트레이닝] 토범태영",
-          "like": 1
-        },
-        {
-          "nick": "[피젯트레이닝] 토범태영",
-          "text": "리라",
-          "like": 1
-        },
-        {
-          "nick": "날라리아",
-          "text": "대강 은행 근처에 자차 랑 옷등 보관해두고 은행 털고 도망가다 놓치면 자차 주차 해둔곳에 와서 갈아입고 차타고 도주해야된다는건데 계획범죄 처럼 해야되나보내 막무가내 털기는 사실상 어렵고",
-          "like": 0
-        },
-        {
-          "nick": "영영가는개불",
-          "text": "또또 기대작나오기전에 게임지지하는게 권력인냥하는 사람들이 보이네 우째 게임나올때마다 패턴이 똑같은지 .. 게임하고 자기자신을 동일시하는 사람들또 나대네 게임이잘난거지 니들이 잘난게 아니야 정신들차려",
-          "like": 4
-        },
-        {
-          "nick": "메타는과학",
-          "text": "영영가는개불",
-          "like": 0
-        },
-        {
-          "nick": "엑스미",
-          "text": "저런 세세한 디테일이나 세상속 상호작용이나 움직임을 플스 cpu가 제대로 감당할수있다는게 신기하네",
-          "like": 1
-        },
-        {
-          "nick": "Bzzzz",
-          "text": "예상대로 레데리2 이상의 디테일을 보여주겠네요 엄청 기대됩니다",
-          "like": 2
-        }
-      ]
-    },
-    {
-      "id": "ruliweb-2366421",
-      "title": "AGF KOREA 2026 RED STAGE 예매 안내❤️‍🔥",
-      "url": "https://bbs.ruliweb.com/news/board/1001/read/2366421?page=2",
-      "source": "루리웹",
-      "date": "2026.11.14",
-      "image": "https://i3.ruliweb.com/ori/26/11/14/1a1d82126ff4d4df1.webp",
-      "summary": "AGF 2026 티켓 구매자라면 RED 스테이지 무료 예매 가능 최애를 만날 수 있는 기회 놓치지 마세요 예매 일시 11 20 금 오후 6시 멜론티켓 오픈 공연 장소 KINTEX 제1전시장 5B홀 RED 스테이지 입장 시간 스테이지 시작 30분 전부터 입장 가능 예매 수량 일자별 계정당",
-      "time": "12:37",
-      "author": "로메오카이",
-      "content": [
-        {
-          "t": "img",
-          "v": "https://i3.ruliweb.com/img/26/11/14/1a1d82126ff4d4df1.webp"
-        },
-        {
-          "t": "p",
-          "v": "AGF 2026 티켓 구매자라면 RED 스테이지 무료 예매 가능!"
-        },
-        {
-          "t": "p",
-          "v": "최애를 만날 수 있는 기회, 놓치지 마세요✨"
-        },
-        {
-          "t": "p",
-          "v": "📍예매 일시: 11/20(금) 오후 6시 멜론티켓 오픈"
-        },
-        {
-          "t": "p",
-          "v": "📍공연 장소: KINTEX 제1전시장 5B홀 RED 스테이지"
-        },
-        {
-          "t": "p",
-          "v": "📍입장 시간: 스테이지 시작 30분 전부터 입장 가능"
-        },
-        {
-          "t": "p",
-          "v": "📍예매 수량: 일자별 계정당 최대 3개 스테이지 예약 가능"
-        }
-      ],
-      "comments": 0
-    },
-    {
       "id": "ruliweb-231920",
       "title": "㈜사노구미, 단편 호러 노벨 게임 ‘꿈꾸는 사쿠라의 졸업식’, Steam...",
       "url": "https://bbs.ruliweb.com/news/read/231920",
       "source": "루리웹",
       "date": "2026.11.14",
       "time": "10:21:33",
-      "views": 876,
+      "views": 966,
       "comments": 0,
       "summary": "일본 게임사 주식회사 사노구미는 steam 플랫폼에서 판매 중인 단편 호러 노벨 게임 '꿈꾸는 사쿠라의 졸업식'이 2026년 11월 4일 한국어를 지원한다고 발표...",
       "image": "https://img.ruliweb.com/data/news/tn/26/11/14/1a1d7b27600_wdeblt.webp",
@@ -62163,7 +62098,7 @@
       "source": "루리웹",
       "date": "2026.11.14",
       "time": "10:11:09",
-      "views": 962,
+      "views": 1088,
       "comments": 1,
       "summary": "독일의 1인 개발자 케일럽과 로카플레이는 직접 그린 그림이 살아 움직이는 수족관 샌드박스 게임 'drawquarium 드로잉 캔버스 수족관'을 steam에 정식 ...",
       "image": "https://img.ruliweb.com/data/news/tn/26/11/14/1a1d79b3f45_vfsrho.webp",
@@ -62183,7 +62118,7 @@
       "source": "루리웹",
       "date": "2026.11.14",
       "time": "09:56:14",
-      "views": 1448,
+      "views": 1635,
       "comments": 4,
       "summary": "라이엇 게임즈는 2027년 lol 이스포츠 국제 대회 상세 정보를 공개했다. 2027년 퍼스트 스탠드는 중국에서 대폭 확대 개최되며, msi는 스페인 발렌시아에서...",
       "image": "https://img.ruliweb.com/data/news/tn/26/11/14/1a1d7901288_quvztm.webp",
@@ -62218,7 +62153,7 @@
       "source": "루리웹",
       "date": "2026.11.13",
       "time": "21:30:00",
-      "views": 2437,
+      "views": 2608,
       "comments": 0,
       "summary": "에피드게임즈는 신작 '트릭컬 파티마'의 두 번째 트레일러를 공개하며 파티마을의 주요 시설과 운영 시스템을 소개했습니다. 영상에는 요리, 연구, 쇼핑 등 6개 시설...",
       "image": "https://img.ruliweb.com/data/news/tn/26/11/13/1a1d4ce6574_objtaf.webp",
@@ -62231,8 +62166,8 @@
       "source": "루리웹",
       "date": "2026.11.13",
       "time": "20:34:00",
-      "views": 2800,
-      "comments": 10,
+      "views": 3072,
+      "comments": 11,
       "summary": "글로벌 게임 기업 그라비티가 2026년 3분기 매출 1,971억 원, 영업이익 287억 원을 기록하며 전년 동분기 및 전분기 대비 동반 성장세를 달성했다. 이는 ...",
       "image": "https://img.ruliweb.com/data/news/tn/26/11/13/1a1d4af021d_ahspgc.webp",
       "author": "정필권 기자",
@@ -62276,6 +62211,11 @@
           "nick": "마시멜로네코",
           "text": "소비자기만질로 번 매출",
           "like": 0
+        },
+        {
+          "nick": "오늘도평화로운루리웹",
+          "text": "직장으로 다니기는 최고의 회사일 듯...",
+          "like": 0
         }
       ]
     },
@@ -62286,7 +62226,7 @@
       "source": "루리웹",
       "date": "2026.11.13",
       "time": "19:26:34",
-      "views": 2596,
+      "views": 2825,
       "comments": 1,
       "summary": "퍼블리셔 타르크 게임즈는 3인 온라인 협동 파티 게임 '봄바나나!'의 steam 판매량이 200만 장을 돌파하고, 13일 playstation 5와 xbox 시리...",
       "image": "https://img.ruliweb.com/data/news/tn/26/11/13/1a1d471d38a_enmhtq.webp",
@@ -62306,7 +62246,7 @@
       "source": "루리웹",
       "date": "2026.11.13",
       "time": "18:03:40",
-      "views": 1192,
+      "views": 1278,
       "comments": 0,
       "summary": "일본 code and design은 인크리멘탈 공장 경영 코미디 게임 ‘미나미 주식회사’를 지난 12일 스팀에 출시했습니다. 메이드 카페 직원이 가업인 안전핀 공...",
       "image": "https://img.ruliweb.com/data/news/tn/26/11/13/1a1d4277f60_qmascv.webp",
@@ -62319,7 +62259,7 @@
       "source": "루리웹",
       "date": "2026.11.13",
       "time": "16:32:32",
-      "views": 618,
+      "views": 642,
       "comments": 0,
       "summary": "젠틀몬스터가 11월 12일 출시 발표와 동시에 시작한 '인텔리전트 아이웨어' 사전 예약이 수 시간 만에 주요 제품 솔드아웃을 기록하며 큰 관심을 모으고 있습니다....",
       "image": "https://img.ruliweb.com/data/news/tn/26/11/13/1a1d3d283c7_hlbzjy.webp",
@@ -62332,7 +62272,7 @@
       "source": "루리웹",
       "date": "2026.11.13",
       "time": "16:23:16",
-      "views": 821,
+      "views": 893,
       "comments": 0,
       "summary": "페퍼게임즈는 동화 속 숲에서 생존하는 2d 생존 크래프팅 게임 'lost in a fairytale'을 오는 14일 스팀 얼리 액세스로 출시한다고 밝혔다. 플레이...",
       "image": "https://img.ruliweb.com/data/news/tn/26/11/13/1a1d3cef3a2_slzvix.webp",
@@ -62345,7 +62285,7 @@
       "source": "루리웹",
       "date": "2026.11.13",
       "time": "16:00:00",
-      "views": 2177,
+      "views": 2344,
       "comments": 4,
       "summary": "루리웹과 미디어 크리에이트는 2026년 11월 2일부터 8일까지의 국내외 콘솔 게임 주간 판매 순위를 발표했습니다. 한국 ps5에서는 '크라임라이트'가 1위를 차...",
       "image": "https://img.ruliweb.com/data/news/tn/26/11/12/1a1cfda86a8_wcmduj.webp",
@@ -62370,7 +62310,7 @@
       "source": "루리웹",
       "date": "2026.11.13",
       "time": "15:58:33",
-      "views": 972,
+      "views": 1056,
       "comments": 0,
       "summary": "코스닥 상장사 티쓰리는 2026년 3분기 보통주 1주당 40원의 분기배당을 결정하며 3개 분기 연속 배당을 이행한다고 13일 공시했다. 올해 누적 배당금은 지난해...",
       "image": "https://img.ruliweb.com/data/news/tn/26/11/13/1a1d3b34056_efvwju.webp",
@@ -62383,7 +62323,7 @@
       "source": "루리웹",
       "date": "2026.11.13",
       "time": "15:26:21",
-      "views": 804,
+      "views": 876,
       "comments": 0,
       "summary": "스페인 인디 개발사 monoii studio가 아늑한 방치형 수집 게임 'bottled by bears'를 오늘 steam에 정식 출시했습니다. 플레이어는 곰 가...",
       "image": "https://img.ruliweb.com/data/news/tn/26/11/13/1a1d39c4992_kgrqzu.webp",
@@ -62396,7 +62336,7 @@
       "source": "루리웹",
       "date": "2026.11.13",
       "time": "15:20:56",
-      "views": 215,
+      "views": 221,
       "comments": 0,
       "summary": "경기창조경제혁신센터는 지난 11일부터 14일까지 판교 창업존 일원에서 '2026 경기스타트업페스타: 글로벌 & 오픈이노베이션'을 개최했다. 이번 행사는 미쉐린, ...",
       "image": "https://img.ruliweb.com/data/news/tn/26/11/13/1a1d390f3ae_bnswgy.webp",
@@ -62409,7 +62349,7 @@
       "source": "루리웹",
       "date": "2026.11.13",
       "time": "15:13:49",
-      "views": 754,
+      "views": 826,
       "comments": 0,
       "summary": "soop은 오는 15일 잠실 dn 콜로세움에서 코리아보드게임즈와 공동으로 전국 예선을 통과한 초등학생 약 200명이 참가하는 ‘그레이트 킹덤 챔피언십’ 본선을 개...",
       "image": "https://img.ruliweb.com/data/news/tn/26/11/13/1a1d38a7006_jmutrl.webp",
@@ -62422,7 +62362,7 @@
       "source": "루리웹",
       "date": "2026.11.13",
       "time": "15:11:08",
-      "views": 907,
+      "views": 988,
       "comments": 0,
       "summary": "엠게임은 2026년 3분기 매출 208억 원, 영업이익 27억 원을 기록했으며, 특히 당기순이익이 전분기 대비 324.8% 급증했습니다. 회사는 4분기 '나이트 ...",
       "image": "https://img.ruliweb.com/data/news/tn/26/11/13/1a1d385c745_ozwlym.webp",
@@ -62435,7 +62375,7 @@
       "source": "루리웹",
       "date": "2026.11.13",
       "time": "14:51:35",
-      "views": 583,
+      "views": 590,
       "comments": 0,
       "summary": "컴퓨터 부품 수입 유통 전문 기업 서린씨앤아이는 지난 11월 13일 서울 가산동에서 신규 pc 하드웨어 브랜드 포뮬라 브이라인의 국내 런칭 간담회를 개최했다. 이...",
       "image": "https://img.ruliweb.com/data/news/tn/26/11/13/1a1d375ae49_lieobq.webp",
@@ -62448,7 +62388,7 @@
       "source": "루리웹",
       "date": "2026.11.13",
       "time": "14:08:31",
-      "views": 213,
+      "views": 221,
       "comments": 0,
       "summary": "아동복지전문기관 초록우산은 오는 11월 14일 sbs '창사특집 2026 희망tv'를 통해 항암 치료 중인 엄마를 돌보는 11살 은결이 등 가족돌봄아동 지원 캠페...",
       "image": "https://img.ruliweb.com/data/news/tn/26/11/13/1a1d34ea3b3_mcwzjk.webp",
@@ -62461,7 +62401,7 @@
       "source": "루리웹",
       "date": "2026.11.13",
       "time": "14:05:40",
-      "views": 1537,
+      "views": 1602,
       "comments": 1,
       "summary": "카카오게임즈는 11월 14일 핵 앤 슬래시 게임 ‘패스 오브 엑자일’의 신규 리그 ‘움브라의 마녀단’을 출시한다고 밝혔다. 이번 업데이트는 마녀단 간의 분쟁을 배...",
       "image": "https://img.ruliweb.com/data/news/tn/26/11/13/1a1d350ff90_kyadvt.webp",
@@ -62481,7 +62421,7 @@
       "source": "루리웹",
       "date": "2026.11.13",
       "time": "13:33:04",
-      "views": 397,
+      "views": 402,
       "comments": 0,
       "summary": "제이씨현시스템은 오피스 및 홈엔터테인먼트용 유디아 신제품 2종을 출시했습니다. 27형과 24형 모델은 고주사율 ips 패널과 시력 보호 기술을 탑재해 선명한 화질...",
       "image": "https://img.ruliweb.com/data/news/tn/26/11/13/1a1d32e357e_fketwb.webp",
@@ -62494,345 +62434,11 @@
       "source": "루리웹",
       "date": "2026.11.13",
       "time": "13:11:31",
-      "views": 453,
+      "views": 460,
       "comments": 0,
       "summary": "알파스캔디스플레이가 삼성디스플레이의 4세대 펜타 탠덤 qd-oled 패널을 탑재한 32인치 프리미엄 게이밍 모니터 ‘필립스 에브니아 32m2n8900p’를 출시했...",
       "image": "https://img.ruliweb.com/data/news/tn/26/11/13/1a1d31a767b_wdbsre.webp",
       "author": "이명규 기자"
-    },
-    {
-      "id": "ruliweb-231901",
-      "title": "㈜에스티컴퓨터. 라이젠 9800X3D + 라데온 RX 9070XT STC...",
-      "url": "https://bbs.ruliweb.com/news/read/231901",
-      "source": "루리웹",
-      "date": "2026.11.13",
-      "time": "13:00:32",
-      "views": 378,
-      "comments": 0,
-      "summary": "stcom은 고성능 조립 pc 브랜드 stcp 시리즈의 라이젠 9800x3d와 라데온 rx 9070xt 조합 완본체 pc를 대상으로 쿠팡 골드 박스 24시간 한정...",
-      "image": "https://img.ruliweb.com/data/news/tn/26/11/13/1a1d2f9e9ae_fmoezs.webp",
-      "author": "이명규 기자"
-    },
-    {
-      "id": "ruliweb-231900",
-      "title": "걸즈 앤 판처 올스타 탱크 카니발, 발매일과 게임 정보",
-      "url": "https://bbs.ruliweb.com/news/read/231900",
-      "source": "루리웹",
-      "date": "2026.11.13",
-      "time": "12:10:00",
-      "views": 3615,
-      "comments": 13,
-      "summary": "d3퍼블리셔는 전차도 액션 게임 '걸즈 앤 판처 올스타 탱크 카니발'의 일본 발매일을 2027년 3월 25일로 확정하고 ps5, 닌텐도 스위치 2, 스팀 플랫폼 ...",
-      "image": "https://img.ruliweb.com/data/news/tn/26/11/13/1a1d32af4fa_cgtbav.webp",
-      "author": "이장원 기자",
-      "topComments": [
-        {
-          "nick": "넵튠MK2",
-          "text": "후속작스!",
-          "like": 0
-        },
-        {
-          "nick": "루리전쟁",
-          "text": "탱크게임은 특유의 기동 때문에 영 적응을 못하겠는데 혹시 좋은 방법 없을까요?",
-          "like": 0
-        },
-        {
-          "nick": "cslg",
-          "text": "스팀에 보면 판저 나이트라는 게 있는데.. 그거 생각이 확하고 난다.(미소녀 탱크 게임)",
-          "like": 0
-        },
-        {
-          "nick": "루리웹-6914061842",
-          "text": "재들도 월탱처럼 말이 통하나요?",
-          "like": 0
-        },
-        {
-          "nick": "CG구멍가게",
-          "text": "PSVITA판 걸판게임이 가히 최악이었던거같은데",
-          "like": 2
-        },
-        {
-          "nick": "다시돌아온추한",
-          "text": "CG구멍가게",
-          "like": 0
-        },
-        {
-          "nick": "PC2",
-          "text": "오우 이게 스팀으로도 나오는구나",
-          "like": 0
-        },
-        {
-          "nick": "루리3864웹",
-          "text": "오 스팀판...! 스위치판은 사놓고 스위치 없어서 모셔놨는데...!",
-          "like": 0
-        },
-        {
-          "nick": "내안의소녀",
-          "text": "제발 한글!",
-          "like": 0
-        },
-        {
-          "nick": "Blue_Mouse",
-          "text": "오 신작이 나오넹",
-          "like": 0
-        }
-      ]
-    },
-    {
-      "id": "ruliweb-231899",
-      "title": "㈜WFS ‘헤븐 번즈 레드’, 신규 스토리 이벤트 ‘Twinkle, tw...",
-      "url": "https://bbs.ruliweb.com/news/read/231899",
-      "source": "루리웹",
-      "date": "2026.11.13",
-      "time": "11:56:31",
-      "views": 909,
-      "comments": 0,
-      "summary": "라이트 플라이어 스튜디오와 key의 드라마틱 rpg '헤븐 번즈 레드'가 2026년 11월 13일부터 신규 스토리 이벤트 'twinkle, twinkle, cry...",
-      "image": "https://img.ruliweb.com/data/news/tn/26/11/13/1a1d2d33e3b_iytecv.webp",
-      "author": "안민균 기자"
-    },
-    {
-      "id": "ruliweb-231898",
-      "title": "펄어비스, 지난 9일(월)부터 ‘2027년 채용 연계형 겨울 인턴십’ 모...",
-      "url": "https://bbs.ruliweb.com/news/read/231898",
-      "source": "루리웹",
-      "date": "2026.11.13",
-      "time": "11:50:27",
-      "views": 3746,
-      "comments": 15,
-      "summary": "펄어비스가 우수 게임 인재 발굴을 위해 2027년 채용 연계형 겨울 인턴십을 모집합니다. 엔지니어링, 게임기획, 콘텐츠, 사업 등 다양한 직무에서 인재를 선발하며...",
-      "image": "https://img.ruliweb.com/data/news/tn/26/11/13/1a1d2d02b55_qwmkzh.webp",
-      "author": "정필권 기자",
-      "topComments": [
-        {
-          "nick": "루리웹-9339564765",
-          "text": "인턴이라고 해도 AI가 있는 이상 솔직히 회사 내부에서는 실제로 업무를 어떻게 줄지가 의문이긴하네요",
-          "like": 2
-        },
-        {
-          "nick": "전능하신뿔난쥐의신",
-          "text": "그래도 요새 신입 구하는건 대단하네요 울 회사는 1년전에 정리해고 칼바람 분 이후에 가뭄에 콩날만큼 신입 모집하던데",
-          "like": 2
-        },
-        {
-          "nick": "양자택일",
-          "text": "와 경쟁률 미치겠네; 인턴 모집이지만 정리해고 당한 경력직들 남아돌아서 쌩신입은 들어가지도 못할 듯",
-          "like": 1
-        },
-        {
-          "nick": "천우희사랑해요",
-          "text": "인턴이라고 포트폴리오는 기본이고 2차면접전 인성검사부터 만만치않음 말만 저러지 정규직전환 하늘 별따는게 쉬움",
-          "like": 2
-        },
-        {
-          "nick": "버블제이",
-          "text": "저렇게 뽑히는 인턴들 중에서 몇이나 정식 직원이 될까",
-          "like": 1
-        },
-        {
-          "nick": "알란탐",
-          "text": "루리랑 상관없음",
-          "like": 0
-        },
-        {
-          "nick": "루리웹-912735355120",
-          "text": "알란탐",
-          "like": 1
-        },
-        {
-          "nick": "루리웹-1533465701",
-          "text": "그냥 단기채용이라고 보는게 맞음. 문제는 인턴이니까 단기 채용보다는 월급이 적겠지",
-          "like": 2
-        },
-        {
-          "nick": "오늘도다새거다",
-          "text": "현업에서 썩어가는 AI 배타적인 틀딱들보다 AI 훨씬 잘 다루면 인턴 바로 떡상 가능함. 대신에 경영진이 AI에 깨어 있는 회사여야 가능하고 기존 딱딱이들 반발 잡을 줄 알아야 함",
-          "like": 2
-        },
-        {
-          "nick": "낭천",
-          "text": "노예 모집 공고라고 보면 됨",
-          "like": 1
-        },
-        {
-          "nick": "츄츄나",
-          "text": "ㅋㅋ 펄업 기획부분 인턴 전환률 보면 저건 그냥 광고임",
-          "like": 0
-        }
-      ]
-    },
-    {
-      "id": "ruliweb-231897",
-      "title": "㈜위메이드, 지난 12일(목)부터 ‘이미르컵 월드 챔피언십 시즌3’ 이벤...",
-      "url": "https://bbs.ruliweb.com/news/read/231897",
-      "source": "루리웹",
-      "date": "2026.11.13",
-      "time": "11:43:33",
-      "views": 910,
-      "comments": 0,
-      "summary": "위메이드는 28일 개막하는 글로벌 e스포츠 대회 ‘이미르컵 월드 챔피언십 시즌3’를 기념해 승리팀 예측 및 성장 지원 핫타임 등 풍성한 특별 이벤트를 진행한다. ...",
-      "image": "https://img.ruliweb.com/data/news/tn/26/11/13/1a1d2c9ed0e_rdthpa.webp",
-      "author": "안민균 기자"
-    },
-    {
-      "id": "ruliweb-231896",
-      "title": "라인게임즈, ‘위플레이 엑스포 2026’ 부스 전경 및 현장 이벤트 공개",
-      "url": "https://bbs.ruliweb.com/news/read/231896",
-      "source": "루리웹",
-      "date": "2026.11.13",
-      "time": "11:09:35",
-      "views": 1697,
-      "comments": 5,
-      "summary": "라인게임즈는 오는 11월 21일부터 이틀간 상하이에서 개최되는 '위플레이 엑스포 2026' 참가를 앞두고 부스 전경과 주요 프로그램을 공개했다. 이번 행사에서 라...",
-      "image": "https://img.ruliweb.com/data/news/tn/26/11/13/1a1d2aad427_npxzjd.webp",
-      "author": "김영훈 기자",
-      "topComments": [
-        {
-          "nick": "K-전투민족",
-          "text": "창모는 한번도 안하고 에라이 퇫",
-          "like": 1
-        },
-        {
-          "nick": "루리웹-9834705919",
-          "text": "이 회사는 도대체 뭘 하고 싶은 거야",
-          "like": 1
-        },
-        {
-          "nick": "사크",
-          "text": "엠버 앤 블레이드 뭐하는 게임인지 모르겠지만 눈아프네요... 광역기 쓸때",
-          "like": 1
-        }
-      ]
-    },
-    {
-      "id": "ruliweb-231895",
-      "title": "SOOP, 스타크래프트 레전드와 스타대학 총출동하는 '케빈 스크림' 오는...",
-      "url": "https://bbs.ruliweb.com/news/read/231895",
-      "source": "루리웹",
-      "date": "2026.11.13",
-      "time": "11:06:55",
-      "views": 223,
-      "comments": 0,
-      "summary": "soop은 오는 11월 16일부터 19일까지 스타크래프트 1·2 종목을 아우르는 '케빈 스크림'을 개최한다. 16일에는 스타2 전·현직 프로게이머들이 4대 4 팀...",
-      "image": "https://img.ruliweb.com/data/news/tn/26/11/13/1a1d2a81e35_tmuwkj.webp",
-      "author": "이명규 기자"
-    },
-    {
-      "id": "ruliweb-231894",
-      "title": "컴투스 'SWC' 글로벌 중계진의 서울 티저 촬영 현장",
-      "url": "https://bbs.ruliweb.com/news/read/231894",
-      "source": "루리웹",
-      "date": "2026.11.13",
-      "time": "11:02:14",
-      "views": 671,
-      "comments": 0,
-      "summary": "컴투스는 오는 11월 14일 서울에서 개최되는 '서머너즈 워 월드 아레나 챔피언십 2026'의 월드 파이널을 앞두고 글로벌 중계진의 티저 영상 촬영 현장을 공개했...",
-      "image": "https://img.ruliweb.com/data/news/tn/26/11/13/1a1d2a2c2c5_aizyrf.webp",
-      "author": "안민균 기자"
-    },
-    {
-      "id": "ruliweb-231893",
-      "title": "AMD, 보안 핵심 시스템을 위한 물리적 공격 방어 기능 강화",
-      "url": "https://bbs.ruliweb.com/news/read/231893",
-      "source": "루리웹",
-      "date": "2026.11.13",
-      "time": "10:20:07",
-      "views": 278,
-      "comments": 0,
-      "summary": "amd는 정교한 물리적 공격으로부터 보안 핵심 정보를 보호하는 업계 최초의 내장형 보호 기능을 갖춘 '버설 변조 방지(tr)' 디바이스를 발표했습니다. 3d 액티...",
-      "image": "https://img.ruliweb.com/data/news/tn/26/11/13/1a1d27f56aa_dpelfj.webp",
-      "author": "이명규 기자"
-    },
-    {
-      "id": "ruliweb-231892",
-      "title": "컴투스홀딩스 모바일 퍼즐 게임 '컬러스위퍼', '나의 비밀친구 해치’와 ...",
-      "url": "https://bbs.ruliweb.com/news/read/231892",
-      "source": "루리웹",
-      "date": "2026.11.13",
-      "time": "10:16:00",
-      "views": 592,
-      "comments": 0,
-      "summary": "컴투스홀딩스는 추론형 모바일 퍼즐 게임 '컬러스위퍼'와 애니메이션 '나의 비밀친구 해치'의 첫 게임 협업을 발표했다. 12월 17일까지 진행되는 '시크릿 서울 투...",
-      "image": "https://img.ruliweb.com/data/news/tn/26/11/13/1a1d279c850_dmfyaz.webp",
-      "author": "안민균 기자"
-    },
-    {
-      "id": "ruliweb-231891",
-      "title": "니지겐노모리 ‘드래곤 퀘스트 아일랜드’, ‘드래곤 퀘스트 몬스터즈 4 메...",
-      "url": "https://bbs.ruliweb.com/news/read/231891",
-      "source": "루리웹",
-      "date": "2026.11.13",
-      "time": "10:11:38",
-      "views": 3935,
-      "comments": 0,
-      "summary": "니지겐노모리 '드래곤 퀘스트 아일랜드'가 신작 '드래곤 퀘스트 몬스터즈 4 메마른 나라의 비앙카·플로라' 발매를 기념해 2026년 12월 3일부터 컬래버레이션 이...",
-      "image": "https://img.ruliweb.com/data/news/tn/26/11/13/1a1d275c76b_twikae.webp",
-      "author": "정필권 기자"
-    },
-    {
-      "id": "ruliweb-231890",
-      "title": "㈜웹젠 ‘지스타2026’ 웹젠 IP를 보고 듣고 즐기는 다채로운 현장 이...",
-      "url": "https://bbs.ruliweb.com/news/read/231890",
-      "source": "루리웹",
-      "date": "2026.11.13",
-      "time": "10:02:35",
-      "views": 1108,
-      "comments": 0,
-      "summary": "웹젠이 '지스타2026'에서 100부스 규모의 전시 부스를 마련하고 신작 시연과 ost 공연, 코스프레 등 다채로운 현장 이벤트를 진행한다. 한국적 디자인의 무대...",
-      "image": "https://img.ruliweb.com/data/news/tn/26/11/13/1a1d26d7f87_swgvfz.webp",
-      "author": "안민균 기자"
-    },
-    {
-      "id": "ruliweb-231889",
-      "title": "네오노드(NEO NODE), 컬렉션 관리 앱 ‘콜로그’ 베타테스터 모집 ...",
-      "url": "https://bbs.ruliweb.com/news/read/231889",
-      "source": "루리웹",
-      "date": "2026.11.13",
-      "time": "09:59:47",
-      "views": 259,
-      "comments": 0,
-      "summary": "네오노드가 수집가들을 위한 컬렉션 관리 앱 ‘콜로그’의 정식 출시를 앞두고 베타테스터를 모집합니다. 이번 모집은 프라모델, 피규어 등 13개 분야에서 총 260명...",
-      "image": "https://img.ruliweb.com/data/news/tn/26/11/13/1a1d26a5d68_dbzcyt.webp",
-      "author": "이장원 기자"
-    },
-    {
-      "id": "ruliweb-231888",
-      "title": "인텔코리아, 메사쿠어컴퍼니·NH농협은행과 인텔 GPU 기반 비대면 금융 ...",
-      "url": "https://bbs.ruliweb.com/news/read/231888",
-      "source": "루리웹",
-      "date": "2026.11.13",
-      "time": "09:52:49",
-      "views": 126,
-      "comments": 0,
-      "summary": "인텔코리아는 '인텔 ai 서밋 서울 2026'에서 메사쿠어컴퍼니, nh농협은행과 협력해 인텔® 아크™ pro b70 gpu 기반의 ai 영상통화 본인확인 솔루션을...",
-      "image": "https://img.ruliweb.com/data/news/tn/26/11/13/1a1d2648f66_dxevki.webp",
-      "author": "이장원 기자"
-    },
-    {
-      "id": "ruliweb-231887",
-      "title": "카케하시 게임즈, 골렘을 프로그래밍하는 던전 공략 RPG '알고레메스' ...",
-      "url": "https://bbs.ruliweb.com/news/read/231887",
-      "source": "루리웹",
-      "date": "2026.11.13",
-      "time": "09:49:56",
-      "views": 242,
-      "comments": 0,
-      "summary": "카케하시 게임즈와 로우 퓨리는 미디엄-레어 게임즈의 신작 프로그래밍 던전 공략 rpg '알고레메스'를 2027년 1월 26일 pc 플랫폼으로 출시한다고 발표했습니...",
-      "image": "https://img.ruliweb.com/data/news/tn/26/11/13/1a1d261e34f_njawkt.webp",
-      "author": "이명규 기자"
-    },
-    {
-      "id": "ruliweb-231886",
-      "title": "SOOP, ‘AGF 2026’ 기념 한정판 굿즈 사전예약 판매 오늘(13...",
-      "url": "https://bbs.ruliweb.com/news/read/231886",
-      "source": "루리웹",
-      "date": "2026.11.13",
-      "time": "09:40:50",
-      "views": 112,
-      "comments": 0,
-      "summary": "soop은 오는 12월 4일부터 6일까지 고양시 킨텍스에서 개최되는 'agf 2026' 참가를 기념해 크리스마스 콘셉트의 한정판 굿즈를 공개했습니다. 이번 굿즈는...",
-      "image": "https://img.ruliweb.com/data/news/tn/26/11/13/1a1d25989ff_aiwkpr.webp",
-      "author": "이장원 기자"
     },
     {
       "id": "ruliweb-2500",
@@ -63988,7 +63594,7 @@
         {
           "nick": "폐지줍는시바견",
           "text": "코에이 보고 있냐? 닌자가이덴이 이렇게 나왔어야 했다",
-          "like": 5
+          "like": 6
         },
         {
           "nick": "킨타마",
@@ -64013,12 +63619,12 @@
         {
           "nick": "클럭워크",
           "text": "게임키드.",
-          "like": 0
+          "like": 1
         },
         {
           "nick": "자연산 송이버섯",
           "text": "전투시스템이 요 근래 나온 게임 중에 가장 완성도 높음. 단순한 것 같으면서도 뽕맛 지림 + 화면에 내가 생각한 것보다 멋지게 연출됨 개인적으로 위쳐가 만약 이런 전투 시스템을 갖고있다면 우주명작일듯.",
-          "like": 5
+          "like": 6
         },
         {
           "nick": "Code넘버",
