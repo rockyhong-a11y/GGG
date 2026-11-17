@@ -18,11 +18,11 @@
       },
       {
         "name": "RuliwebNews",
-        "added": 105
+        "error": "https://bbs.ruliweb.com/news=0,https://bbs.ruliweb.com/news?page=2=0,https://bbs.ruliweb.com/news?page=3=0,https://bbs.ruliweb.com/news/board/1001=0,https://bbs.ruliweb.com/news/board/1001?page=2=0"
       },
       {
         "name": "GameDetails",
-        "added": 2
+        "added": 0
       }
     ],
     "counts": {
