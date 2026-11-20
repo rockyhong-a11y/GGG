@@ -1,4 +1,4 @@
-diag_at=2026-11-19T17:59:59.418Z
+diag_at=2026-11-20T01:58:31.857Z
 game_targets=14
 game inven-14020 https://www.inven.co.kr/webzine/calendar/game/14020 status=404 len=7638
   title=인벤 | 종합 게임 커뮤니티 INVEN
