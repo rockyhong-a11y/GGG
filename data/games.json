@@ -14,21 +14,21 @@
     "pipeline": [
       {
         "name": "Inven",
-        "added": 1220
+        "added": 1221
       },
       {
         "name": "RuliwebNews",
-        "added": 105
+        "error": "https://bbs.ruliweb.com/news=0,https://bbs.ruliweb.com/news?page=2=0,https://bbs.ruliweb.com/news?page=3=0,https://bbs.ruliweb.com/news/board/1001=0,https://bbs.ruliweb.com/news/board/1001?page=2=0"
       },
       {
         "name": "GameDetails",
-        "added": 4
+        "added": 2
       }
     ],
     "counts": {
-      "total": 1186,
+      "total": 1188,
       "curated": 32,
-      "collected": 1220,
+      "collected": 1221,
       "news": 103
     }
   },
@@ -30687,6 +30687,54 @@
       ]
     },
     {
+      "id": "inven-14288",
+      "title": "Worst Class Ever",
+      "titleKr": "워스트 클래스 에버",
+      "developer": "미상",
+      "publisher": "미상",
+      "platforms": [
+        "PC"
+      ],
+      "genres": [],
+      "releaseDate": "2026-11-10",
+      "eventType": "release",
+      "status": "released",
+      "price": null,
+      "hypeScore": null,
+      "rating": null,
+      "tags": [
+        "인벤"
+      ],
+      "description": "",
+      "update": "",
+      "color": "#9b59b6",
+      "image": "https://static.inven.co.kr/column/webzine3/gamelogo/2026/i1697237269.jpg",
+      "source": {
+        "name": "인벤 발매 캘린더",
+        "url": "https://www.inven.co.kr/webzine/calendar/"
+      },
+      "detailUrl": "https://www.inven.co.kr/webzine/calendar/game/14288",
+      "trailer": "https://youtu.be/3dv-pWfw89c",
+      "content": [
+        {
+          "t": "p",
+          "v": "‘워스트 클래스 에버(Worst Class Ever)’는 선생님과 말썽꾸러기 학생들이 교실에서 대결하는 최대 8인 비대칭 멀티플레이 파티 게임입니다. 기본 규칙에서는 한 명이 선생님을, 나머지 최대 일곱 명이 학생을 맡아 서로 다른 목표를 수행합니다. 학생은 수십 명의 NPC 학생 사이에 숨어 장난 임무를 완수하고, 선생님은 이들을 찾아내 교실의 질서를 회복해야 합니다."
+        },
+        {
+          "t": "p",
+          "v": "학생들은 선생님의 감시를 피해 몰래 간식을 먹거나 휴대전화를 보고 쪽지를 돌립니다. 연막탄과 드론 등 다양한 아이템으로 혼란을 일으키거나 시야를 방해할 수 있으며, 선생님 역시 전용 도구와 관찰력을 활용해 수상한 학생을 추적합니다. 일반 교실과 야간 자율학습 교실, 컴퓨터실 등 공간마다 다른 사각지대와 상호작용 요소를 활용하는 것이 중요합니다."
+        },
+        {
+          "t": "p",
+          "v": "온라인 및 LAN 멀티플레이를 지원하며, 방장이 참가 인원과 선생님 수, 아이템 등장 확률 등 다양한 규칙을 조정할 수 있습니다. 정식 버전에는 여성 담임 선생님과 10종의 교실 테마가 마련됐으며, 스팀 창작마당을 통해 이용자가 제작한 콘텐츠도 공유하고 즐길 수 있습니다."
+        },
+        {
+          "t": "yt",
+          "v": "3dv-pWfw89c"
+        }
+      ]
+    },
+    {
       "id": "inven-14184",
       "title": "Fantasy For you",
       "titleKr": "판타지 포 유",
@@ -33470,54 +33518,6 @@
       ]
     },
     {
-      "id": "inven-13666",
-      "title": "Edge of Memories",
-      "titleKr": "에지 오브 메모리스",
-      "developer": "미상",
-      "publisher": "미상",
-      "platforms": [
-        "PC"
-      ],
-      "genres": [],
-      "releaseDate": "2026-12-03",
-      "eventType": "release",
-      "status": "upcoming",
-      "price": null,
-      "hypeScore": null,
-      "rating": null,
-      "tags": [
-        "인벤"
-      ],
-      "description": "",
-      "update": "",
-      "color": "#16a085",
-      "image": "https://static.inven.co.kr/column/webzine3/gamelogo/2026/i1601624494.jpg",
-      "source": {
-        "name": "인벤 발매 캘린더",
-        "url": "https://www.inven.co.kr/webzine/calendar/"
-      },
-      "detailUrl": "https://www.inven.co.kr/webzine/calendar/game/13666",
-      "trailer": "https://youtu.be/U3N0N4Uxig4",
-      "content": [
-        {
-          "t": "p",
-          "v": "'에지 오브 메모리스'는 '에지 오브 이터니티'를 만든 프랑스 몽펠리에의 미드가르 스튜디오가 언리얼 엔진 5로 개발 중인 액션 RPG로, 일본 애니메이션풍의 비주얼과 호화로운 사운드 트랙이 특징이다. '크로노 트리거'로 유명한 작곡가 미츠다 야스노리, '니어' 시리즈의 가사·보컬을 맡은 에미 에반스, '제노블레이드 크로니클스'의 캐릭터 디자이너 카자마 라이타, 전투 디자이너 요코야마 미츠루 등 일본 게임계의 베테랑들이 참여한 점이 부각된다. 무대는 헤이론 세계의 또 다른 대륙 아바리스로, 살아 있는 모든 것을 그로테스크한 괴물로 변형시키는 역병 '코로전(Corrosion)'이 유목민들의 터전을 잠식해 들어오는 절박한 상황 속에서 이야기가 전개된다."
-        },
-        {
-          "t": "p",
-          "v": "플레이어가 조작하는 주인공은 떠도는 영혼의 속삭임꾼 엘린이며, 동료 이소리스, 칸타와 함께 코로전의 근원을 추적해 멸망 직전의 세계를 구하려 한다. 전투는 전작의 턴제 시스템에서 벗어나 빠른 템포의 실시간 액션으로 완전히 전환되었고, 콤보 체인과 회피, 전술적 스킬 운용이 핵심을 이룬다. 파티 시너지를 통한 강력한 합공기, 엘린 고유의 '버서크' 변신을 통한 일시적 화력 폭증 등 단조로움을 막는 장치들이 마련되어 있으며, 적은 단순 몹부터 부패에 잠식된 거대 괴물까지 폭넓게 등장한다."
-        },
-        {
-          "t": "p",
-          "v": "탐험 또한 혼자만의 여정이 아니다. 빠른 다리를 가진 탈것 네카루(Nekaroo)에 올라타 광대한 평원을 가로지르고 절벽을 타고 멀리 떨어진 발판으로 도약할 수 있으며, 동료의 원소 능력을 활용해 길을 가로막는 장애물을 부수거나 이소리스의 해킹 능력으로 고대 기술의 봉인을 풀어 숨겨진 영역에 닿을 수 있다. 사를라-두라의 황금빛 항구 도시부터 케잘 산맥의 설원까지 다채로운 풍경이 펼쳐지며, 사이드 퀘스트마저 본편 캐릭터와 관계의 깊이를 더하는 형태로 짜여 있어 채움용 콘텐츠를 줄였다고 개발사는 강조한다. 다만 발표 직후 미드가르 스튜디오가 매각 매물로 등록되며 프로젝트의 미래에 불확실성이 더해진 상황이다."
-        },
-        {
-          "t": "yt",
-          "v": "U3N0N4Uxig4"
-        }
-      ]
-    },
-    {
       "id": "inven-11159",
       "title": "FreeStyle Football2",
       "titleKr": "프리스타일 풋볼2",
@@ -34422,100 +34422,6 @@
       ]
     },
     {
-      "id": "inven-13702",
-      "title": "KEMURI",
-      "titleKr": "케무리",
-      "developer": "미상",
-      "publisher": "미상",
-      "platforms": [],
-      "genres": [],
-      "releaseDate": "2027-01-01",
-      "eventType": "release",
-      "status": "upcoming",
-      "price": null,
-      "hypeScore": null,
-      "rating": null,
-      "tags": [
-        "인벤"
-      ],
-      "description": "",
-      "update": "",
-      "color": "#27ae60",
-      "image": "https://static.inven.co.kr/column/webzine3/gamelogo/2026/i1829407360.jpg",
-      "source": {
-        "name": "인벤 발매 캘린더",
-        "url": "https://www.inven.co.kr/webzine/calendar/"
-      },
-      "detailUrl": "https://www.inven.co.kr/webzine/calendar/game/13702",
-      "trailer": "https://youtu.be/yWMwRfJj8So",
-      "content": [
-        {
-          "t": "p",
-          "v": "'케무리'는 전 탱고 게임웍스 창립자 이쿠미 나카무라가 설립한 언시인(UNSEEN)의 데뷔작으로, 일본풍 초자연 세계를 배경으로 한 협동 액션 어드벤처 게임이다. 현대 도시와 요괴, 정령, 신화적 존재가 뒤섞인 독특한 세계관을 바탕으로 최대 4명의 플레이어가 함께 모험을 펼치게 된다."
-        },
-        {
-          "t": "p",
-          "v": "플레이어는 '폭스 윈도우(Fox Window)'라 불리는 특수 능력을 활용해 인간 세계와 영혼 세계를 넘나들며 다양한 적과 맞서게 된다. 빠른 이동과 화려한 액션, 입체적인 탐험 요소를 결합했으며, 현대 일본 문화와 전통 설화를 독창적으로 재해석한 비주얼이 특징이다."
-        },
-        {
-          "t": "p",
-          "v": "작품명인 '케무리'는 일본어로 '연기'를 뜻하며, 개발진은 이를 통해 사람과 사람을 연결하는 보이지 않는 인연과 관계를 표현하고자 했다. 독특한 세계관과 개성적인 아트 스타일, 그리고 협동 플레이 중심의 게임성을 앞세워 차세대 액션 어드벤처 기대작으로 주목받고 있다. '케무리'는 2027년 중 출시될 예정이다."
-        },
-        {
-          "t": "yt",
-          "v": "yWMwRfJj8So"
-        }
-      ]
-    },
-    {
-      "id": "inven-13704",
-      "title": "The Lost Wild",
-      "titleKr": "더 로스트 와일드",
-      "developer": "미상",
-      "publisher": "미상",
-      "platforms": [
-        "PC"
-      ],
-      "genres": [],
-      "releaseDate": "2027-01-01",
-      "eventType": "release",
-      "status": "upcoming",
-      "price": null,
-      "hypeScore": null,
-      "rating": null,
-      "tags": [
-        "인벤"
-      ],
-      "description": "",
-      "update": "",
-      "color": "#27ae60",
-      "image": "https://static.inven.co.kr/column/webzine3/gamelogo/2026/i1468037235.jpg",
-      "source": {
-        "name": "인벤 발매 캘린더",
-        "url": "https://www.inven.co.kr/webzine/calendar/"
-      },
-      "detailUrl": "https://www.inven.co.kr/webzine/calendar/game/13704",
-      "trailer": "https://youtu.be/nlt4o-mLxyM",
-      "content": [
-        {
-          "t": "p",
-          "v": "'더 로스트 와일드'는 공룡이 지배하는 미지의 섬을 배경으로 한 1인칭 서바이벌 호러 어드벤처 게임이다. 플레이어는 고립된 연구 시설과 정글을 탐험하며 살아남아야 하며, 단순한 사냥 대상이 아닌 살아 있는 생명체로서의 공룡을 마주하게 된다."
-        },
-        {
-          "t": "p",
-          "v": "작품은 전투보다 생존과 은신, 탐험에 초점을 맞추고 있다. 플레이어는 벨로시랩터와 티라노사우루스 등 다양한 공룡의 행동 패턴을 관찰하고 위협을 피해 이동해야 하며, 제한된 장비와 도구를 활용해 위험한 환경을 극복해야 한다."
-        },
-        {
-          "t": "p",
-          "v": "특히 영화적 연출과 사실적인 공룡 표현을 강점으로 내세우고 있다. 개발진은 현대 기술로 구현한 공룡 생태계와 긴장감 넘치는 추격전을 통해 기존 공룡 게임과 차별화된 생존 공포 경험을 제공하는 것을 목표로 하고 있다. 2027년 중 출시될 예정이다."
-        },
-        {
-          "t": "yt",
-          "v": "nlt4o-mLxyM"
-        }
-      ]
-    },
-    {
       "id": "inven-14117",
       "title": "Emberville",
       "titleKr": "엠버빌",
@@ -34851,6 +34757,54 @@
         {
           "t": "yt",
           "v": "9zAXYSU3zHw"
+        }
+      ]
+    },
+    {
+      "id": "inven-13678",
+      "title": "VOID DIVER: Escape from the Abyss",
+      "titleKr": "보이드 다이버",
+      "developer": "미상",
+      "publisher": "미상",
+      "platforms": [
+        "PC"
+      ],
+      "genres": [],
+      "releaseDate": "2027-01-20",
+      "eventType": "release",
+      "status": "upcoming",
+      "price": null,
+      "hypeScore": null,
+      "rating": null,
+      "tags": [
+        "인벤"
+      ],
+      "description": "",
+      "update": "",
+      "color": "#3aa757",
+      "image": "https://static.inven.co.kr/column/webzine3/gamelogo/2026/i1748606859.jpg",
+      "source": {
+        "name": "인벤 발매 캘린더",
+        "url": "https://www.inven.co.kr/webzine/calendar/"
+      },
+      "detailUrl": "https://www.inven.co.kr/webzine/calendar/game/13678",
+      "trailer": "https://youtu.be/t5rhupjN8Zc",
+      "content": [
+        {
+          "t": "p",
+          "v": "'보이드 다이버(VOID DIVER: Escape from the Abyss)'는 로드 컴플릿 산하의 네모 스튜디오가 개발하는 익스트랙션 액션 RPG다. 이상 현상에 잠식되어 거대한 던전으로 변해버린 도시를 배경으로, 플레이어는 골동품점 '발루샤'의 점장이 되어 유물 회수를 전문으로 하는 '다이버'들을 심연 속으로 파견하는 역할을 맡는다. 고퀄리티 2.5D 픽셀 아트로 구현된 이계와 현실이 뒤엉킨 기괴한 공간이 특징이며, 싱글 플레이와 최대 3인 온라인 협동 플레이를 모두 지원한다."
+        },
+        {
+          "t": "p",
+          "v": "핵심 게임플레이는 던전 탐사, 전투, 탈출로 이어지는 익스트랙션 구조를 따른다. 이계의 괴물, 폭주한 기계, 도시 전설 속 괴이, 광기에 물든 인간 등 다양한 위협에 맞서 싸우면서 유물을 수집하고 살아서 귀환하는 것이 목표다. 던전은 육체뿐 아니라 정신도 갉아먹는 공간으로 설계되어 있으며, 스트레스가 한계에 달하면 이상 현상이 발생하는 정신적 압박 시스템이 존재한다. 또한 탐사 후에도 남는 저주인 '패러독스'에 대한 치료법을 찾는 것도 생존의 중요한 요소다."
+        },
+        {
+          "t": "p",
+          "v": "캐릭터 고유의 스킬 트리와 특성 조합을 통한 성장 시스템, 던전에서 획득한 무기·장신구·유물을 활용한 자유로운 빌드 구성도 보이드 다이버의 주요 재미 요소다. 전투 외에도 골동품점 '발루샤'를 거점으로 다이버들을 지원하고 유물을 매매하며 가게를 성장시키는 미니게임 요소가 더해져, 거래되는 금지된 유물들을 통해 도시의 어두운 비밀이 서서히 드러나는 서사 구조를 갖추고 있다."
+        },
+        {
+          "t": "yt",
+          "v": "KqmFZMszjfA"
         }
       ]
     },
@@ -36730,54 +36684,6 @@
       ]
     },
     {
-      "id": "inven-14224",
-      "title": "ILL",
-      "titleKr": "ILL",
-      "developer": "미상",
-      "publisher": "미상",
-      "platforms": [
-        "PC"
-      ],
-      "genres": [],
-      "releaseDate": "TBD",
-      "eventType": "release",
-      "status": "upcoming",
-      "price": null,
-      "hypeScore": null,
-      "rating": null,
-      "tags": [
-        "인벤"
-      ],
-      "description": "",
-      "update": "",
-      "color": "#7b5cff",
-      "image": "https://static.inven.co.kr/column/webzine3/gamelogo/2026/i1108352715.jpg",
-      "source": {
-        "name": "인벤 발매 캘린더",
-        "url": "https://www.inven.co.kr/webzine/calendar/"
-      },
-      "detailUrl": "https://www.inven.co.kr/webzine/calendar/game/14224",
-      "trailer": "https://youtu.be/Ldb4yfUZXF4",
-      "content": [
-        {
-          "t": "p",
-          "v": "'ILL'은 정체불명의 존재에 장악된 어두운 요새를 배경으로 한 사실적인 1인칭 액션 서바이벌 호러 게임이다. 예측할 수 없는 괴물과 생생한 신체 절단 시스템, 사실적인 물리 효과로 끊임없는 공포의 분위기를 만들어 낸다. 개발진은 호러 전문가들로, '롱레그스', '언틸 던', 'V/H/S/비욘드', '그것: 웰컴 투 데리' 등 여러 영화와 시리즈 작업에 참여한 경험을 갖고 있다."
-        },
-        {
-          "t": "p",
-          "v": "이야기는 거대한 연구 요새에서 펼쳐진다. 미스터리한 악의 근원과 그것이 만들어 낸 끔찍한 변종 '어버레이션'이 가장 소중한 것을 구하려는 주인공의 앞을 가로막는다. 기괴한 괴물은 신체를 훼손당하고 갈가리 찢길 수 있으며, 바이노럴 오디오 시스템이 비명 하나하나의 고통을 생생하게 전달한다. 적은 주변 환경에 충동적으로 반응하며 섬뜩할 만큼 사람 같은 반사 행동을 보인다."
-        },
-        {
-          "t": "p",
-          "v": "사실적인 물리 효과 덕분에 환경은 단순한 배경이 아니라 퍼즐 풀이를 포함한 게임플레이의 일부로 작동한다. 무기마다 고유한 물리적 특성을 반영한 정교한 애니메이션이 적용돼 손에 쥔 무게감을 느낄 수 있고, 다양한 무기의 결함도 직접 점검해야 한다. 개발과 유통은 팀 클라우트가 맡았으며, 2027년 출시를 목표로 하고 있다."
-        },
-        {
-          "t": "yt",
-          "v": "Ldb4yfUZXF4"
-        }
-      ]
-    },
-    {
       "id": "inven-14045",
       "title": "WPCA: World Phasebound Control Authority",
       "titleKr": "세계허구관리연맹: WPCA",
@@ -36822,6 +36728,54 @@
         {
           "t": "yt",
           "v": "nnCxByK4ZpQ"
+        }
+      ]
+    },
+    {
+      "id": "inven-14289",
+      "title": "Girls’ Frontline: The Lunasia Covenant",
+      "titleKr": "소녀전선: 블루 코버넌트",
+      "developer": "미상",
+      "publisher": "미상",
+      "platforms": [
+        "Mobile"
+      ],
+      "genres": [],
+      "releaseDate": "TBD",
+      "eventType": "release",
+      "status": "upcoming",
+      "price": null,
+      "hypeScore": null,
+      "rating": null,
+      "tags": [
+        "인벤"
+      ],
+      "description": "",
+      "update": "",
+      "color": "#27ae60",
+      "image": "https://static.inven.co.kr/column/webzine3/gamelogo/2026/i1163281109.png",
+      "source": {
+        "name": "인벤 발매 캘린더",
+        "url": "https://www.inven.co.kr/webzine/calendar/"
+      },
+      "detailUrl": "https://www.inven.co.kr/webzine/calendar/game/14289",
+      "trailer": "https://youtu.be/gswpWyYGMdE",
+      "content": [
+        {
+          "t": "p",
+          "v": "‘소녀전선: 블루 코버넌트(Girls’ Frontline: The Lunasia Covenant)’는 선본 산하 헤카테 팀이 개발하는 협동 PvE 슈팅 게임입니다. ‘소녀전선’ IP의 세계관과 캐릭터를 바탕으로, 플레이어가 전술인형을 직접 조작해 전장에 뛰어드는 3인칭 슈팅을 선보입니다."
+        },
+        {
+          "t": "p",
+          "v": "게임은 가상과 현실이 뒤섞인 세계를 무대로 전개됩니다. 플레이어는 다른 이용자들과 팀을 이루고 역할을 나누어 적에 맞서며 임무를 수행합니다. 전술인형의 움직임과 사격을 직접 제어하는 실시간 전투에 동료와의 협력을 결합한 것이 특징입니다."
+        },
+        {
+          "t": "p",
+          "v": "공개된 영상에서는 설원과 기계 시설을 배경으로 전술인형들이 이동하며 기계형 적들과 교전하는 모습을 확인할 수 있습니다. 기존 시리즈의 캐릭터와 세계관을 협동 슈팅으로 확장한 작품으로, 모바일 플랫폼을 통해 2027년 출시될 예정입니다."
+        },
+        {
+          "t": "yt",
+          "v": "gswpWyYGMdE"
         }
       ]
     },
@@ -38422,54 +38376,6 @@
       ]
     },
     {
-      "id": "inven-13732",
-      "title": "Wolf Among US 2",
-      "titleKr": "울프어몽어스2",
-      "developer": "미상",
-      "publisher": "미상",
-      "platforms": [
-        "PC"
-      ],
-      "genres": [],
-      "releaseDate": "TBD",
-      "eventType": "release",
-      "status": "upcoming",
-      "price": null,
-      "hypeScore": null,
-      "rating": null,
-      "tags": [
-        "인벤"
-      ],
-      "description": "",
-      "update": "",
-      "color": "#ff4655",
-      "image": "https://static.inven.co.kr/column/webzine3/gamelogo/2026/i1912759488.jpg",
-      "source": {
-        "name": "인벤 발매 캘린더",
-        "url": "https://www.inven.co.kr/webzine/calendar/"
-      },
-      "detailUrl": "https://www.inven.co.kr/webzine/calendar/game/13732",
-      "trailer": "https://youtu.be/cJFDrfiAJS0",
-      "content": [
-        {
-          "t": "p",
-          "v": "'울프 어몽 어스 2'는 빌 윌링엄의 만화 '페이블즈'를 원작으로 한 내러티브 어드벤처 게임이다. 동화 속 인물들이 정체를 숨긴 채 현대 뉴욕에서 살아간다는 독특한 세계관을 바탕으로, 플레이어는 보안관 역할을 맡은 늑대 인간 '빅비 울프'가 되어 각종 사건을 수사하게 된다."
-        },
-        {
-          "t": "p",
-          "v": "전작으로부터 약 6개월 후를 배경으로 하며, 스노우 화이트를 비롯한 주요 인물들이 다시 등장한다. 플레이어의 선택에 따라 대화와 사건 전개, 인물 관계가 달라지는 텔테일 특유의 인터랙티브 스토리텔링이 핵심 요소다."
-        },
-        {
-          "t": "p",
-          "v": "이번 작품은 원작의 느와르 분위기와 그래픽 노블 감성을 유지하면서도 비주얼과 연출을 대폭 강화했다. 장기간의 개발 과정을 거쳐 2027년 출시를 목표로 하고 있으며, 이번 SGF 2026 영상 말미에는 원작 '울프 어몽 어스' 리마스터 프로젝트도 함께 공개됐다."
-        },
-        {
-          "t": "yt",
-          "v": "cJFDrfiAJS0"
-        }
-      ]
-    },
-    {
       "id": "inven-12863",
       "title": "TOUGEN ANKI Crimson Inferno",
       "titleKr": "도원암귀 Crimson Inferno",
@@ -39102,6 +39008,248 @@
         {
           "t": "yt",
           "v": "A7NZpeAmdxk"
+        }
+      ]
+    },
+    {
+      "id": "inven-13702",
+      "title": "KEMURI",
+      "titleKr": "케무리",
+      "developer": "미상",
+      "publisher": "미상",
+      "platforms": [],
+      "genres": [],
+      "releaseDate": "TBD",
+      "eventType": "release",
+      "status": "upcoming",
+      "price": null,
+      "hypeScore": null,
+      "rating": null,
+      "tags": [
+        "인벤"
+      ],
+      "description": "",
+      "update": "",
+      "color": "#27ae60",
+      "image": "https://static.inven.co.kr/column/webzine3/gamelogo/2026/i1829407360.jpg",
+      "source": {
+        "name": "인벤 발매 캘린더",
+        "url": "https://www.inven.co.kr/webzine/calendar/"
+      },
+      "detailUrl": "https://www.inven.co.kr/webzine/calendar/game/13702",
+      "trailer": "https://youtu.be/yWMwRfJj8So",
+      "content": [
+        {
+          "t": "p",
+          "v": "'케무리'는 전 탱고 게임웍스 창립자 이쿠미 나카무라가 설립한 언시인(UNSEEN)의 데뷔작으로, 일본풍 초자연 세계를 배경으로 한 협동 액션 어드벤처 게임이다. 현대 도시와 요괴, 정령, 신화적 존재가 뒤섞인 독특한 세계관을 바탕으로 최대 4명의 플레이어가 함께 모험을 펼치게 된다."
+        },
+        {
+          "t": "p",
+          "v": "플레이어는 '폭스 윈도우(Fox Window)'라 불리는 특수 능력을 활용해 인간 세계와 영혼 세계를 넘나들며 다양한 적과 맞서게 된다. 빠른 이동과 화려한 액션, 입체적인 탐험 요소를 결합했으며, 현대 일본 문화와 전통 설화를 독창적으로 재해석한 비주얼이 특징이다."
+        },
+        {
+          "t": "p",
+          "v": "작품명인 '케무리'는 일본어로 '연기'를 뜻하며, 개발진은 이를 통해 사람과 사람을 연결하는 보이지 않는 인연과 관계를 표현하고자 했다. 독특한 세계관과 개성적인 아트 스타일, 그리고 협동 플레이 중심의 게임성을 앞세워 차세대 액션 어드벤처 기대작으로 주목받고 있다. '케무리'는 2027년 중 출시될 예정이다."
+        },
+        {
+          "t": "yt",
+          "v": "yWMwRfJj8So"
+        }
+      ]
+    },
+    {
+      "id": "inven-13704",
+      "title": "The Lost Wild",
+      "titleKr": "더 로스트 와일드",
+      "developer": "미상",
+      "publisher": "미상",
+      "platforms": [
+        "PC"
+      ],
+      "genres": [],
+      "releaseDate": "TBD",
+      "eventType": "release",
+      "status": "upcoming",
+      "price": null,
+      "hypeScore": null,
+      "rating": null,
+      "tags": [
+        "인벤"
+      ],
+      "description": "",
+      "update": "",
+      "color": "#27ae60",
+      "image": "https://static.inven.co.kr/column/webzine3/gamelogo/2026/i1468037235.jpg",
+      "source": {
+        "name": "인벤 발매 캘린더",
+        "url": "https://www.inven.co.kr/webzine/calendar/"
+      },
+      "detailUrl": "https://www.inven.co.kr/webzine/calendar/game/13704",
+      "trailer": "https://youtu.be/nlt4o-mLxyM",
+      "content": [
+        {
+          "t": "p",
+          "v": "'더 로스트 와일드'는 공룡이 지배하는 미지의 섬을 배경으로 한 1인칭 서바이벌 호러 어드벤처 게임이다. 플레이어는 고립된 연구 시설과 정글을 탐험하며 살아남아야 하며, 단순한 사냥 대상이 아닌 살아 있는 생명체로서의 공룡을 마주하게 된다."
+        },
+        {
+          "t": "p",
+          "v": "작품은 전투보다 생존과 은신, 탐험에 초점을 맞추고 있다. 플레이어는 벨로시랩터와 티라노사우루스 등 다양한 공룡의 행동 패턴을 관찰하고 위협을 피해 이동해야 하며, 제한된 장비와 도구를 활용해 위험한 환경을 극복해야 한다."
+        },
+        {
+          "t": "p",
+          "v": "특히 영화적 연출과 사실적인 공룡 표현을 강점으로 내세우고 있다. 개발진은 현대 기술로 구현한 공룡 생태계와 긴장감 넘치는 추격전을 통해 기존 공룡 게임과 차별화된 생존 공포 경험을 제공하는 것을 목표로 하고 있다. 2027년 중 출시될 예정이다."
+        },
+        {
+          "t": "yt",
+          "v": "nlt4o-mLxyM"
+        }
+      ]
+    },
+    {
+      "id": "inven-14224",
+      "title": "ILL",
+      "titleKr": "ILL",
+      "developer": "미상",
+      "publisher": "미상",
+      "platforms": [
+        "PC"
+      ],
+      "genres": [],
+      "releaseDate": "TBD",
+      "eventType": "release",
+      "status": "upcoming",
+      "price": null,
+      "hypeScore": null,
+      "rating": null,
+      "tags": [
+        "인벤"
+      ],
+      "description": "",
+      "update": "",
+      "color": "#7b5cff",
+      "image": "https://static.inven.co.kr/column/webzine3/gamelogo/2026/i1108352715.jpg",
+      "source": {
+        "name": "인벤 발매 캘린더",
+        "url": "https://www.inven.co.kr/webzine/calendar/"
+      },
+      "detailUrl": "https://www.inven.co.kr/webzine/calendar/game/14224",
+      "trailer": "https://youtu.be/Ldb4yfUZXF4",
+      "content": [
+        {
+          "t": "p",
+          "v": "'ILL'은 정체불명의 존재에 장악된 어두운 요새를 배경으로 한 사실적인 1인칭 액션 서바이벌 호러 게임이다. 예측할 수 없는 괴물과 생생한 신체 절단 시스템, 사실적인 물리 효과로 끊임없는 공포의 분위기를 만들어 낸다. 개발진은 호러 전문가들로, '롱레그스', '언틸 던', 'V/H/S/비욘드', '그것: 웰컴 투 데리' 등 여러 영화와 시리즈 작업에 참여한 경험을 갖고 있다."
+        },
+        {
+          "t": "p",
+          "v": "이야기는 거대한 연구 요새에서 펼쳐진다. 미스터리한 악의 근원과 그것이 만들어 낸 끔찍한 변종 '어버레이션'이 가장 소중한 것을 구하려는 주인공의 앞을 가로막는다. 기괴한 괴물은 신체를 훼손당하고 갈가리 찢길 수 있으며, 바이노럴 오디오 시스템이 비명 하나하나의 고통을 생생하게 전달한다. 적은 주변 환경에 충동적으로 반응하며 섬뜩할 만큼 사람 같은 반사 행동을 보인다."
+        },
+        {
+          "t": "p",
+          "v": "사실적인 물리 효과 덕분에 환경은 단순한 배경이 아니라 퍼즐 풀이를 포함한 게임플레이의 일부로 작동한다. 무기마다 고유한 물리적 특성을 반영한 정교한 애니메이션이 적용돼 손에 쥔 무게감을 느낄 수 있고, 다양한 무기의 결함도 직접 점검해야 한다. 개발과 유통은 팀 클라우트가 맡았으며, 2027년 출시를 목표로 하고 있다."
+        },
+        {
+          "t": "yt",
+          "v": "Ldb4yfUZXF4"
+        }
+      ]
+    },
+    {
+      "id": "inven-13732",
+      "title": "Wolf Among US 2",
+      "titleKr": "울프 어몽 어스2",
+      "developer": "미상",
+      "publisher": "미상",
+      "platforms": [
+        "PC"
+      ],
+      "genres": [],
+      "releaseDate": "TBD",
+      "eventType": "release",
+      "status": "upcoming",
+      "price": null,
+      "hypeScore": null,
+      "rating": null,
+      "tags": [
+        "인벤"
+      ],
+      "description": "",
+      "update": "",
+      "color": "#ff4655",
+      "image": "https://static.inven.co.kr/column/webzine3/gamelogo/2026/i1912759488.jpg",
+      "source": {
+        "name": "인벤 발매 캘린더",
+        "url": "https://www.inven.co.kr/webzine/calendar/"
+      },
+      "detailUrl": "https://www.inven.co.kr/webzine/calendar/game/13732",
+      "trailer": "https://youtu.be/cJFDrfiAJS0",
+      "content": [
+        {
+          "t": "p",
+          "v": "'울프 어몽 어스 2'는 빌 윌링엄의 만화 '페이블즈'를 원작으로 한 내러티브 어드벤처 게임이다. 동화 속 인물들이 정체를 숨긴 채 현대 뉴욕에서 살아간다는 독특한 세계관을 바탕으로, 플레이어는 보안관 역할을 맡은 늑대 인간 '빅비 울프'가 되어 각종 사건을 수사하게 된다."
+        },
+        {
+          "t": "p",
+          "v": "전작으로부터 약 6개월 후를 배경으로 하며, 스노우 화이트를 비롯한 주요 인물들이 다시 등장한다. 플레이어의 선택에 따라 대화와 사건 전개, 인물 관계가 달라지는 텔테일 특유의 인터랙티브 스토리텔링이 핵심 요소다."
+        },
+        {
+          "t": "p",
+          "v": "이번 작품은 원작의 느와르 분위기와 그래픽 노블 감성을 유지하면서도 비주얼과 연출을 대폭 강화했다. 장기간의 개발 과정을 거쳐 2027년 출시를 목표로 하고 있으며, 이번 SGF 2026 영상 말미에는 원작 '울프 어몽 어스' 리마스터 프로젝트도 함께 공개됐다."
+        },
+        {
+          "t": "yt",
+          "v": "cJFDrfiAJS0"
+        }
+      ]
+    },
+    {
+      "id": "inven-13840",
+      "title": "Chasing KaleidoRIDER",
+      "titleKr": "체이싱 칼레이도라이더",
+      "developer": "미상",
+      "publisher": "미상",
+      "platforms": [
+        "Mobile"
+      ],
+      "genres": [],
+      "releaseDate": "TBD",
+      "eventType": "release",
+      "status": "upcoming",
+      "price": null,
+      "hypeScore": null,
+      "rating": null,
+      "tags": [
+        "인벤"
+      ],
+      "description": "",
+      "update": "",
+      "color": "#00a8cc",
+      "image": "https://static.inven.co.kr/column/webzine3/gamelogo/2026/i1915232607.jpg",
+      "source": {
+        "name": "인벤 발매 캘린더",
+        "url": "https://www.inven.co.kr/webzine/calendar/"
+      },
+      "detailUrl": "https://www.inven.co.kr/webzine/calendar/game/13840",
+      "trailer": "https://youtu.be/1MoP-LJLnDw",
+      "content": [
+        {
+          "t": "p",
+          "v": "게임의 무대는 융합 현상에 의해 침식 중인 터미너스라는 가상의 근미래 도시다. 현실 세계 바깥에는 의식의 바다라는 이름의 독립된 의식 세계가 존재한다. 융합 현상이란 이 의식의 바다가 현실 세계와 겹쳐지는 현상으로 의식의 바다 속 인류의 부정적 의식에서 태어난 칸쥬가 융합 포인트를 통해 현실 세계에 침입해 터미너스에 대규모 이상 현상을 일으키는 것을 의미한다."
+        },
+        {
+          "t": "p",
+          "v": "다행히 도시에는 정체를 알 수 없는 초능력 미소녀들이 있다. 특별한 무기를 손에 들고 바이크에 올라 자신보다 몇 배나 더 큰 칸쥬에 맞서 용감하게 싸우는 이 미소녀들은 칼레이도라이더라고 불린다."
+        },
+        {
+          "t": "p",
+          "v": "게임 속 세계에서는 칼레이도의 눈을 통해서만 칸쥬를 볼 수 있다는 소문이 존재한다. 플레이어는 어느 사고를 계기로 칼레이도의 눈을 얻게 된 내비게이터가 되어 미소녀들을 이끌고 칸쥬와 맞서 싸우며 칼레이도라이더와 세계 그리고 자신을 둘러싼 진실을 조금씩 밝혀 나간다."
+        },
+        {
+          "t": "p",
+          "v": "체이싱 칼레이도라이더의 세계에는 다양한 미소녀 라이더들이 등장한다. 이들은 마술사, 록 가수, 상담 교사, 가상 아이돌 스트리머 등 서로 다른 직업을 지녔으며 사람들 사이에서 정체를 숨긴 채 조용히 도시를 지킨다."
+        },
+        {
+          "t": "yt",
+          "v": "1MoP-LJLnDw"
         }
       ]
     },
@@ -47342,58 +47490,6 @@
       },
       "detailUrl": "https://www.inven.co.kr/webzine/calendar/game/13841",
       "trailer": "https://www.youtube.com/results?search_query=Arrows%20%E2%80%93%20Puzzle%20Escape%20%20official%20trailer"
-    },
-    {
-      "id": "inven-13840",
-      "title": "Chasing KaleidoRIDER",
-      "titleKr": "체이싱 칼레이도 라이더",
-      "developer": "미상",
-      "publisher": "미상",
-      "platforms": [
-        "Mobile"
-      ],
-      "genres": [],
-      "releaseDate": "TBD",
-      "eventType": "release",
-      "status": "upcoming",
-      "price": null,
-      "hypeScore": null,
-      "rating": null,
-      "tags": [
-        "인벤"
-      ],
-      "description": "",
-      "update": "",
-      "color": "#00a8cc",
-      "image": "https://static.inven.co.kr/column/webzine3/gamelogo/2026/i1915232607.jpg",
-      "source": {
-        "name": "인벤 발매 캘린더",
-        "url": "https://www.inven.co.kr/webzine/calendar/"
-      },
-      "detailUrl": "https://www.inven.co.kr/webzine/calendar/game/13840",
-      "trailer": "https://youtu.be/1MoP-LJLnDw",
-      "content": [
-        {
-          "t": "p",
-          "v": "게임의 무대는 융합 현상에 의해 침식 중인 터미너스라는 가상의 근미래 도시다. 현실 세계 바깥에는 의식의 바다라는 이름의 독립된 의식 세계가 존재한다. 융합 현상이란 이 의식의 바다가 현실 세계와 겹쳐지는 현상으로 의식의 바다 속 인류의 부정적 의식에서 태어난 칸쥬가 융합 포인트를 통해 현실 세계에 침입해 터미너스에 대규모 이상 현상을 일으키는 것을 의미한다."
-        },
-        {
-          "t": "p",
-          "v": "다행히 도시에는 정체를 알 수 없는 초능력 미소녀들이 있다. 특별한 무기를 손에 들고 바이크에 올라 자신보다 몇 배나 더 큰 칸쥬에 맞서 용감하게 싸우는 이 미소녀들은 칼레이도라이더라고 불린다."
-        },
-        {
-          "t": "p",
-          "v": "게임 속 세계에서는 칼레이도의 눈을 통해서만 칸쥬를 볼 수 있다는 소문이 존재한다. 플레이어는 어느 사고를 계기로 칼레이도의 눈을 얻게 된 내비게이터가 되어 미소녀들을 이끌고 칸쥬와 맞서 싸우며 칼레이도라이더와 세계 그리고 자신을 둘러싼 진실을 조금씩 밝혀 나간다."
-        },
-        {
-          "t": "p",
-          "v": "체이싱 칼레이도라이더의 세계에는 다양한 미소녀 라이더들이 등장한다. 이들은 마술사, 록 가수, 상담 교사, 가상 아이돌 스트리머 등 서로 다른 직업을 지녔으며 사람들 사이에서 정체를 숨긴 채 조용히 도시를 지킨다."
-        },
-        {
-          "t": "yt",
-          "v": "1MoP-LJLnDw"
-        }
-      ]
     },
     {
       "id": "inven-13838",

@@ -1,17 +1,17 @@
-diag_at=2026-11-23T01:15:52.621Z
-game_targets=18
-game inven-14287 https://www.inven.co.kr/webzine/calendar/game/14287 status=200 len=127602
-  title=제이든 인더스트리즈: 코지 오토메이션 퍼즐러 - 게임 캘린더 - 인벤
+diag_at=2026-11-23T05:43:39.464Z
+game_targets=16
+game inven-14020 https://www.inven.co.kr/webzine/calendar/game/14020 status=404 len=7638
+  title=인벤 | 종합 게임 커뮤니티 INVEN
+  og=
+  signals=
+game inven-14288 https://www.inven.co.kr/webzine/calendar/game/14288 status=200 len=124334
+  title=워스트 클래스 에버 - 게임 캘린더 - 인벤
   og=PC·콘솔·모바일 신작 게임 출시 일정을 한눈에. CBT, OBT, DLC, 업데이트 일정까지 빠짐없이 정리한 인벤 게임 캘린더로 다가올 게임을 미리 확인하세요.
   signals=application/ld+json
-game inven-13049 https://www.inven.co.kr/webzine/calendar/game/13049 status=200 len=126840
-  title=붕괴: 넥서스 아니마 - 게임 캘린더 - 인벤
-  og=PC·콘솔·모바일 신작 게임 출시 일정을 한눈에. CBT, OBT, DLC, 업데이트 일정까지 빠짐없이 정리한 인벤 게임 캘린더로 다가올 게임을 미리 확인하세요.
-  signals=application/ld+json
-game inven-14285 https://www.inven.co.kr/webzine/calendar/game/14285 status=200 len=124679
-  title=어펄스 - 게임 캘린더 - 인벤
-  og=PC·콘솔·모바일 신작 게임 출시 일정을 한눈에. CBT, OBT, DLC, 업데이트 일정까지 빠짐없이 정리한 인벤 게임 캘린더로 다가올 게임을 미리 확인하세요.
-  signals=application/ld+json
+game inven-12616 https://www.inven.co.kr/webzine/calendar/game/12616 status=404 len=7638
+  title=인벤 | 종합 게임 커뮤니티 INVEN
+  og=
+  signals=
 img noref status=200 type=image/jpeg .../column/webzine3/gamelogo/2026/i1409545369.jpg
 img invenref status=200 type=image/jpeg .../column/webzine3/gamelogo/2026/i1409545369.jpg
 img noref status=200 type=image/jpeg .../column/webzine3/gamelogo/2025/i1988746358.jpg
