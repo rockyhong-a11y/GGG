@@ -27,23 +27,30 @@ concurrency:
   cancel-in-progress: true
 
 jobs:
+  # upload 와 deploy 를 한 job 에서 연달아 실행하면 artifact 목록 API 가 방금
+  # 올린 artifact 를 아직 못 보고 "No artifacts named github-pages" 로 실패한다
+  # (actions/deploy-pages#451). job 을 나눠 조회 시점을 늦춘다.
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v5
+
+      - name: Configure Pages
+        uses: actions/configure-pages@v6
+
+      - name: Upload site artifact (repo root)
+        uses: actions/upload-pages-artifact@v5
+        with:
+          path: "."
+
   deploy:
+    needs: build
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout
-        uses: actions/checkout@v4
-
-      - name: Configure Pages
-        uses: actions/configure-pages@v5
-
-      - name: Upload site artifact (repo root)
-        uses: actions/upload-pages-artifact@v3
-        with:
-          path: "."
-
       - name: Deploy to GitHub Pages
         id: deployment
-        uses: actions/deploy-pages@v4
+        uses: actions/deploy-pages@v5
