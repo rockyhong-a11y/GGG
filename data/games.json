@@ -14,21 +14,21 @@
     "pipeline": [
       {
         "name": "Inven",
-        "added": 1231
+        "added": 1232
       },
       {
         "name": "RuliwebNews",
-        "added": 106
+        "error": "https://bbs.ruliweb.com/news=0,https://bbs.ruliweb.com/news?page=2=0,https://bbs.ruliweb.com/news?page=3=0,https://bbs.ruliweb.com/news/board/1001=0,https://bbs.ruliweb.com/news/board/1001?page=2=0"
       },
       {
         "name": "GameDetails",
-        "added": 0
+        "added": 1
       }
     ],
     "counts": {
-      "total": 1197,
+      "total": 1198,
       "curated": 32,
-      "collected": 1231,
+      "collected": 1232,
       "news": 103
     }
   },
@@ -32704,6 +32704,54 @@
         {
           "t": "yt",
           "v": "UAYNdOQNqio"
+        }
+      ]
+    },
+    {
+      "id": "inven-14299",
+      "title": "Three Kingdoms GO! – Idle RPG",
+      "titleKr": "삼국지 GO! : 방치형 키우기 RPG",
+      "developer": "미상",
+      "publisher": "미상",
+      "platforms": [
+        "Mobile"
+      ],
+      "genres": [],
+      "releaseDate": "2026-11-25",
+      "eventType": "release",
+      "status": "released",
+      "price": null,
+      "hypeScore": null,
+      "rating": null,
+      "tags": [
+        "인벤"
+      ],
+      "description": "",
+      "update": "",
+      "color": "#4a90d9",
+      "image": "https://static.inven.co.kr/column/webzine3/gamelogo/2026/i1590569601.jpg",
+      "source": {
+        "name": "인벤 발매 캘린더",
+        "url": "https://www.inven.co.kr/webzine/calendar/"
+      },
+      "detailUrl": "https://www.inven.co.kr/webzine/calendar/game/14299",
+      "trailer": "https://youtu.be/LJP6ZtuxmZk",
+      "content": [
+        {
+          "t": "p",
+          "v": "‘삼국지 GO! : 방치형 키우기 RPG(Three Kingdoms GO! – Idle RPG)’는 삼국지 장수를 모아 군대를 꾸리고 무기를 합성해 전력을 키우는 모바일 RPG입니다. 위·촉·오·군웅의 장수들이 도트 그래픽으로 등장하며, 원작에서 적으로 만났던 장수도 한 팀에 편성할 수 있습니다."
+        },
+        {
+          "t": "p",
+          "v": "같은 무기 두 개를 합치면 한 단계 높은 무기를 얻습니다. 무기를 생산하고 합성해 장수에게 장착하며, 보물고에서 얻은 전설의 무구도 강화할 수 있습니다. 전투는 자동으로 진행되고 배속을 지원하며, 접속하지 않는 동안에도 보상이 쌓입니다. 스테이지가 막히면 장수 조합이나 장비를 바꿔 다시 도전할 수 있습니다."
+        },
+        {
+          "t": "p",
+          "v": "스테이지 외에도 던전과 토벌전, 패왕결전, 격전이 마련돼 있습니다. 훈련소와 파견, 병법원 등 영지 콘텐츠를 이용하고 유물과 심법으로 장수를 추가 성장시킬 수 있습니다. 병기와 스테이지 순위에서 다른 이용자와 경쟁하거나 군단에 가입해 함께 플레이할 수도 있습니다."
+        },
+        {
+          "t": "yt",
+          "v": "LJP6ZtuxmZk"
         }
       ]
     },
